@@ -1,0 +1,1 @@
+Dos matrices de $m ×n$ $A=[a_{ij}]$ y $B=[b_{ij}]$ son ***iguales*** si $$∀1≤i≤m,1≤j≤n:a_{ij}=b_{ij}$$

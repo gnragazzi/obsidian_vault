@@ -1,0 +1,1 @@
+Es una rama del [[Aprendizaje Automático]]. Lo "Profundo" es el modelo matemático.

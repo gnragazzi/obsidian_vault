@@ -1,0 +1,1 @@
+Si $\{a_n\}$ es [[Función Creciente - Decreciente|creciente o decreciente]], se dice monótona.

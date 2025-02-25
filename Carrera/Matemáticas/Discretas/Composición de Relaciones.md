@@ -1,0 +1,1 @@
+Sean $R_1$ una relación de $X$ a $Y$, y $R_2$ una relación de $Y$ a $Z$. La composición de $R_1$ y $R_2$, denotada $R_2°R_1$, es la relación definida por $$R_2°R_1=\{(x,z)| (x,y)∈R_1∧(y,z)∈R_2\text{ para algún }y∈Y\}$$

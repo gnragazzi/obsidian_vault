@@ -1,0 +1,2 @@
+Toda [[Sucesión]] [[Sucesiones Monótonas|creciente]] y [[Sucesión Acotada|acotada]] superiormente es convergente.
+Toda [[Sucesión]] [[Sucesiones Monótonas|decreciente]] y [[Sucesión Acotada|acotada]] inferiormente es convergente.

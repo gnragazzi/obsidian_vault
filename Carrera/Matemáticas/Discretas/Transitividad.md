@@ -1,0 +1,1 @@
+Sea $R$ una relación sobre un conjunto $X$. Si$$∀x,y,z∈X:(x,y)∈R∧(y,z)∈R→(x,z)∈R$$$R$ se dice ***transitiva***.

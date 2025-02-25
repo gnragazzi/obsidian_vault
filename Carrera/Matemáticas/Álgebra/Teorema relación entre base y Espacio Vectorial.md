@@ -1,0 +1,1 @@
+Si $S=\{v_1,v_2,...,v_k\}$ es una [[Base de un Espacio Vectorial|base]] para un [[Espacio Vectorial|espacio vectorial]] $V$, entonces cada vector en $V$ se puede escribir de una y sólo una forma como [[Combinación Lineal|combinación lineal]] de los vectores en $S$.

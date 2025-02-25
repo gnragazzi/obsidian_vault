@@ -1,0 +1,2 @@
+Dado un problema $P$, un modelo $M$, el conjunto de todos los algoritmos que resuelven $P$ dentro de $M$ $A_M$, junto con el conjunto de todas las instancias de tamaño $n$ de $P$, $I_n$, y una función de costo $f_A$ $$\text{La cota inferior al costo promedio de }P=\min_{A∈A_M}\{\sum_{I∈I_n}\text{P}(I)f_A(I)\}$$
+donde P$(I)$ es la probabilidad de que $I$ ocurra.

@@ -1,0 +1,2 @@
+
+Retorna el tipo de su único argumento, codificado como _string_. Los posibles resultados de esta función son `"nil"` (un string, no el valor **nil**), `"number"`, `"string"`, `"boolean`, `"table"`, `"function"`, `"thread"` y `"userdata"`.

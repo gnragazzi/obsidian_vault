@@ -1,0 +1,1 @@
+Comprueba si un cierto conjunto de candidatos evaluados y aprobados es o no solución al problema planteado

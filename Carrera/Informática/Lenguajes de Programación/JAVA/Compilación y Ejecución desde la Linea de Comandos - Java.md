@@ -1,0 +1,1 @@
+Los archivos de un paquete deben encontrarse en una carpeta del mismo nombre que el paquete y la compilación/ejecución debe suceder desde la raiz del programa.

@@ -1,0 +1,8 @@
+- [[nil]]
+- [[Boolean - lua | boolean]]
+- number
+- string
+- userdata
+- [[Declaración de Funciones|function]]
+- thread
+- table

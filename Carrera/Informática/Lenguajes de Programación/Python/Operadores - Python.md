@@ -1,0 +1,6 @@
+- Slicing
+	- Se puede usar en cualquier tipo "suscriptable", es decir, indexable
+	- Sintaxis: \[inicio:fin]
+		- inicio: inclusivo; fin: no-inclusivo
+		- ![[Pasted image 20250107192241.png]]
+		- Pude no tener inicio o fin y abarcar desde ese punto hasta el comienzo-final

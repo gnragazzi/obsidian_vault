@@ -1,0 +1,1 @@
+Todo subconjunto no vacío de $N$ tiene primer elemento.

@@ -1,0 +1,2 @@
+Si $F$ es una [[Antiderivada]] de $f$ sobre un intervalo $I$, entonces la ***antiderivada más general*** de $f$ sobre $I$ es $$F(x)+c$$donde $c$ es una constante arbitraria.
+![[Pasted image 20250211190832.png]]

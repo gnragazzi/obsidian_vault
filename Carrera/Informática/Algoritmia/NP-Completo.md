@@ -1,0 +1,1 @@
+Es un conjunto de problemas que, ha sido probado, tienen aproximadamente el mismo tiempo de resolución y que, actualmente, su solución más rápida (por fuerza bruta) toma tiempo exponencial.

@@ -1,0 +1,3 @@
+Para verificar que un conjunto dado $V$ con dos operaciones $⊕$ y $⊙$ es un [[Espacio Vectorial|espacio vectorial]] real, debemos mostrar que satisface todas las [[Espacio Vectorial#^f4fac1|propiedades]] de la definición.  
+Primero debemos establecer si se cumplen $(α)$ y $(β)$ puesto que si alguna de las propiedades de cerradura falla, $V$ no es un espacio vectorial. 
+Si se cumplen $(α)$ y $(β)$, es recomendable verificar a continuación la propiedad [[Espacio Vectorial#^f4fac1|(c)]], es decir, establecer si existe el elemento cero (o elemento neutro). Naturalmente, si (c) no se cumple, $V$ no es un espacio vectorial y no tiene sentido verificar las propiedades restantes.

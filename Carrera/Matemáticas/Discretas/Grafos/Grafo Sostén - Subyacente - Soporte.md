@@ -1,0 +1,2 @@
+Dado un [[Digrafo - Definición Formal|digrafo]] $G$, se denomina ***grafo sostén o grafo subyacente o grafo soporte*** de $G$ al [[Grafo - Definición Formal|grafo]] que se obtiene eliminando el sentido a los arcos (es decir, transformando los arcos en aristas). 
+A la inversa, si deseamos convertir un grafo a digrafo, **debemos transformar cada arista en 2 arcos** (uno de ida y otro de vuelta), salvo los bucles que se convierten en un único arco.

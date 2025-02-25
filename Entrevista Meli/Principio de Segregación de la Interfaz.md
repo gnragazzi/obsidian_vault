@@ -1,0 +1,1 @@
+Separar las tareas de las interfaces en lugar de tener interfaces monolíticas.

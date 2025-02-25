@@ -1,0 +1,1 @@
+Si $f$ es [[Continuidad|continua]] sobre $[a,b]$, o si $f$ tiene solo un número finito de [[Tipos de Discontinuidad|discontinuidades]] de salto, entonces $f$ es integrable sobre [a,b]; es decir que la [[Integral Definida]] $$\int_a^bf(x)dx$$existe.

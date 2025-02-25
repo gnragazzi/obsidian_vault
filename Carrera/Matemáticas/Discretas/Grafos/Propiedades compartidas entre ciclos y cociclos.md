@@ -1,0 +1,3 @@
+- Un [[Ciclo|ciclo]] ([[Cociclo]]) es elemental <=> no contiene propiamente a otro.  
+- Todo ciclo (cociclo) está formado por ciclos (cociclos) elementales.  
+- Todo ciclo (cociclo basado en A) puede ser recorrido en dos sentidos: un sentido horario (desde A) o en sentido antihorario (desde X-A).

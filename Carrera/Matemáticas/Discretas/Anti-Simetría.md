@@ -1,0 +1,1 @@
+Sea $R$ una relación sobre un conjunto $X$. Si$$∀x,y∈X:(x,y)∈R∧(y,x)∈R→x=y$$$R$ se dice ***anti-simétrica***.

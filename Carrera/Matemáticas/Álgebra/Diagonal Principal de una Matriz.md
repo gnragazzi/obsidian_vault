@@ -1,0 +1,1 @@
+Sea $A = [a_{ij}]$ una [[Matriz Cuadrada]] de orden n. Diremos que los elementos $$a_{11}, a_{22}, . . . , a_{nn}$$ forman la ***diagonal principal de A***.

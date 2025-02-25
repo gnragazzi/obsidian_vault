@@ -1,0 +1,1 @@
+Aquellos componentes (clases) cuyo comportamiento está definido en términos de otros componentes (de [[Componentes de Bajo Nivel|bajo nivel]]).

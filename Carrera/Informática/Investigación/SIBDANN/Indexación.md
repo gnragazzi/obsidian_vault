@@ -1,0 +1,1 @@
+Es la acción de generar un índice. Consta de un algoritmo de pre-procesadiemnto de la base de datos para evitar la búsqueda exhaustiva de complejidad O(n) con la [[Función de Distancia]]

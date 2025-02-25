@@ -1,0 +1,2 @@
+Busqueda: a través de un grafo, donde el “Espacio de estados” son los nodos de los estados posibles, las trancisiones son los arcos/aristas y los costos son los pesos, se sopesan estos estados y se busca la mejor alternativa para llegar de A a B.
+[Elements of IA]

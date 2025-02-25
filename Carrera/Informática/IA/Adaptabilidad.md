@@ -1,0 +1,1 @@
+Capacidad de aprender de la experiencia y mejorar su ejecución.

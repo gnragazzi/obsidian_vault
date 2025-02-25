@@ -1,0 +1,1 @@
+Una proposición es una sentencia que es verdadera o falsa, pero no ambas.

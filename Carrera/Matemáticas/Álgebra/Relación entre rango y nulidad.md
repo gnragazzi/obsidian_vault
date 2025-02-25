@@ -1,0 +1,1 @@
+Si A es una [[Matriz|matriz]] de m x n, entonces [[Espacio Fila-Columna#^80676a|rango]] A + [[Espacio Nulo - Nulidad|nulidad]] A = n

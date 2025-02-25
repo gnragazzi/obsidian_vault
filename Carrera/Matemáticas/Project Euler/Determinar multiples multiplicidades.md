@@ -1,0 +1,1 @@
+Determinar un número x que sea múltiplo de otros números $y1, y2, ..., yn$ se resuelve obteniendo los factores de cada $yi$, manteniendo en cada factor la mayor multiplicidad, y multiplicarlos entre si.

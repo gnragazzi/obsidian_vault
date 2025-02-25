@@ -1,0 +1,1 @@
+Cada componente del programa debe ocultarse todo lo posible, de modo de poder ser usado sin conocer los detalles de implementación.

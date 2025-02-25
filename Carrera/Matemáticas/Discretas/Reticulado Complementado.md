@@ -1,0 +1,1 @@
+Un [[Reticulado Acotado]] se dice ***complementado*** si cada elemento tiene un [[Complemento de los elementos de un Reticulado|complemento]].

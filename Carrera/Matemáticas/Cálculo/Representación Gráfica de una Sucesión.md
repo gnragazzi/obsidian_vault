@@ -1,0 +1,4 @@
+- O bien ![[Pasted image 20250212072932.png]]
+- o bien ![[Pasted image 20250212073005.png]]
+	- donde consideramos una [[Función (Discretas)|función]] $f:ℕ→ℝ$ definida por $f(n)=a_n$
+	- 

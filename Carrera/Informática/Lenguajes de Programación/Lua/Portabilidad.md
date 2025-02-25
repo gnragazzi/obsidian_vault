@@ -1,0 +1,1 @@
+Que puede ser ejecutado en varias plataformas (sistemas operativos, máquinas, etc)

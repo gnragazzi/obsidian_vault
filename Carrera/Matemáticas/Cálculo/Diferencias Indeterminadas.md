@@ -1,0 +1,3 @@
+Supongamos que $f$ y $g$ son [[Derivabilidad|derivables]] y que $g'(x)≠0$ en un intervalo abierto $I$ que contiene a $a$ (excepto, quizas, en $a$)
+Si $$\lim_{x→a}f(x)=∞\text{ y }\lim_{x→a}g(x)=±∞$$
+entonces el [[Límite de una Función|límite]]$$\lim_{x→a}[f(x)-g(x)]$$se llama ***Forma indeterminada de tipo $∞-∞$.*** Para resolver este límite, debemos convertir la diferencia en un cociente, de modo de poder transformarla en alguna [[Formas Indeterminadas|forma indeterminada]] de tipo $\frac{0}{0}$ o $\frac{∞}{∞}$ y aplicar la [[Regla de L'Hôpital]].

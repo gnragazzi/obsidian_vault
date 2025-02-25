@@ -1,0 +1,1 @@
+Abre el fichero con el nombre dado y ejecuta su contenido como un _chunk_ de Lua. Cuando se invoca sin argumentos, `dofile` ejecuta el contenido de la entrada estándar (`stdin`). Devuelve todos los valores retornados por el _chunk_. En caso de error, `dofile` propaga el error a su invocador (esto es, `dofile` no se ejecuta en modo protegido).

@@ -1,0 +1,5 @@
+- **S**ingle Responsability Principle - [[Principio de Diseño 9 - Principio de la Responsabilidad Única]]
+- **O**pen Close Principle - [[Principio de Diseño 5 - abierto'cerrado]]
+- **L**iskov Substitution Principle - [[Principio de Substitución de Liskov]]
+- **I**nterface segregation Principle - [[Principio de Segregación de la Interfaz]]
+- **D**ependency Inversion Principle - [[Principio de Diseño 6 - Principio de Inversión de Dependencias]]

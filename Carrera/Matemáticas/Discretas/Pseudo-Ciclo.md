@@ -1,0 +1,1 @@
+Un ***pseudo-ciclo*** es una cadena $μ = (u_1,u_2,...,u_q)$ [[Propiedades de una Cadena-Camino#^70e13b|cerrada]] y cuyos arcos no son necesariamente distintos.

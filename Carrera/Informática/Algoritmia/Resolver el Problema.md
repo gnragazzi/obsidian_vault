@@ -1,0 +1,2 @@
+Resolver el problema es encontrar un algoritmo que solucione todas las instancias del problema.
+Resolver la instancia del problema es codificar la instancia en una entrada, de manera de alimentar el algoritmo con la instancia y obtener un resultado.

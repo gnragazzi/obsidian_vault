@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1734001232897,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1734001237185,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1734000087847,
+              "path": "Imagenes/Pasted image 20241212074117.png",
+              "title": "Pre-Cálculo"
+            }
+          ],
+          "title": "Pre-Cálculo"
+        }
+      ],
+      "title": "Grupo sin título"
+    },
+    {
+      "type": "group",
+      "ctime": 1734086900790,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1734086946310,
+          "path": "Carrera/Matemáticas/Project Euler/Terna Pitagórica Primitiva.md"
+        }
+      ],
+      "title": "Preguntas sin responder"
+    }
+  ]
+}

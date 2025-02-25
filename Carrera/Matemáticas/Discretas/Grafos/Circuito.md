@@ -1,0 +1,1 @@
+Una secuencia de arcos $μ = (u_1,u_2,...,u_q)$ es un ***circuito*** si cumple con ser un [[Ciclo]] y además un [[Camino]].

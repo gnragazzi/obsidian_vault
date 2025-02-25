@@ -1,0 +1,1 @@
+Sea$H=<X_H,U_H,γ_H>$ un [[Arbol Cubriente(subtenso)]] de $G=<X,U,γ>$, el [[Grafo Parcial|grafo/digrafo parcial]] formado por $<X,U-U_H,γ|_{U-U_H}>$ se denomina ***co-árbol H de G***.

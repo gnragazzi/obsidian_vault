@@ -1,0 +1,1 @@
+Un identificador (que tiene un tipo estático asignado) puede apuntar a un objeto de su clase o de una subclase de su clase.

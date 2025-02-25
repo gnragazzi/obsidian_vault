@@ -1,0 +1,3 @@
+- [[Estrategia de Resolución]] 
+- [[Estrategia de Reducción]]
+- [[Estrategia del balance]]

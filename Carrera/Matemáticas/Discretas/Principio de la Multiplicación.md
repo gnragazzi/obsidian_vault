@@ -1,0 +1,1 @@
+Si una actividad se puede construir en $t$ pasos sucesivos y el paso 1 se puede hacer de $n_1$ maneras, el paso 2 de $n_2$ maneras,..., y el paso $t$ de $n_t$ maneras, entonces el número de actividades posibles diferentes es $$n_1.n_2...n_t$$

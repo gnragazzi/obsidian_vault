@@ -1,0 +1,5 @@
+- [[Algoritmos Voraces]] (*Greedy*)
+- [[Programación Dinámica]]
+- [[Divide and Conquer]]
+- [[Algoritmos por Aproximación]]
+- [[Algoritmos Probabilísticos]]

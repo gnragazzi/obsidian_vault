@@ -1,0 +1,1 @@
+La capacidad de realizar tareas sin guía constante de un usuario

@@ -1,0 +1,1 @@
+Una foresta es un [[Grafo - Definición Formal|grafo]]/[[Digrafo - Definición Formal|digrafo]] cuyas [[Componente Conexa|componentes conexas]] son [[Árbol (Grafo)|arboles]] o (lo que es lo mismo), un grafo sin [[Ciclo|ciclos.]]

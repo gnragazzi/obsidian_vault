@@ -1,0 +1,1 @@
+[[IA]] de amplio espectro que puede imitar la inteligencia humana sin limitarse a una única disciplina.

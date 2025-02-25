@@ -1,0 +1,1 @@
+Permite adaptar un [[TDAs(clase)|TDA/clase]] existente a un problema sin modificarlo, y establecer jerarquías que reflejen el espacio del problema.

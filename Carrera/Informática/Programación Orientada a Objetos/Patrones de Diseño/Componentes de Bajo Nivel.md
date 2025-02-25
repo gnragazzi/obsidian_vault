@@ -1,0 +1,1 @@
+Aquellos componentes (clases) que cuyo comportamiento está definido en términos de si mismos.

@@ -1,0 +1,1 @@
+$$G\text{ es un p-digrafo}⇔p=\max_{x,y∈X²}\{|γ^{-1}(x,y)|\}$$

@@ -1,0 +1,3 @@
+- Estrategia de [[Dividir-y-adivinar]]
+- [[Estrategia de la Simplicidad]] 
+- [[Resolver Recurrencias]]

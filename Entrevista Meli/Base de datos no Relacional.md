@@ -1,0 +1,3 @@
+- Se utilizan para trabajar con datos no estructurados o semi-estructurados
+- No se usan tablas, sino formatos de transferencia según el tipo.
+	- Por ejemplo, en tipos clave-valor, se suele utilizar JSON como formato de transferencia.

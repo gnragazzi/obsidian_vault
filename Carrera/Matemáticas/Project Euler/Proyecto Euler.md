@@ -1,0 +1,9 @@
+- ¿Cómo saber si un número es [[Múltiplos-Divisores|múltiplo]] de otro?
+- ¿ Cómo determinar que un [[Determinar multiples multiplicidades |número es múltiplo de una serie de otros números]]?
+- [[Equivalencias en sumatorias]] 
+- ¿Cómo determinar si un número es [[Determinar Números Primos|Primo]]?
+- [[El mayor número en una lista desordenada]]
+- [[Terna Pitagórica]] en el ejercicio 9.
+- [[Números Triangulares]]
+- [[Números Amicables]]
+- [[Números Perfectos]]

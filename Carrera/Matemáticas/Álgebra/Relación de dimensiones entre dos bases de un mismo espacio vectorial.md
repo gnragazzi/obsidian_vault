@@ -1,0 +1,1 @@
+Si $S=\{v_1,v_2,...,v_n\}$ y $T=\{w_1,w_2,...,w_m\}$  son [[Base de un Espacio Vectorial|bases]] para un [[Espacio Vectorial|espacio vectorial]], entonces $n = m$.

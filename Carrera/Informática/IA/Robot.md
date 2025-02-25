@@ -1,0 +1,1 @@
+Máquina con sensores (para tomar estímulos del mundo físico) y actuadores (para actuar sobre el entorno físico).

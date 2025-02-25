@@ -1,0 +1,1 @@
+Sean $v_1,v_2,...,v_k$ [[Vectores|vectores]] en un [[Espacio Vectorial|espacio vectorial]] $V$. Un vector $v$ en V es una ***combinación lineal*** de $v_1,v_2,...,v_k$ si$$v=c_1v_1+c_2v_2+...+c_kv_k$$para ciertos números reales $c_1,c_2,...,c_k$.

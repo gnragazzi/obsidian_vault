@@ -1,0 +1,2 @@
+- $\min_{x∈ℝ}\lfloor{f(x)}\rfloor≤\min_{x∈ℝ}f(x)$ 
+- $\min_{x∈ℝ}\lceil{f(x)}\rceil=\lceil{\min_{x∈ℝ}f(x)}\rceil$ 

@@ -1,0 +1,1 @@
+Supongamos que $\sum{a_n}$ y $\sum{b_n}$ son [[Series Infinitas|series]] de términos positivos. Si $$\lim_{n→∞}\frac{a_n}{b_n}=c$$donde c es un número real positivo, entonces ambas series convergen o ambas series divergen.

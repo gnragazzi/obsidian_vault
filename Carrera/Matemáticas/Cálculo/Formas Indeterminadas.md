@@ -1,0 +1,5 @@
+- $\frac{0}{0}$
+- $\frac{∞}{∞}$
+- $0.∞$ [[Productos Indeterminados]]
+- $∞-∞$ - [[Diferencias Indeterminadas]]
+- $0⁰,∞⁰, 1^∞$, [[Potencia indeterminada]]

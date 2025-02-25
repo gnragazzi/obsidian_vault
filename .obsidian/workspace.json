@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "17af9813fbbf2bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a63f30fb9e4696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e496d01a0fe4e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          },
+          {
+            "id": "080b67e91941f905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Versión Recursiva de Búsqueda Binaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Versión Recursiva de Búsqueda Binaria"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32ef405003df9f87",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a63bb81add93cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "989c6e2b99df3d8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0295022084dbb198",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bús",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "55dbcdcaa8dbddfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ac900d0ad5f331b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd8a50b2d21efbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0612e3fe43e407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Composite Pattern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Composite Pattern"
+            }
+          },
+          {
+            "id": "1b5e15067d3512f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estrategia de la Simplicidad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Estrategia de la Simplicidad"
+            }
+          },
+          {
+            "id": "ff0d98c72b7da6ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "503f21d1954a32ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5e496d01a0fe4e87",
+  "lastOpenFiles": [
+    "Versión Recursiva de Búsqueda Binaria.md",
+    "Binary Search.md",
+    "Versión Iterativa.md",
+    "Carrera/Informática/Algoritmia/Búsqueda.md",
+    "Estrategia del balance.md",
+    "Carrera/Informática/Algoritmia/Estrategias de Diseño de Algoritmos.md",
+    "Carrera/Informática/Algoritmia/Estrategias de Análisis de Algoritmos.md",
+    "Costos Jump Search.md",
+    "Carrera/Matemáticas/Cálculo/Reglas de Derivación.md",
+    "Propiedades Función Piso-Techo.md",
+    "Función Techo - Discretas.md",
+    "Función Piso - Discretas.md",
+    "Carrera/Informática/Algoritmia/Jump Search - Algoritmo.md",
+    "Imagenes/Pasted image 20250221084636.png",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Composite Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Decorator Pattern.md",
+    "Imagenes/Pasted image 20250221090007.png",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 9 - Principio de la Responsabilidad Única.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Template Method Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Facade Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Adapter Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Command Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Singleton Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Factory Patterns.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Observer Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Strategy Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Iterator Pattern.md",
+    "Imagenes/Pasted image 20250214175106.png",
+    "Imagenes/Pasted image 20250220082133.png",
+    "Imagenes/Pasted image 20250214180335.png",
+    "Imagenes/Pasted image 20250214175938.png",
+    "Imagenes/Pasted image 20250214175717.png",
+    "Imagenes/Pasted image 20250214175406.png",
+    "Imagenes/Pasted image 20250214105551.png",
+    "Imagenes/Pasted image 20250213120838.png",
+    "Entrevista Meli",
+    "Carrera/Informática/Programación Orientada a Objetos/Conceptos",
+    "Carrera/Informática/Programación Orientada a Objetos",
+    "Princpio diseño",
+    "Carrera/Matemáticas/Discretas/Grafos/Sin nombre",
+    "Carrera/Matemáticas/Discretas/Grafos",
+    "Carrera/Informática/Lenguajes de Programación/JAVA",
+    "Carrera/Informática/Lenguajes de Programación/C-C++",
+    "Carrera/Matemáticas/Cálculo",
+    "Sin título.canvas",
+    "Carrera/Informática/Estructuras de Datos"
+  ]
+}

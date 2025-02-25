@@ -1,0 +1,3 @@
+Sea $f$ una función definida sobre un intervalo $(-∞,a)$. Entonces $$\lim_{x→∞}f(x)=L$$ significa que los valores de $f(x)$ pueden hacerse arbitrariamente cercanos a $L$ haciendo que $x$ sea suficientemente grande en magnitud.
+***
+Sea $f$ una función definida sobre un intervalo $(-∞,a)$. Entonces $$\lim_{x→-∞}f(x)=L$$ significa que los valores de $f(x)$ pueden hacerse arbitrariamente cercanos a $L$ haciendo que $x$ sea negativa y suficientemente grande en magnitud.

@@ -1,0 +1,8 @@
+- ***Discontinuidad Removible***:
+	- cuando $\lim_{x→a}f(a)$ existe, pero o bien $f(a)$ no está definida o $\lim_{x→a}f(a)≠f(a)$
+- ***Discontinuidad escencial***:
+	- cuando $\lim_{x→a}f(a)$ no existe.
+- ***Discontinuidad Infinita***:
+	- cuando $\lim_{x→a}f(a)$ no existe, pero $\lim_{x→a}f(a)=∞$ o $\lim_{x→a}f(a)=-∞$
+- ***Discontinuidad por salto***:
+	- cuando el límite no existe porque $\lim_{x→a^-}f(a)≠\lim_{x→a⁺}f(a)$ 

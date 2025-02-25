@@ -1,0 +1,5 @@
+- Componentes que solo hacen una tarea y son autosuficientes/independientes
+- Cada componente se encuentra encapsulado (tiene una interfaz como método de comunicación)
+- Suelen tener una puerta de entrada ![[Pasted image 20250203111556.png]]
+- Suelen ser distribuidos, utilizando las interfaces como modo de comunicación
+- ![[Pasted image 20250203111630.png]]

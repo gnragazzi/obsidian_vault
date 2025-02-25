@@ -1,0 +1,2 @@
+Función que selecciona del conjunto de candidatos al más prometedor.  
+Está intimamente ligada a la [[Función Objetivo - Algoritmos Voraces|función Objetivo]], porque el mejor candidato depende de que es lo que se desea lograr con el algoritmo.

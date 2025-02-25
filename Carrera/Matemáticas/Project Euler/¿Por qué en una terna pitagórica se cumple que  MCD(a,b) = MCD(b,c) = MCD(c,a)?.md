@@ -1,0 +1,12 @@
+- Resolvamoslo por absurdo
+- Asumamos que $MCD(a,b)≠MCD(b,c)≠MCD(c,a)$ y que $(a,b,c)$ son una terna pitagórica. (H)
+- Por definición de [[Máximo Común Divisor]],
+	- $MCD(a,b)=k ⇒ a=x*k, b=y*k$ con $k∈N$ ***(1)***
+	- Por (H), $c ≠ k * z$, con $z∈N$ (2)
+- Cómo (a,b,c) son una terna pitagórica
+	- $a²+b²=c²$ y $a<b<c$, (también se deduce que $x<y$) (3)
+- Observemos que reemplazando en (3) por las igualdades en (1) tenemos que
+	- $(xk)²+(yk)²=c² ⇔ k²(x²+y²)=c² ⇔ sqrt(k²(x²+y²)) = c ⇔ k*sqrt(x²+y²)=c$
+	- Luego, $c = k * z$, donde z = sqrt(x²+y²)
+	- Llegamos a esta contradicción por la hipótesis
+- Luego, si (a,b,c) son una terna pitagórica, entonces $MCD(a,b) = MCD(b,c) = MCD(c,a)$

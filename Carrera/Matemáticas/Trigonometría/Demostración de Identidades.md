@@ -1,0 +1,5 @@
+- Demostrar que una ecuación dada no es una identidad trigonométrica implica encontrar un valor para el cual la identidad no se cumpla        
+- Demostrar que una ecuación es una identidad trigonométrica implica transformar un lado de la identidad en el otro, a partir de identidades trigonométricas       
+- Suele comenzarse por el lado más complejo
+- A veces, hay que introducir algo nuevo (externo a la expresión)
+- A veces, para resolver si una igualdad es o no una identidad, tenemos que trabajar los dos lados de la ecuación al mismo tiempo

@@ -1,0 +1,2 @@
+Supongamos que $a_k=f(k)$ donde $f$ es una [[Función (Discretas)|función]] [[Continuidad|continua]], positiva y [[Función Creciente - Decreciente|decreciente]] sobre $[n,∞)$.
+Si la serie $\sum{a_n}$ es convergente a $S$ y $R_n=S-S_n$ (donde $S_n$ es la serie de sumas parciales de los primeros n términos), entonces$$\int_{n+1}^∞f(x)dx≤S-S_n≤\int_n^∞f(x)dx$$o, equivalentemente$$S_n+\int_{n+1}^∞f(x)dx≤S≤S_n+\int_n^∞f(x)dx$$

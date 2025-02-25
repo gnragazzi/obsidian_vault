@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    ".png",
+    "*.png"
+  ],
+  "promptDelete": false,
+  "spellcheck": false
+}

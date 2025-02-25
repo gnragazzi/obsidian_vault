@@ -1,0 +1,1 @@
+Comprueba si un cierto conjunto (solución más candidato siendo evaluado) es una solución factible (nos lleva más cerca de la solución sin violar alguna determinación) de ser una solución.

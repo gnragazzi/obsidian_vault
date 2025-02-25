@@ -1,0 +1,1 @@
+Decimos que 2 funciones son [[Tasa de Crecimiento|asintóticamente]] iguales si $$n→∞⇒\frac{f(n)}{g(n)}→c,c≠0$$

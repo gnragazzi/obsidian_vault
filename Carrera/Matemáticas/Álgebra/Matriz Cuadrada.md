@@ -1,0 +1,1 @@
+Sea $A$ una matriz de orden $m x n$. Si $m = n$, decimos que $A$ es una ***matriz cuadrada de orden n***.

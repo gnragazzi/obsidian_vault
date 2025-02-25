@@ -1,0 +1,2 @@
+`new` significa *concreto*. Al asignar a una interface (siguiendo el [[Principio de Diseño 2 - Programar a la interfaz|principio 2]]) una clase concreta en tiempo de ejecución se necesitan ciertas manipulaciones tediosas para saber qué clase concreta debe instanciarse y elegir la adecuada. Ello lleva a tener que cambiar el programa que hace esa elección, cosa que contraría el [[Principio de Diseño 5 - abierto'cerrado| principio abierto-cerrado]]. 
+Esta es una de las principales motivaciones para utilizar el patrón [[Factory]].

@@ -1,0 +1,2 @@
+Los vectores no nulos $v_1,v_2,...,v_k$ en un [[Espacio Vectorial|espacio vectorial]] V son [[Independencia Lineal|linealmente dependientes]] ⇔
+uno de los vectores $v_j, j >= 2$, es una combinación lineal de los vectores que lo preceden $v_1,v_2,...,v_{j-1}$.

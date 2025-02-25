@@ -1,0 +1,1 @@
+Por lo general, asumimos que existe una(s) operacion(es) cuyo costo es proporcional al costo total de la solución al problema

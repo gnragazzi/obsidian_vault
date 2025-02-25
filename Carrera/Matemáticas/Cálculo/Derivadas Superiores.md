@@ -1,0 +1,2 @@
+Si $f$ es una [[Derivabilidad|función derivable]], entonces su [[Función Derivada|derivada]] $f'$ también es una función, por lo que también $f'$ puede tener una derivada de si misma, señalada por $f''$.
+Esta nueva función se denomina ***segunda derivada*** de $f$ porque es la derivada de la derivada de f, y está definida por$$f''(x)=(f')'(x)=\lim_{h→0}\frac{f'(x+h)-f(x)}{h}$$

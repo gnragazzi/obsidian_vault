@@ -1,0 +1,8 @@
+- [[Arquitecturas]]
+- [[Base de Datos]]
+- [[API]]s
+- [[GIT]]
+- [[Test Doubles]]
+- [[Complejidad Ciclomática]]
+- [[Principios SOLID]]
+- [[Principios ACID]]

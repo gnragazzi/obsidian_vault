@@ -1,0 +1,2 @@
+Supongamos que $X_1,X_2,...,X_t$ son conjuntos disjuntos de a pares, y que el i-ésimo de ellos $X_i$ tiene $n_i$ elementos. Entonces el número de elementos posibles que se pueden seleccionar de uno ú otro de ellos es $$n_1+n_2+...+n_t$$
+(Es análogo a decir que $|U_{i=1}^tX_i|=n_1+n_2+...+n_t$)

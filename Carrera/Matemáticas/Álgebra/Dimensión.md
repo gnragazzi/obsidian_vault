@@ -1,0 +1,2 @@
+La ***dimensión*** de un [[Espacio Vectorial]] no nulo V es el número de vectores en una [[Base de un Espacio Vectorial|base]] para $V$.
+Con frecuencia escribimos $dim\ V$ para la dimensión de _V._ Como el conjunto ${0}$ es [[Independencia Lineal|linealmente dependiente]], es natural decir que el espacio vectorial ${0}$ tiene dimensión cero.

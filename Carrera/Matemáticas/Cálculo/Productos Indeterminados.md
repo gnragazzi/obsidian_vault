@@ -1,0 +1,3 @@
+Supongamos que $f$ y $g$ son [[Derivabilidad|derivables]] y que $g'(x)≠0$ en un intervalo abierto $I$ que contiene a $a$ (excepto, quizas, en $a$)
+Si $$\lim_{x→a}f(x)=0\text{ y }\lim_{x→a}g(x)=±∞$$
+por lo tanto, no es claro cual es el valor de $$\lim_{x→a}[f(x).g(x)]$$Este tipo de [[Límite de una Función|límite]] se llama ***Forma indeterminada de tipo $0.∞$*** Notemos que si reescribimos $$f.g=\frac{f}{1/g}\text{ o }f.g=\frac{g}{1/f}$$ entonces, el límite dado se convierte en una [[Formas Indeterminadas|forma indeterminada]] de tipo $\frac{0}{0}$ o $\frac{∞}{∞}$, respectivamente. Así, estaríamos en condiciones de aplicar la [[Regla de L'Hôpital]].

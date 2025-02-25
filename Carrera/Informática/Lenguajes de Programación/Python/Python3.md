@@ -1,0 +1,7 @@
+[[Tipos - Python]]
+[[Limpiar pantalla]]
+[[Métodos de Entrada-salida]]
+[[Módulos]]
+[[Operadores - Python |Operadores]] 
+[[Funciones Lambda - Python]]
+[[Acceso al Índice en un for loop]]
