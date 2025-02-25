@@ -18,6 +18,8 @@ BinarySearch(List,lower,upper,X)
 	return 0
 ```
 ***
+[[Peor costo para la Búsqueda Binaria]]
+***
 - [[Versión Recursiva de Búsqueda Binaria]]:
 
 
