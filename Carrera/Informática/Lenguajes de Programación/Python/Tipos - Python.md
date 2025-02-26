@@ -2,4 +2,4 @@
 	+ [[Strings - Python | Strings]]
 + Compuestos
 	+ [[Lists]]
-	- [[Sets]]
+	- [[Carrera/Informática/Lenguajes de Programación/Python/Sets]]

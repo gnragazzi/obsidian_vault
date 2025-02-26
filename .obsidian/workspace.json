@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7018ed6ebe7a031c",
+        "id": "dcc6f582ac6d8b50",
         "type": "tabs",
         "children": [
           {
-            "id": "ba37b76715501cc5",
+            "id": "0d0edf090eef034c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -149,52 +149,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ba37b76715501cc5",
+  "active": "0d0edf090eef034c",
   "lastOpenFiles": [
-    "0 - Índice.md",
-    "0 - Índce.md",
-    "Carrera/Matemáticas/Discretas/Función (Discretas).md",
-    "Peor costo para la Búsqueda Binaria.md",
-    "Carrera/Informática/Algoritmia/Estrategia de Reducción.md",
-    "Carrera/Informática/Algoritmia/Estrategia de Resolución.md",
-    "Carrera/Informática/Algoritmia/Estrategias de Análisis de Algoritmos.md",
-    "Carrera/Informática/Algoritmia/Estrategias de Diseño de Algoritmos.md",
-    "Carrera/Informática/Algoritmia/Resolver Recurrencias.md",
-    "Propiedades Función Piso-Techo.md",
-    "Binary Search.md",
-    "Versión Recursiva de Búsqueda Binaria.md",
-    "Función Piso - Discretas.md",
-    "Versión Iterativa.md",
-    "Carrera/Informática/Algoritmia/Búsqueda.md",
-    "Estrategia del balance.md",
-    "Costos Jump Search.md",
-    "Carrera/Matemáticas/Cálculo/Reglas de Derivación.md",
-    "Función Techo - Discretas.md",
-    "Carrera/Informática/Algoritmia/Jump Search - Algoritmo.md",
+    "Realización.md",
+    "Pasted image 20250226110157.png",
+    "Pasted image 20250226110146.png",
+    "BootCamp/Java/Conceptos POO/Relaciones entre clases.md",
+    "Dependencia.md",
+    "Pasted image 20250226110126.png",
+    "BootCamp/Java/Conceptos POO/Asociación.md",
+    "Pasted image 20250226110043.png",
+    "Generalización - POO.md",
+    "Pasted image 20250226105615.png",
+    "BootCamp/Java/Conceptos POO/Composición.md",
+    "BootCamp/Java/Conceptos POO/Clase Asociación.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Relaciones entre clases.md",
+    "BootCamp/Java/Conceptos POO/Agregación.md",
+    "Pasted image 20250226102724.png",
+    "Visibilidad de una Asociación.md",
+    "BootCamp/Java/Métodos.md",
+    "Navegación de una Asociación.md",
+    "Pasted image 20250226102509.png",
+    "Multiplicidad de una asociación.md",
+    "Pasted image 20250226102434.png",
+    "multiplicidad.md",
+    "BootCamp/Java/Conceptos POO/Propiedades de una clase.md",
+    "BootCamp/Java/Conceptos POO/Diferencia entre Operación y Método.md",
+    "BootCamp/Java/Clase y Objeto.md",
+    "BootCamp/Java/Conceptos POO/Operación - POO.md",
+    "BootCamp/Java/Constructores.md",
+    "Atributo.md",
+    "Objetos.md",
+    "Carrera/Informática/Algoritmia/Binary Search.md",
+    "Carrera/Informática/Algoritmia/Estrategia del balance.md",
+    "Carrera/Informática/Algoritmia/Costos Jump Search.md",
+    "Carrera/Matemáticas/Función Techo - Discretas.md",
+    "BootCamp/Java/Colecciones",
+    "BootCamp/Java/Conceptos POO",
     "Imagenes/Pasted image 20250221084636.png",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Composite Pattern.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Decorator Pattern.md",
     "Imagenes/Pasted image 20250221090007.png",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 9 - Principio de la Responsabilidad Única.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Template Method Pattern.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Facade Pattern.md",
-    "Imagenes/Pasted image 20250214175106.png",
-    "Imagenes/Pasted image 20250220082133.png",
-    "Imagenes/Pasted image 20250214180335.png",
-    "Imagenes/Pasted image 20250214175938.png",
-    "Imagenes/Pasted image 20250214175717.png",
-    "Imagenes/Pasted image 20250214175406.png",
-    "Imagenes/Pasted image 20250214105551.png",
-    "Imagenes/Pasted image 20250213120838.png",
     "Entrevista Meli",
     "Carrera/Informática/Programación Orientada a Objetos/Conceptos",
     "Carrera/Informática/Programación Orientada a Objetos",
@@ -203,8 +204,6 @@
     "Carrera/Matemáticas/Discretas/Grafos",
     "Carrera/Informática/Lenguajes de Programación/JAVA",
     "Carrera/Informática/Lenguajes de Programación/C-C++",
-    "Carrera/Matemáticas/Cálculo",
-    "Sin título.canvas",
-    "Carrera/Informática/Estructuras de Datos"
+    "Sin título.canvas"
   ]
 }

@@ -13,4 +13,4 @@
 	1. [[Colecciones]] 
 3. POO 
 	1. [[Clase y Objeto]]
-	2. [[Relaciones entre clases]]
+	2. [[BootCamp/Java/Conceptos POO/Relaciones entre clases]]

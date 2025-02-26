@@ -1,3 +1,0 @@
-- [[Asociación]]
-- [[Agregación]]
-- [[Composición]]

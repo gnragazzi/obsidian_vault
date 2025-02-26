@@ -6,7 +6,7 @@ Interfaz genérica.
 - 
 ***
 Sub-interfaces: 
-- [[Sets]]
+- [[BootCamp/Java/Colecciones/Sets]]
 - [[List]]
 - [[Queue]]
 - [[Map]]
