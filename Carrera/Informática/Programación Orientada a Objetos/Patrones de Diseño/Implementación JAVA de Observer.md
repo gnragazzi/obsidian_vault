@@ -8,4 +8,4 @@
 - El hecho de que Observable sea una clase, limita el reuso porque no hay multiple herencia en Java. ( de esta manera, una clase que vaya a ser subject, no puede heredar de otros lados).
 - Este tipo de implementación permite pull y push.
 ***
-[[Java]]
+[[MELI/Java/Java]]

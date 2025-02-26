@@ -8,4 +8,4 @@
 [[Principio de Diseño 8 - Principio Hollywood|8]] - Principio Hollywood
 [[Principio de Diseño 9 - Principio de la Responsabilidad Única|9]] - Principio de la Responsabilidad Única
 ***
-Es importante observar las [[BootCamp/Java/Conceptos POO/Relaciones entre clases]]
+Es importante observar las [[Relaciones entre clases]]

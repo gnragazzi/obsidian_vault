@@ -15,11 +15,12 @@
 	1. [[Colecciones]] 
 4. POO 
 	1. [[Clase y Objeto]]
-	2. [[BootCamp/Java/Conceptos POO/Relaciones entre clases]]
+	2. [[Relaciones entre clases]]
 	3. [[Excepciones y Errores]]
 	4. [[Clases Utilitarias]]
 	5. [[Encapsulamiento]]
 	6. [[Herencia]]
 	7. [[Polimorfismo - POO]]
-	8. 
+	8. [[Clases Wrapper]]
+	9. [[Generics]]
 
