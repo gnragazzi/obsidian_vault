@@ -1,0 +1,2 @@
+- Derivan de la clase `RuntimeException`
+- No requieren el uso de un bloque `try/catch`

@@ -1,0 +1,4 @@
+- try
+- catch
+- finally
+	- Bloque que se ejecuta siempre, después del try o catch (según corresponda).

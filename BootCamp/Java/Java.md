@@ -9,12 +9,17 @@
 	7. VIVO
 		1. Vectores = [[Arreglos]]
 		2. Matrices = arreglos multidimensionales.
-2. Introducción a Java - P2
+2. Clase en vivo
+	1. [[Snake Case]]
+3. Introducción a Java - P2
 	1. [[Colecciones]] 
-3. POO 
+4. POO 
 	1. [[Clase y Objeto]]
 	2. [[BootCamp/Java/Conceptos POO/Relaciones entre clases]]
-	3. [[Encapsulamiento]]
-	4. [[Herencia]]
-	5. [[Polimorfismo - POO]]
-	6. 
+	3. [[Excepciones y Errores]]
+	4. [[Clases Utilitarias]]
+	5. [[Encapsulamiento]]
+	6. [[Herencia]]
+	7. [[Polimorfismo - POO]]
+	8. 
+

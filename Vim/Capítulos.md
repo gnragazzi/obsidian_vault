@@ -11,3 +11,7 @@
 5. Find and Replace by Hand
 	1. [[Replace %s]]
 	2. [[* operand]] 
+6. Meet the dot formula
+	1. One keystroke to place the cursor
+	2. One Keystroke for an operation
+7. Pause with your brush up
