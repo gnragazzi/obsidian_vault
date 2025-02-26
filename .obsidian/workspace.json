@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases Utilitarias.md",
+                "file": "Vim/Capítulos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clases Utilitarias"
+              "title": "Capítulos"
             }
           }
         ]
@@ -163,8 +163,10 @@
   },
   "active": "0d0edf090eef034c",
   "lastOpenFiles": [
-    "BootCamp/Java/Java.md",
+    "Vim/0 - Vim.md",
+    "Vim/Capítulos.md",
     "Clases Utilitarias.md",
+    "BootCamp/Java/Java.md",
     "BootCamp/Bootcamp.md",
     "BootCamp/Java/Bloque try-catch-finally -- JAVA.md",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 11.30.40 a. m..png",
@@ -195,8 +197,6 @@
     "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Relaciones entre clases.md",
     "Images/Pasted image 20250226102724.png",
     "BootCamp/Java/Conceptos POO/Visibilidad de una Asociación.md",
-    "BootCamp/Java/Métodos.md",
-    "BootCamp/Java/Conceptos POO/Navegación de una Asociación.md",
     "Images/Pasted image 20250226102509.png",
     "BootCamp/Java/Colecciones",
     "BootCamp/Java/Conceptos POO",
