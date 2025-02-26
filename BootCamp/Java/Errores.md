@@ -1,0 +1,2 @@
+- Son errores fatales lanzados por la [[JVN]] y no puede ser resuelto ni solucionado, por lo que la ejecución se detiene.
+- 

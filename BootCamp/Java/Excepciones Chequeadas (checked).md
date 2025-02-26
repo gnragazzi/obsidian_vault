@@ -1,0 +1,3 @@
+- Derivan de la clase `Exception`
+- Requieren un bloque try/catch
+- 
