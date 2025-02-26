@@ -1,0 +1,3 @@
+- `git merge <rama>` 
+	- merge de rama a la rama actual
+- `git merge <rama_origen> <rama_destino>` 

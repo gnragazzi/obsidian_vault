@@ -1,0 +1,1 @@
+- Ambas clases pueden existir por si mismas

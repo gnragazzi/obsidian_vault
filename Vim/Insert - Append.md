@@ -1,0 +1,3 @@
+- `A` - Traslada el cursor al final de la linea y cambia al [[Insert Mode]]
+- `I` - Traslada el cursor al comienzo de la linea y cambia al *Insert Mode*.
+- 

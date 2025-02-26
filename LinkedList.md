@@ -1,0 +1,2 @@
+- Tiene doble enlace (al elemento anterior y al elemento siguiente).
+- Puede ser usado como Stack

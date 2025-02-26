@@ -1,0 +1,5 @@
+- Relación estructural
+- Unidireccional
+- Se observa en términos
+	- "tiene"
+	- "Conoce"

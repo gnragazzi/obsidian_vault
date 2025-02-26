@@ -1,0 +1,7 @@
+- Java SE 
+	- Standard Edition, la que usamos los humanos de a pie
+- Java EE
+	- Enterprise Edition
+	- Es utilizada para la construcción de aplicaciones empresariales
+	- Permite utilizar arquitecturas de N capas distribuidas. Es decir, la modularidad y distribución de sus componentes es parte integral de la edición
+	- 

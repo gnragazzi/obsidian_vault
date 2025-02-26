@@ -1,0 +1,13 @@
+-  Numéricos
+	- enteros
+		- short (2 bytes)
+		- int 4 bytes
+		- long 8 bytes
+	- flotantes
+		- float 4 bytes
+		- double 8 bytes
+- Caracteres
+	- char 2 bytes
+	- String (CLASE)
+- Boolean (2 bytes)
+- void (nulo)

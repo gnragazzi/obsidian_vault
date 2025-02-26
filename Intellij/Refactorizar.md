@@ -1,0 +1,5 @@
+- ⇧ + 6 = renombrar la palabra bajo el cursor (y abre un cuadro de diálogo en el cual se propone refactorizar aplicando el cambio).
+- ⌘ + ⌥ + V = reemplazar una expresión con una variable (hay que seleccionar previamente una expresión, y en tal caso se crea una declaración de variable con esa expresión como valor asignado, y se cambian todas las ocurrencias de la expresión por el identificador de la variable.)
+- ⌘ + ⌥ + M = Extrae un método de un pedazo de código seleccionado (y reemplaza todas las ocurrencias del código por una invocación al método).
+- ⌘ + ⌥ + C = cambia el texto seleccionado por una constante que define
+- ⌃ + T = Abre el menú de refactorizaciones

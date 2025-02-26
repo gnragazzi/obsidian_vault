@@ -1,0 +1,12 @@
+Atajos Intellij
+- [[Code Completion]]
+- [[Menú]]
+- [[Comments]]
+- [[Lineas y Fragmentos]]
+- [[Selección Múltiple]]
+- [[Refactorizar]]
+- [[Formateo de Código]]
+- [[Mostrar]]
+- [[Archivos]]
+- [[Navegación]]
+- [[Debugging]]

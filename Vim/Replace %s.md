@@ -1,0 +1,2 @@
+- `:%s/<string_a_reemplazar>/<reemplazo>/g`
+	- Reemplaza toda ocurrencia de `<string_a_reemplazar>` por `<reemplazo>` 

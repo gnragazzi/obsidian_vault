@@ -1,0 +1,1 @@
+- El todo es responsable por la parte

@@ -1,0 +1,5 @@
+- ⇧+⌥+Space (modificado!) = Basic Code Completion
+	- Si se hace teniendo el cursor arriba de cualquier palabra, al seleccionar la opción deseada con TAB y no con ⏎, se reemplaza la palabra bajo el cursor.
+- ⇧+⌘+Space = Type-inference code completion
+- . (después de un set de paréntesis) = posfix code completion (por ejemplo, pone un if antes de una condición)
+- ⇧+⌘+⏎ = completa un statement (por ejemplo, si estás escribiendo un if, pone los paréntesis, las llaves y coloca el cursor dentro de la condición. Luego de escribir esta, si se usa nuevamente el comando, transporta el cursor hacia dentro de las llaves).

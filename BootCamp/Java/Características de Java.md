@@ -1,0 +1,2 @@
+- Administración automática de memoria.
+- Software distribuido

@@ -1,0 +1,11 @@
+ - ⇧ + ESC = cierra cualquier menú/submenú abierto
+- ⌥ + ⏎ = muestra las CONTEXT ACTION
+- ⇧ + ⌘ + A = Abrir menú de búsqueda de acciones
+	- Por ejemplo, para prender/apagar los números de linea (Line numbers)
+- ⇧ (dos veces) = abre el menú de búsqueda total
+	- Se pueden buscar métodos, clases, archivos
+	- Cuando buscamos clases, si presionó F1, puedo ver la documentación disponible en dicha clase (para que sea útil, es decir, con documentación de librerías, tengo que ajustar el contexto).
+	- Y, lo mejor, es que se puede clasificar la búsqueda, (solo buscar clases, solo buscar métodos)
+- ⌘ + , = abre menú de configuración
+- ⌘ + ⌥ + T = abrir el menú para envolver un pedazo de código en otro pedazo (ejemplo, try/catch)
+	- ⇧ + ⌘ + ⌫ = para des-envolver

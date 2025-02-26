@@ -1,0 +1,4 @@
+- ⌘+⇧+F = busca ocurrencias en archivos
+- ⌘+⇧+R = reemplaza ocurrencias en archivos
+- ⌘+7 = abre una ventana con la estructura del archivo
+- ⌘+F12= muestra la estructura del archivo

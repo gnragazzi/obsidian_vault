@@ -1,0 +1,6 @@
+- `add <nbre-REMOTE> <url_del_repositorio_externo>`
+- `git remote show <remote>`
+	- muestra información del remoto
+- `rm <remote_name>`
+	- desvincula el remoto
+	- 

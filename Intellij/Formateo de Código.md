@@ -1,0 +1,2 @@
+- ⌘ + ⌥ + L = formateo básico
+- ⇧ + ⌘ + ⌥ + L = abre el menú de formateo

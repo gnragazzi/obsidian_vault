@@ -1,0 +1,2 @@
+- ⌘ + ⇧ + 7 = Line comment toogle
+- ⌘ + ⌥ + 7 = Block comment toogle

@@ -1,0 +1,2 @@
+- `git reset HEAD <filename>`
+	- quita el archivo del staging area

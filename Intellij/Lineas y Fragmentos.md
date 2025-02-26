@@ -1,0 +1,10 @@
+- Lineas
+	- ⌘+d = Duplicar linea
+	- ⌘+⌫= **borrar linea**
+	- ⇧+⌥+↑ = **mover linea hacia arriba**
+- Fragmentos de código
+	- (Posicionado antes del nombre del método)
+	- ⌘ + ⇧ + ↑ = mover método arriba
+	- Collapsar 
+		- ⌘ + (-/+) = collapsar, expandir 
+		- ⌘ + ⇧ + (-/+) = collapsar, expandir todo

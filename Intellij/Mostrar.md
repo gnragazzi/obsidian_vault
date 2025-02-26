@@ -1,0 +1,5 @@
+- ⌘ + P = muestra parámetros de un método, si estás posicionado sobre un método
+- F1 = muestra la documentación de un método
+- ⌥ + SPACE = muestra la declaración del método
+- ⌘+F1 = muestra las recomendaciones y, si presionamos nuevamente la combinación, muestra una justificación de las mismas
+- ⌘+⇧+F7 = resalta todas las ocurrencias del símbolo bajo el cursor.

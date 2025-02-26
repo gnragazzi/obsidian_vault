@@ -1,0 +1,3 @@
+- ⌃ (control) + G =. selecciona el próximo mismo símbolo sobre el que está el cursor
+- ⌃ (control) + ⇧ + G = deselecciona el útlimo símbolo añadido
+- ⌘ + ⌃ + G = Seleccionar todas las ocurrencias de un símbolo

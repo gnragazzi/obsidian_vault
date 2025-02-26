@@ -1,0 +1,7 @@
+- ⌘+F8 = marca una linea como un breakpoint
+- ⌃+D = ejecutar el debugger
+- F7 = step in
+- F8 = step over
+- ⌥ + F9 = jump to cursor
+- ⌘ + ⌥ + F8 = evaluar una expresión
+- ⌘ + F9 = re-build el projecto
