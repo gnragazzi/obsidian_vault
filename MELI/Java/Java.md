@@ -21,6 +21,11 @@
 	5. [[Encapsulamiento]]
 	6. [[Herencia]]
 	7. [[Polimorfismo - POO]]
-	8. [[Clases Wrapper]]
-	9. [[Generics]]
+5. Generics, Lambda, Streams
+	1. [[Clases Wrapper]]
+	2. [[Generics]]
+	3. [[Programación Funcional]]
+	4. [[Expresión Lambda]]
+	5. [[Referencias a Métodos]]
+	6. [[Stream API]]
 

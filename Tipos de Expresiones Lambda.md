@@ -1,0 +1,28 @@
+- Consumidores
+	- `Consumer<T>`.
+	- Aceptan un parámetro pero no devuelven ninguno.
+	- p -> System.out.print(p)
+- BiConsumidores
+	- `BiConsumer<T,U>`
+	- Aceptan dos parámetros pero no devuelven ninguno
+	- (p,q) -> System.out.print(p+q)
+- Proveedores
+	- `Supplier<T>`
+	- No poseen parámetros, pero devuelven un resultado
+	- ()->10
+- Funciones 
+	- Function<T,U>
+	- Acepta un parámetro y devuelven un resultado
+	- p -> p + 10
+- BiFunciones
+	- BiFunction<T,U,R>
+	- Aceptan 2 parámetros y devuelven un resultado.
+	- (p,q) -> p + q
+- Predicado
+	- `Predicate<T>`
+	- Acepta un parámetro y devuelve un boolean.
+	- `p -> p==10`
+- BiPredicado
+	- `BiPredicate<T>`
+	- Acepta dos parámetros y devuelve un boolean.
+	- `(p,q) -> p==q`

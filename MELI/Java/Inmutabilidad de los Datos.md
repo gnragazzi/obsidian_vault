@@ -1,0 +1,1 @@
+Una vez que se crea un objeto, no se pueden modificar su estado.

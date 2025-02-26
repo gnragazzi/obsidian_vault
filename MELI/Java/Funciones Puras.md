@@ -1,0 +1,1 @@
+siempre producen los mismos resultados para los mismos argumentos de entrada y no tienen efectos secundarios

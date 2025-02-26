@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MELI/Java/Generics.md",
+                "file": "MELI/Java/Expresión Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Expresión Lambda"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MELI/Java/Generics.md",
+                "file": "MELI/Java/Expresión Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Generics"
+              "title": "Backlinks for Expresión Lambda"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MELI/Java/Generics.md",
+                "file": "MELI/Java/Expresión Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Generics"
+              "title": "Outgoing links from Expresión Lambda"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MELI/Java/Generics.md",
+                "file": "MELI/Java/Expresión Lambda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Generics"
+              "title": "Outline of Expresión Lambda"
             }
           }
         ]
@@ -168,11 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f10f0553700547",
+  "active": "9d95dd6f180a6441",
   "lastOpenFiles": [
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 3.42.48 p. m..png",
-    "MELI/Java/Generics.md",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
+    "MELI/Java/Stream API.md",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.10 p. m..png",
     "MELI/Java/Java.md",
+    "MELI/Java/Referencias a Métodos.md",
+    "MELI/Java/Expresión Lambda.md",
+    "Tipos de Expresiones Lambda.md",
+    "MELI/Java/Programación Funcional.md",
+    "MELI/Java/Inmutabilidad de los Datos.md",
+    "MELI/Java/Funciones Puras.md",
+    "MELI/Java/Generics.md",
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 3.42.48 p. m..png",
     "MELI/Java/Clases Wrapper.md",
     "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
     "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Decorator Pattern.md",
