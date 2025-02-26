@@ -1,0 +1,1 @@
+Cuando la conección de una llamada a un método al cuerpo de un método se realiza antes que el programa corra (es decir, en tiempo de compilación)

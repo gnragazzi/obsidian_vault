@@ -1,5 +1,5 @@
-Es una clase de polimorfismo.
+Es una clase de [[Polimorfismo - POO|polimorfismo]].
 Para proveerlo necesita:
-- [[Ligadura dinámica]]
+- [[Ligadura dinámica(Late Binding)]]
 - [[Variables Polimórficas]]
 

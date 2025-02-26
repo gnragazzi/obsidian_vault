@@ -1,0 +1,1 @@
+Sobrecarga dos o más funciones comparten el nombre, pero tienen distintos argumentos (número y tipo) por lo que el nombre es polimórfico; por lo que hay distintos comportamientos  según argumentos. La función correcta se determina en tiempo de compilación.  

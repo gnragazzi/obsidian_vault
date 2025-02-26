@@ -11,10 +11,14 @@
             "id": "0d0edf090eef034c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ligadura estática(Early Binding).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Ligadura estática(Early Binding)"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "piso",
+                "query": "polimo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,6 +164,22 @@
   },
   "active": "0d0edf090eef034c",
   "lastOpenFiles": [
+    "Carrera/Informática/Programación Orientada a Objetos/Conceptos/Ligadura dinámica(Late Binding).md",
+    "Ligadura estática(Early Binding).md",
+    "Polimorfismo - POO.md",
+    "Sobrecarga(Overload) - Polimorfismo Ad Hoc.md",
+    "Polimorfismo puro (función polimorfa).md",
+    "Sobrecarga.md",
+    "Pasted image 20250226150317.png",
+    "Polimorfismo de asignación.md",
+    "Pasted image 20250226150156.png",
+    "Carrera/Informática/Programación Orientada a Objetos/Conceptos/Ligadura dinámica de mensajes a métodos.md",
+    "BootCamp/Java/Java.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Conceptos/Herencia.md",
+    "Generalización - POO.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Conceptos/Encapsulamiento.md",
+    "Modificadores de Acceso - JAVA.md",
+    "BootCamp/Java/Conceptos POO/Operación - POO.md",
     "Realización.md",
     "Pasted image 20250226110157.png",
     "Pasted image 20250226110146.png",
@@ -167,7 +188,6 @@
     "Pasted image 20250226110126.png",
     "BootCamp/Java/Conceptos POO/Asociación.md",
     "Pasted image 20250226110043.png",
-    "Generalización - POO.md",
     "Pasted image 20250226105615.png",
     "BootCamp/Java/Conceptos POO/Composición.md",
     "BootCamp/Java/Conceptos POO/Clase Asociación.md",
@@ -180,22 +200,8 @@
     "Pasted image 20250226102509.png",
     "Multiplicidad de una asociación.md",
     "Pasted image 20250226102434.png",
-    "multiplicidad.md",
-    "BootCamp/Java/Conceptos POO/Propiedades de una clase.md",
-    "BootCamp/Java/Conceptos POO/Diferencia entre Operación y Método.md",
-    "BootCamp/Java/Clase y Objeto.md",
-    "BootCamp/Java/Conceptos POO/Operación - POO.md",
-    "BootCamp/Java/Constructores.md",
-    "Atributo.md",
-    "Objetos.md",
-    "Carrera/Informática/Algoritmia/Binary Search.md",
-    "Carrera/Informática/Algoritmia/Estrategia del balance.md",
-    "Carrera/Informática/Algoritmia/Costos Jump Search.md",
-    "Carrera/Matemáticas/Función Techo - Discretas.md",
     "BootCamp/Java/Colecciones",
     "BootCamp/Java/Conceptos POO",
-    "Imagenes/Pasted image 20250221084636.png",
-    "Imagenes/Pasted image 20250221090007.png",
     "Entrevista Meli",
     "Carrera/Informática/Programación Orientada a Objetos/Conceptos",
     "Carrera/Informática/Programación Orientada a Objetos",
