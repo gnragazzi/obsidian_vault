@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
+                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Árboles de Decisión para demostrar que Búsqueda Binaria es optimal"
+              "title": "Polimorfismo - POO"
             },
-            "group": "980d0850d63219d3"
+            "group": "113796bc340a1eba"
           }
         ]
       },
       {
-        "id": "7b8f4e5520c51dfd",
+        "id": "7c560522697c97bd",
         "type": "tabs",
         "children": [
           {
-            "id": "858ccaf470e9e0eb",
+            "id": "1377f85c12c1d8ec",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
+                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 2.3667499343970997,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Árboles de Decisión para demostrar que Búsqueda Binaria es optimal"
+              "title": "Graph of Polimorfismo - POO"
             },
-            "group": "980d0850d63219d3"
+            "group": "113796bc340a1eba"
           }
         ]
       }
@@ -89,7 +89,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "propiedades función piso",
+                "query": "agrega",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
+                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Árboles de Decisión para demostrar que Búsqueda Binaria es optimal"
+              "title": "Backlinks for Polimorfismo - POO"
             }
           },
           {
@@ -206,49 +206,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "01f10f0553700547",
+  "active": "1377f85c12c1d8ec",
   "lastOpenFiles": [
-    "Complejidad e-c.md",
-    "Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
-    "Árboles de Decisión (Decision Tree).md",
-    "Pasted image 20250227082533.png",
+    "MELI/Java/Java.md",
+    "MELI/Bootcamp.md",
+    "0 - Índice.md",
+    "Carrera/Matemáticas/Discretas/Grafos/Digrafo - Definición Formal.md",
+    "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
+    "Carrera/Matemáticas/Discretas/Grafos/Sub-Grafo.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Interfaz - OOP.md",
+    "Clase Abstracta.md",
+    "Diferencia entre Clase Abstracta e Interfaz en JAVA.md",
+    "MELI/Java/Referencias a Métodos.md",
+    "MELI/Java/Stream API.md",
+    "Aggregate Operation.md",
+    "MELI/Java/Pipeline - JAVA.md",
+    "MELI/Java/Expresión Lambda.md",
+    "MELI/Java/Tipos de Expresiones Lambda.md",
+    "MELI/Vim/0 - Vim.md",
+    "MELI/Vim/Capítulos.md",
+    "Carrera/Informática/Algoritmia/Complejidad e-c.md",
+    "Carrera/Informática/Algoritmia/Árboles de Decisión (Decision Tree).md",
+    "Imagenes/Pasted image 20250227082533.png",
+    "Carrera/Informática/Algoritmia/Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
     "Carrera/Informática/Algoritmia/Comparar Cotas.md",
     "Carrera/Informática/Algoritmia/Algoritmo Predecible (determinístico - estocástico).md",
     "Carrera/Informática/Algoritmia/Búsqueda.md",
     "Carrera/Informática/Algoritmia/Problemas Comunes.md",
     "Carrera/Informática/Algoritmia/Problema.md",
     "Carrera/Informática/Algoritmia/Problemas Interesantes.md",
-    "Carrera/Informática/Algoritmia/Algoritmos.md",
-    "MELI/Bootcamp.md",
-    "MELI/Java/Java.md",
-    "MELI/Java/Programación Funcional.md",
-    "MELI/Java/Funciones Puras.md",
-    "Carrera/Matemáticas/Propiedades Función Piso-Techo.md",
-    "Carrera/Matemáticas/Función Piso - Discretas.md",
-    "MELI/Java/Expresión Lambda.md",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
-    "MELI/Java/Stream API.md",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.10 p. m..png",
-    "MELI/Java/Referencias a Métodos.md",
-    "Tipos de Expresiones Lambda.md",
-    "MELI/Java/Inmutabilidad de los Datos.md",
-    "MELI/Java/Generics.md",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 3.42.48 p. m..png",
-    "MELI/Java/Clases Wrapper.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Decorator Pattern.md",
-    "MELI/Java/Conceptos POO/Clases Utilitarias.md",
     "Imagenes/Images/Pasted image 20250226150156.png"
   ]
 }

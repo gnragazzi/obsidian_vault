@@ -1,5 +1,7 @@
 un Stream es una secuencia de elementos que puede ser procesada en paralelo o en serie.
-
+***
+Es una secuencia de elementos que soportan operaciones agregadas ([[Aggregate Operation]]) sequenciales y paralelas.
+[Java docs]
 ***
 - Permiten crear flujos de datos continuos para procesar con operadores
 - Permite
@@ -9,6 +11,7 @@ un Stream es una secuencia de elementos que puede ser procesada en paralelo o en
 	- foreach
 	- reduce
 - Son inmutables
+	- Un alcance de esto, es que las modificaciones que puedan hacerse (por ejemplo, a través de map), no afectan a la colección que da origen al stream.
 - Se pueden crear desde colecciones
 	- set, list, map, etc...
 - A partir de java 8.

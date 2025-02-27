@@ -15,3 +15,5 @@
 	1. One keystroke to place the cursor
 	2. One Keystroke for an operation
 7. Pause with your brush up
+8. Chunk your Undo's
+	1. Aprovechar la característica del comando deshacer (u), saliendo del [[Insert Mode]] después de cada cambio significativo.
