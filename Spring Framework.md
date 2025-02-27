@@ -1,0 +1,3 @@
+- Framework para el desarrollo de aplicaciones en JAVA.
+- Se lo utiliza principalmente para construir aplicaciones web con [[Versiones de Java#^d0a5d4|Java EE]].
+- ![[Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png]]

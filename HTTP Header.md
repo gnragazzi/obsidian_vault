@@ -1,0 +1,1 @@
+- Atributos de tipo clave-valor

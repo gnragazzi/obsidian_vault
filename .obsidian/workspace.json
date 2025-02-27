@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
+                "file": "MELI/Entrevista Meli/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polimorfismo - POO"
+              "title": "API"
             },
-            "group": "113796bc340a1eba"
+            "group": "400563f31f0abc4a"
           }
         ]
       },
       {
-        "id": "7c560522697c97bd",
+        "id": "08b90c6c7aa85aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "1377f85c12c1d8ec",
+            "id": "077786416318e323",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
+                "file": "MELI/Entrevista Meli/API.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.3667499343970997,
+                  "scale": 1,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Polimorfismo - POO"
+              "title": "Graph of API"
             },
-            "group": "113796bc340a1eba"
+            "group": "400563f31f0abc4a"
           }
         ]
       }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "agrega",
+                "query": "format",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
+                "file": "MELI/Entrevista Meli/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Polimorfismo - POO"
+              "title": "Backlinks for API"
             }
           },
           {
@@ -214,11 +214,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1377f85c12c1d8ec",
+  "active": "01f10f0553700547",
   "lastOpenFiles": [
-    "MELI/Java/Java.md",
+    "Spring.md",
+    "Spring Framework.md",
+    "Spring Boot.md",
+    "Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
+    "Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
+    "Maven.md",
+    "Framework.md",
+    "Librería.md",
+    "Protocolo HTTP.md",
+    "HTTP Response.md",
+    "HTTP Request.md",
+    "HTTP Method.md",
+    "Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
+    "Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
+    "HTTP STATUS.md",
+    "HTTP Header.md",
+    "Arquitectura cliente servidor.md",
     "MELI/Bootcamp.md",
+    "MELI/Java/Java.md",
     "0 - Índice.md",
+    "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
     "Carrera/Matemáticas/Discretas/Grafos/Digrafo - Definición Formal.md",
     "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
     "Carrera/Matemáticas/Discretas/Grafos/Sub-Grafo.md",
@@ -227,28 +245,11 @@
     "Diferencia entre Clase Abstracta e Interfaz en JAVA.md",
     "MELI/Java/Referencias a Métodos.md",
     "MELI/Java/Stream API.md",
-    "Aggregate Operation.md",
-    "MELI/Java/Pipeline - JAVA.md",
-    "MELI/Java/Expresión Lambda.md",
-    "MELI/Java/Tipos de Expresiones Lambda.md",
-    "MELI/Vim/0 - Vim.md",
-    "MELI/Vim/Capítulos.md",
-    "Carrera/Informática/Algoritmia/Complejidad e-c.md",
-    "Carrera/Informática/Algoritmia/Árboles de Decisión (Decision Tree).md",
     "Imagenes/Pasted image 20250227082533.png",
-    "Carrera/Informática/Algoritmia/Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
-    "Carrera/Informática/Algoritmia/Comparar Cotas.md",
-    "Carrera/Informática/Algoritmia/Algoritmo Predecible (determinístico - estocástico).md",
-    "Carrera/Informática/Algoritmia/Búsqueda.md",
-    "Carrera/Informática/Algoritmia/Problemas Comunes.md",
-    "Carrera/Informática/Algoritmia/Problema.md",
-    "Carrera/Informática/Algoritmia/Problemas Interesantes.md",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.10 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 3.42.48 p. m..png",
-    "Imagenes/Images/Pasted image 20250226150156.png"
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.10 p. m..png"
   ]
 }
