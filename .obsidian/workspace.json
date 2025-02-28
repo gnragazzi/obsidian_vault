@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.099228450675217,
                   "close": false
                 }
               },
@@ -217,13 +217,17 @@
   "active": "01f10f0553700547",
   "lastOpenFiles": [
     "API REST y Spring.md",
-    "Anotaciones de Spring Boot.md",
     "Spring.md",
-    "MELI/Entrevista Meli/API REST.md",
-    "MVC.md",
-    "Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
+    "Protocolo HTTP.md",
+    "HTTP Request.md",
+    "HTTP Method.md",
     "MELI/Bootcamp.md",
     "0 - Índice.md",
+    "Anotaciones de Spring Boot.md",
+    "MELI/Entrevista Meli/API REST.md",
+    "Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
+    "MVC.md",
+    "Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
     "MELI/Vim/0 - Vim.md",
     "MELI/Vim/Capítulos.md",
     "MELI/Intellij/Motions.md",
@@ -235,10 +239,7 @@
     "Maven.md",
     "Framework.md",
     "Librería.md",
-    "Protocolo HTTP.md",
     "HTTP Response.md",
-    "HTTP Request.md",
-    "HTTP Method.md",
     "Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
     "Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
     "HTTP STATUS.md",
@@ -246,11 +247,9 @@
     "Arquitectura cliente servidor.md",
     "MELI/Java/Java.md",
     "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
-    "Carrera/Matemáticas/Discretas/Grafos/Digrafo - Definición Formal.md",
     "Imagenes/Pasted image 20250227082533.png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png"
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png"
   ]
 }

@@ -6,7 +6,21 @@
 		- @Configuration
 - `@RestController`
 	- Identifica el controlador de un servicio de tipo REST.
-- `@GetMapping`
-	- pathvariable
-		- Para acceder a lo que esté en el path usamos `@GetMapping ("/{identificador}")`
-		- luego debemos declararlo como parámetro como `@PathVariable String name`
+- `@ResponseBody` previo a una clase, le indica a spring que se tiene que hacer cargo de convertir el tipo de respuesta a json/xml.
+	- Se usa debajo del `@GetMapping`
+- Mappings
+	- La forma genérica es `@RequestMapping(method = RequestMethod.POST)`
+	- `@PostMapping`
+		- `@RequestBody <type> <identificador>` dentro de la lista de parámetros nos permite capturar el payload de un [[HTTP Method#^f966af|post]] o [[HTTP Method#^ed4ec5|PUT]].
+	- `@GetMapping`
+		- se establece un path como `@GetMapping (path = "/student")`
+		- pathvariable
+			- No es UserId
+			- Para acceder a lo que esté en el path usamos `@GetMapping ("/{identificador}")`
+			- luego debemos declararlo como parámetro como `@PathVariable <type> name`
+			- Se pueden usar tantas como se quieran, declarandolas como
+				- `"/{uno}/{dos}/etc..."`
+				- además de declarar, tenemos que declararlos como parametros como `(@PathVariable <type> uno, @PathVariable <type> dos, etc...)`
+		- `@Request Param`
+			- Se utliza para key=value dentro del url
+			- se declaran como un parámetro `@RequestParam <type> <key>`

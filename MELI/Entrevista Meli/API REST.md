@@ -1,6 +1,9 @@
 - Datos en bruto para ser procesado por el cliente
-- Sin estado (misma llamada -> mismo resultado)
+- Sin estado (misma llamada -> mismo resultado). 
+	- Además, debe comunicarse en cada request toda la información que sea necesaria para poder llevar a cabo la operación (porque no se guarda información) 
 - Utiliza el protocolo HTTP como único protocolo de comunicación.
+- Cache 
+	- max-age
 - Se compone de
 	- Datos
 		- los datos se trasmiten en formatos comunes, JSON o XML
