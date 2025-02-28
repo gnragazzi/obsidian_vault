@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MELI/Entrevista Meli/API.md",
+                "file": "Anotaciones de Spring Boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "Anotaciones de Spring Boot"
             },
             "group": "400563f31f0abc4a"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MELI/Entrevista Meli/API.md",
+                "file": "Anotaciones de Spring Boot.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of API"
+              "title": "Graph of Anotaciones de Spring Boot"
             },
             "group": "400563f31f0abc4a"
           }
@@ -216,7 +216,18 @@
   },
   "active": "01f10f0553700547",
   "lastOpenFiles": [
+    "API REST y Spring.md",
+    "Anotaciones de Spring Boot.md",
     "Spring.md",
+    "MELI/Entrevista Meli/API REST.md",
+    "MVC.md",
+    "Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
+    "MELI/Bootcamp.md",
+    "0 - Índice.md",
+    "MELI/Vim/0 - Vim.md",
+    "MELI/Vim/Capítulos.md",
+    "MELI/Intellij/Motions.md",
+    "MELI/Entrevista Meli/API.md",
     "Spring Framework.md",
     "Spring Boot.md",
     "Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
@@ -233,23 +244,13 @@
     "HTTP STATUS.md",
     "HTTP Header.md",
     "Arquitectura cliente servidor.md",
-    "MELI/Bootcamp.md",
     "MELI/Java/Java.md",
-    "0 - Índice.md",
     "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
     "Carrera/Matemáticas/Discretas/Grafos/Digrafo - Definición Formal.md",
-    "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
-    "Carrera/Matemáticas/Discretas/Grafos/Sub-Grafo.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Interfaz - OOP.md",
-    "Clase Abstracta.md",
-    "Diferencia entre Clase Abstracta e Interfaz en JAVA.md",
-    "MELI/Java/Referencias a Métodos.md",
-    "MELI/Java/Stream API.md",
     "Imagenes/Pasted image 20250227082533.png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.10 p. m..png"
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.19 p. m..png"
   ]
 }

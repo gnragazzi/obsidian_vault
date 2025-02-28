@@ -5,4 +5,4 @@ Tipos:
 - [[Por Capas]]
 - [[SOA]]
 - [[Microservicios]]
-- [[REST]]
+- [[API REST]]

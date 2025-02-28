@@ -1,0 +1,12 @@
+- `@SpringBootApplication`:
+	- Nos permite especificar que trabajamos sobre una aplicación de Spring Boot.
+	- Habilita 3 características
+		- @EnableAutoConfiguration, 
+		- @ComponentScan
+		- @Configuration
+- `@RestController`
+	- Identifica el controlador de un servicio de tipo REST.
+- `@GetMapping`
+	- pathvariable
+		- Para acceder a lo que esté en el path usamos `@GetMapping ("/{identificador}")`
+		- luego debemos declararlo como parámetro como `@PathVariable String name`

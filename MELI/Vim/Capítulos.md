@@ -17,3 +17,9 @@
 7. Pause with your brush up
 8. Chunk your Undo's
 	1. Aprovechar la característica del comando deshacer (u), saliendo del [[Insert Mode]] después de cada cambio significativo.
+9. Compose Repeatable Changes
+	1. *Vim is optimized for repetition*. 
+		1. Para aprovechar esto, hay que componer acciones repetibles.
+		2. Esta es una buena métrica para saber cuál de las muchas maneras que tiene VIM de hacer las cosas conviene elegir.
+	2. [[Motions|{aw}]] 
+10. 

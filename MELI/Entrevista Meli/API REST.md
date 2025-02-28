@@ -1,9 +1,11 @@
-Datos en bruto para ser procesado por el cliente
-Sin estado (misma llamada -> mismo resultado)
-Se compone de
-- Datos
-- Componentes 
-- Conectores (interfaces)
+- Datos en bruto para ser procesado por el cliente
+- Sin estado (misma llamada -> mismo resultado)
+- Utiliza el protocolo HTTP como único protocolo de comunicación.
+- Se compone de
+	- Datos
+		- los datos se trasmiten en formatos comunes, JSON o XML
+	- Componentes 
+	- Conectores (interfaces)
 ***
 **RE**presentational **S**tate **T**ransfer
 
