@@ -1,4 +1,4 @@
-La finalidad de este patrón de diseño es crear un objeto plano (POJO) con atributos que puedan ser enviados o recuperados del servidor en una sola invocación.
+La finalidad de este patrón de diseño es crear un objeto plano ([[POJO]]) con atributos que puedan ser enviados o recuperados del servidor en una sola invocación.
 ***
 - Separar las estructuras de datos del modelo de datos.
 - Controlar el formato de los datos a almacenar dentro del modelo de datos.

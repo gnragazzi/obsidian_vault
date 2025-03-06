@@ -16,3 +16,6 @@
 		4. [[ResponseEntity]] 
 2. Arquitecturas
 	1. [[Arquitectura Multicapa en Spring]]
+	2. [[Inversion of Control]]
+3. Manejo de Excepciones
+	1. [[Excepciones en Spring]]
