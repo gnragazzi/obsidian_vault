@@ -6,7 +6,7 @@
 - POST ^f966af
 - PUT ^ed4ec5
 	- Actualizar por completo un registro existente.
-- PATCH
+- PATCH ^eaa039
 	- actualizar algún dato de un registro existente.
 - DELETE
 ***

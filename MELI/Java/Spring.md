@@ -11,3 +11,8 @@
 		1. [[MVC]]
 		2. [[API REST]]
 			1. [[API REST y Spring]]
+			2. [[Anotaciones de Spring Boot]]
+		3. [[Data Transfer Object Pattern (DTO)]]
+		4. [[ResponseEntity]] 
+2. Arquitecturas
+	1. [[Arquitectura Multicapa en Spring]]

@@ -1,17 +1,17 @@
-- `@SpringBootApplication`:
+no- `@SpringBootApplication`:
 	- Nos permite especificar que trabajamos sobre una aplicación de Spring Boot.
 	- Habilita 3 características
 		- @EnableAutoConfiguration, 
 		- @ComponentScan
 		- @Configuration
 - `@RestController`
-	- Identifica el controlador de un servicio de tipo REST.
-- `@ResponseBody` previo a una clase, le indica a spring que se tiene que hacer cargo de convertir el tipo de respuesta a json/xml.
+	- Identifica una clase como controladora de un servicio de tipo REST.
+- `@ResponseBody` previo a un método, le indica a spring que se tiene que hacer cargo de convertir el tipo de respuesta a json/xml.
 	- Se usa debajo del `@GetMapping`
 - Mappings
 	- La forma genérica es `@RequestMapping(method = RequestMethod.POST)`
 	- `@PostMapping`
-		- `@RequestBody <type> <identificador>` dentro de la lista de parámetros nos permite capturar el payload de un [[HTTP Method#^f966af|post]] o [[HTTP Method#^ed4ec5|PUT]].
+		- `@RequestBody <type> <identificador>` dentro de la lista de parámetros nos permite capturar el payload de un [[HTTP Method#^f966af|post]], [[HTTP Method#^eaa039|PATCH]] o [[HTTP Method#^ed4ec5|PUT]].
 	- `@GetMapping`
 		- se establece un path como `@GetMapping (path = "/student")`
 		- pathvariable
