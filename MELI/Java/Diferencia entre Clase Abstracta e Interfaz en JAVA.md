@@ -1,0 +1,3 @@
+- Una Interfaz no establece una jerarquía.
+- Una interfaz no puede tener constructor.
+- Una interfaz NO PUEDE implementar un método.

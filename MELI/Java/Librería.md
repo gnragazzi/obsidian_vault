@@ -1,0 +1,1 @@
+Una librería es un conjunto de funcionalidades reutilizables.

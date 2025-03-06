@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "d9e91cf3cc080e42",
         "type": "tabs",
         "children": [
@@ -16,6 +17,82 @@
               "icon": "lucide-file",
               "title": "Nueva pestaña"
             }
+=======
+        "id": "08b90c6c7aa85aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197c3b2ffc25d661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura Multicapa en Spring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura Multicapa en Spring"
+            },
+            "group": "a13d6a844390703b"
+          },
+          {
+            "id": "0a9659f5657c7a63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "635a1cb48d779231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0342b15165ea097",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Arquitectura Multicapa en Spring.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 4.773482329104017,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Arquitectura Multicapa en Spring"
+            },
+            "group": "a13d6a844390703b"
+>>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
           }
         ]
       }
@@ -164,6 +241,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "f833788b1e1ef973",
   "lastOpenFiles": [
     "MELI/Spring/Aggregate Operation.md",
@@ -186,10 +264,39 @@
     "MELI/Entrevista Meli/API REST.md",
     "Imagenes/Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
     "MELI/Spring/MVC.md",
+=======
+  "active": "0a9659f5657c7a63",
+  "lastOpenFiles": [
+    "Captura de pantalla 2025-03-05 a la(s) 3.45.38 p. m..png",
+    "Captura de pantalla 2025-03-05 a la(s) 3.41.17 p. m..png",
+    "MELI/Java/Spring.md",
+    "Arquitectura Multicapa en Spring.md",
+    "ResponseEntity.md",
+    "MELI/Java/Data Transfer Object Pattern (DTO).md",
+    "Serializable JAVA.md",
+    "Serialización - Deserealización.md",
+    "Captura de pantalla 2025-03-05 a la(s) 3.12.20 p. m..png",
+    "MELI/Java/Anotaciones de Spring Boot.md",
+    "MELI/Bootcamp.md",
+    "MELI/Java/API REST y Spring.md",
+    "0 - Índice.md",
+    "MELI/Java/Clase Abstracta.md",
+    "MELI/Java/Spring Framework.md",
+    "MELI/Java/Spring Boot.md",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
+    "MELI/Java/HTTP Method.md",
+    "MELI/Java/Protocolo HTTP.md",
+    "MELI/Java/HTTP Request.md",
+    "MELI/Entrevista Meli/API REST.md",
+    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
+    "MELI/Java/MVC.md",
+    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
+>>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
     "MELI/Vim/0 - Vim.md",
     "MELI/Vim/Capítulos.md",
     "MELI/Intellij/Motions.md",
     "MELI/Entrevista Meli/API.md",
+<<<<<<< HEAD
     "MELI/Spring/Spring Boot.md",
     "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
@@ -198,9 +305,15 @@
     "MELI/Spring/Librería.md",
     "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
     "MELI/Spring/HTTP STATUS.md",
+=======
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
+    "MELI/Java/Maven.md",
+    "MELI/Java/Framework.md",
+    "MELI/Java/Librería.md",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
+>>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
     "Imagenes/Pasted image 20250227082533.png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.28 p. m..png"
+    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png"
   ]
 }
