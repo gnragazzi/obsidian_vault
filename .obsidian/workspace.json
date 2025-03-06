@@ -8,63 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f10f0553700547",
+            "id": "f833788b1e1ef973",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anotaciones de Spring Boot.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Anotaciones de Spring Boot"
-            },
-            "group": "400563f31f0abc4a"
-          }
-        ]
-      },
-      {
-        "id": "08b90c6c7aa85aa3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "077786416318e323",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Anotaciones de Spring Boot.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.099228450675217,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Anotaciones de Spring Boot"
-            },
-            "group": "400563f31f0abc4a"
+              "title": "Nueva pestaña"
+            }
           }
         ]
       }
@@ -89,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -123,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "682d6b430e13ac7d",
@@ -206,47 +156,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "01f10f0553700547",
+  "active": "f833788b1e1ef973",
   "lastOpenFiles": [
-    "API REST y Spring.md",
-    "Spring.md",
-    "Protocolo HTTP.md",
-    "HTTP Request.md",
-    "HTTP Method.md",
+    "MELI/Spring/Aggregate Operation.md",
+    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
     "MELI/Bootcamp.md",
+    "MELI/Spring",
+    "MELI/Spring/HTTP Header.md",
+    "MELI/Spring/Arquitectura cliente servidor.md",
+    "MELI/Spring/Spring.md",
     "0 - Índice.md",
-    "Anotaciones de Spring Boot.md",
+    "MELI/Java/Java.md",
+    "MELI/Spring/Spring Framework.md",
+    "MELI/Spring/HTTP Response.md",
+    "MELI/Spring/Protocolo HTTP.md",
+    "MELI/Spring/HTTP Request.md",
+    "MELI/Spring/Anotaciones de Spring Boot.md",
+    "MELI/Spring/API REST y Spring.md",
+    "MELI/Spring/HTTP Method.md",
     "MELI/Entrevista Meli/API REST.md",
-    "Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
-    "MVC.md",
-    "Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
+    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
+    "MELI/Spring/MVC.md",
     "MELI/Vim/0 - Vim.md",
     "MELI/Vim/Capítulos.md",
     "MELI/Intellij/Motions.md",
     "MELI/Entrevista Meli/API.md",
-    "Spring Framework.md",
-    "Spring Boot.md",
-    "Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
-    "Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
-    "Maven.md",
-    "Framework.md",
-    "Librería.md",
-    "HTTP Response.md",
-    "Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
-    "Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
-    "HTTP STATUS.md",
-    "HTTP Header.md",
-    "Arquitectura cliente servidor.md",
-    "MELI/Java/Java.md",
-    "MELI/Java/Conceptos POO/Polimorfismo - POO.md",
+    "MELI/Spring/Spring Boot.md",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
+    "MELI/Spring/Maven.md",
+    "MELI/Spring/Framework.md",
+    "MELI/Spring/Librería.md",
+    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
+    "MELI/Spring/HTTP STATUS.md",
     "Imagenes/Pasted image 20250227082533.png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png",
     "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.59.41 p. m..png",
