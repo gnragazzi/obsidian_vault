@@ -1,98 +1,45 @@
 {
   "main": {
-    "id": "b0af036b956fdc38",
+    "id": "c42b69d1db7a54a0",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "d9e91cf3cc080e42",
+        "id": "11d2d135983193d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f833788b1e1ef973",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-=======
-        "id": "08b90c6c7aa85aa3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "197c3b2ffc25d661",
+            "id": "8dd8fc65e1585cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura Multicapa en Spring.md",
+                "file": "State Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitectura Multicapa en Spring"
-            },
-            "group": "a13d6a844390703b"
-          },
-          {
-            "id": "0a9659f5657c7a63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "State Pattern"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "635a1cb48d779231",
+        "id": "1a0efc35a1ad2dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "e0342b15165ea097",
+            "id": "acac17b88fee2e60",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Arquitectura Multicapa en Spring.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 4.773482329104017,
-                  "close": false
-                }
+                "file": "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 9 - Principio de la Responsabilidad Única.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Arquitectura Multicapa en Spring"
-            },
-            "group": "a13d6a844390703b"
->>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
+              "icon": "lucide-file",
+              "title": "Principio de Diseño 9 - Principio de la Responsabilidad Única"
+            }
           }
         ]
       }
@@ -100,15 +47,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f614a952743c3527",
+    "id": "23f75cd58b56b5fb",
     "type": "split",
     "children": [
       {
-        "id": "4e631f66ceb1f85b",
+        "id": "36da9eb7f174e597",
         "type": "tabs",
         "children": [
           {
-            "id": "9d95dd6f180a6441",
+            "id": "c97fca4476a150fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -121,12 +68,12 @@
             }
           },
           {
-            "id": "0c4bf96a3eba123a",
+            "id": "bc66f87bcd468321",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "format",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,40 +81,41 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "ecd4d76294aaf980",
+            "id": "759ae1b74a4828a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "682d6b430e13ac7d",
+    "id": "8d007479c4326c2d",
     "type": "split",
     "children": [
       {
-        "id": "940cbb80cdf46783",
+        "id": "21cd7d703a1c1367",
         "type": "tabs",
         "children": [
           {
-            "id": "1a93ce4dc7d79d50",
+            "id": "c045530ad90e8fb7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MELI/Entrevista Meli/API.md",
+                "file": "Arquitectura Multicapa en Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,25 +125,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for API"
+              "title": "Enlaces entrantes de Arquitectura Multicapa en Spring"
             }
           },
           {
-            "id": "fc29de511c2b23c2",
+            "id": "58f6de989cb04853",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MELI/Java/Expresión Lambda.md",
+                "file": "Arquitectura Multicapa en Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expresión Lambda"
+              "title": "Enlaces salientes de Arquitectura Multicapa en Spring"
             }
           },
           {
-            "id": "edd4396cab47d2a7",
+            "id": "a9aaa61285c9cbcb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -206,22 +154,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "344ffd2a1282173a",
+            "id": "6b49e11be315dfdf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MELI/Java/Expresión Lambda.md",
+                "file": "Arquitectura Multicapa en Spring.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expresión Lambda"
+              "title": "Esquema de Arquitectura Multicapa en Spring"
             }
           }
         ]
@@ -241,79 +189,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-<<<<<<< HEAD
-  "active": "f833788b1e1ef973",
+  "active": "8dd8fc65e1585cf6",
   "lastOpenFiles": [
-    "MELI/Spring/Aggregate Operation.md",
-    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
-    "MELI/Bootcamp.md",
-    "MELI/Spring",
-    "MELI/Spring/HTTP Header.md",
-    "MELI/Spring/Arquitectura cliente servidor.md",
-    "MELI/Spring/Spring.md",
-    "0 - Índice.md",
-    "MELI/Java/Java.md",
-    "MELI/Spring/Spring Framework.md",
-    "MELI/Spring/HTTP Response.md",
-    "MELI/Spring/Protocolo HTTP.md",
-    "MELI/Spring/HTTP Request.md",
-    "MELI/Spring/Anotaciones de Spring Boot.md",
-    "MELI/Spring/API REST y Spring.md",
-    "MELI/Spring/HTTP Method.md",
-    "MELI/Entrevista Meli/API REST.md",
-    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
-    "MELI/Spring/MVC.md",
-=======
-  "active": "0a9659f5657c7a63",
-  "lastOpenFiles": [
-    "Captura de pantalla 2025-03-05 a la(s) 3.45.38 p. m..png",
-    "Captura de pantalla 2025-03-05 a la(s) 3.41.17 p. m..png",
-    "MELI/Java/Spring.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 9 - Principio de la Responsabilidad Única.md",
+    "State Pattern.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 8 - Principio Hollywood.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Componentes de Alto Nivel.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Componentes de Bajo Nivel.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 7 - Principio del menor conocimiento.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 6 - Principio de Inversión de Dependencias.md",
+    "MELI/Java/Conceptos POO/Dependencia.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 5 - abierto'cerrado.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 4 - Bajo Acoplamiento.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 3 - Favorecer la composición a la herencia.md",
+    "MELI/Java/Conceptos POO/Composición.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 2 - Programar a la interfaz.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principio de Diseño 1 - Encapsular lo que cambia.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Principios de Diseño Orientado a Objetos.md",
     "Arquitectura Multicapa en Spring.md",
-    "ResponseEntity.md",
-    "MELI/Java/Data Transfer Object Pattern (DTO).md",
-    "Serializable JAVA.md",
-    "Serialización - Deserealización.md",
-    "Captura de pantalla 2025-03-05 a la(s) 3.12.20 p. m..png",
-    "MELI/Java/Anotaciones de Spring Boot.md",
-    "MELI/Bootcamp.md",
-    "MELI/Java/API REST y Spring.md",
-    "0 - Índice.md",
-    "MELI/Java/Clase Abstracta.md",
-    "MELI/Java/Spring Framework.md",
-    "MELI/Java/Spring Boot.md",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 2.54.54 p. m..png",
-    "MELI/Java/HTTP Method.md",
-    "MELI/Java/Protocolo HTTP.md",
-    "MELI/Java/HTTP Request.md",
-    "MELI/Entrevista Meli/API REST.md",
-    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 3.36.35 p. m..png",
-    "MELI/Java/MVC.md",
-    "Imagenes/Captura de pantalla 2025-02-28 a la(s) 10.11.23 a. m..png",
->>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
-    "MELI/Vim/0 - Vim.md",
-    "MELI/Vim/Capítulos.md",
-    "MELI/Intellij/Motions.md",
-    "MELI/Entrevista Meli/API.md",
-<<<<<<< HEAD
-    "MELI/Spring/Spring Boot.md",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
-    "MELI/Spring/Maven.md",
-    "MELI/Spring/Framework.md",
-    "MELI/Spring/Librería.md",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
-    "MELI/Spring/HTTP STATUS.md",
-=======
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.32.19 p. m..png",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.30.15 p. m..png",
-    "MELI/Java/Maven.md",
-    "MELI/Java/Framework.md",
-    "MELI/Java/Librería.md",
-    "Imagenes/Captura de pantalla 2025-02-27 a la(s) 3.00.57 p. m..png",
->>>>>>> 21d6b77777d2988e90bd9bc487efca7b43cf4800
-    "Imagenes/Pasted image 20250227082533.png",
-    "Imagenes/Captura de pantalla 2025-02-26 a la(s) 4.58.49 p. m..png"
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Proxy.md",
+    "Pasted image 20250306072831.png",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
+    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Adapter Pattern.md"
   ]
 }

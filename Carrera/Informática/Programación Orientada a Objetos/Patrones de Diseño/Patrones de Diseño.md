@@ -12,3 +12,4 @@ Son construcciones de mayor nivel que las librerías.
 9. [[Template Method Pattern]]
 10. [[Iterator Pattern]]
 11. [[Composite Pattern]]
+12. [[State Pattern]] 

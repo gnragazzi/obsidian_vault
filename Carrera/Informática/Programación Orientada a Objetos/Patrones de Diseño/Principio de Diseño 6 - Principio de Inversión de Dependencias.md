@@ -1,4 +1,4 @@
-Dependé de abstracciones, no dependas de clases concretas.
+[[Dependencia|Dependé]] de abstracciones, no dependas de clases concretas.
 ***
 Cuando instancias directamente un objeto, estás creando una dependencia a la clase concreta.
 ***
