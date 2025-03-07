@@ -9,5 +9,6 @@ En el bootcamp,
 - Sirve para mappear varias entidades en un único objeto plano que se devuelve
 - Solo debe tener los métodos getter y setter
 - Debe implementar [[Serializable JAVA]]
+- Deben utilizarse RequestDTO y ResponseDTO
 ***
 ![[Captura de pantalla 2025-03-05 a la(s) 3.12.20 p. m..png]]
