@@ -1,5 +1,5 @@
 Un servidor implementado en [[MELI/Java/Spring]] consta de 5 capas (puede variar).
-- Capa de interfaz (Controller)
+- Capa de interfaz (Controller) ^2357da
 	- Atiende la solicitud y entrega la respuesta
 	- @RestController
 - Capa de negocio (service)
@@ -15,6 +15,7 @@ Un servidor implementado en [[MELI/Java/Spring]] consta de 5 capas (puede variar
 		- Tabla almacenada en una base de datos. Cada instancia de una entidad es una fila en una tabla. Las clases-entidad deben estar marcadas con @Entity
 		- También llamada model
 	- ![[Captura de pantalla 2025-03-05 a la(s) 3.41.17 p. m..png]]
+	- Observar la relación con [[MVC|MVC]]
 ***
 La arquitectura debe verse reflejada en el árbol del proyecto.
 ![[Captura de pantalla 2025-03-05 a la(s) 3.45.38 p. m..png]]

@@ -1,0 +1,1 @@
+Previo a la declaración de una clase que agrupará la lógica para implementar varios [[@ExceptionHandler]] globales.![[Captura de pantalla 2025-03-06 a la(s) 2.36.13 p. m..png]]

@@ -1,0 +1,5 @@
+- Es una [[MELI/Spring/Anotaciones de Spring Boot|anotación]] previa a la definición de una excepción (es decir, de una clase que extiende de Exception o alguna subclase de Exception).
+	- Permite determinar detalles de la respuesta, por ejemplo, un código de [[MELI/Spring/HTTP STATUS|HTTP STATUS]], un mensaje, etc...
+	- ![[Captura de pantalla 2025-03-06 a la(s) 2.32.05 p. m..png]]
+	- Luego, para hacer uso de esta excepción personalizada se lanza (throw new ...) dadas las condiciones adecuadas.
+	- 
