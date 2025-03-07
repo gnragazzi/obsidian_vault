@@ -1,0 +1,1 @@
+Realiza una sustracción al siguiente valor numérico.

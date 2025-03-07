@@ -1,0 +1,1 @@
+`gU{motion}` hace mayúsculas todos los caracteres dictados por {motion}.

@@ -1,0 +1,1 @@
+`gc{motion}` comenta y des-comenta lineas adyacentes, según motion.
