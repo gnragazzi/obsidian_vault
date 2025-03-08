@@ -31,10 +31,14 @@
             "id": "95d1d5249e862b11",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Carrera/Informática/Lenguajes de Programación/Lua/Lua.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lua"
             }
           }
         ]
@@ -178,20 +182,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "51fcff935aad95cd",
+  "active": "95d1d5249e862b11",
   "lastOpenFiles": [
+    "MELI/Java/Data Transfer Object Pattern (DTO).md",
     "MELI/Spring/Arquitectura Multicapa en Spring.md",
     "MELI/Java/Spring.md",
     "MELI/Spring/ResponseEntity.md",
-    "MELI/Java/Data Transfer Object Pattern (DTO).md",
     "MELI/Bootcamp.md",
     "0 - Índice.md",
     "MELI/Vim/Vim.md",
