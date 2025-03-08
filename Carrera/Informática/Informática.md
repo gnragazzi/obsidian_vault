@@ -7,3 +7,5 @@ Ramas de la Informática
 [[Lenguajes de Programación]]
 [[Programación Orientada a Objetos]]
 ***
+Materias de la Carrera:
+- [[Lógica Para Computación]]
