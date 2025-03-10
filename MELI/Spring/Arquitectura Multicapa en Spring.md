@@ -1,13 +1,13 @@
-Un servidor implementado en [[MELI/Java/Spring]] consta de 5 capas (puede variar).
+Un servidor implementado en [[MELI/Java/Spring|Spring]] consta de 5 capas (puede variar).
 - Capa de interfaz (Controller) ^2357da
 	- Atiende la solicitud y entrega la respuesta
 	- @RestController
 - Capa de negocio (service)
 	- Se encarga de contener la lógica de negocio de la aplicación. Debe marcarse con @Service
-- Capa de Acceso a datos
-	- [[Data Transfer Object Pattern (DTO)]]
-		- No es en sí una capa, sino un conjunto de objetos planos
-	- Repository (DAO)
+- [[Data Transfer Object Pattern (DTO)]]
+	- Conjunto de datos planos que se utilizan para interacción entre cliente y servidor y sirve para esconder la representación de datos, desacoplar request/response de la representación de datos y evitar redundancia o exceso de datos.
+	- Existen DTOs de request y DTOs de response
+- Capa de acceso a datos Repository (DAO)
 		- Es la capa de persistencia de datos. Cada clase de repositorio debe estar marcada con la anotación @Repository
 		- encapsula el comportamiento de almacenamiento, recuperación y búsqueda
 - Capa de Infraestructura
