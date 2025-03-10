@@ -17,6 +17,7 @@
 2. Arquitecturas
 	1. [[Arquitectura Multicapa en Spring]]
 	2. [[Inversion of Control]]
+	3. [[Serializar-Deserealizar Json]]. 
 3. Manejo de Excepciones
 	1. [[Excepciones en Spring]]
 4. Profiles
