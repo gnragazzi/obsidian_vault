@@ -1,0 +1,1 @@
+El proceso de derivar conclusiones partiendo de premisas y apoyandose en verdades supuestas.
