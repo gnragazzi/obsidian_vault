@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Participación de la organización en la Gobernanza.md",
+                "file": "Gobernanza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Participación de la organización en la Gobernanza"
+              "title": "Gobernanza"
             },
-            "group": "508fb6eaf46f5034"
+            "group": "a54892b25db52cc0"
           }
         ]
       },
       {
-        "id": "2e40e87b17bf1569",
+        "id": "61ecc24d6161948a",
         "type": "tabs",
         "children": [
           {
-            "id": "733067225c02ea00",
+            "id": "1f00ede7e4670a9c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Participación de la organización en la Gobernanza.md",
+                "file": "Gobernanza.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -48,23 +48,23 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.4,
+                  "nodeSizeMultiplier": 1.13700927908637,
+                  "lineSizeMultiplier": 1.27690935046395,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7786224635255751,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Participación de la organización en la Gobernanza"
+              "title": "Graph of Gobernanza"
             },
-            "group": "508fb6eaf46f5034"
+            "group": "a54892b25db52cc0"
           }
         ]
       }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Participación de la organización en la Gobernanza.md",
+                "file": "Gobernanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Participación de la organización en la Gobernanza"
+              "title": "Backlinks for Gobernanza"
             }
           },
           {
@@ -216,15 +216,21 @@
   },
   "active": "d7a9667e5c4ec341",
   "lastOpenFiles": [
-    "Captura de pantalla 2025-03-14 a la(s) 1.12.45 p. m..png",
-    "Gobernanza.md",
-    "Participación de la organización en la Gobernanza.md",
-    "Importancia de la Gobernanza.md",
-    "Tipos inintencionados de Gobernanza.md",
-    "ISSP.md",
-    "Carrera/Informática/Planeamiento Informático/Planeamiento Informático.md",
-    "Decisiones - Gobernanza.md",
     "Marco de Trabajo.md",
+    "Gobernanza.md",
+    "Carrera/Informática/Planeamiento Informático/Planeamiento Informático.md",
+    "Importancia de la Gobernanza.md",
+    "ISSP.md",
+    "Tipos no intencionados de Gobernanza.md",
+    "Participación de la organización en la Gobernanza.md",
+    "Equipo de Implementación.md",
+    "Organización de IS.md",
+    "CIO.md",
+    "Planeamiento Estratégico.md",
+    "Comité de Dirección de Sistemas de la información (IS steering committee).md",
+    "Dirección Ejecutiva.md",
+    "Captura de pantalla 2025-03-14 a la(s) 1.12.45 p. m..png",
+    "Decisiones - Gobernanza.md",
     "Carrera/Informática/Informática.md",
     "MELI/Spring/Framework - Programación.md",
     "Carrera/Informática/Planeamiento Informático",
@@ -238,11 +244,6 @@
     "MELI/Bootcamp.md",
     "0 - Índice.md",
     "MELI/Spring/Serializar-Deserealizar Json.md",
-    "Carrera/Informática/Vim/x - Normal Mode.md",
-    "Carrera/Informática/Vim/gc.md",
-    "Carrera/Informática/Vim/gU - gu.md",
-    "Carrera/Informática/Vim/d - Normal Mode.md",
-    "Carrera/Informática/Vim/ctrl x.md",
     "Carrera/Informática/Vim",
     "Latam-Keyboard/Latam_C_white.keylayout",
     "Latam-Keyboard/Latam_C_white.icns",
@@ -260,7 +261,6 @@
     "Imagenes/Captura de pantalla 2025-03-06 a la(s) 10.24.03 a. m..png",
     "Imagenes/Captura de pantalla 2025-03-05 a la(s) 3.12.20 p. m..png",
     "Imagenes/Pasted image 20250306072831.png",
-    "Imagenes/Captura de pantalla 2025-03-05 a la(s) 3.45.38 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-05 a la(s) 3.41.17 p. m..png"
+    "Imagenes/Captura de pantalla 2025-03-05 a la(s) 3.45.38 p. m..png"
   ]
 }
