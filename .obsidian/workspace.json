@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae6aa7c11fdca2c",
+        "id": "6010ae022bc26817",
         "type": "tabs",
         "children": [
           {
-            "id": "17235d57c25fab01",
+            "id": "6b9ebe1befbee352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MELI/Intellij/Code Completion.md",
+                "file": "MELI/Spring/Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Completion"
+              "title": "Framework"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "frame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "682d6b430e13ac7d",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MELI/Spring/Arquitectura Multicapa en Spring.md",
+                "file": "MELI/Spring/Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arquitectura Multicapa en Spring"
+              "title": "Enlaces entrantes de Framework"
             }
           },
           {
@@ -156,39 +156,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17235d57c25fab01",
+  "active": "6b9ebe1befbee352",
   "lastOpenFiles": [
-    "MELI/Intellij/Intellij ULTIMATE.md",
-    "MELI/Intellij/Code Completion.md",
-    "MELI/Intellij/Mostrar.md",
-    "MELI/Intellij/Navegación.md",
-    "0 - Índice.md",
-    "Carrera/Informática/Vim/<c-v>.md",
-    "Carrera/Informática/Vim/<c-r>.md",
-    "MELI/Intellij/Motions.md",
-    "Carrera/Informática/Vim/Capítulos.md",
-    "Carrera/Informática/Vim/R - Vim.md",
-    "Carrera/Informática/Vim/Vim.md",
-    "MELI/Spring/@ControllerAdvice.md",
-    "MELI/Spring/Excepciones en Spring.md",
-    "MELI/Java/Spring.md",
-    "MELI/Bootcamp.md",
+    "MELI/Spring/Spring.md",
+    "MELI/Spring/Framework.md",
+    "MELI/Java/Framework.md",
     "MELI/Spring/@ExceptionHandler.md",
+    "MELI/Spring/Excepciones en Spring.md",
     "MELI/Spring/@ResponseStatus.md",
     "MELI/Spring/HTTP Response.md",
+    "MELI/Java/Spring.md",
+    "MELI/Bootcamp.md",
+    "0 - Índice.md",
     "MELI/Spring/Serializar-Deserealizar Json.md",
     "Carrera/Informática/Vim/x - Normal Mode.md",
     "Carrera/Informática/Vim/gc.md",
@@ -196,7 +187,15 @@
     "Carrera/Informática/Vim/d - Normal Mode.md",
     "Carrera/Informática/Vim/ctrl x.md",
     "Carrera/Informática/Vim/ctrl a.md",
+    "Carrera/Informática/Vim/Vim.md",
     "Carrera/Informática/Vim/Tabla de comandos de Repetición - Deshacer.md",
+    "Carrera/Informática/Vim/Replace %s.md",
+    "Carrera/Informática/Vim/Operators - VIM.md",
+    "Carrera/Informática/Vim/Normal Mode.md",
+    "Carrera/Informática/Vim/Insert - Append.md",
+    "Carrera/Informática/Vim/Ex Mode.md",
+    "Carrera/Informática/Vim/Dot Command.md",
+    "Carrera/Informática/Vim/Diferencia entre t{c} y f{c} como motion.md",
     "Carrera/Informática/Vim",
     "Latam-Keyboard/Latam_C_white.keylayout",
     "Latam-Keyboard/Latam_C_white.icns",
