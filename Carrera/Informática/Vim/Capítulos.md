@@ -41,3 +41,16 @@
 	3. `<C-u>` borra desde el comienzo de la linea en IM
 14. Get back to Normal Mode (07/03/2025)
 	1. `<C-o>` entra en el modo *Insert-Normal*
+15. Paste from a Register Without Leaving Insert Mode (08/03/2025)
+	1. [[<c-r>]]`<c-r> + 0` permite pegar en [[Insert Mode]] el contenido del registro 0.
+	2. 
+16. Do Back-of-the-Envelope Calculations in Place (09/03/2025)
+	1. [[<c-r>#^86bc33|Calculos en ExMode]]
+17. Insert Unusual Characters by Character Code (10/03/2025)
+	1. [[<c-v>]]. 
+18. Insert Unusual Characters by Digraph (11/03/2025)
+19. Overwrite Existing Text with Replace Mode (08/03/2025)
+	1. [[R - Vim|R]]
+20. Grok Visual Mode (08/03/2025)
+	1. Se pueden utilizar patrones de búsqueda para seleccionar, utilizando el visual mode
+	2. 
