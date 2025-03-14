@@ -3,7 +3,7 @@
 	2. [[Protocolo HTTP]]
 	3. Librerías vs Frameworks
 		1. [[Librería]]
-		2. [[Framework]]
+		2. [[Framework - Programación]]
 	4. [[Maven]]
 	5. [[Spring Framework]]
 	6. [[API]]

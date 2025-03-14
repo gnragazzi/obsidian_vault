@@ -9,3 +9,4 @@ Ramas de la Informática
 ***
 Materias de la Carrera:
 - [[Lógica Para Computación]]
+- [[Planeamiento Informático]] 
