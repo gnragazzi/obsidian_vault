@@ -1,0 +1,5 @@
+- Normal Mode
+	- Rehacer (es decir, es la operación reversa de `u`).
+- Insert Mode ^86bc33
+	- + 0: pega lo que haya en el registro 0
+	- + = abre una calculadora en el [[Ex Mode]] e inserta el resultado del cálculo debajo del cursor.

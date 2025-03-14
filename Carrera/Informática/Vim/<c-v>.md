@@ -1,0 +1,3 @@
+- Insert Mode
+	- Entra en un módo para agregar caracteres especiales
+	- + u{código unicode} -> inserta el caracter unicode seleccionado.

@@ -1,0 +1,14 @@
+- Son los ejecutivos de mayor jerarquía en una empresa. Sus responsabilidades para con IS son:
+	- Establecer la dirección y prioridades del proyecto
+		- Proveer a IS de prioridades y de una dirección estratégica del negocio.
+		- Lograr un alineamiento entre el area de IS y los objetivos de negocio.
+	- Aportar y aprobar la dirección y plan de las iniciativas de IS
+		- Son las personas que aceptan o rechazan los proyectos por lo que es importante que comprendan los desafíos y oportunidades del proyecto y que tengan una opinión directa en el mismo, tan pronto sea posible.
+		- El intermediario entre IS y la capa gerencial es el [[CIO]] que puede 
+			- Reportar a la dirección Ejecutiva
+				- En cuyo caso debe lograr que la dirección entienda el valor del area 
+			- Ser parte de la dirección Ejecutiva
+				- En cuyo caso puede tener opinión sobre las prioridades de negocio, alineando a estas con las prioridades de IS.
+		- Es importante que a la hora de comunicar proyectos a la Dirección Ejecutiva, el CIO se acompañe de gente del area de negocios, para demostrar el alineamiento de IS con esta otra area de la organización y hacerlo en términos de negocios y no en términos de IS.
+	- Aprobar el presupuesto del area IS
+		- Entre otras cosas, por ejemplo, establecer recursos a proyectos.

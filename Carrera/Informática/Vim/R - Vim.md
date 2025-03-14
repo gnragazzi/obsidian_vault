@@ -1,0 +1,2 @@
+- Normal Mode
+	- Entra en el [[Replace Mode]], que actúa reemplazando los caracteres bajo el cursor por los caracteres que se van tipeando.

@@ -1,0 +1,2 @@
+La planificación estratégica es el proceso de generar planes a largo plazo, estableciendo objetivos, definiendo misión-visión, observando oportunidades y desafíos de crecimiento; en el que participan Altos directivos de la empresa. 
+Se diferencia de la planificación o planeamiento porque este último es más a corto plazo e involucra tareas operativas diarias o cotidianas.
