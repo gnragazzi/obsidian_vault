@@ -3,6 +3,7 @@ Una cadena o palabra es una secuencia finita de [[Símbolo|sı́mbolos]] ele
 Operaciones:
 - [[Concatenación de Cadenas]]  
 - [[Potencia de Cadenas]] 
+- [[Reverse de Cadena]] 
 ***
 Cadenas Especiales:
 - $λ$: Cadena vacía
