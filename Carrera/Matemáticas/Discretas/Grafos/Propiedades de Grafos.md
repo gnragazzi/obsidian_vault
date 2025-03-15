@@ -19,5 +19,5 @@ Sea $G$ un [[Grafo - Definición Formal|grafo]]/[[Digrafo - Definición Formal|d
 [1]  [[Función de Grado Entrada,Saliente,Total]]
 [2] Solo para [[p-digrafo|1-digrafo]]
 [3]  [[Inversa de la Función de Incidencia|Inversa de función de incidencia]]
-[4]  [[Cadena]]
+[4]  [[Cadena - Grafos]]
 [5]  [[Camino]]

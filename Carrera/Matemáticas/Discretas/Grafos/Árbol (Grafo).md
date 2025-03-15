@@ -6,4 +6,4 @@ Sea $G = <X,U,𝛄>$ un [[Digrafo - Definición Formal|digrafo]] de orden $n$ (
 3) $G$ es conexo y tiene $n-1$ arcos.  
 4) $G$ no tiene ciclos, y si se le agrega un arco se crea exactamente un ciclo.  
 5) $G$ es conexo, y si se saca un arco deja de serlo.  
-6) Todo par de vértices de G está conectado por una y sólo una [[Cadena|cadena]].
+6) Todo par de vértices de G está conectado por una y sólo una [[Cadena - Grafos|cadena]].

@@ -1,1 +1,1 @@
-Una [[Cadena]] es un ciclo si es [[Propiedades de una Cadena-Camino#^6e2667|simple]] y [[Propiedades de una Cadena-Camino#^70e13b|cerrada]].
+Una [[Cadena - Grafos]] es un ciclo si es [[Propiedades de una Cadena-Camino#^6e2667|simple]] y [[Propiedades de una Cadena-Camino#^70e13b|cerrada]].
