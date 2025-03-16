@@ -1,2 +1,0 @@
-El test de turing consiste en una persona que conversa en lenguaje natural con dos entidades: un humano y una máquina, sin saber cuál entidad es cuál. Si la persona no puede identificar cuál de los dos interlocutores es una [[IA]], entonces la máquina pasó la prueba y se considera "inteligente".
-Según este test, entonces, la medida de la inteligencia de un ente es que no se pueda diferenciar de otro ente inteligente.

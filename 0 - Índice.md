@@ -1,6 +1,6 @@
 - [[Consideraciones sobre el aprendizaje]]
 - [[Matemáticas]]
-- [[Informática]]
+- [[Ciencias de la Computación]]
 - [[Vim]]
 - [[Intellij ULTIMATE]]
 - [[Bootcamp]]
