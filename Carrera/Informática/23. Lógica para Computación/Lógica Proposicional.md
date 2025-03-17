@@ -2,3 +2,4 @@ La lógica proposicional es un sistema formal cuyos elementos más simples repre
 ***
 [[Objeto de estudio de la Lógica]]
 [[Alfabeto de la Lógica Proposicional]]
+[[Fórmula Lógica]] 
