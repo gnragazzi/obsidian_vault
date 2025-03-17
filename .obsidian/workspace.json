@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irreductibilidad - Cadenas de Formación.md",
+                "file": "Irreducibilidad - Cadenas de Formación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irreductibilidad - Cadenas de Formación"
+              "title": "Irreducibilidad - Cadenas de Formación"
             },
             "group": "6de1acdc2847401c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Irreductibilidad - Cadenas de Formación.md",
+                "file": "Irreducibilidad - Cadenas de Formación.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Irreductibilidad - Cadenas de Formación"
+              "title": "Gráfico de Irreducibilidad - Cadenas de Formación"
             },
             "group": "6de1acdc2847401c"
           }
@@ -216,7 +216,7 @@
   "active": "d3646ea13d4821cd",
   "lastOpenFiles": [
     "Cadena de Formación.md",
-    "Irreductibilidad - Cadenas de Formación.md",
+    "Irreducibilidad - Cadenas de Formación.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",

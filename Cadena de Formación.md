@@ -10,7 +10,7 @@ Una cadena de formación de longitud $n$ es una sucesión finita $X_1, X_2, . . 
 Cada uno de los $X_i$, con $1 ≤ i ≤ n$, es llamado ***eslabón*** de la cadena de formación.
 ***
 Propiedades:
-- [[Irreductibilidad - Cadenas de Formación]] 
+- [[Irreducibilidad - Cadenas de Formación]] 
 	- 
 ***
 Ejemplo:
