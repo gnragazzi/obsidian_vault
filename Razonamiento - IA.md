@@ -1,0 +1,1 @@
+En el contexto de los MLAs, el razonamiento es descomponer una tarea potencialmente compleja en sub-tareas más simples que el [[Modelos de Lenguaje|ML]] puede resolver más fácilmente por sí mismo o usando [[Herramientas - IA]]

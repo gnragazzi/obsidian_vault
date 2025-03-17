@@ -1,0 +1,5 @@
+- Superan, en general, los cientos de billones de parámetros.
+- El modelo base es alineado mediante dos procesos:
+	- [[Ajuste por Instrucciones - Instruction Tuning]]
+	- [[Alineación a las preferencias y valores]] 
+- La interacción se realiza a través de instrucciones (promts).

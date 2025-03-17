@@ -1,0 +1,2 @@
+Extensión a los MLPs que permite, en la forma de tokens especiales, acceder a conocimiento externo (no almacenado en los pesos del modelo) y funcionalidades que exceden las capacidades predictivas del modelo. 
+Cuando tienen un efecto sobre el mundo externo, diremos que su invocación (en el contexto de un MLA) constituye la ejecución de una acción

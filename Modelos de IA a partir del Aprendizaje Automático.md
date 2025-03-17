@@ -1,0 +1,4 @@
+- [[Modelos de Lenguaje]]
+- Modelos predictivos
+- Modelos descriptivos
+- Modelos de toma de decisión 

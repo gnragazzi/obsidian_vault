@@ -1,0 +1,3 @@
+- Útil/Beneficioso: identificar las intenciones del usuario
+- Honestidad: devolver contenido correcto y no inventado
+- No Perjudicial: no dbe ser ofensivo, discriminatorio ni potencialmente peligroso.
