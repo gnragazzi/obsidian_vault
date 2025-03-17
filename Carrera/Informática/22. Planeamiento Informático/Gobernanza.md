@@ -15,3 +15,4 @@ Como conclusión:
 - Identificar que [[Participación de la organización en la Gobernanza|grupos deben estar involucrados en el proceso y como lo estarán]].
 - Documentar los roles y responsabilidades de los varios grupos involucrados en el proceso, de manera de que la autoridad en la toma de decisiones esté clara. 
 - Es importante que quede claro quién será responsable de opinar y tomar decisiones en el proceso de planificación, incluso antes de que este proceso inicie.
+- [[Escrito]] 
