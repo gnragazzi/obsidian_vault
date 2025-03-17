@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas que actúan racionalmente.md",
+                "file": "Máquinas Benevolentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistemas que actúan racionalmente"
+              "title": "Máquinas Benevolentes"
             },
             "group": "6de1acdc2847401c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sistemas que actúan racionalmente.md",
+                "file": "Máquinas Benevolentes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Sistemas que actúan racionalmente"
+              "title": "Gráfico de Máquinas Benevolentes"
             },
             "group": "6de1acdc2847401c"
           }
@@ -216,7 +216,16 @@
   },
   "active": "d3646ea13d4821cd",
   "lastOpenFiles": [
+    "Modelo Standard de IA.md",
+    "Máquinas Benevolentes.md",
+    "Problema con el Modelo Standard de IA.md",
+    "Problema de alineamiento de Valores.md",
+    "Agente Racional.md",
+    "Racionalidad Perfecta.md",
+    "Racionalidad Limitada.md",
+    "Sistemas que Actuan Racionalmente - Enfoque del Agente Racional.md",
     "¿Cómo clasificar la inteligencia?.md",
+    "Agente Computacional.md",
     "Sistemas que actúan racionalmente.md",
     "Sistemas que piensan racionalmente.md",
     "Sistemas que piensan como Humanos.md",
@@ -238,15 +247,6 @@
     "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Reverse de Cadena.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "ER.md",
-    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
-    "Carrera/Matemáticas/Discretas/Conjuntos.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
     "Carrera/Informática/24. Autómatas y Lenguajes",
     "Imagenes/Captura de pantalla 2025-03-14 a la(s) 1.12.45 p. m..png",
     "Carrera/Informática/22. Planeamiento Informático",

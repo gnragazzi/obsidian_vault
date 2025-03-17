@@ -1,0 +1,1 @@
+Tomar la mejor decisión posible dada la limitación en tiempo y recursos.

@@ -8,8 +8,7 @@ Para poder construir máquinas *inteligentes*, debemos hacernos una idea de *qu�
 	- Comportamiento: la inteligencia esta caracterizada por lo *externo*, por lo que se hace y su resultado.
 
 
-|                                          | $\color{#3c8}{\text{Humano}}$         | $\color{#3c8}{\text{Racional}}$        |
-| ---------------------------------------- | ------------------------------------- | -------------------------------------- |
-| $\color{#a8c4d3}{\text{Pensamiento}}$    | [[Sistemas que piensan como Humanos]] | [[Sistemas que piensan racionalmente]] |
-| $\color{#a8c4d3}{\text{Comportamiento}}$ | [[Sistemas que actúan como Humanos]]  | [[Sistemas que actúan racionalmente]]  |
-|                                          |                                       |                                        |
+|                                          | $\color{#3c8}{\text{Humano}}$         | $\color{#3c8}{\text{Racional}}$                                                           |
+| ---------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------- |
+| $\color{#a8c4d3}{\text{Pensamiento}}$    | [[Sistemas que piensan como Humanos]] | [[Sistemas que piensan racionalmente]]                                                    |
+| $\color{#a8c4d3}{\text{Comportamiento}}$ | [[Sistemas que actúan como Humanos]]  | [[Sistemas que Actuan Racionalmente - Enfoque del Agente Racional\|Sistemas que actúan racionalmente]] |

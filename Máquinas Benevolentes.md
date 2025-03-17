@@ -1,0 +1,3 @@
+Es una alternativa posible al [[Modelo Standard de IA]], buscando una solución al [[Problema con el Modelo Standard de IA]]. 
+La idea es darle objetivos vagos e inciertos al [[Agente Racional|agente]] y que, ante la incertidumbre de sus objetivos, la máquina defiera hacia el control humano.
+Los agentes que se comporten según este paradigma son conocidos como [[Agentes "Probablemente Beneficiosos"]] 

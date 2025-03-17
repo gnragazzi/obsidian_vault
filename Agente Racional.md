@@ -1,0 +1,1 @@
+Un ***Agente Racional*** es un [[Agente Computacional|agente]] que actúa para conseguir el mejor resultado o, cuando hay incertidumbre sobre cual es el mejor resultado, el *mejor resultado esperado*.
