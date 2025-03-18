@@ -1,7 +1,7 @@
 Sea $S$ un subconjunto de $A^∗$ [[Cerrado por los Conectivos]]. Si $S$ contiene a todas las [[Variables Proposicionales]], entonces S contiene a todas las [[Fórmula Lógica|fórmulas]].
 ***
 Importancia: 
-El teorema anterior nos da un método para probar que las fórmulas tienen una determinada propiedad. Basta con tomar un conjunto $B ⊆ A^∗$, formado por todas las listas de símbolos que satisfacen una propiedad, digamos “propiedad-1”, y verificar que ese subconjunto de A∗ es cerrado por los conectivos y contiene a todas las variables proposicionales, para asegurar que todas las fórmulas están en B, por lo tanto todas las fórmulas satisfacen la propiedad “propiedad-1”.
+El teorema anterior nos da un método para probar que las fórmulas tienen una determinada propiedad. Basta con tomar un conjunto $B ⊆ A^∗$, formado por todas las listas de símbolos que satisfacen una propiedad, digamos “propiedad-1”, y verificar que ese subconjunto de $A^∗$ es [cerrado por los conectivos] y contiene a todas las [variables proposicionales], para asegurar que todas las [fórmulas] están en $B$, por lo tanto todas las [fórmulas] satisfacen la propiedad “propiedad-1”.
 ***
 Demostración (Por inducción)
 Sea $S$ un subconjunto de $A^∗$ cerrado por los conectivos y que *contiene a todas las variables proposicionales*[(1)]. 
