@@ -7,3 +7,6 @@ Dado [[Alfabeto de la Lógica Proposicional|A*]], una lista de símbolos de A es
 ***
 Definición 2
 Una lista de símbiolos $P∈A*$ es una fórmula si y solo si existe una [[Cadena de Formación]] $X_1,X_2,...,X_n$ tal que $P=X_n$ .
+***
+Propiedades:
+- [[Igualdad de Fórmulas Lógicas]] 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irreducibilidad - Cadenas de Formación.md",
+                "file": "Teorema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irreducibilidad - Cadenas de Formación"
+              "title": "Teorema 1"
             },
             "group": "6de1acdc2847401c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Irreducibilidad - Cadenas de Formación.md",
+                "file": "Teorema 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.446112201403776,
+                  "scale": 0.9640748009358506,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Irreducibilidad - Cadenas de Formación"
+              "title": "Gráfico de Teorema 1"
             },
             "group": "6de1acdc2847401c"
           }
@@ -215,8 +215,16 @@
   },
   "active": "d3646ea13d4821cd",
   "lastOpenFiles": [
-    "Cadena de Formación.md",
-    "Irreducibilidad - Cadenas de Formación.md",
+    "Carrera/Informática/23. Lógica para Computación/Cerrado por los Conectivos.md",
+    "Teorema 1.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
+    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Carrera/Informática/23. Lógica para Computación/Igualdad de Fórmulas Lógicas.md",
+    "Carrera/Informática/23. Lógica para Computación/Irreducibilidad - Cadenas de Formación.md",
+    "Imagenes/Pasted image 20250318072553.png",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
@@ -224,17 +232,13 @@
     "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
-    "Fórmula Lógica.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
-    "Variables Proposicionales.md",
-    "Conectivos Lógicos.md",
+    "Carrera/Informática/23. Lógica para Computación/Variables Proposicionales.md",
+    "Carrera/Informática/23. Lógica para Computación/Conectivos Lógicos.md",
     "Carrera/Informática/21. IA/Sistemas que actúan racionalmente.md",
     "Carrera/Informática/Algoritmia/Versión Iterativa.md",
-    "Escrito.md",
+    "Carrera/Informática/23. Lógica para Computación/Escrito.md",
     "Herramientas - IA.md",
     "Imagenes/Pasted image 20250316091248.png",
     "Imagenes/Pasted image 20250316091001.png",
@@ -245,12 +249,8 @@
     "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.19.04 p. m..png",
     "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.18.29 p. m..png",
     "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.18.09 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.13.57 p. m..png",
-    "IS.md",
+    "Carrera/Informática/23. Lógica para Computación/IS.md",
     "Carrera/Informática/21. IA/¿Cómo clasificar la inteligencia?.md",
-    "Carrera/Informática/21. IA/Transformers.md",
-    "Carrera/Informática/21. IA/Sistemas que piensan racionalmente.md",
-    "Carrera/Informática/21. IA/Sistemas que piensan como Humanos.md",
     "Carrera/Informática/Sin nombre",
     "Carrera/Informática/24. Autómatas y Lenguajes",
     "Carrera/Informática/22. Planeamiento Informático",
