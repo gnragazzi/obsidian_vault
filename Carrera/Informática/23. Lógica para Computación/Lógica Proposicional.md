@@ -6,3 +6,5 @@ Teoremas
 [[Objeto de estudio de la Lógica]]
 [[Alfabeto de la Lógica Proposicional]]
 [[Fórmula Lógica]] 
+***
+[[Práctico 1 - Cálculo Proposicional]] 
