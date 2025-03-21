@@ -13,20 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Carrera/Matemáticas/Discretas/Proposición Lógica.md",
+=======
+                "file": "MELI/git/git config.md",
+>>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Proposición Lógica"
             }
           },
+=======
+              "title": "git config"
+            },
+            "group": "6de1acdc2847401c"
+          }
+        ]
+      },
+      {
+        "id": "52319dc4b5e9f4ec",
+        "type": "tabs",
+        "children": [
+>>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
           {
             "id": "60705a03cf4fa74c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Práctico 1 - Cálculo Proposicional.md",
                 "mode": "source",
                 "source": false
@@ -34,6 +52,39 @@
               "icon": "lucide-file",
               "title": "Práctico 1 - Cálculo Proposicional"
             }
+=======
+                "file": "MELI/git/git config.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6485958725124819,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of git config"
+            },
+            "group": "6de1acdc2847401c"
+>>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
           }
         ],
         "currentTab": 1
@@ -186,6 +237,7 @@
   },
   "active": "60705a03cf4fa74c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Práctico 1 - Cálculo Proposicional.md",
     "Conjunción.md",
     "Carrera/Matemáticas/Discretas/Proposición Lógica.md",
@@ -201,6 +253,14 @@
     "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
     "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Composite Pattern.md",
     "Carrera/Informática/Programación Orientada a Objetos/Programación Orientada a Objetos.md",
+=======
+    "prueba.txt",
+    "MELI/git/Git.md",
+    "Carrera/Informática/21. IA/¿Cómo clasificar la inteligencia?.md",
+    "Carrera/Informática/21. IA/IA.md",
+    "Carrera/Informática/Ciencias de la Computación.md",
+    "0 - Índice.md",
+>>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
     "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
     "Corolario 1 - Lógica para computación.md",
     "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
@@ -212,7 +272,19 @@
     "Carrera/Informática/23. Lógica para Computación/Peso de una Lista.md",
     "Peso.md",
     "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
+<<<<<<< HEAD
     "Imagenes/Pasted image 20250318072553.png",
+=======
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
+    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Igualdad de Fórmulas Lógicas.md",
+    "Carrera/Informática/23. Lógica para Computación/Irreducibilidad - Cadenas de Formación.md",
+    "Imagenes/Pasted image 20250318072553.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
+>>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
     "Imagenes/Pasted image 20250316091248.png",
     "Imagenes/Pasted image 20250316091001.png",
     "Imagenes/Captura de pantalla 2025-03-17 a la(s) 9.24.06 a. m..png",
