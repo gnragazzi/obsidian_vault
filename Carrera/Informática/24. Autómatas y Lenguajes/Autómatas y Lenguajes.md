@@ -6,4 +6,6 @@
 	- [[Gramática]] 
 	- [[Autómata]] 
 	- [[Jerarquía de Chomsky]]
+- Unidad 2 
+	- [[Lenguajes Regulares]] 
 	- [[Expresiones Regulares - Lenguajes]] 

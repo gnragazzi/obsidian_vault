@@ -1,0 +1,3 @@
+La función $ɸ:L_{ER}→2^{Σ*}$, es denominada la función de valuación
+$L_{ER}$ es el conjunto de todas las posibles [[Expresiones Regulares - Lenguajes|expresiones regulares]]. 
+$ɸ$ toma como argumento una expresión regular bien formada [[Definición Recursiva de E.R.|según esta definición]] y da como resultado el conjunto de cadenas denotado por dicha expresión. Luego![[Captura de pantalla 2025-03-20 a la(s) 8.56.12 a. m..png]]
