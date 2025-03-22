@@ -1,1 +1,1 @@
-Concepto abarcativo que involucra estadística, [[IA]], particularmente [[Aprendizaje Automático]] informática y otras disciplinas.
+Concepto abarcativo que involucra estadística, [[Inteligencia Artificial]], particularmente [[Aprendizaje Automático]] informática y otras disciplinas.

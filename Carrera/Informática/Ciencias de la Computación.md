@@ -11,4 +11,4 @@ Materias de la Carrera:
 - [[Lógica Para Computación]]
 - [[Planeamiento Informático]] 
 - [[Autómatas y Lenguajes]]
-- [[IA]] 
+- [[Inteligencia Artificial]] 

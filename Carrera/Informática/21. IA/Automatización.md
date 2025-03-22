@@ -1,1 +1,1 @@
-Tomar una actividad repetitiva y crear alguna forma de sistema que realice la tarea, liberándonos del tedio de tener que repetirla. Se puede conseguir con herramientas de [[IA]], así como también con scripts de [[Bash]]
+Tomar una actividad repetitiva y crear alguna forma de sistema que realice la tarea, liberándonos del tedio de tener que repetirla. Se puede conseguir con herramientas de [[Inteligencia Artificial]], así como también con scripts de [[Bash]]

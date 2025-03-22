@@ -4,4 +4,4 @@ Propiedades
 - Si $|X|=n$, entonces $|P(X)|=2^n$ para todo $n≥0$
 ***
 Notación alternativa.
-- En EDA, vimos que el conjunto de partes tiene una notación alternativa que es $$2^X$$
+- En EDA, vimos que el conjunto de partes tiene una notación alternativa que es $$2^X$$ ^d7cf39

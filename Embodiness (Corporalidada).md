@@ -1,0 +1,1 @@
+Es un caso particular de [[Ubicación (Situatedness)|situatedness]] en el cuál un [[Agente Computacional|agente]] tiene un cuerpo físico que ***restringe sus interacciones*** con el [[Ambiente - Agentes|ambiente]].

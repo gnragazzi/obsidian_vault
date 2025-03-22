@@ -1,0 +1,1 @@
+Medida de Performance de un agente es la evaluación de qué tan deseable es una [[Agente como Función#^283fa6|secuencia de estados del ambiente]] generada por una [[Percepción y Comportamiento de un Agente#^34c282|secuencia de acciones]] del agente.

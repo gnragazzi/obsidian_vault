@@ -5,7 +5,7 @@
 	- Problemas que *sospechamos* que son computacionalmente difíciles.
 - **Problemas computacionalmente irresolubles**: no tenemos un algoritmo para resolver este problema porque no puede existir tal algoritmo.
 ***
-- La [[IA]] se encarga de problema conceptual y analíticamente difíciles.
+- La [[Inteligencia Artificial]] se encarga de problema conceptual y analíticamente difíciles.
 - [[Teoría de la Complejidad]] se encarga de problemas analíticos y computacionalmente difíciles
 - [[Teoría de la Computabilidad]] se ocupa de problemas irresolubles
 ---
