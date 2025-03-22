@@ -1,50 +1,18 @@
 {
   "main": {
-    "id": "b0af036b956fdc38",
+    "id": "d2589c2bdbc1b1b1",
     "type": "split",
     "children": [
       {
-        "id": "257452f4a4a04d3e",
+        "id": "7b691eeb8534baf7",
         "type": "tabs",
         "children": [
           {
-            "id": "d0470930e88f6a1e",
+            "id": "e259521c362b86ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Carrera/Matemáticas/Discretas/Proposición Lógica.md",
-=======
-                "file": "MELI/git/git config.md",
->>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Proposición Lógica"
-            }
-          },
-=======
-              "title": "git config"
-            },
-            "group": "6de1acdc2847401c"
-          }
-        ]
-      },
-      {
-        "id": "52319dc4b5e9f4ec",
-        "type": "tabs",
-        "children": [
->>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
-          {
-            "id": "60705a03cf4fa74c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
                 "file": "Práctico 1 - Cálculo Proposicional.md",
                 "mode": "source",
                 "source": false
@@ -52,12 +20,39 @@
               "icon": "lucide-file",
               "title": "Práctico 1 - Cálculo Proposicional"
             }
-=======
-                "file": "MELI/git/git config.md",
+          },
+          {
+            "id": "c2542a4a0176282c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fórmula Lógica"
+            },
+            "group": "93968e0e2c87b477"
+          }
+        ]
+      },
+      {
+        "id": "300f97d243f168d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e707ca88dec4d45",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -67,7 +62,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -76,32 +71,30 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6485958725124819,
+                  "scale": 1,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of git config"
+              "title": "Gráfico de Fórmula Lógica"
             },
-            "group": "6de1acdc2847401c"
->>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
+            "group": "93968e0e2c87b477"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f614a952743c3527",
+    "id": "a956fa65c2c5fb5f",
     "type": "split",
     "children": [
       {
-        "id": "4e631f66ceb1f85b",
+        "id": "ee4c18eaa18128b3",
         "type": "tabs",
         "children": [
           {
-            "id": "9d95dd6f180a6441",
+            "id": "f2fbc802a917127a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,12 +107,12 @@
             }
           },
           {
-            "id": "0c4bf96a3eba123a",
+            "id": "25603eb095bd03ec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "frame",
+                "query": "tag:#Ejercicio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,20 +120,21 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "ecd4d76294aaf980",
+            "id": "6fb43cf2860911c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,20 +142,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "682d6b430e13ac7d",
+    "id": "99effa8d7fab6cd6",
     "type": "split",
     "children": [
       {
-        "id": "940cbb80cdf46783",
+        "id": "5414253a9c4feb84",
         "type": "tabs",
         "children": [
           {
-            "id": "1a93ce4dc7d79d50",
+            "id": "db2535f303f160bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gobernanza.md",
+                "file": "Práctico 1 - Cálculo Proposicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,25 +165,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gobernanza"
+              "title": "Enlaces entrantes de Práctico 1 - Cálculo Proposicional"
             }
           },
           {
-            "id": "fc29de511c2b23c2",
+            "id": "cba6d043ddadd5aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MELI/Java/Expresión Lambda.md",
+                "file": "Práctico 1 - Cálculo Proposicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expresión Lambda"
+              "title": "Enlaces salientes de Práctico 1 - Cálculo Proposicional"
             }
           },
           {
-            "id": "edd4396cab47d2a7",
+            "id": "e92168dbb00ca0aa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -200,22 +194,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "344ffd2a1282173a",
+            "id": "a21fbf243480da19",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MELI/Java/Expresión Lambda.md",
+                "file": "Práctico 1 - Cálculo Proposicional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expresión Lambda"
+              "title": "Esquema de Práctico 1 - Cálculo Proposicional"
             }
           }
         ]
@@ -235,74 +229,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "60705a03cf4fa74c",
+  "active": "e259521c362b86ab",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Práctico 1 - Cálculo Proposicional.md",
-    "Conjunción.md",
-    "Carrera/Matemáticas/Discretas/Proposición Lógica.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
-    "Carrera/Informática/22. Planeamiento Informático/Comité de Dirección de Sistemas de la información (IS steering committee).md",
-    "Carrera/Informática/22. Planeamiento Informático/Gobernanza.md",
-    "Carrera/Informática/22. Planeamiento Informático/Marco de Trabajo.md",
-    "Carrera/Informática/22. Planeamiento Informático/Planeamiento Informático.md",
-    "Carrera/Informática/Ciencias de la Computación.md",
-    "0 - Índice.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Observer Pattern.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Patrones de Diseño.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Composite Pattern.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Programación Orientada a Objetos.md",
-=======
-    "prueba.txt",
-    "MELI/git/Git.md",
-    "Carrera/Informática/21. IA/¿Cómo clasificar la inteligencia?.md",
-    "Carrera/Informática/21. IA/IA.md",
-    "Carrera/Informática/Ciencias de la Computación.md",
-    "0 - Índice.md",
->>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
     "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Corolario 1 - Lógica para computación.md",
-    "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
-    "Carrera/Informática/23. Lógica para Computación/Teorema 2 - Unicidad de la Lectura de las Fórmulas.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "Carrera/Informática/23. Lógica para Computación/Teorema 1.md",
-    "Carrera/Informática/23. Lógica para Computación/Cerrado por los Conectivos.md",
-    "Carrera/Informática/23. Lógica para Computación/Peso de una Lista.md",
-    "Peso.md",
     "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
-<<<<<<< HEAD
-    "Imagenes/Pasted image 20250318072553.png",
-=======
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
+    "Práctico 1 - Cálculo Proposicional.md",
     "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Igualdad de Fórmulas Lógicas.md",
-    "Carrera/Informática/23. Lógica para Computación/Irreducibilidad - Cadenas de Formación.md",
-    "Imagenes/Pasted image 20250318072553.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
->>>>>>> 368802acd561967c7af34b0812e4d4d2249a37bd
-    "Imagenes/Pasted image 20250316091248.png",
-    "Imagenes/Pasted image 20250316091001.png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 9.24.06 a. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.29.30 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.28.31 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.19.21 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.19.04 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.18.29 p. m..png",
-    "Imagenes/Captura de pantalla 2025-03-17 a la(s) 12.18.09 p. m..png",
-    "Carrera/Informática/Sin nombre",
-    "Carrera/Informática/24. Autómatas y Lenguajes",
-    "Carrera/Informática/22. Planeamiento Informático",
-    "MELI/Vim",
-    "Latam-Keyboard/Latam_C_white.keylayout",
-    "Latam-Keyboard/Latam_C_white.icns",
-    "Latam-Keyboard/Latam_C.keylayout",
-    "Latam-Keyboard/Latam_C.icns",
-    "Latam-Keyboard/Latam_B_white.keylayout",
-    "Latam-Keyboard/Latam_B_white.icns"
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
+    "Carrera/Informática/Ciencias de la Computación.md",
+    "0 - Índice.md"
   ]
 }

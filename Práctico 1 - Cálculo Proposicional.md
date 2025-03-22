@@ -105,6 +105,37 @@ Representar las siguientes expresiones del lenguaje natural en forma simbólica,
 		- $p_4$ El alumno debe aprobar el examen final
 		- $p_5$ El alumno puede aprobar lógica
 	 
-
+**Ejercicio 4**
+Determinar cuáles de las siguientes secuencias pertenecen al lenguaje *Form* definido en teoría, justificando en cada caso su decisión. Cuando la razón sea la falta de paréntesis, transformarlas en fórmulas del lenguaje.  
+- En base a la primera definición de fórmula vista el teoría, según la cual siendo $A^*$ el lenguaje referencial construido a partir del álfabeto $$A = \{ p, |, ¬, ∨, ∧, →, (, ) \}$$una lista de símbolos de A es una fórmula lógica si y solo si se la puede obtener aplicando un número finito de veces las siguientes reglas$^{(3)}$:
+	1. Las [[Variables Proposicionales]] son fórmulas
+	2. Si $P∈A*$ es una fórmula, entonces $¬P$ es una fórmula
+	3. Si $P,Q∈A*$ es una fórmula, entonces $(P ∨ Q), (P ∧ Q) y (P → Q)$
+	con esto en mente, observemos que 
+- $1. ∨ p_0 ∉ Form$  
+	- No se corresponde a una lista de símbolos de A que cumple las reglas descriptas en $^{(3)}$
+	- El conectivo $∨$ debería ser binario en cualquier lista $∈Form$ 
+- $3. ((p_3 ∨ ¬p_1) → p_2¬)$
+	- No se corresponde a una lista de símbolos de A que cumple las reglas descriptas en $^{(3)}$
+	- El conectivo $¬$ no antecede a una variable proposicional, como si lo haría en cualquier lista $∈ Form$
+- $5. ¬((¬p_2 → p_3 ∧ p_4) ∨ p_1)$  
+	- Para que sea una lista $∈Form$, la expresión $p_3 ∧ p_4$ debería estar entre paréntesis. 
+	- La lista $¬((¬p_2 → (p_3 ∧ p_4)) ∨ p_1) ∈ Form$ 
+- $7. (p_3 ∧ (p_1 → (¬p_2 ∨ p_3)) ∨ (p_4 → p_1))$ 
+	- Faltan parentesis para que la lista considerada sea una fórmula lógica. Existen dos formas de agregar los paréntesis:
+		- $((p_3 ∧ (p_1 → (¬p_2 ∨ p_3))) ∨ (p_4 → p_1))$ 
+		- $(p_3 ∧ ((p_1 → (¬p_2 ∨ p_3)) ∨ (p_4 → p_1)))$ 
+- $9. ¬(p_1 → (((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5) → ¬p_6))$
+	- $¬(p_1 → (((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5) → ¬p_6))∈Form$. Teniendo en cuenta las reglas descriptas en $^{(3)}$:
+		- $p_1$, $p_2$, $p_3$, $p_4$, $p_5$ y $p_6$ son fórmulas por 1.
+		- $(p_4 ∧ p_5)$ es fórmula por 3.
+		- $(p_3 ∨ (p_4 ∧ p_5))$ es fórmula por 3.
+		- $¬p_2$ es fórmula por 2.
+		- $(¬p_2 → (p_3 ∨ (p_4 ∧ p_5)))$ es fórmula por 3.
+		- $((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5)$ es fórmula por 3.
+		- $¬p_6$ es fórmula por 2.
+		- $(((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5) → ¬p_6)$ es fórmula por 3.
+		- $(p_1 → (((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5) → ¬p_6))$ es fórmula por 3.
+		- $¬(p_1 → (((¬p_2 → (p_3 ∨ (p_4 ∧ p_5))) → p_5) → ¬p_6))$ es fórmnula por 2.
 ***
 [1] https://www.rae.es/gtg/oraci%C3%B3n-de-modalidad-declarativa
