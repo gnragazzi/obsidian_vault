@@ -2,7 +2,7 @@ La inteligencia Artificial es un campo de las [[Ciencias de la Computación]] cu
 ***
 [[¿Cómo clasificar la inteligencia?]] 
 ***
-Si bien no hay consenso en una definición de IA, se entiende que se habla de sistemas que tienen [[Autonomía]] y [[Adaptabilidad]].
+Si bien no hay consenso en una definición de IA, se entiende que se habla de [[Agente Computacional]] que tienen [[Autonomía]] y [[Adaptabilidad]].
 
 Es importante notar que IA es el nombre de la disciplina, que es una rama de la [[Ciencias de la Computación]].
 

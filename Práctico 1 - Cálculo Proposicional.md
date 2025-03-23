@@ -175,6 +175,175 @@ p5 = los otros pacientes tuvieron que esperar.
 - $7. (p_2 → (¬p_3 ∧ ¬p_5))$
 	- El dentista no le hizo un conducto a Andrés y nos otros pacientes no tuvieron que esperar, dado que el dentista faltó a la cita.
 **
+**Ejercicio 7**
+Dadas las siguientes fórmulas:  
+- $i. ((p2 → ¬p3) → ¬(p2 ∧ (¬p5 → p3)))$
+- $ii. (((¬(p1 ∧ p2) ∨ p2) → ¬p4) ∧ ¬p0)$
+- $iii. (((¬(p1 → p1) ∨ p1) → ¬p4) ∨ ¬p1)$
+1. Dar dos cadenas de formación irreducibles y dos que no lo sean, para cada una de ellas.  
+2. En cada caso dar las secuencias de reglas (FP1), (FP2) y (FP3) utilizadas para escribir cada una de las fórmulas.
+Recordamos que 
+- Una cadena de formación de longitud $n$ es una sucesión finita $X_1, X_2, . . . , X_n$ de elementos de $A^∗$ que satisface las condiciones siguientes$^{(4)}$  
+	- (CF) Para cada $i$, con $1 ≤ i ≤ n$, se tiene que:  
+		- o bien $X_i$ es una variable proposicional, 
+		- o bien existe un $j$ tal que 1 $≤ j ≤ i − 1$ y $X_i = ¬X_j$, 
+		- o bien existen $j$ y $k$, ambos entre $1 ≤ j$, $k ≤ i − 1$, tales que
+			- $X_i = (X_j ∨ X_k)$  o
+			- $X_i = (X_j ∧ X_k)$ o 
+			- $X_i = (X_j → X_k)$
+- Una [[Cadena de Formación|cadena de formación]] $X_1, X_2, . . . , X_n$ se dice o *irreductible* si para todo $i$ tal que $1 ≤ i ≤ n − 1$, la sucesión $X_1, . . . , X_{i−1}, X_{i+1}, . . . , X_n$ no es una cadena de formación.
 
+Por otro lado, *FP1*, *FP2* y *FP3* se corresponden a los puntos 1. 2. y 3. de $^{(3)}$
+- $i. ((p2 → ¬p3) → ¬(p2 ∧ (¬p5 → p3)))$
+	- 1.
+		- [[Cadena de Formación|Cadenas de Formación]] [[Irreducibilidad - Cadenas de Formación|Irreductibles]] 
+			- $$\matrix{
+X_1 = p_2\\
+X_2 = p_3\\
+X_3 = p_5\\  
+X_4 = ¬X_3\\  
+X_5 = (X_4 → X_2)\\
+X_6 = (X_1 ∧ X_5)\\  
+X_7 = ¬X_6\\
+X_8 = ¬X_2\\
+X_9 = (X_1→X_8)\\
+X_{10} = (X_9→X_6)
+}$$
+			- $$\matrix{
+X_1 = p_2\\
+X_2 = p_3\\
+X_3 = ¬X_2\\
+X_4 = (X_1→X_3)\\
+X_5 = p_5\\  
+X_6 = ¬X_5\\  
+X_7 = (X_6 → X_2)\\
+X_8 = (X_1 ∧ X_7)\\  
+X_9 = ¬X_8\\
+X_{10} = (X_4→X_9)
+}$$
+		- Cadenas de Formación no Irreductibles
+			- $$\matrix{
+X_1 = p_2\\
+X_2 = p_3\\
+X_3 = p_5\\  
+X_4 = ¬X_3\\  
+X_5 = (X_4 → X_2)\\
+X_6 = (X_1 ∧ X_5)\\  
+X_7 = ¬X_6\\
+X_8 = ¬X_2\\
+X_9 = (X_1→X_8)\\
+X_{10} = ¬X_9\\ 
+X_{11} = (X_9→X_6)
+}$$
+				- Observese que $X_1,X_2,...,X_9,X_{11}$ es una cadena de formación. Luego la anterior cadena de formación no es irreducible.
+			- $$\matrix{
+X_1 = p_2\\
+X_2 = ¬X_1\\
+X_3 = p_3\\
+X_4 = ¬X_3\\
+X_5 = (X_2∨X_4)\\
+X_6 = (X_1→X_4)\\
+X_7 = p_5\\  
+X_8 = ¬X_7\\  
+X_9 = (X_8 → X_3)\\
+X_{10} = (X_1 ∧ X_9)\\  
+X_{11} = ¬X_{10}\\
+X_{12} = (X_6→X_11)
+}$$
+				- Observese que $X_1,X_2,...,X_4,X_6,X_7,...,X_{12}$ también es una cadena de formación. Luego la anterior cadena de formación no es irreducible.
+	- 2.
+		1. $p_2,p_3,p_5$ son fórmula por FP1.
+		2. $¬p_5$ por FP2.
+		3. $(¬p5 → p3)$ por FP3.
+		4. $(p2 ∧ (¬p5 → p3))$ por FP3
+		5. $¬(p2 ∧ (¬p5 → p3))$ por FP2
+		6. $¬p_3$ por FP2
+		7. $(p2 → ¬p3)$ por FP3
+		8. $((p2 → ¬p3) → ¬(p2 ∧ (¬p5 → p3)))$ por FP3
+- $iii. (((¬(p_1 → p_1) ∨ p_1) → ¬p_4) ∨ ¬p_1)$
+	- 1.
+		- [[Cadena de Formación|Cadenas de Formación]] [[Irreducibilidad - Cadenas de Formación|Irreductibles]] 
+			- $$\matrix{
+X_1 = p_1\\
+X_2 = p_4\\
+X_3 = ¬X_1\\  
+X_4 = ¬X_2\\  
+X_5 = (X_1 → X_1)\\
+X_6 = ¬X_5\\  
+X_7 = (X_6∨X_1)\\
+X_8 = (X_7→X_4)\\
+X_9 = (X_8∨X_3)\\
+}$$
+			- $$\matrix{
+X_1 = p_1\\
+X_2 = (X_1 → X_1)\\
+X_3 = ¬X_2\\ 
+X_4 = (X_3∨X_1)\\
+X_5 = p_4\\
+X_6 = ¬X_5\\  
+X_7 = (X_4→X_6)\\
+X_8 = ¬X_1\\  
+X_9 = (X_7∨X_8)\\
+}$$
+		- Cadenas de Formación no Irreductibles
+			- $$\matrix{
+X_1 = p_1\\
+X_2 = p_4\\
+X_3 = ¬X_1\\  
+X_4 = ¬X_2\\  
+X_5 = (X_1 → X_1)\\
+X_6 = ¬X_5\\  
+X_7 = (X_6∨X_1)\\
+X_8 = (X_7→X_4)\\
+X_9 = (X_1∧X_2)\\
+X_{10} = (X_8∨X_3)\\
+}$$
+				- Observese que $X_1,X_2,...,X_8,X_{10}$ es una cadena de formación. Luego la anterior cadena de formación no es irreducible.
+			- $$\matrix{
+X_1 = p_1\\
+X_2 = (X_1 → X_1)\\
+X_3 = ¬X_2\\ 
+X_4 = (X_3∨X_1)\\
+X_5 = p_4\\
+X_6 = ¬X_5\\  
+X_7 = (X_4→X_6)\\
+X_8 = ¬X_1\\  
+X_9 = (X_7∧X_8)\\
+X_{10} = (X_7∨X_8)\\
+}$$
+				- Observese que $X_1,X_2,...,X_8,X_{10}$ es una cadena de formación. Luego la anterior cadena de formación no es irreducible.
+	- 2. $(((¬(p_1 → p_1) ∨ p_1) → ¬p_4) ∨ ¬p_1)$
+		1. $p_1$ es fórmula por FP1
+		2. $(p_1 → p_1)$ es fórmula por FP3
+		3. $¬(p_1 → p_1)$ es fórmula por FP2
+		4. $(¬(p_1 → p_1) ∨ p_1)$ es fórmula por FP3
+		5. $p_4$ es fórmula por FP1
+		6. $¬p_4$ es fórmula por FP2
+		7. $((¬(p_1 → p_1) ∨ p_1) → ¬p_4)$ es fórmula por FP3
+		8. $¬p_1$ es fórmula por FP2
+		9. $(((¬(p_1 → p_1) ∨ p_1) → ¬p_4) ∨ ¬p_1)$ es fórmula por FP3
+**
+**Ejercicio 8**
+Decidir si las siguientes expresiones son fórmulas, utilizando el concepto de cadena de formación (expresado en $^{(4)}$).  
+Recordamos que, según la segunda definición vista de fórmula lógica dice que una lista de símbiolos $P∈A*$ es una fórmula si y solo si existe una [[Cadena de Formación]] $X_1,X_2,...,X_n$ tal que $P=X_n$ .$^{(5)}$
+- $1. ¬(p2 ∧ (¬p5 → p3))$
+	- Sea $$\matrix{
+X_1 = p_2\\
+X_2 = p_3\\
+X_3 = p_5\\ 
+X_4 = ¬X_3\\
+X_5 = (X_4→X_2)\\
+X_6 = (X_1∧X_5)\\  
+X_7 = ¬X_6\\
+}$$ una cadena de formación de longitud 7. Observemos que $X_7=¬(p2 ∧ (¬p5 → p3))$. Por $^{(5)}$, $¬(p2 ∧ (¬p5 → p3))$ es fórmula.
+- $3. ((p3 ∧ p2 ∨ p4 → p1)$
+	- No es fórmula, puesto que no hay forma de construir una cadena de formación siguiendo los pasos descriptos en $^{(4)}$ (faltan paréntesis). 
+- $5. (¬(p1 → p1) ∨ p1)$
+	- sea $$\matrix{
+X_1 = p_1\\
+X_2 = (X_1→X_1)\\
+X_3 = ¬X_2\\ 
+X_4 = (X_3∨X_1)\\
+}$$ una cadena de formación de longitud 4. Observemos que $X_4=5. (¬(p1 → p1) ∨ p1)$. Por $^{(5)}$, $5. (¬(p1 → p1) ∨ p1)$ es fórmula.
 ***
 [1] https://www.rae.es/gtg/oraci%C3%B3n-de-modalidad-declarativa

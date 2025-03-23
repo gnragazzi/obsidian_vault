@@ -1,8 +1,8 @@
-Una ***relación (binaria)*** $R$ de un [[Conjuntos|conjunto]] $X$ a un conjunto $Y$ es un subconjunto del [[Producto Cartesiano]] $X × Y$. $$(x, y) ∈ R$ ⇔xRy$$En tal caso, decimos que *x está relacionada con y*. 
+Una ***relación (binaria)*** $R$ de un [[Conjuntos|conjunto]] $X$ a un conjunto $Y$ es un subconjunto del [[Producto Cartesiano]] $X × Y$. $$(x, y) ∈ R ⇔xRy$$En tal caso, decimos que *x está relacionada con y*. 
 Si $X = Y$, $R$ es una ***relación binaria sobre*** X.
 ***
 - Una [[Función (Discretas)|función]] es un tipo particular de relación.
-- Se utilizan [[Grafos]] para representar (modelar) relaciones.
+- Se utilizan [[Grafo - Definición Formal]] para representar (modelar) relaciones.
 - [[Relación Inversa]]
 - [[Composición de Relaciones]]
 ***
@@ -12,6 +12,7 @@ Propiedades
 - [[Anti-Simetría]]
 - [[Transitividad]]
 - [[Completitud]]
+- [[Relación Total|Total]]  
 ***
 Clasificación
 - [[Orden Parcial]]

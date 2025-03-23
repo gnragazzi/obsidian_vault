@@ -1,1 +1,1 @@
-Una cadena de formación $X_1, X_2, . . . , X_n$ se dice *irredundante* (o *irreducible*) si para todo $i$ tal que $1 ≤ i ≤ n − 1$, la sucesión $X_1, . . . , X_{i−1}, X_{i+1}, . . . , X_n$ no es una cadena de formación.
+Una [[Cadena de Formación|cadena de formación]] $X_1, X_2, . . . , X_n$ se dice *irredundante* (o *irreducible*) si para todo $i$ tal que $1 ≤ i ≤ n − 1$, la sucesión $X_1, . . . , X_{i−1}, X_{i+1}, . . . , X_n$ no es una cadena de formación.

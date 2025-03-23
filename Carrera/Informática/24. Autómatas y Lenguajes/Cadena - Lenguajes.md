@@ -6,4 +6,4 @@ Operaciones:
 - [[Reverse de Cadena]] 
 ***
 Cadenas Especiales:
-- $λ$: Cadena vacía
+- $λ$: Cadena vacía ^41d68b
