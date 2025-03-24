@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
+                "file": "Carrera/Informática/21. IA/RNN - Redes Neuronales Recurrentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición Recursiva de E.R."
+              "title": "RNN - Redes Neuronales Recurrentes"
             },
             "group": "b98bdabd37302dcb"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
+                "file": "Carrera/Informática/21. IA/RNN - Redes Neuronales Recurrentes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Definición Recursiva de E.R."
+              "title": "Gráfico de RNN - Redes Neuronales Recurrentes"
             },
             "group": "b98bdabd37302dcb"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "total",
+                "query": "Predecir qu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,41 +217,41 @@
   },
   "active": "b49a54a332a74659",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
-    "Lenguajes Regulares.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Valuación.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
-    "Construcción de la Máquina de Subconjuntos.md",
-    "Teorema 2 - Equivalencia AFD - AFND.md",
-    "Teorema 1 - Equivalencia AFD - AFND.md",
-    "Pasted image 20250323200020.png",
-    "Pasted image 20250323200012.png",
-    "Pasted image 20250323200000.png",
-    "Pasted image 20250323195824.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Carrera/Informática/Ciencias de la Computación.md",
+    "Pasted image 20250324100745.png",
+    "Agentes Reflejos Basados en Modelos.md",
+    "Redes.md",
+    "Carrera/Informática/21. IA/Modelos de Lenguaje.md",
+    "Carrera/Informática/21. IA/Modelización de Lenguaje.md",
+    "Pasted image 20250324094938.png",
+    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
+    "ARS - Agentes Reactivos Simples.md",
+    "Pasted image 20250324093931.png",
+    "Pasted image 20250324093929.png",
+    "Pasted image 20250324093904.png",
+    "Carrera/Informática/21. IA/Ubicación (Situatedness).md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
+    "Total.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 2 - Equivalencia AFD - AFND.md",
+    "Carrera/Informática/21. IA/Racionalidad vs Perfección.md",
+    "Sin título.md",
+    "Carrera/Informática/23. Lógica para Computación/Práctico 1 - Cálculo Proposicional.md",
+    "Propiedades de los Ambientes - IA.md",
+    "Carrera/Informática/21. IA/Percepción y Comportamiento de un Agente.md",
+    "Imagenes/Pasted image 20250322183312.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
+    "Grafos.md",
+    "Carrera/Informática/21. IA/Descripción PAES.md",
+    "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
     "0 - Índice.md",
-    "MELI/Vim/Capítulos.md",
-    "MELI/Bootcamp.md",
-    "Carrera/Informática/Lenguajes de Programación/Java/Java.md",
-    "Carrera/Informática/Lenguajes de Programación/Java/Generics.md",
-    "Carrera/Informática/Lenguajes de Programación/Java/Compilación y Ejecución desde la Linea de Comandos - Java.md",
-    "Clausura Transitiva.md",
-    "Clausura Reflexo Transitiva.md",
-    "Configuraciones de un AFD.md",
-    "Autómata Finito Determinístico.md",
-    "Autómata Finito No Determinístico.md",
-    "Pasted image 20250323193046.png",
-    "Autómatas Finitos.md",
-    "Función de Transición Extendida - AFND.md",
-    "Pasted image 20250323192225.png",
-    "Pasted image 20250323191722.png",
-    "Función de Transición Extendida - AFD.md",
-    "Clausura de Un conjunto con respecto a una propiedad.md",
-    "Pasted image 20250323115714.png",
-    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
-    "Pasted image 20250323113223.png",
-    "Pasted image 20250323111752.png"
+    "Carrera/Informática/24. Autómatas y Lenguajes/Componentes de un Autómata.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunción.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura de Un conjunto con respecto a una propiedad.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Carrera/Informática/21. IA/Agente como Función.md",
+    "Imagenes/Pasted image 20250324092754.png",
+    "Imagenes/Pasted image 20250324084736.png",
+    "Imagenes/Pasted image 20250324084724.png",
+    "Imagenes/Pasted image 20250323200020.png",
+    "Imagenes/Pasted image 20250323200012.png"
   ]
 }

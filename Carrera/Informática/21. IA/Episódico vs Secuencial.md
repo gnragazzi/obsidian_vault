@@ -1,0 +1,4 @@
+- Episódico: 
+	- Si la decisión del [[Agente Computacional|agente]] en un [[Episodio Atómico|episodio particular]] no depende de decisiones tomadas en episodios previos, ni afecta episodios futuros.
+- Secuencial:
+	- La decisión del episodio actual puede afectar a episodios futuros.

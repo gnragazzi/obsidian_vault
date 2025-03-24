@@ -1,0 +1,4 @@
+- Conocido
+	- Si el ambiente es *conocido* para el agente, este puede saber el resultado (o probabilidad de resultado) de las acciones que tome.
+- Desconocido
+	- En este caso, el agente deberá aprender las "leyes" del ambiente para saber que decisiones tomar para alcanzar su objetivo.

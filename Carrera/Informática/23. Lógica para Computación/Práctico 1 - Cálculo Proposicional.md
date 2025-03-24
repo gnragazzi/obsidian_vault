@@ -345,5 +345,91 @@ X_2 = (X_1→X_1)\\
 X_3 = ¬X_2\\ 
 X_4 = (X_3∨X_1)\\
 }$$ una cadena de formación de longitud 4. Observemos que $X_4=5. (¬(p1 → p1) ∨ p1)$. Por $^{(5)}$, $5. (¬(p1 → p1) ∨ p1)$ es fórmula.
+**
+**Ejercicio 9**
+Sea Form el lenguaje del cálculo proposicional definido en teoría, se pide:  
+1. Caracterizar el tipo de fórmulas del mismo, que se pueden obtener con las cadenas de formación irredundantes de longitud 2 y de longitud 3.  
+	- Hay 2 casos en los que se pueden formar cadenas de formación irredundante de longitud 2 $X_1,X_2$:
+		- Caso 1
+			- $X_1$ es una variable proposicional
+			- $X_2$ es $¬X_1$
+			- La fórmula es del tipo $¬X_1$
+		- Caso 2
+			- $X_1$ es una variable proposicional
+			- $X_2$ es $(X_1 * X_1)$, con $*∈\{∧,∨,→\}$ 
+			- La fórmula es del tipo $(X_1 ∧ X_1),(X_1 ∨ X_1)$ o $(X_1 → X_1)$
+	- Hay 4 casos en los que se pueden formar cadenas de formación irredundantes de longitud 3 $X_1,X_2,X_3$
+		- Caso 1
+			- $X_1$ es una variable proposicional
+			- $X_2$ es una variable proposicional distinta a $X_1$
+			- $X_3$ es $(X_1 * X_2)$ (o bien $(X_2*X_1)$), con $*∈\{∧,∨,→\}$ 
+			- La fórmula es del tipo $(X_1 ∧ X_2),(X_1 ∨ X_2)$ o $(X_1 → X_2)$ (o bien con $X_2$ a la izquierda del conectivo y $X_1$ a la derecha)
+		- Caso 2
+			- $X_1$ es una variable proposicional
+			- $X_2$ es $¬X_1$
+			- $X_3$ es $(X_1 * X_2)$ (o bien $(X_2*X_1)$), con $*∈\{∧,∨,→\}$ 
+			- La fórmula es del tipo $(X_1 ∧ X_2),(X_1 ∨ X_2)$ o $(X_1 → X_2)$ (o bien con $X_2$ a la izquierda del conectivo y $X_1$ a la derecha)
+		- Caso 3
+			- $X_2$ es una cadena de formación irredundante de longitud 2 (descripta anteriormente)
+			- $X_3$ es $¬X_2$ 
+		- Caso 4
+			- $X_2$ es una cadena de formación irredundante de longitud 2 (descripta anteriormente)
+			- $X_3$ es $(X_2 * X_2)$, con $*∈\{∧,∨,→\}$ 
+2. Si tiene una secuencia de cadenas de formación de longitud 1, la misma ¿Forma una cadena de formación? ¿De qué fórmula?
+	1. Una cadena de formación de longitud 1 tendrá, por definición, una variable proposicional en su único eslabón.
+	2. Si se tiene una secuencia ${X_1,X_2,...,X_n}$ donde cada $X_i$ con $i=1...n$, es una cadena de formación, esta secuencia forma una nueva cadena de formación de longitud $n$ donde cada $X_i$ es un eslabón. Esto se observa por la primera condición de la definición $^{(4)}$
+	3. La fórmula resultante será igual a $X_n$, es decir, será igual a la variable proposicional que ocupe el último eslabón de la cadena. Esto es consecuente a la regla 1 de la definición de Fórmula (dada en $^{(3)}$).
+**
+**Ejercicio 10**
+Sea Form el lenguaje del cálculo proposicional definido en teoría, y sea $p$ la [[Peso de una Lista|función peso]]. 
+Recordamos que, tal como se definió en teoría, llamamos ***peso de X*** al número entero que se obtiene restando al número de paréntesis izquierdos “(” el de paréntesis derechos “)” que figuran en la lista $X$. Observamos, también, las siguientes propiedades
+- 1. Para toda [[Variables Proposicionales|variable proposicional]] $p_n$, $peso(p_n) = 0$  
+- 2. $peso(¬X) = peso(X)$  
+- 3. si ∗ denota uno cualquiera de los conectivos $∨, ∧,→$, entonces:  
+	- $peso((X ∗ Y )) = peso(X) + peso(Y )$
+Se pide:
+- a) Calcular $p(X_i)$ para cada una de las expresiones dadas (donde diga $X_i$ reemplazar por la fórmula correspondiente).  
+	- $X_1 = (((p_1 ∧ p_2) ∨ p_2) → ¬p_4)$ 
+		- $p(X_1)=3-3=0$
+	- $X_2 = ((p_1 ∧ p_2 ∨ p_2 → p_1$
+		- $p(X_2)=2-0=2$
+	- $X_3 = ¬p_0$
+		- $p(X_3)=0$
+	- $X_4 = (¬p_0)$
+		- $p(X_4)=1-1=0$
+	- $X_5 = X_2 ∧ X_3$
+		- Observese que $X_2 ∧ X_3= ((p_1 ∧ p_2 ∨ p_2 → p_1 ∧¬p_0$ 
+		- Luego, $p(X_5)=2-0=2$
+	- $X_6 = (X_2 ∧ X_3)$
+		- por la propiedad 3 descrita anteriormente, $p(X_6) = p(X_2) + p(X_3)=2-0=2$
+- b) ¿Puede decir cuáles de las $X_i$ son fórmulas de Form usando sólo lo calculado en el punto anterior? 
+	- No. El [[Lema 1]] visto en teoría hace mención que para toda fórmula, su peso es 0; pero la vuelta no es verdad: por ejemplo, $p(X_4)=1-1=0$, sin embargo $X_4$ no es fórmula (no se puede crear siguiendo los pasos descritos en $^{(3)}$)
+- c) ¿Puede decir cuáles de las $X_i$ no son fórmulas de Form usando sólo lo calculado en el punto a)?  
+	- Si. Por el contra-recíproco de lo mencionado en el punto anterior, si $p(X_i)≠0$, entonces $X_i$ no es fórmula. Este es el caso de la expresión $X_2$.
+- d) Para las expresiones $X_i$ que sean fórmulas mostrar una cadena de formación. ¿Qué característica común tienen dichas fórmulas, considerando lo calculado en el punto a)?  
+	- $X_1 = (((p_1 ∧ p_2) ∨ p_2) → ¬p_4)$ 
+		- Sea $$\matrix{
+Y_1 = p_1\\
+Y_2 = p_2\\
+Y_3 = p_4\\ 
+Y_4 = ¬X_3\\
+Y_5 = (X_1∧X_2)\\
+Y_6 = (X_5∨X_2)\\  
+Y_7 = (X_6→X_4)\\
+}$$
+	una cadena de formación de longitud 7. Observemos que $X_1=Y_7$.
+	- $X_3 = ¬p_0$
+		- Sea $$\matrix{Y_1=p_0\\Y_2=¬Y_1}$$
+		 una cadena de formación de longitud 2. Observemos que $Y_2=X_3$
+	- Lo que tienen ambas expresiones en común es que su peso es 0.
+- e) Para cada una de las fórmulas $X_i$ calcular su [[Grado de Complejidad de una fórmula|grado de complejidad]].
+	- Recordemos que llamamos ***grado de complejidad de una [[Fórmula Lógica|fórmula]]*** $P$, y lo denotamos por $comp(P)$, al número de conectivos que figuran en P, contados tantas veces como aparezcan.
+	- Teniendo eso en mente:
+		- $comp(X_1)=4$
+		- $comp(X_2)=3$
+		- $comp(X_3)=1$
+		- $comp(X_4)=1$
+		- $comp(X_5)=5$
+		- $comp(X_6)=5$
 ***
 [1] https://www.rae.es/gtg/oraci%C3%B3n-de-modalidad-declarativa

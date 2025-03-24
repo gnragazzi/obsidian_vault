@@ -1,0 +1,4 @@
+- Estático
+	- El ambiente no cambia mientras el agente está deliberando (decidiendo que acción tomar)
+- Dinámico
+	- El ambiente puede cambiar mientras el Agente está deliberando.

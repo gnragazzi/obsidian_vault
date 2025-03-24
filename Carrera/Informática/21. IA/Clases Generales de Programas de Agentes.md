@@ -1,0 +1,2 @@
+- [[Agente Computacional|Agentes]] reflejos (o reactivos) [[ARS - Agentes Reactivos Simples|Simples]] 
+- [[Agentes Reflejos Basados en Modelos]] 

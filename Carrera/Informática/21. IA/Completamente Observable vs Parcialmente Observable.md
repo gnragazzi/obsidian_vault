@@ -1,0 +1,9 @@
+- Si los [[Sensores - Agentes|sensores]] de un [[Agente Racional|agente]] le dan acceso al estado completo del [[Ambiente - Agentes|ambiente]] en cada punto en el tiempo, el ambiente es completamente observable. 
+	- Esto se da cuando los sensores captan toda la información que es relevante para el desenvolvimiento del agente. Qué es relevante depende de la [[Performance de un Agente|medida de performance]].
+	- Es conveniente, porque de esta forma el agente no tiene que mantener un estado interno para tener información del mundo exterior.
+	- En la teoría se dice que $∀s∈S:P(s)=s$
+- El ambiente puede ser *parcialmente* observable debido a sensores limitados (por ruido, errores del sensor o limitaciones del mismo). 
+	- Por ejemplo, el robot-aspiradora, que tiene un sensor únicamente para saber si el terreno debajo suyo está sucio, y no puede saber si el otro extremo de la habitación lo está hasta que esté sobre ese extremo.
+	- En la teoría se dice $P(s_i ) = o, P(s_j ) = o \text{ y } s_i ≠ s_j .$
+		- ![[Pasted image 20250324084736.png]]
+		- ![[Pasted image 20250324084724.png]]

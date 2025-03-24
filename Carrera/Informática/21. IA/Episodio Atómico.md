@@ -1,0 +1,1 @@
+Cada vez que el [[Agente Computacional]] recibe una percepción del ambiente y realiza una acción.
