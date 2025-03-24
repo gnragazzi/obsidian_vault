@@ -7,3 +7,4 @@ Agrupan clases con un criterio específico.
 - En caso de que tenga métodos definidos como abstractos, las clases hijas deben:
 	- implementar el método
 	- No implementar el método y ser también abstracta.
+[[Programación Orientada a Objetos]]

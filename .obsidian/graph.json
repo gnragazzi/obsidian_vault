@@ -8,6 +8,13 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "path:\"Carrera/Informática/Programación Orientada a Objetos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "path:Carrera/Informática  ",
       "color": {
         "a": 1,
@@ -34,11 +41,11 @@
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1.2855224609375,
   "lineSizeMultiplier": 1.7078125,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.3515625,
   "repelStrength": 14.0625,
   "linkStrength": 0.8037109375,
   "linkDistance": 114,
-  "scale": 0.04846287129326486,
+  "scale": 0.7604586487173659,
   "close": true
 }

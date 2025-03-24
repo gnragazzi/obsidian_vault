@@ -1,2 +1,5 @@
 - [[Agente Computacional|Agentes]] reflejos (o reactivos) [[ARS - Agentes Reactivos Simples|Simples]] 
 - [[Agentes Reflejos Basados en Modelos]] 
+- [[Agentes Basados en Objetivos]]
+- [[Agentes Basados en Utilidades]]
+- [[Agentes de Aprendizaje]] 
