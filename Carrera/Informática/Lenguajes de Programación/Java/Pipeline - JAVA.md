@@ -1,0 +1,1 @@
+Une pipeline es una secuencia de [[Carrera/Informática/Lenguajes de Programación/Java/Aggregate Operation|operaciones agregadas]].

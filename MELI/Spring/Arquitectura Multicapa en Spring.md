@@ -1,4 +1,4 @@
-Un servidor implementado en [[MELI/Java/Spring|Spring]] consta de 5 capas (puede variar).
+Un servidor implementado en [[Carrera/Informática/Lenguajes de Programación/Java/Spring|Spring]] consta de 5 capas (puede variar).
 - Capa de interfaz (Controller) ^2357da
 	- Atiende la solicitud y entrega la respuesta
 	- @RestController

@@ -1,9 +1,9 @@
 - LINEA DE ESTADO
 	- Versión del protocolo
-	- [[HTTP STATUS]]
+	- [[MELI/Spring/HTTP STATUS]]
 	- phrase
 		- Descripción breve del STATUS
-- [[HTTP Header]]
+- [[MELI/Spring/HTTP Header]]
 - Body
 	- Cuerpo del mensaje
 ***

@@ -1,4 +1,4 @@
-Las ER utilizan las operaciones de unión (+), [[Concatenación de Cadenas|concatenación]] (.) y clausura de  Kleene (*).  Una ER sobre algún [[Alfabeto|alfabeto]] Σ se define recursivamente de la siguiente  manera:
+Las ER utilizan las operaciones de unión (+), [[Concatenación de Cadenas|concatenación]] (.) y clausura de  Kleene $(^*)$.  Una ER sobre algún [[Alfabeto|alfabeto]] Σ se define recursivamente de la siguiente  manera:
 
 - $∅$ es una [[Expresiones Regulares - Lenguajes|ER]] y denota el [[Conjuntos|conjunto]] vacío, $L(∅)=∅$
 - $λ$ es una ER y denota el conjunto $\{λ\}$. $L(λ)=\{λ\}$

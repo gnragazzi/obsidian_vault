@@ -1,1 +1,0 @@
-Une pipeline es una secuencia de [[Aggregate Operation|operaciones agregadas]].

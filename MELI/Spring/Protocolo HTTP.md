@@ -2,5 +2,5 @@
 ***
 + Orientado a transacciones
 + *Stateless*
-+ [[HTTP Request]]
-+ [[HTTP Response]]
++ [[MELI/Spring/HTTP Request]]
++ [[MELI/Spring/HTTP Response]]

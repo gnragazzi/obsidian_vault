@@ -9,4 +9,4 @@ En JAVA:
 - una clase puede implementar varias interfaces.
 - reconocibles por sos pos-fijos *-able* e *-ible*
 ***
-[[Diferencia entre Clase Abstracta e Interfaz en JAVA]] 
+[[Carrera/Informática/Lenguajes de Programación/Java/Diferencia entre Clase Abstracta e Interfaz en JAVA]] 

@@ -1,9 +1,9 @@
 - LINEA DE ESTADO
 	- Versión del protocolo
-	- [[HTTP STATUS]]
+	- [[Carrera/Informática/Lenguajes de Programación/Java/HTTP STATUS]]
 	- phrase
 		- Descripción breve del STATUS
-- [[HTTP Header]]
+- [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Header]]
 - Body
 	- Cuerpo del mensaje
 ***

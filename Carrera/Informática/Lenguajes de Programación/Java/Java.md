@@ -29,7 +29,7 @@
 	5. [[Referencias a Métodos]]
 	6. [[Stream API]]
 6. Clases Abstractas e Interfaces
-	1. [[Clase Abstracta]]
+	1. [[Carrera/Informática/Lenguajes de Programación/Java/Clase Abstracta]]
 	2. [[Interfaz - OOP]]
 	3. 
 

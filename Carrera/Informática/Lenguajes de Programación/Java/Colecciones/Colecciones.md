@@ -6,7 +6,7 @@ Interfaz genérica.
 - 
 ***
 Sub-interfaces: 
-- [[MELI/Java/Colecciones/Sets]]
+- [[Carrera/Informática/Lenguajes de Programación/Java/Colecciones/Sets]]
 - [[List]]
 - [[Queue]]
 - [[Map]]

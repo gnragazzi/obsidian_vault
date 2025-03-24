@@ -11,7 +11,7 @@ no- `@SpringBootApplication`:
 - Mappings
 	- La forma genérica es `@RequestMapping(method = RequestMethod.POST)`
 	- `@PostMapping`
-		- `@RequestBody <type> <identificador>` dentro de la lista de parámetros nos permite capturar el payload de un [[HTTP Method#^f966af|post]], [[HTTP Method#^eaa039|PATCH]] o [[HTTP Method#^ed4ec5|PUT]].
+		- `@RequestBody <type> <identificador>` dentro de la lista de parámetros nos permite capturar el payload de un [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Method#^f966af|post]], [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Method#^eaa039|PATCH]] o [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Method#^ed4ec5|PUT]].
 	- `@GetMapping`
 		- se establece un path como `@GetMapping (path = "/student")`
 		- pathvariable

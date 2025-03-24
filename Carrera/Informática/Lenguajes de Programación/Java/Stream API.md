@@ -1,6 +1,6 @@
 un Stream es una secuencia de elementos que puede ser procesada en paralelo o en serie.
 ***
-Es una secuencia de elementos que soportan operaciones agregadas ([[Aggregate Operation]]) sequenciales y paralelas.
+Es una secuencia de elementos que soportan operaciones agregadas ([[Carrera/Informática/Lenguajes de Programación/Java/Aggregate Operation]]) sequenciales y paralelas.
 [Java docs]
 ***
 - Permiten crear flujos de datos continuos para procesar con operadores

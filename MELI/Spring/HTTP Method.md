@@ -1,5 +1,5 @@
 - HEAD
-	- Devuelve la metadata del recurso que se hubiera obtenido con un método GET en la misma URL, en forma de [[HTTP Header|headers]].
+	- Devuelve la metadata del recurso que se hubiera obtenido con un método GET en la misma URL, en forma de [[MELI/Spring/HTTP Header|headers]].
 		- permite anticiparse a descargas costosas, ya que un campo del header es `content-length`
 	- Si la respuesta al request muestra que una URL cacheada está desactualizada, se puede invalidar esa copia aun sin haber hecho un GET request.
 - GET

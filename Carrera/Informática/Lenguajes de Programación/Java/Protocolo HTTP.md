@@ -2,5 +2,5 @@
 ***
 + Orientado a transacciones
 + *Stateless*
-+ [[HTTP Request]]
-+ [[HTTP Response]]
++ [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Request]]
++ [[Carrera/Informática/Lenguajes de Programación/Java/HTTP Response]]

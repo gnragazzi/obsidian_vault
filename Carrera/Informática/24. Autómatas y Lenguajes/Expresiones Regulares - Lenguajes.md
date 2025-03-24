@@ -14,3 +14,4 @@ Precedencia de operadores (menor a mayor)
 - Clausura, concatenación, unión
 ***
 [[Definición Recursiva de E.R.]] 
+[[Función de Valuación]] 

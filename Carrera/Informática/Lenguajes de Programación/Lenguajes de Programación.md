@@ -1,4 +1,4 @@
 -[[Python3]]
 -[[Lua]]
--[[Carrera/Informática/Lenguajes de Programación/JAVA/Java]]
+-[[Java 1]]
 -[[C]]
