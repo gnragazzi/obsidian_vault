@@ -1,0 +1,5 @@
+- ![[Captura de pantalla 2025-03-26 a la(s) 3.33.44 p. m..png]]
+- Anotaciones adicionales que se pueden encontrar en JSR
+	- ![[Captura de pantalla 2025-03-26 a la(s) 3.34.29 p. m..png]]
+- Se puede validar cada elemento de una colección utilizando la anotación antes del Tipo de los elementos:
+	- por ejemplo: `private List<@Min(18) Integer> lista;`![[Captura de pantalla 2025-03-26 a la(s) 3.38.37 p. m..png]]
