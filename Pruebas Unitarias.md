@@ -1,5 +1,8 @@
 Test de componentes individuales.
 ***
+Para toda prueba que sea de comparación de objetos hay que agregar los métodos equals y Hashcode
+Se pueden agregar utilizando la anotación de Lombok @EqualsAndHashCode
+***
 - [[Las 3 a's del Unit Testing]] 
 - [SUT]
 	- *System Under Test*
