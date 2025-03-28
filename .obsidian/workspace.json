@@ -13,42 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Ambiente - Agentes.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiente - Agentes"
+              "title": "Autómata Finito No Determinístico"
             },
-            "group": "b98bdabd37302dcb"
+            "group": "767090d88ea16003"
           },
           {
-            "id": "ab5b896d99938c07",
+            "id": "d9262ca869e91a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Completamente Observable vs Parcialmente Observable.md",
+                "file": "Agentes de Resolución de Problemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Completamente Observable vs Parcialmente Observable"
+              "title": "Agentes de Resolución de Problemas"
             }
           }
         ]
       },
       {
-        "id": "f8ce6910fe3f8bbf",
+        "id": "6510af4198d9dfe7",
         "type": "tabs",
         "children": [
           {
-            "id": "5871bb57e941bc25",
+            "id": "da448ad2b66d18c0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Ambiente - Agentes.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,14 +71,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6587239071794617,
-                  "close": false
+                  "scale": 1,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Ambiente - Agentes"
+              "title": "Gráfico de Autómata Finito No Determinístico"
             },
-            "group": "b98bdabd37302dcb"
+            "group": "767090d88ea16003"
           }
         ]
       }
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99effa8d7fab6cd6",
@@ -229,41 +230,41 @@
   },
   "active": "b49a54a332a74659",
   "lastOpenFiles": [
-    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Configuraciones de un AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/21. IA/Inteligencia Artificial.md",
+    "Carrera/Informática/21. IA/Agente Inteligente.md",
+    "Agentes de Resolución de Problemas.md",
+    "Pasted image 20250328072304.png",
+    "Algoritmo de Búsqueda - IA.md",
+    "Búsqueda IA.md",
+    "Otros/1a - Sobre ejercicios.md",
+    "Carrera/Informática/21. IA/Agente Racional.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
+    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
+    "Carrera/Informática/21. IA/Agentes Reflejos Basados en Modelos.md",
+    "Carrera/Informática/21. IA/ARS - Agentes Reactivos Simples.md",
+    "Carrera/Informática/21. IA/Agente Computacional.md",
     "Carrera/Informática/21. IA/Ambiente - Agentes.md",
-    "Carrera/Informática/21. IA/Discreto vs Continuo.md",
     "Carrera/Informática/21. IA/Estático Vs Dinámico.md",
     "Carrera/Informática/21. IA/Episódico vs Secuencial.md",
-    "Carrera/Informática/21. IA/Inteligencia Artificial.md",
+    "Carrera/Informática/21. IA/Completamente Observable vs Parcialmente Observable.md",
+    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
+    "Carrera/Informática/21. IA/Discreto vs Continuo.md",
     "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
     "Carrera/Informática/23. Lógica para Computación/Práctico 1 - Cálculo Proposicional.md",
-    "Carrera/Informática/21. IA/Agente Inteligente.md",
     "Carrera/Informática/21. IA/Agente como Función.md",
-    "Carrera/Informática/21. IA/Completamente Observable vs Parcialmente Observable.md",
-    "Carrera/Informática/21. IA/Descripción PAES.md",
-    "Carrera/Informática/21. IA/¿Cómo clasificar la inteligencia?.md",
-    "Carrera/Informática/21. IA/Modelo de Transcisión de los Agentes de Aprendizaje.md",
-    "Carrera/Informática/21. IA/Agentes de Aprendizaje.md",
     "Imagenes/Pasted image 20250324164925.png",
     "Imagenes/Pasted image 20250324170406.png",
     "Imagenes/Pasted image 20250324170316.png",
     "Imagenes/Pasted image 20250324170239.png",
-    "Carrera/Informática/21. IA/Agentes Reflejos Basados en Modelos.md",
     "Imagenes/Pasted image 20250324165613.png",
-    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Utilidades.md",
-    "Carrera/Informática/23. Lógica para Computación/Peso.md",
-    "MELI/Spring/Diferencia entre Clase Abstracta e Interfaz en JAVA.md",
-    "Carrera/Informática/21. IA/Sistemas que actúan racionalmente.md",
-    "Carrera/Informática/21. IA/Modelización de Lenguaje.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
     "Imagenes/Pasted image 20250324093904.png",
     "Imagenes/Pasted image 20250324162200.png",
-    "Redes N.md",
-    "Redes.md",
-    "Carrera/Informática/Programación Orientada a Objetos/Patrones de Diseño/Proxy.md",
     "Imagenes/Pasted image 20250324100745.png",
-    "Imagenes/Pasted image 20250324094938.png",
-    "Imagenes/Pasted image 20250324093931.png"
+    "Imagenes/Pasted image 20250324094938.png"
   ]
 }

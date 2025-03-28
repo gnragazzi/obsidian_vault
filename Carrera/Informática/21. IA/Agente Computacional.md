@@ -10,6 +10,7 @@ Es un programa del que se espera que:
 [[Agente Inteligente]]
 [[Agente Racional]]
 [[Agente como Función]] 
+[[Clases Generales de Programas de Agentes]]
 ***
 [1] Definición del primer capítulo del libro
 [2] Definición del segúndo capítulo del libro.

@@ -1,1 +1,1 @@
-Sistema físico o virtual [[Ubicación (Situatedness)|situado en algún ambiente]] que es capaz de actuar de manera [[Autonomía|autónoma]] y [[Flexividad - Agente|flexible]] en este [[Ambiente - Agentes|ambiente]] para cumplor con los objetivos que le han sido asignados.
+Sistema físico o virtual [[Ubicación (Situatedness)|situado en algún ambiente]] que es capaz de actuar de manera [[Autonomía|autónoma]] y [[Flexividad - Agente|flexible]] en este [[Ambiente - Agentes|ambiente]] para cumplir con los objetivos que le han sido asignados.
