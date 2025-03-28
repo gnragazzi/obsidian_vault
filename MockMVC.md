@@ -1,0 +1,29 @@
+- A nivel de clase
+	- La clase declarada como @SpringBootTest debe tener un argumento entre paréntesis que indique la clase la clase que se va a ejecutar para levantar el contexto para las pruebas de integración. por ejemplo
+		- `@SpringBootTest(classes = <clase_principal_de_la_app>)`
+	- Además, a nivel de clase hay que agregar la anotación @AutoConfigureMockMvc
+	- hay que declarar un atributo de tipo MockMvc con @AutoWired
+- A nivel de método
+	- Hay que crear una variable local de la clase `MvcResult` 
+	- Llamamos métodos del atributo MockMvc que se concatenan:
+		- perform() dice que lo que debe hacer
+			- Dentro de perform usamos `MockMvcRequestBuilders.<http_method>("<endpoint>")` para ejecutar el método especificado en el endpoint pasado como parámetro.
+				- El endpoint puede tener pathVariable cerrando un identificador entre llaves y pasando el valor como 2do parámetro.
+				- Si es necesario pasar un @RequestParam, hay que hacerlo con un método que se concatena con .get() que es .param(<nombre_param>,<valor_param>)
+				- Si se necesita pasar un cuerpo del request, se puede hacer con `.content(<cuerpo>)`
+		- `andDo(<accion>)` se establece una acción, que normalmente es print() (método estático importado)
+		- `andExpect(<valor>)` se dice que estamos esperando.
+			- `<valor>` es igual a cualquier cosa que esperamos. Debería ser
+				- El status code
+					- normalmente `<valor>` es igual a `status().isOk()`
+				- Algún parámetro del response
+				- El content/type
+					- content().contentType(<>)
+		- andReturn();
+			- Devuelve toda la información de la respuesta, que ahora estará accesible (debe ser asignada) a la variable declarada como MvcResult
+	- Sobre esta variable se puede seguir haciendo pedidos, a través de getResponse()
+	- Es útil para, por ejemplo, hacer un assert
+******
+Para pasar un valor de una clase a un Json (para poder comparar con las salidas, o alimentar como cuerpo de un request) hay que usar 
+- `ObjectWriter objectWriter = new ObjectMapper().configure(SerializationFeature.WRAP_ROOT_VALUE, false).writer();`
+- `String objectAsString = writer.writeValueAsString(object);`
