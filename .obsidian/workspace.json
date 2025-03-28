@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6575551250bd2faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9be89bca4dbf7fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22ab0303b2832f7a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c20cf7508d3968",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb46add41309209e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52168dd3a0f79823",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c4acb5dfe5aac078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "279752d1283c5010",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05cbfc6a4b3534cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7df8cfac9f1730a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739ea17354391e9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+            }
+          },
+          {
+            "id": "a339e33dbbb3b056",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+            }
+          },
+          {
+            "id": "8423d9ab75529620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a6360c171a0ef47f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "22ab0303b2832f7a",
+  "lastOpenFiles": [
+    "Captura de pantalla 2025-03-26 a la(s) 3.27.46 p. m..png"
+  ]
+}
