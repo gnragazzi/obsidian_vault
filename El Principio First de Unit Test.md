@@ -1,0 +1,11 @@
+- Fast
+	- Las pruebas Unitarias deberían poder ejecutarse en pocos segundos
+- Independent
+	- Cada prueba unitaria debe ser independiente de otras (el resultado no debe verse alterado por el orden en que se ejecutan los test)
+- Repeatable
+	- El resultado de las pruebas debe ser el mismo independientemente del entorno en que se ejecuten
+- Self-validating
+	- El test debe ofrecer un resultado claro que indique si ha pasado o no.
+- Timely
+	- Las pruebas deben estar desarrolladas lo antes posible
+	- No se sube código a producción sin las pruebas unitarias

@@ -1,0 +1,5 @@
+- Valid
+	- Si el objeto que se quiere validar es atributo de otro objeto, sobre el atributo
+	- ![[Captura de pantalla 2025-03-26 a la(s) 3.27.46 p. m..png]]
+	- Si el objeto a validar es un parámetro de un método (por ejemplo, de un manejador de un endpoint)
+		- ![[Captura de pantalla 2025-03-26 a la(s) 3.28.18 p. m..png]]

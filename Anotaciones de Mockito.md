@@ -1,0 +1,12 @@
+- @ExtendWith(MockitoExtension.class)
+	- Anotación a nivel de clase, para indicar que hay que inicializar e inyectar los mocks.
+ - @Mock 
+	 - Así marcamos la dependencia que vamos a simular
+ - @InjectMock
+	 - Así marcamos la clase a donde inyectaremos la dependencia mockeada
+ - verify()
+	 - verifica que un método de la clase mock se va a llamar al menos una x cantidad de veces
+	 - `verify(<mock_name>, atLeast(<minimum_number_of_times>)),<method_name>();`
+ - when
+	 - Indica cómo debe comportarse el mock ante la llamada de un método particular
+	 - `when(<mock_name>.<method_name>()).thenReturn(<expectedReturn>)`

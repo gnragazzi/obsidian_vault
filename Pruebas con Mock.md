@@ -1,0 +1,2 @@
+Mock es simular la funcionalidad de un objeto, determinando lo que debe pasar cuando algún método de dicho objeto es invocado.
+Hay varias [[Anotaciones de Mockito|anotaciones]] que utilizamos, que vienen en la librería [[Mockito]]
