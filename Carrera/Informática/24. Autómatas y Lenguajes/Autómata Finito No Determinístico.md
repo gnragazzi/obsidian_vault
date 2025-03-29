@@ -3,5 +3,6 @@ La definición formal es igual a la de [[Autómata Finito Determinístico|AFD]],
 Intuitivamente, es un autómata que tiene un número finito de estados, y que puede estar en varios estados a la vez. 
 ***
 [[Función de Transición Extendida - AFND]] 
+[[AFND-ε]] 
 ***
 [1]. [[Conjunto de Partes#^d7cf39|Notación alternativa al Conjunto de partes]]
