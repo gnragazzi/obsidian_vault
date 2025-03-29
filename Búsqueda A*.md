@@ -13,7 +13,7 @@
 	- Exponencial en [error relativo en h × longitud de la solución]
 - Espacio
 	- Mantiene todos los nodos en memoria
-- Óptica
+- Óptima
 	- Si
 ***
 Observemos que ^efd71a

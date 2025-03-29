@@ -19,4 +19,4 @@ La complejidad es medida en términos de
 ***
 Existen 2 clasificaciones
 1. [[Estrategias de Búsqueda no Informadas]]
-2. [[Estrategias de Búsqueda Informadas]] 
+2. Estrategias de Búsqueda Informadas - [[Búsqueda Primero el Mejor]]
