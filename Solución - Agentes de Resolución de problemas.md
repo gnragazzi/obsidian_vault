@@ -1,0 +1,2 @@
+Una ***solución*** a un [[Problema - Agentes de Resolución de Problemas|problema]] es una secuencia de pasos desde el estado inicial al estado final.
+Cada solución tiene asociado un costo, según la función Costo del Paso. Si el costo de una solución es el más bajo entre todas las soluciones, se dice *Solución Óptima*.

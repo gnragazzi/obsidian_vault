@@ -8,5 +8,6 @@ Sea $E=(Q,Σ,δ,q_0,F)$ un [[AFND-ε]], se define el lenguaje aceptado por $E$ c
 |δ⁺(q_0,w)∩F≠∅\}$$
 ***
 Aunque se llega siempre a la respuesta correcta usando el camino recursivo desde el inicio, en el libro resume todos los pasos partiendo directamente desde el cálculo de la clausura-ε con el estado inicial y recorriendo el camino desde el primer símbolo hasta el final de la cadena.
+![[Pasted image 20250329151430.png]]
 ***
 [1]. [[Clausura ε]] 

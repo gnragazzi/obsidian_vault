@@ -1,0 +1,2 @@
+- Como [[Búsqueda Primero en Profundidad]] pero incorpora un límite de profundidad $L$ (Nodos a profundidad $L$ no tienen sucesores). ^5f79ab
+- ![[Pasted image 20250329172502.png]]
