@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Función Booleana de n Variables.md",
+                "file": "Equivalencia de Fórmulas Lógicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función Booleana de n Variables"
+              "title": "Equivalencia de Fórmulas Lógicas"
             },
             "group": "731aaee159e9fe3e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Función Booleana de n Variables.md",
+                "file": "Equivalencia de Fórmulas Lógicas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6111767822858629,
+                  "scale": 0.6029714937169979,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Función Booleana de n Variables"
+              "title": "Gráfico de Equivalencia de Fórmulas Lógicas"
             },
             "group": "731aaee159e9fe3e"
           }
@@ -217,14 +217,23 @@
   },
   "active": "22ab0303b2832f7a",
   "lastOpenFiles": [
-    "Tabla de Verdad de la Fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Equivalencia de Fórmulas Lógicas.md",
+    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+    "Captura de pantalla 2025-03-31 a la(s) 10.51.51 a. m..png",
+    "Captura de pantalla 2025-03-31 a la(s) 10.51.38 a. m..png",
+    "Captura de pantalla 2025-03-31 a la(s) 10.51.16 a. m..png",
+    "Teorema 3 - De las funciones booleanas.md",
+    "Captura de pantalla 2025-03-31 a la(s) 10.14.02 a. m..png",
+    "Captura de pantalla 2025-03-31 a la(s) 10.13.51 a. m..png",
+    "Captura de pantalla 2025-03-31 a la(s) 10.13.41 a. m..png",
     "Función Booleana de n Variables.md",
+    "Tabla de Verdad de la Fórmula.md",
     "Pasted image 20250331093727.png",
     "Carrera/Informática/23. Lógica para Computación/Extensión de la Función de Valuación - Teorema 1.md",
     "Corolario 2 - Del Teorema 2 - Procedimiento para evaluar una fórmula.md",
     "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
     "Carrera/Informática/23. Lógica para Computación/Teorema 2 - Unicidad de la Lectura de las Fórmulas.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
     "Pasted image 20250331092143.png",
     "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
     "Carrera/Informática/23. Lógica para Computación/Variables Proposicionales.md",
@@ -235,8 +244,6 @@
     "Pasted image 20250329162309.png",
     "Observación 1 de la Extensión de la Función de Valuación.md",
     "Carrera/Informática/23. Lógica para Computación/Corolario 1 - Lógica para computación.md",
-    "Pasted image 20250329161128.png",
-    "Pasted image 20250329161115.png",
     "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
     "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
     "Carrera/Informática/21. IA/Nodo de Árbol de Búsqueda - IA.md",
@@ -245,13 +252,6 @@
     "Carrera/Informática/23. Lógica para Computación/Condicional - Tabla de Verdad.md",
     "Carrera/Informática/21. IA/Árbol de Búsqueda - Búsqueda IA.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
-    "Carrera/Informática/21. IA/Admisibilidad.md",
-    "Imagenes/Pasted image 20250329183208.png",
-    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Solución - Agentes de Resolución de problemas.md",
-    "Imagenes/Pasted image 20250329183048.png",
-    "Imagenes/Pasted image 20250329182801.png",
-    "Imagenes/Pasted image 20250329180222.png"
+    "Carrera/Informática/21. IA/Admisibilidad.md"
   ]
 }
