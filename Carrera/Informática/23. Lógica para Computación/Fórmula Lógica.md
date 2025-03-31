@@ -10,3 +10,5 @@ Una lista de símbiolos $P∈A*$ es una fórmula si y solo si existe una [[Caden
 ***
 Propiedades:
 - [[Igualdad de Fórmulas Lógicas]] 
+***
+[[Tabla de Verdad de la Fórmula]] 
