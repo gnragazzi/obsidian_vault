@@ -1,0 +1,1 @@
+El número de [[Clases de Equivalencia]] de [[Fórmula Lógica|fórmulas]] que se pueden construir a partir de $n$ [[Variables Proposicionales|variables proposicionales]] distintas es $2^{2^n}$ 

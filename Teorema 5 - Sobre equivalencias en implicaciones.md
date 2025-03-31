@@ -1,0 +1,1 @@
+Las [[Fórmula Lógica|formulas]] $P$ y $Q$ son [[Equivalencia de Fórmulas Lógicas|equivalentes]] si y sólo si $(P→Q)$ y $(Q→P)$ son ambas [[Tautología, Contradicción y Contingencia#^6807de|tautologías]].

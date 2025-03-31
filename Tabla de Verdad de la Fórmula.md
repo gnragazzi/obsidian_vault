@@ -2,6 +2,9 @@ Sea $P$ una [[Fórmula Lógica|fórmula]] y supongamos $Var(P)⊆\{x_1,x_2,...,x
 De acuerdo al [[Teorema 2 - Procedimiento para Evaluar una Fórmula]] $v_{\overline{a}}(P)$ se calcula sustituyendo cada $x_i$ por sus valores correspondientes $a_i$ y evaluando según los conectivos.
 Si listamos todas las n-uplas $\overline{a}∈B^n$ y a la derecha escribimos el valor de verdad $v_{\overline{a}}(P)$, obtenemos una tabla o matriz de $2^n$ filas y $n+1$ columnas formadas por elementos de $B$. A esta tabla la denominamos ***Tabla de Verdad de la fórmula P***.
 ***
+En el contexto de la materia, una *función de verdad* es una función que se deduce directamente de la tabla, pensando que las primeras n columnas son los parámetros de la función, y la columna n+1, su resultado.
+[[Proposición 1 - Sobre la función de verdad]] 
+***
 [[Función Booleana de n Variables]] 
 ***
 ![[Pasted image 20250331093727.png]]
