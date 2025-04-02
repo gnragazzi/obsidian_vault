@@ -1,0 +1,1 @@
+Secuencia de [[Símbolo|caracteres]] en el programa fuente que a partir de un [[Patrón - Análisis Lexicográfico|patrón]], unifica con un [[Token]].
