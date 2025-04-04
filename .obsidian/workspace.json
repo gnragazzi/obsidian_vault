@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metalenguaje de Expresiones Regulares para JFlex.md",
+                "file": "Obtención de un AFD a partir de un AFND-ε.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metalenguaje de Expresiones Regulares para JFlex"
+              "title": "Obtención de un AFD a partir de un AFND-ε"
             },
             "group": "5c4647f283165f54"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Metalenguaje de Expresiones Regulares para JFlex.md",
+                "file": "Obtención de un AFD a partir de un AFND-ε.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,14 +57,28 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.096511121080212,
+                  "scale": 0.6906395020147816,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Metalenguaje de Expresiones Regulares para JFlex"
+              "title": "Gráfico de Obtención de un AFD a partir de un AFND-ε"
             },
             "group": "5c4647f283165f54"
+          },
+          {
+            "id": "a3040aa9f4b9e454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función de Transición Extendida - AFND-ε"
+            }
           }
         ]
       }
@@ -216,41 +230,41 @@
   },
   "active": "717b097c781379d0",
   "lastOpenFiles": [
-    "Pasted image 20250402143422.png",
-    "Pasted image 20250402143236.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
+    "Obtención de un AFD a partir de un AFND-ε.md",
+    "Ejemplo de Transformación de un AFND-ε a AFD.md",
+    "Teorema - Equivalencia entre AFD y E.R..md",
+    "Pasted image 20250404084253.png",
+    "Teorema - Equivalencia entre E.R. y AFND-ε.md",
+    "Ejemplo de cómo construir un AFND-ε a partir de una E.R..md",
+    "Pasted image 20250404084111.png",
+    "Pasted image 20250404084059.png",
+    "Pasted image 20250404084051.png",
+    "Ejemplo de cómo construir un.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "Pasted image 20250404083703.png",
+    "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
+    "Pasted image 20250404083443.png",
+    "Pasted image 20250404083435.png",
+    "Pasted image 20250404083426.png",
+    "Pasted image 20250404083357.png",
+    "Pasted image 20250404083347.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Analizador Lexicográfico.md",
     "JFlex.md",
     "Metalenguaje de Expresiones Regulares para JFlex.md",
     "Especificación JFlex.md",
-    "Pasted image 20250402142209.png",
     "Ejecución de un Analizador construido en JFlex.md",
     "Construcción de un JFlex.md",
-    "Pasted image 20250402125537.png",
-    "Pasted image 20250402125451.png",
-    "Analizador Lexicográfico.md",
     "Detección de Errores en el Análisis Lexicográfico.md",
     "Diseño e Implementación de Analizadores Lexicográficos.md",
-    "Pasted image 20250402124641.png",
-    "Pasted image 20250402124322.png",
-    "Pasted image 20250402124300.png",
     "Patrón - Análisis Lexicográfico.md",
     "Lexema.md",
     "Token.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Análisis Sintáctico.md",
-    "Compilador.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Carrera/Informática/21. IA/Inteligencia Artificial.md",
-    "Carrera/Informática/21. IA/Agente Inteligente.md",
-    "Carrera/Informática/21. IA/Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
-    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Utilidades.md",
-    "Tabla de Verdad de la Fórmula.md",
-    "Captura de pantalla 2025-03-31 a la(s) 4.12.14 p. m..png",
-    "Captura de pantalla 2025-03-31 a la(s) 4.12.03 p. m..png",
-    "Captura de pantalla 2025-03-31 a la(s) 4.11.42 p. m..png"
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md"
   ]
 }

@@ -5,3 +5,5 @@ Un AFND-ε $A$ es una 5-upla $(Q,Σ,δ,q_0,F)$, con los cada componente signific
 ***
 [[Clausura ε]] 
 [[Función de Transición Extendida - AFND-ε]] 
+[[Obtención de un AFD a partir de un AFND-ε]] 
+[[Teorema - Equivalencia entre E.R. y AFND-ε]]
