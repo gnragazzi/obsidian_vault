@@ -6,3 +6,6 @@ Reconocen el mismo tipo de [[Lenguaje - Definición|lenguajes]], es decir los [[
 A partir de cualquier AFND se puede construir un AFD equivalente. La forma de hacerlo es a través de la [[Construcción de la Máquina de Subconjuntos]], que se basa en construir todos los subconjuntos del conjunto de estados de un AFND.
 ***
 ![[Pasted image 20250404083703.png]]
+***
+![[Pasted image 20250405134645.png]]
+Preguntas #Dudas 
