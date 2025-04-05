@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obtención de un AFD a partir de un AFND-ε.md",
+                "file": "Derivación - Grámatica Regular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obtención de un AFD a partir de un AFND-ε"
+              "title": "Derivación - Grámatica Regular"
             },
             "group": "5c4647f283165f54"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obtención de un AFD a partir de un AFND-ε.md",
+                "file": "Derivación - Grámatica Regular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Obtención de un AFD a partir de un AFND-ε"
+              "title": "Gráfico de Derivación - Grámatica Regular"
             },
             "group": "5c4647f283165f54"
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variable proposicional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +231,19 @@
   },
   "active": "717b097c781379d0",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
+    "Pasted image 20250405090006.png",
+    "Gramática Regular.md",
+    "Derivación - Grámatica Regular.md",
+    "Pasted image 20250405085406.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
+    "Reglas Gramaticales.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "JFlex.md",
+    "Especificación JFlex.md",
+    "Lexema.md",
     "Obtención de un AFD a partir de un AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
     "Ejemplo de Transformación de un AFND-ε a AFD.md",
     "Teorema - Equivalencia entre AFD y E.R..md",
     "Pasted image 20250404084253.png",
@@ -243,28 +255,17 @@
     "Ejemplo de cómo construir un.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
     "Pasted image 20250404083703.png",
     "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
     "Pasted image 20250404083443.png",
     "Pasted image 20250404083435.png",
     "Pasted image 20250404083426.png",
     "Pasted image 20250404083357.png",
-    "Pasted image 20250404083347.png",
     "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Clausura ε.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
     "Analizador Lexicográfico.md",
-    "JFlex.md",
     "Metalenguaje de Expresiones Regulares para JFlex.md",
-    "Especificación JFlex.md",
-    "Ejecución de un Analizador construido en JFlex.md",
-    "Construcción de un JFlex.md",
-    "Detección de Errores en el Análisis Lexicográfico.md",
-    "Diseño e Implementación de Analizadores Lexicográficos.md",
-    "Patrón - Análisis Lexicográfico.md",
-    "Lexema.md",
-    "Token.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md"
+    "Ejecución de un Analizador construido en JFlex.md"
   ]
 }
