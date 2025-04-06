@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obtención de un AFD a partir de una Gramática Regular.md",
+                "file": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obtención de un AFD a partir de una Gramática Regular"
+              "title": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad"
             },
             "group": "5c4647f283165f54"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obtención de un AFD a partir de una Gramática Regular.md",
+                "file": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,12 +71,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 0.6906395020147819,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Obtención de un AFD a partir de una Gramática Regular"
+              "title": "Gráfico de Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad"
             },
             "group": "5c4647f283165f54"
           },
@@ -245,8 +245,18 @@
   },
   "active": "717b097c781379d0",
   "lastOpenFiles": [
-    "Gramática Regular.md",
+    "Teorema 3 - De las funciones booleanas.md",
+    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
+    "Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
+    "Equivalencia de Fórmulas Lógicas.md",
+    "Equivalencias Útiles.md",
+    "Teorema 5 - Sobre equivalencias en implicaciones.md",
+    "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
     "Obtención de un AFD a partir de una Gramática Regular.md",
+    "Gramática Regular.md",
     "Teorema - Equivalencia entre AFD y E.R..md",
     "Teorema - Equivalencia entre E.R. y AFND-ε.md",
     "Ejemplo de cómo construir un AFND-ε a partir de una E.R..md",
@@ -270,15 +280,6 @@
     "Pasted image 20250405091707.png",
     "Pasted image 20250405091618.png",
     "Pasted image 20250405091431.png",
-    "Pasted image 20250405091420.png",
-    "Reglas Gramaticales.md",
-    "JFlex.md",
-    "Especificación JFlex.md",
-    "Lexema.md",
-    "Ejemplo de cómo construir un.md",
-    "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura ε.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md"
+    "Pasted image 20250405091420.png"
   ]
 }
