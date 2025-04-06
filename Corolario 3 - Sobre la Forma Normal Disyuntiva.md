@@ -3,5 +3,7 @@ siendo $Q{ij}$ una variable proposicional o la negación de una variable proposi
 ***
 $n$ se corresponde con la cantidad de variables de la función y $m$ con la cantidad de valuaciones (filas) que hacen a la fórmula verdadera.
 ***
+EJEMPLO: ![[Captura de pantalla 2025-03-31 a la(s) 3.55.09 p. m..png]]
+***
 ![[Captura de pantalla 2025-03-31 a la(s) 4.08.26 p. m..png]]
 ***

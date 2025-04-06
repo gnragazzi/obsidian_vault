@@ -1,4 +1,4 @@
-Las [[Fórmula Lógica|fórmulas]] $P$ y $Q$ se dicen ***equivalentes***, y se escribe $P≡Q$, si para toda [[Función de Valuación|valuación]] $v$ se tiene que $v(P)=v(Q)$.
+Las [[Fórmula Lógica|fórmulas]] $P$ y $Q$ se dicen ***equivalentes***, y se escribe $P≡Q$, si para toda [[Función de Valuación|valuación]] $v$ se tiene que $v(P)=v(Q)$. 
 ***
 ≡ es una [[Relación de Equivalencia]] que determina distintas [[Clases de Equivalencia]]. Esto se formaliza en el [[Teorema 4 - Sobre el número de clases de equivalencia]]
 ***

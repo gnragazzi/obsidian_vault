@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+                "file": "Equivalencia de Fórmulas Lógicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad"
+              "title": "Equivalencia de Fórmulas Lógicas"
             },
             "group": "5c4647f283165f54"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+                "file": "Equivalencia de Fórmulas Lógicas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,12 +71,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147819,
-                  "close": false
+                  "scale": 0.6506567044665295,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad"
+              "title": "Gráfico de Equivalencia de Fórmulas Lógicas"
             },
             "group": "5c4647f283165f54"
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conjunto adecuado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,13 +245,21 @@
   },
   "active": "717b097c781379d0",
   "lastOpenFiles": [
-    "Teorema 3 - De las funciones booleanas.md",
-    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+    "Equivalencias Útiles.md",
+    "Equivalencia de Fórmulas Lógicas.md",
+    "Conjunto Adecuado de Conectivos.md",
+    "Tabla de Verdad de la Fórmula.md",
+    "Carrera/Matemáticas/Discretas/Isomorfismo.md",
+    "Carrera/Matemáticas/Discretas/Idempotencia.md",
+    "Carrera/Informática/23. Lógica para Computación/Igualdad de Fórmulas Lógicas.md",
     "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Corolario 4 - Sobre la Forma Normal Conjuntiva.md",
+    "Corolario 3 - Sobre la Forma Normal Disyuntiva.md",
+    "Proposición 1 - Sobre la función de verdad.md",
+    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+    "Teorema 3 - De las funciones booleanas.md",
     "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
     "Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
-    "Equivalencia de Fórmulas Lógicas.md",
-    "Equivalencias Útiles.md",
     "Teorema 5 - Sobre equivalencias en implicaciones.md",
     "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
     "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
@@ -264,19 +272,11 @@
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
     "Pasted image 20250405134645.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
-    "Ejemplo de Transformación de un AFND-ε a AFD.md",
-    "Obtención de un AFD a partir de un AFND-ε.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
     "Pasted image 20250405094238.png",
     "Pasted image 20250405094231.png",
     "Pasted image 20250405093739.png",
     "Pasted image 20250405092804.png",
-    "Clausura Reflexo Transitiva de la Derivación - Gramática Regular.md",
     "Pasted image 20250405091923.png",
-    "Derivación - Grámatica Regular.md",
-    "MathJax Reference.md",
     "Pasted image 20250405091707.png",
     "Pasted image 20250405091618.png",
     "Pasted image 20250405091431.png",
