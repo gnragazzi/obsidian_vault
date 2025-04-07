@@ -1,0 +1,1 @@
+"escapar de un óptimo (max) local permitiendo movimientos “malos” pero decrementarlos gradualmente en tamaño y frecuencia" (“Pendiente”, p. 48)![[Captura de pantalla 2025-04-07 a la(s) 5.39.31 p. m..png]]![[Captura de pantalla 2025-04-07 a la(s) 5.42.03 p. m..png]]

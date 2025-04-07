@@ -1,0 +1,1 @@
+El sistema debe seguir funcionando aunque algunos nodos no se encuentren disponibles ya que la información es consistente en todos los nodos.

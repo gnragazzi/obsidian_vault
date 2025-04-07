@@ -1,0 +1,1 @@
+Propiedad que establece que la lectura de datos recibe como respuesta la escritura más reciente.

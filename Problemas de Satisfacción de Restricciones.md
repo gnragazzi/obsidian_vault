@@ -5,5 +5,6 @@ Son caracterizados por:
 ***
 [[Estado del Problema]] 
 [[Tipos de Restricciones]]
+[[Enfoques para Resolver PSRs]] 
 ***
 [[¿Por qué formular un problema como PSR y no como un problema de Búsqueda?]] 

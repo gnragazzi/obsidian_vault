@@ -1,0 +1,1 @@
+Es una propiedad que establece que cualquier petición debería recibir una respuesta no errónea, pero sin la garantía de que esta respuesta sea la escritura más reciente.

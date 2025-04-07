@@ -1,0 +1,4 @@
+- En este caso, el espacio de estados es el conjunto de configuraciones "[[Estado del Problema#^57d29b|completas]]", es decir que cada estado es una asignación completa de valores a las variables.. 
+	- [[Algoritmos de Mejora Iterativa]] 
+	- [[Templado Simulado]]
+	- [[Algoritmos Genéticos]]
