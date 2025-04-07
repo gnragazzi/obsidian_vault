@@ -1,5 +1,6 @@
 - Es el proceso de encontrar secuencias de acciones para llegar a un estado conocido (deseable o estado objetivo) y elegir la mejor, según alguna métrica. ^07cd3f
 - El agente solo tiene un conjunto de acciones inmediatas.
+- INFORMAL: *Cuando se habla de búsqueda, se habla de búsqueda de estados (del estado objetivo, digamos).*
 ***
 Se realizan utilizando una estructura de datos llamada [[Árbol de Búsqueda - Búsqueda IA|Árbol de Búsqueda]] y aplicando una [[Estrategias de Búsqueda|Estratégia de Búsqueda]]
 ***

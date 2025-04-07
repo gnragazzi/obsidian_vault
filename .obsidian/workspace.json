@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjunto Adecuado de Conectivos.md",
+                "file": "Problemas de Satisfacción de Restricciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjunto Adecuado de Conectivos"
+              "title": "Problemas de Satisfacción de Restricciones"
             },
             "group": "5c4647f283165f54"
           },
@@ -35,8 +35,23 @@
               "icon": "lucide-file",
               "title": "MathJax Reference"
             }
+          },
+          {
+            "id": "4eb97156867e36c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de Restricciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Restricciones"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c7c79300237e210d",
@@ -48,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conjunto Adecuado de Conectivos.md",
+                "file": "Problemas de Satisfacción de Restricciones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,27 +86,27 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.94210757213914,
+                  "scale": 0.6506567044665297,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Conjunto Adecuado de Conectivos"
+              "title": "Gráfico de Problemas de Satisfacción de Restricciones"
             },
             "group": "5c4647f283165f54"
           },
           {
-            "id": "a3040aa9f4b9e454",
+            "id": "d9f1fd2d2abe3882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
+                "file": "Problemas de Satisfacción de Restricciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Transición Extendida - AFND-ε"
+              "title": "Problemas de Satisfacción de Restricciones"
             }
           }
         ]
@@ -243,34 +258,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "717b097c781379d0",
+  "active": "4eb97156867e36c8",
   "lastOpenFiles": [
+    "Problemas de Satisfacción de Restricciones.md",
+    "Problemas de Optimización de Restricciones.md",
+    "Tipos de Restricciones.md",
+    "Pasted image 20250407090935.png",
+    "Grafo de Restricción.md",
+    "MathJax Reference.md",
+    "Pasted image 20250407090516.png",
+    "Problemas de Optimización.md",
+    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
+    "Carrera/Informática/21. IA/Búsqueda IA.md",
+    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
+    "¿Por qué formular un problema como PSR y no como un problema de Búsqueda?.md",
+    "Estado del Problema.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
+    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
+    "Carrera/Informática/21. IA/Inteligencia Artificial.md",
+    "Carrera/Informática/Ciencias de la Computación.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Conjunto Adecuado de Conectivos.md",
     "Equivalencia de Fórmulas Lógicas.md",
     "Equivalencias Útiles.md",
-    "Conjunto Adecuado de Conectivos.md",
     "Tabla de Verdad de la Fórmula.md",
     "Carrera/Matemáticas/Discretas/Isomorfismo.md",
     "Carrera/Matemáticas/Discretas/Idempotencia.md",
     "Carrera/Informática/23. Lógica para Computación/Igualdad de Fórmulas Lógicas.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Corolario 4 - Sobre la Forma Normal Conjuntiva.md",
-    "Corolario 3 - Sobre la Forma Normal Disyuntiva.md",
-    "Proposición 1 - Sobre la función de verdad.md",
-    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
-    "Teorema 3 - De las funciones booleanas.md",
-    "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
-    "Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
-    "Teorema 5 - Sobre equivalencias en implicaciones.md",
-    "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Obtención de un AFD a partir de una Gramática Regular.md",
-    "Gramática Regular.md",
-    "Teorema - Equivalencia entre AFD y E.R..md",
-    "Teorema - Equivalencia entre E.R. y AFND-ε.md",
-    "Ejemplo de cómo construir un AFND-ε a partir de una E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
     "Pasted image 20250405134645.png",
     "Pasted image 20250405094238.png",
     "Pasted image 20250405094231.png",
@@ -278,8 +294,6 @@
     "Pasted image 20250405092804.png",
     "Pasted image 20250405091923.png",
     "Pasted image 20250405091707.png",
-    "Pasted image 20250405091618.png",
-    "Pasted image 20250405091431.png",
-    "Pasted image 20250405091420.png"
+    "Pasted image 20250405091618.png"
   ]
 }

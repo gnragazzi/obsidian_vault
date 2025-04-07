@@ -10,5 +10,3 @@ También llamados Agentes Basados en Objetivos de [[Búsqueda IA|Búsqueda]].
 	- ejecutar la solución encontrada y medir pérformance.
 - Formalmente definido como:
 	- ![[Pasted image 20250328072304.png]]
-- Pueden optar por dos tipos distintos de [[Algoritmo de Búsqueda - IA|algoritmos de búsqueda]] (asumo que por las características del problema #Dudas )
-	- 

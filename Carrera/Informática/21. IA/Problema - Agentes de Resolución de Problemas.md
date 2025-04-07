@@ -6,3 +6,8 @@ Se define formalmente con 5 componentes:
 5. Función de Costo del Paso.
 ***
 Por simplicidad, uniremos las componentes 2 y 3 y, por lo tanto, definiremos formalmente el problema con 4 componentes.
+***
+- Problemas de [[Búsqueda IA|búsqueda]]: Pueden optar por tipos distintos de [[Algoritmo de Búsqueda - IA|algoritmos de búsqueda]]
+- [[Problemas de Satisfacción de Restricciones]]
+- [[Problemas de Optimización]] 
+- [[Problemas de Optimización de Restricciones]] 

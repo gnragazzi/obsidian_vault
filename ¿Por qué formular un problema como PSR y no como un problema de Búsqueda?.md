@@ -1,0 +1,1 @@
+Porque los sistemas que resuelven [[Problemas de Satisfacción de Restricciones|PSR]] son más rápidos que los de [[Búsqueda IA|búsqueda de  estados]] **(toman en cuenta las restricciones para chicar el espacio de búsqueda)**
