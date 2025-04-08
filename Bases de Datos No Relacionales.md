@@ -1,0 +1,8 @@
+- Parte 1
+	- [[Base de datos Documental]]
+	- [[Base de datos clave-valor]] 
+	- [[Base de datos de Grafos]] 
+	- [[Base de datos Columnar]] 
+- Parte 1 VIVO
+- Parte 2
+- Parte 2 VIVO

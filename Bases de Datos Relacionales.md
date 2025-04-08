@@ -31,13 +31,7 @@
 				2. Reempla el operador de igualdad
 			3. BETWEEN
 				1. min AND max
-		4. Funciones de agregación
-			1. COUNT
-			2. MIN
-			3. MAX
-				1. SELECT MAX(campo),(campos opcionales) FROM tabla;
-			4. SUM 
-			5. AVG
+		4. [[Funciones de Agregación - SQL]]
 		5. BUENAS PRÁCTICAS
 			1. Evitar SELECT *
 			2. Evitar consultas sin filtros o límites de registros
@@ -47,7 +41,15 @@
 		1. 
 3. Consultas SQL avanzadas parte 1
 	1. Clase
+		1. [[JOIN - SQL]] 
+		2. [[ALIAS]] 
+		3. [[GROUP BY - SQL]]
+		4. [[Subconsultas SQL]] 
 	2. Vivo
+		1. 
 4. Optimización de Bases de Datos parte 2
 	1. Clase
-	2. Vivo
+		1. [[Normalización]] 
+		2. [[Tablas Temporales]] 
+		3. [[Index - SQL]] 
+	3. Vivo

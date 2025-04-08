@@ -1,0 +1,1 @@
+Es muy similar a la cláusula WHERE, pero en lugar de afectar a las filas de la tabla, afecta a los grupos obtenidos por el GROUP BY.![[Captura de pantalla 2025-04-08 a la(s) 9.32.15 a. m..png]]![[Captura de pantalla 2025-04-08 a la(s) 9.32.46 a. m..png]]![[Captura de pantalla 2025-04-08 a la(s) 9.33.12 a. m..png]]

@@ -1,0 +1,4 @@
+- Se usa AS para utilizar otro nombre en la tabla o columna. 
+- También se puede usar para acortar sentencias como en el siguiente ejemplo:
+	- ![[Captura de pantalla 2025-04-08 a la(s) 9.14.59 a. m..png]]
+	- Notesé que el as está implícito: `<nombre_tabla> <ALIAS_tabla>`

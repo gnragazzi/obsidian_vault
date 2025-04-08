@@ -1,0 +1,1 @@
+Una relación está en 3FN si, y sólo si, está en 2FN y además, cada atributo no clave depende de la clave primaria de modo no transitivo.![[Captura de pantalla 2025-04-08 a la(s) 2.59.37 p. m..png]]![[Captura de pantalla 2025-04-08 a la(s) 2.59.43 p. m..png]]

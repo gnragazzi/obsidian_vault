@@ -14,17 +14,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedimiento para determinar si una fórmula es o no satisfacible.md",
+                "file": "Consecuencia Lógica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedimiento para determinar si una fórmula es o no satisfacible"
+              "title": "Consecuencia Lógica"
             },
             "group": "5c4647f283165f54"
           },
           {
-            "id": "8b59cae24a72b349",
+            "id": "96a9c3dcee6861ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,20 +38,21 @@
             }
           },
           {
-            "id": "e6446d7d8f2b5b4d",
+            "id": "bceeddc6472897f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
+                "file": "Lema 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Transición Extendida - AFD"
+              "title": "Lema 2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c7c79300237e210d",
@@ -64,7 +65,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Procedimiento para determinar si una fórmula es o no satisfacible.md",
+                "file": "Consecuencia Lógica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -87,12 +88,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6940601720461663,
+                  "scale": 1.2329949936918814,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Procedimiento para determinar si una fórmula es o no satisfacible"
+              "title": "Gráfico de Consecuencia Lógica"
             },
             "group": "5c4647f283165f54"
           },
@@ -259,43 +260,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "717b097c781379d0",
+  "active": "bceeddc6472897f7",
   "lastOpenFiles": [
-    "Pasted image 20250408074717.png",
-    "Satisfacible.md",
-    "Procedimiento para determinar si una fórmula es o no satisfacible.md",
-    "Pasted image 20250408074106.png",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Captura de pantalla 2025-04-08 a la(s) 4.54.06 p. m..png",
+    "Lema 1 - Reglas.md",
+    "Lema 2.md",
+    "MathJax Reference.md",
+    "Consecuencia Lógica.md",
+    "Captura de pantalla 2025-04-08 a la(s) 4.17.39 p. m..png",
+    "Captura de pantalla 2025-04-08 a la(s) 3.55.14 p. m..png",
+    "Teorema 2.md",
+    "Base de datos Columnar.md",
+    "Captura de pantalla 2025-04-08 a la(s) 3.20.01 p. m..png",
+    "Captura de pantalla 2025-04-08 a la(s) 3.19.38 p. m..png",
+    "Captura de pantalla 2025-04-08 a la(s) 3.19.15 p. m..png",
+    "Bases de Datos No Relacionales.md",
+    "Base de datos de Grafos.md",
+    "Captura de pantalla 2025-04-08 a la(s) 3.17.25 p. m..png",
+    "Captura de pantalla 2025-04-08 a la(s) 3.17.14 p. m..png",
+    "Base de datos clave-valor.md",
+    "Captura de pantalla 2025-04-08 a la(s) 3.13.19 p. m..png",
+    "Base de datos Documental.md",
+    "Captura de pantalla 2025-04-08 a la(s) 3.11.32 p. m..png",
+    "Captura de pantalla 2025-04-08 a la(s) 3.11.16 p. m..png",
+    "MELI/Bootcamp.md",
+    "Bases de Datos Relacionales.md",
+    "Normalización.md",
+    "3FN.md",
+    "2FN.md",
+    "1FN.md",
+    "Index - SQL.md",
+    "Tablas Temporales.md",
     "Valuación que Satisface a una Fórmula.md",
-    "Pasted image 20250408073626.png",
     "Argumento Válido.md",
     "Argumentos.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Pasted image 20250408073302.png",
-    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
-    "Propiedades de los Lenguajes Regulares.md",
-    "Pasted image 20250407205917.png",
-    "MathJax Reference.md",
-    "Pasted image 20250407205641.png",
-    "Pasted image 20250407205633.png",
-    "Pasted image 20250407205617.png",
-    "Construir el AFD mínimo equivalente.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
-    "Pasted image 20250407205014.png",
-    "Minimización de un AFD.md",
-    "Construir bloques de estados.md",
-    "Teoremas sobre la equivalencia.md",
-    "Testeo de Estados Equivalentes.md",
-    "Pasted image 20250407204230.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
-    "Algoritmo de Tabla Completa.md",
-    "Pasted image 20250407202456.png",
-    "Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
-    "Obtención de un AFD a partir de un AFND-ε.md",
-    "Algoritmos Genéticos.md",
-    "Crossover - Cruza.md",
-    "Mecanismos de Selección.md"
+    "Teorema 1 - de la deducción.md",
+    "Corolario 1 del Teorema de la Deducción.md",
+    "Subconsultas SQL.md",
+    "JOIN - SQL.md"
   ]
 }

@@ -403,7 +403,7 @@ Se pide:
 	- $X_6 = (X_2 ∧ X_3)$
 		- por la propiedad 3 descrita anteriormente, $p(X_6) = p(X_2) + p(X_3)=2-0=2$
 - b) ¿Puede decir cuáles de las $X_i$ son fórmulas de Form usando sólo lo calculado en el punto anterior? 
-	- No. El [[Lema 1]] visto en teoría hace mención que para toda fórmula, su peso es 0; pero la vuelta no es verdad: por ejemplo, $p(X_4)=1-1=0$, sin embargo $X_4$ no es fórmula (no se puede crear siguiendo los pasos descritos en $^{(3)}$)
+	- No. El [[Carrera/Informática/23. Lógica para Computación/Lema 1]] visto en teoría hace mención que para toda fórmula, su peso es 0; pero la vuelta no es verdad: por ejemplo, $p(X_4)=1-1=0$, sin embargo $X_4$ no es fórmula (no se puede crear siguiendo los pasos descritos en $^{(3)}$)
 - c) ¿Puede decir cuáles de las $X_i$ no son fórmulas de Form usando sólo lo calculado en el punto a)?  
 	- Si. Por el contra-recíproco de lo mencionado en el punto anterior, si $p(X_i)≠0$, entonces $X_i$ no es fórmula. Este es el caso de la expresión $X_2$.
 - d) Para las expresiones $X_i$ que sean fórmulas mostrar una cadena de formación. ¿Qué característica común tienen dichas fórmulas, considerando lo calculado en el punto a)?  

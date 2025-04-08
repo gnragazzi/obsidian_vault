@@ -7,5 +7,5 @@ Lo haremos por el [[Demostración por Absurdo|absurdo]],
 		- Tenemos que $R=P*X$
 	- $∃  Y ∈ A^∗$ tal que $(P ∗ Q) = (R ◦ Y ∗ Q)$.  
 		- Tenemos que $P = R ◦ Y$ . 
-	- Pero por [[Lema 1#^f496f4|(ii)]] esto implicaría que $peso(P) > 0$ o $peso(R) > 0$, y ambas desigualdades son imposibles  ya que por hipótesis $R, P$ son [fórmulas] y por [[Lema 1#^d49e20|(i)]] su peso es cero.
+	- Pero por [[Carrera/Informática/23. Lógica para Computación/Lema 1#^f496f4|(ii)]] esto implicaría que $peso(P) > 0$ o $peso(R) > 0$, y ambas desigualdades son imposibles  ya que por hipótesis $R, P$ son [fórmulas] y por [[Carrera/Informática/23. Lógica para Computación/Lema 1#^d49e20|(i)]] su peso es cero.
 Luego hemos probado que la igualdad $(P ∗ Q) = (R ◦ S)$ y$ P = R$.  De estas igualdades resulta inmediatamente que debe ser $∗ = ◦$ y $Q = S$, lo que concluye la demostración del teorema, c.q.d.

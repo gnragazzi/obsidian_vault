@@ -1,0 +1,1 @@
+Atomicidad de los datos.

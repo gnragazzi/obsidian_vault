@@ -1,0 +1,1 @@
+Una relación se encuentra en 2FN si, y sólo si, se encuentra en 1FN y si todos los atributos no clave dependen por completo de la clave.![[Captura de pantalla 2025-04-08 a la(s) 2.57.31 p. m..png]]![[Captura de pantalla 2025-04-08 a la(s) 2.57.38 p. m..png]]
