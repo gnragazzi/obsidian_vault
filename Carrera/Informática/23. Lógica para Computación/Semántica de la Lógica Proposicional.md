@@ -1,6 +1,6 @@
 El aspecto semántico de la lógica proposicional habla sobre cómo interpretar el valor de verdad de una [[Fórmula Lógica|fórmula]] dado el valor de verdad de las [[Proposición Lógica|proposiciones]] simples que la componen, y de los [[Conectivos Lógicos|conectivos lógicos]] que la conforman.
 ***
-Símbolos que usaremos en la materia
+Símbolos que usaremos en la materia ^57a036
 - $⊤$: Verdadero
 - $⊥$: Falso
 ***

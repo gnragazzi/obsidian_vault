@@ -7,3 +7,5 @@ Un Autómata Finito Determinı́stico ***(AFD)*** es una 5-tupla $$M = (Q, Σ, �
 ***
 [[Función de Transición Extendida - AFD]]
 [[Configuraciones de un AFD]] 
+***
+[[Minimización de un AFD]] 

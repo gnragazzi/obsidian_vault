@@ -1,0 +1,1 @@
+Diremos que una [[Función de Valuación Booleana|valuación]] $v$ satisface a una [[Fórmula Lógica|fórmula]] $P∈Form$ si $$v(p) = ⊤$$De la misma manera, diremos que $v$ satisface a un conjunto $S⊆ Form$ si $$∀Q∈S:v(Q)=⊤$$

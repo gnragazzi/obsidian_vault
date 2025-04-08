@@ -6,5 +6,6 @@ Teoremas
 [[Objeto de estudio de la Lógica]]
 [[Alfabeto de la Lógica Proposicional]]
 [[Semántica de la Lógica Proposicional]]
+[[Argumentos]] 
 ***
 [[Práctico 1 - Cálculo Proposicional]] 
