@@ -21,23 +21,8 @@
               "title": "Fórmula Lógica"
             },
             "group": "685459ac2d2e0c55"
-          },
-          {
-            "id": "54d61d4a13bcc80e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema 4 (de la compacidad).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorema 4 (de la compacidad)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "29956bb10b4e5e20",
@@ -229,16 +214,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "54d61d4a13bcc80e",
+  "active": "cf972f566cdd4ffa",
   "lastOpenFiles": [
-    "Teorema 4 (de la compacidad).md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
     "Deducible - Fórmula.md",
+    "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
+    "Corolario 5 - Teorema 4.md",
+    "Consecuencia Lógica.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Teorema 4 (de la compacidad).md",
+    "Corolario 4 - Teorema 4.md",
+    "Pasted image 20250409101202.png",
+    "Pasted image 20250409101027.png",
+    "Pasted image 20250409101019.png",
     "Teorema 5 - Sobre equivalencias en implicaciones.md",
     "Problemas de Satisfacción de Restricciones.md",
     "2025-04-09.md",
-    "Consecuencia Lógica.md",
     "Sin título.canvas",
     "Pasted image 20250409094423.png",
     "Corolario 1 del Teorema de la Deducción.md",
@@ -259,14 +249,9 @@
     "Pasted image 20250409092320.png",
     "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
     "Pasted image 20250409091447.png",
-    "Pasted image 20250409091329.png",
     "Lema 4 - de los Árboles de Refutación completos.md",
-    "Pasted image 20250409091158.png",
-    "Pasted image 20250409091149.png",
     "Lema 3 - De las propiedades de la longitud modificada.md",
     "Lema 1 - Reglas.md",
-    "Árbol de Refutación.md",
-    "Extensión Inmediata de un Árbol.md",
-    "MathJax Reference.md"
+    "Árbol de Refutación.md"
   ]
 }
