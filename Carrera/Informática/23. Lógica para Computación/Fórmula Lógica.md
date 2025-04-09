@@ -12,5 +12,6 @@ Propiedades:
 - [[Igualdad de Fórmulas Lógicas]] 
 - [[Equivalencia de Fórmulas Lógicas]] 
 - [[Satisfacible]] 
+- [[Deducible - Fórmula]]
 ***
 [[Tabla de Verdad de la Fórmula]] 

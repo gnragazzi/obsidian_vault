@@ -12,7 +12,7 @@ La forma de estas reglas es $$\frac{\text{premisa}}{\text{conclusión/conclusion
 Si  la premisa es [[Valuación que Satisface a una Fórmula|satisfacible]], alguna (o ambas) de sus conclusiones también lo es.
 ***
 - En todos los casos se tiene que las conclusiones son o bien subfo ́rmulas o bien negaciones  de subfo ́rmulas de la correspondiente premisa.
-- Se aplica la siguiente clasificación
+- Se aplica la siguiente clasificación ^cf1f55
 	- Reglas de tipo A
 		- Una valuación satisface a las premisas si y solo si satisface todas las conclusiones
 	- Reglas de tipo B

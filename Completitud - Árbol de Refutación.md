@@ -1,0 +1,1 @@
+Un [[Árbol de Refutación|árbol de refutación]] se dice ***completo*** si cada una de sus ramas es [[Árbol de Refutación Cerrado - Abierto|cerrada]] o [[Conjunto de fórmulas saturado|saturada]].

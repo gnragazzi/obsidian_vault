@@ -4,68 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "f89a6d32735c86a7",
+        "id": "78b68e2f8ec63e14",
         "type": "tabs",
-        "dimension": 53.30602691632534,
         "children": [
           {
-            "id": "717b097c781379d0",
+            "id": "cf972f566cdd4ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consecuencia Lógica.md",
+                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consecuencia Lógica"
+              "title": "Fórmula Lógica"
             },
-            "group": "5c4647f283165f54"
+            "group": "685459ac2d2e0c55"
           },
           {
-            "id": "96a9c3dcee6861ff",
+            "id": "54d61d4a13bcc80e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MathJax Reference.md",
+                "file": "Teorema 4 (de la compacidad).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MathJax Reference"
-            }
-          },
-          {
-            "id": "bceeddc6472897f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lema 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lema 2"
+              "title": "Teorema 4 (de la compacidad)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "c7c79300237e210d",
+        "id": "29956bb10b4e5e20",
         "type": "tabs",
-        "dimension": 46.69397308367466,
         "children": [
           {
-            "id": "f9c4867c0dcb20ec",
+            "id": "4a7b101caac045b5",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Consecuencia Lógica.md",
+                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,33 +67,19 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2329949936918814,
-                  "close": true
+                  "collapse-forces": false,
+                  "centerStrength": 0.583599257884972,
+                  "repelStrength": 7.3974025974026,
+                  "linkStrength": 0.493358070500928,
+                  "linkDistance": 418,
+                  "scale": 0.6906395020147806,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Consecuencia Lógica"
+              "title": "Gráfico de Fórmula Lógica"
             },
-            "group": "5c4647f283165f54"
-          },
-          {
-            "id": "d9f1fd2d2abe3882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problemas de Satisfacción de Restricciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problemas de Satisfacción de Restricciones"
-            }
+            "group": "685459ac2d2e0c55"
           }
         ]
       }
@@ -143,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lógica",
+                "query": "Conclusión",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +134,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "file": "Teorema 4 (de la compacidad).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+              "title": "Enlaces entrantes de Teorema 4 (de la compacidad)"
             }
           },
           {
@@ -205,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "file": "Teorema 4 (de la compacidad).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+              "title": "Enlaces salientes de Teorema 4 (de la compacidad)"
             }
           },
           {
@@ -260,43 +229,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bceeddc6472897f7",
+  "active": "54d61d4a13bcc80e",
   "lastOpenFiles": [
-    "Captura de pantalla 2025-04-08 a la(s) 4.54.06 p. m..png",
-    "Lema 1 - Reglas.md",
-    "Lema 2.md",
-    "MathJax Reference.md",
+    "Teorema 4 (de la compacidad).md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
+    "Deducible - Fórmula.md",
+    "Teorema 5 - Sobre equivalencias en implicaciones.md",
+    "Problemas de Satisfacción de Restricciones.md",
+    "2025-04-09.md",
     "Consecuencia Lógica.md",
-    "Captura de pantalla 2025-04-08 a la(s) 4.17.39 p. m..png",
-    "Captura de pantalla 2025-04-08 a la(s) 3.55.14 p. m..png",
-    "Teorema 2.md",
-    "Base de datos Columnar.md",
-    "Captura de pantalla 2025-04-08 a la(s) 3.20.01 p. m..png",
-    "Captura de pantalla 2025-04-08 a la(s) 3.19.38 p. m..png",
-    "Captura de pantalla 2025-04-08 a la(s) 3.19.15 p. m..png",
-    "Bases de Datos No Relacionales.md",
-    "Base de datos de Grafos.md",
-    "Captura de pantalla 2025-04-08 a la(s) 3.17.25 p. m..png",
-    "Captura de pantalla 2025-04-08 a la(s) 3.17.14 p. m..png",
-    "Base de datos clave-valor.md",
-    "Captura de pantalla 2025-04-08 a la(s) 3.13.19 p. m..png",
-    "Base de datos Documental.md",
-    "Captura de pantalla 2025-04-08 a la(s) 3.11.32 p. m..png",
-    "Captura de pantalla 2025-04-08 a la(s) 3.11.16 p. m..png",
-    "MELI/Bootcamp.md",
-    "Bases de Datos Relacionales.md",
-    "Normalización.md",
-    "3FN.md",
-    "2FN.md",
-    "1FN.md",
-    "Index - SQL.md",
-    "Tablas Temporales.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Argumento Válido.md",
-    "Argumentos.md",
-    "Teorema 1 - de la deducción.md",
+    "Sin título.canvas",
+    "Pasted image 20250409094423.png",
     "Corolario 1 del Teorema de la Deducción.md",
-    "Subconsultas SQL.md",
-    "JOIN - SQL.md"
+    "Argumento Válido.md",
+    "Valuación que Satisface a una Fórmula.md",
+    "Argumentos.md",
+    "Longitud Modificada de una Fórmula.md",
+    "Corolario 3 - Teorema 3.md",
+    "Teorema 3.md",
+    "Corolario 2 - Teorema 3.md",
+    "Pasted image 20250409093622.png",
+    "Pasted image 20250409093440.png",
+    "Pasted image 20250409093323.png",
+    "Pasted image 20250409093115.png",
+    "Conjunto de fórmulas saturado.md",
+    "Lema 6.md",
+    "Satisfacible.md",
+    "Pasted image 20250409092320.png",
+    "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
+    "Pasted image 20250409091447.png",
+    "Pasted image 20250409091329.png",
+    "Lema 4 - de los Árboles de Refutación completos.md",
+    "Pasted image 20250409091158.png",
+    "Pasted image 20250409091149.png",
+    "Lema 3 - De las propiedades de la longitud modificada.md",
+    "Lema 1 - Reglas.md",
+    "Árbol de Refutación.md",
+    "Extensión Inmediata de un Árbol.md",
+    "MathJax Reference.md"
   ]
 }

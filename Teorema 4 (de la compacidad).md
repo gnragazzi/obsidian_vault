@@ -1,0 +1,1 @@
+Sea $S$ un conjunto infinito de f ́ormulas. Si todo subconjunto  finito de S es satisfacible entonces S es satisfacible.

@@ -1,4 +1,4 @@
-Una fórmula se dice ***satisfacible*** si existe una [[Función de Valuación Booleana|valuación]] que la [[Valuación que Satisface a una Fórmula|satisfaga]]. Caso contrario se dice ***insatisfacible***.
+ Un a fórmula se dice ***satisfacible*** si existe una [[Función de Valuación Booleana|valuación]] que la [[Valuación que Satisface a una Fórmula|satisfaga]]. Caso contrario se dice ***insatisfacible***.
 ***
 1. Toda valuación $v$ satisface (trivialmente) al conjunto vacío.
 2. Un [[Conjuntos|conjunto]] finito y no vacío de fórmulas es satisfacible si y sólo si la conjunción de las fórmulas que lo componen es satisfacible. Sea $S=\{Q_1,Q_2,...,Q_n\}$ entonces:$$S\text{ es satisfacible si y solo si para alguna valuación $v$ tenemos que }v(Q_1∧Q_2∧...∧Q_n)=⊤$$
