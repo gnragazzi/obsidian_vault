@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "78b68e2f8ec63e14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf972f566cdd4ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fórmula Lógica"
-            },
-            "group": "685459ac2d2e0c55"
-          }
-        ]
-      },
-      {
         "id": "29956bb10b4e5e20",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7b101caac045b5",
+            "id": "1ee44fd8a63878da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjunto de fórmulas saturado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conjunto de fórmulas saturado"
+            },
+            "group": "91c791bca6747966"
+          }
+        ]
+      },
+      {
+        "id": "78b0e6ac8e77f988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8344421cfb6676",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+                "file": "Conjunto de fórmulas saturado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -52,19 +52,19 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.583599257884972,
-                  "repelStrength": 7.3974025974026,
-                  "linkStrength": 0.493358070500928,
-                  "linkDistance": 418,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
                   "scale": 0.6906395020147806,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Fórmula Lógica"
+              "title": "Gráfico de Conjunto de fórmulas saturado"
             },
-            "group": "685459ac2d2e0c55"
+            "group": "91c791bca6747966"
           }
         ]
       }
@@ -214,44 +214,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf972f566cdd4ffa",
+  "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
-    "Deducible - Fórmula.md",
+    "Árbol de Refutación Cerrado - Abierto.md",
+    "Árbol de Refutación.md",
     "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
-    "Corolario 5 - Teorema 4.md",
+    "Métodos Sintácticos.md",
+    "Corolario 2 - Teorema 3.md",
+    "Completitud - Árbol de Refutación.md",
+    "Extensión Inmediata de un Árbol.md",
+    "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
+    "Lema 1 - Reglas.md",
+    "Lema 4 - de los Árboles de Refutación completos.md",
+    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
+    "Carrera/Informática/23. Lógica para Computación/Extensión de la Función de Valuación - Teorema 1.md",
+    "Corolario 1 de la Extensión de la Función de Valuación.md",
+    "Observación 1 de la Extensión de la Función de Valuación.md",
+    "Valuación que Satisface a una Fórmula.md",
     "Consecuencia Lógica.md",
+    "Argumento Válido.md",
+    "Argumentos.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
+    "Lema de Pumping para Lenguajes Regulares (Teorema).md",
+    "Pasted image 20250409192441.png",
+    "Uso Práctico del Lema de Pumping.md",
+    "Pasted image 20250409185106.png",
+    "Pasted image 20250409185057.png",
+    "Pasted image 20250409185046.png",
+    "Pasted image 20250409184914.png",
+    "Pasted image 20250409184906.png",
+    "Pasted image 20250409184857.png",
+    "Pasted image 20250409184452.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
     "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Teorema 4 (de la compacidad).md",
-    "Corolario 4 - Teorema 4.md",
+    "Deducible - Fórmula.md",
+    "Corolario 5 - Teorema 4.md",
     "Pasted image 20250409101202.png",
     "Pasted image 20250409101027.png",
-    "Pasted image 20250409101019.png",
-    "Teorema 5 - Sobre equivalencias en implicaciones.md",
-    "Problemas de Satisfacción de Restricciones.md",
-    "2025-04-09.md",
-    "Sin título.canvas",
-    "Pasted image 20250409094423.png",
-    "Corolario 1 del Teorema de la Deducción.md",
-    "Argumento Válido.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Argumentos.md",
-    "Longitud Modificada de una Fórmula.md",
-    "Corolario 3 - Teorema 3.md",
-    "Teorema 3.md",
-    "Corolario 2 - Teorema 3.md",
-    "Pasted image 20250409093622.png",
-    "Pasted image 20250409093440.png",
-    "Pasted image 20250409093323.png",
-    "Pasted image 20250409093115.png",
-    "Conjunto de fórmulas saturado.md",
-    "Lema 6.md",
-    "Satisfacible.md",
-    "Pasted image 20250409092320.png",
-    "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
-    "Pasted image 20250409091447.png",
-    "Lema 4 - de los Árboles de Refutación completos.md",
-    "Lema 3 - De las propiedades de la longitud modificada.md",
-    "Lema 1 - Reglas.md",
-    "Árbol de Refutación.md"
+    "Sin título.canvas"
   ]
 }
