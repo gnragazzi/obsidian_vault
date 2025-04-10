@@ -1,0 +1,1 @@
+Hay distintos tipos de backup según DB.

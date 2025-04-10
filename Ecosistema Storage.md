@@ -1,0 +1,10 @@
+- [[Diferencias entre SQL y NoSQL]] 
+- [[Problemas de negocio con las BD relacionales]] 
+- Ventajas NoSQL
+	- [[Consistencia Adaptativa]]  
+- [[Decisiones de Negocio]] 
+- [[Proceso de SQL a NoSQL]] 
+- [[Ecosistema de Servicios]] 
+- [[Métricas Core]] 
+- [[Réplicas]] 
+- [[Backup]] 

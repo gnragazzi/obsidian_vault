@@ -1,0 +1,7 @@
+- [[Base de datos clave-valor|KVS]]
+	- Se almacena en algún formato documental (JSON, XML, BSON, etc)
+	- El acceso puede ser "complejo", es decir, a partir de una clave, se pueden hacer consultas específicas que involucran el cuerpo del documento (por ejemplo, filtrar).
+- [[Base de datos Documental|DocSearch]]
+	- se almacena como par clave-valor
+	- Solo se puede acceder al valor, a partir de la clave. Preguntas sobre el cuerpo (el valor) no están generalmente soportadas
+	- El acceso es más simple y rápido.

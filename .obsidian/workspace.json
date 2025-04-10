@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjunto de fórmulas saturado.md",
+                "file": "Implementación Hibernate en Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjunto de fórmulas saturado"
+              "title": "Implementación Hibernate en Spring"
             },
             "group": "91c791bca6747966"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conjunto de fórmulas saturado.md",
+                "file": "Implementación Hibernate en Spring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147806,
+                  "scale": 2.520151395034989,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Conjunto de fórmulas saturado"
+              "title": "Gráfico de Implementación Hibernate en Spring"
             },
             "group": "91c791bca6747966"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Conclusión",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,42 +217,42 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
-    "Árbol de Refutación Cerrado - Abierto.md",
-    "Árbol de Refutación.md",
-    "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
-    "Métodos Sintácticos.md",
-    "Corolario 2 - Teorema 3.md",
-    "Completitud - Árbol de Refutación.md",
-    "Extensión Inmediata de un Árbol.md",
-    "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
-    "Lema 1 - Reglas.md",
-    "Lema 4 - de los Árboles de Refutación completos.md",
-    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
-    "Carrera/Informática/23. Lógica para Computación/Extensión de la Función de Valuación - Teorema 1.md",
-    "Corolario 1 de la Extensión de la Función de Valuación.md",
-    "Observación 1 de la Extensión de la Función de Valuación.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Consecuencia Lógica.md",
-    "Argumento Válido.md",
-    "Argumentos.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
-    "Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Pasted image 20250409192441.png",
-    "Uso Práctico del Lema de Pumping.md",
-    "Pasted image 20250409185106.png",
-    "Pasted image 20250409185057.png",
-    "Pasted image 20250409185046.png",
-    "Pasted image 20250409184914.png",
-    "Pasted image 20250409184906.png",
-    "Pasted image 20250409184857.png",
-    "Pasted image 20250409184452.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Deducible - Fórmula.md",
-    "Corolario 5 - Teorema 4.md",
-    "Pasted image 20250409101202.png",
-    "Pasted image 20250409101027.png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.52.32 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.50.47 p. m..png",
+    "Hibernate.md",
+    "Implementación Hibernate en Spring.md",
+    "Anotaciones Hibernate.md",
+    "Captura de pantalla 2025-04-10 a la(s) 3.47.40 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.46.11 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.45.58 p. m..png",
+    "Captura de pantalla 2025-04-10 a la(s) 3.43.02 p. m..png",
+    "Arquitectura Hibernate.md",
+    "Arquitectura JPA.md",
+    "JPA.md",
+    "Captura de pantalla 2025-04-10 a la(s) 3.39.48 p. m..png",
+    "ORM (Object-relational mapping).md",
+    "Captura de pantalla 2025-04-10 a la(s) 3.38.36 p. m..png",
+    "Especificaciones.md",
+    "Introducción a ORM.md",
+    "Diferencias entre ORM y DAO.md",
+    "JPA y ORM.md",
+    "MELI/Bootcamp.md",
+    "Conjunto de fórmulas saturado.md",
+    "Ecosistema Storage.md",
+    "Backup.md",
+    "Réplicas.md",
+    "Métricas Core.md",
+    "Ecosistema de Servicios.md",
+    "Change Data Capture.md",
+    "Intercambio de Mensajes de forma asincrónica.md",
+    "ASYNC funcionamiento genérico.md",
+    "Características de ASYNC.md",
+    "Proceso de SQL a NoSQL.md",
+    "Decisiones de Negocio.md",
+    "Consistencia Adaptativa.md",
     "Sin título.canvas"
   ]
 }

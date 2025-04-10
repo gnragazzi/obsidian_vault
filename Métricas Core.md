@@ -1,0 +1,2 @@
+- Están medidas desde la perspectiva del usuario y nos explicita cuanto estamos afectandolo.
+- Miden la salud de los negocios principales de MELI y aplicaciones que generan afectación sobre estas métricas tienen características de cuidado particulares.

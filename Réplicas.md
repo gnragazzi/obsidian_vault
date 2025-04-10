@@ -1,0 +1,7 @@
+- Algunos servicios tienen réplicas (habitualmente inconsistentes)
+- Agrega una capa de redundancia y disponibilidad, y permite segmentar el tráfico según tipo o prioridad.
+- Se puede redireccionar tráfico en caso de pérdida del master
+- Tipos
+	- ![[Captura de pantalla 2025-04-10 a la(s) 11.19.38 a. m..png]]
+	-  ![[Captura de pantalla 2025-04-10 a la(s) 11.19.46 a. m..png]]
+- 

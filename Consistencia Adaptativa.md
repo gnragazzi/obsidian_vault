@@ -1,0 +1,1 @@
+Flexibilidad para recuperar información consistente o eventualmente consistente

@@ -1,0 +1,16 @@
+- Basada en
+	- NoSQL
+		- Se organiza en documentos y no tiene un esquema exato de lo que se va a almacenar
+		- Puede organizarse de múltiples maneras
+- Consistencia
+	- SQL
+		- Alta consistencia, porque las operaciones que la comprometen no son aceptadas.
+	- NoSQL
+- Escalabilidad ^4c231e
+	- SQL
+		- Vertical: solo puede crecer hacia arriba (agregando más recursos a un nodo dentro del sistema (memoria, disco más rápido, etc)).
+	- NoSQL
+		- Horizontal, se pude ampliar teniendo varios nodos-servidores. Se crea una red de servidores conocido como cluster. 
+		- Cuando la funcionalidad se ve afectada por la cantidad de usuarios, se añaden más nodos al cluster
+- ![[Captura de pantalla 2025-04-10 a la(s) 10.39.31 a. m..png]]
+- https://learning.mercadolibre.com/courses/course-v1:it_prod+storage_esp+v1_2024/courseware/bee85c1146b14c32b58c022c9c208f35/25e9b7cab3e343f099428d28d88a3dc2/?activate_block_id=block-v1%3Ait_prod%2Bstorage_esp%2Bv1_2024%2Btype%40sequential%2Bblock%4025e9b7cab3e343f099428d28d88a3dc2

@@ -4,3 +4,5 @@
 4. [[Testing]]
 5. [[Bases de Datos Relacionales]] 
 6. [[Bases de Datos No Relacionales]]
+7. [[Ecosistema Storage]] 
+8. [[JPA y ORM]] 

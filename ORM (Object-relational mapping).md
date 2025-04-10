@@ -1,0 +1,6 @@
+- ORM actúa como una capa de abstracción entre la capa de persistencia en Java y la base de datos, facilitando el mapeo entre objetos y registros
+- Hay muchas [[Especificaciones|especificaciones]] de ORM:
+	- [[JPA]] 
+- [[Diferencias entre ORM y DAO]] 
+- [[Hibernate]] 
+- 

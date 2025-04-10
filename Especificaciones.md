@@ -1,0 +1,1 @@
+- Define cómo debe ser el comportamiento y las características de un framework o tecnología. Actúa como un contrato que las implementaciones deben cumplir. No contiene código que se pueda ejecutar directamente.

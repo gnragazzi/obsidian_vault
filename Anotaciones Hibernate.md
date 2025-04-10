@@ -1,0 +1,16 @@
+- @Entity
+	- Marca la clase
+- @Table
+	- Especifica los detalles de la tabla que va a ser usada para persistir la entidad de la BD a partir de Entity
+	- ![[Captura de pantalla 2025-04-10 a la(s) 3.43.02 p. m..png]]
+- @id
+	- marca las Primary Keys (simples o compuestas).
+	- @GeneratedValuese utiliza para autogenerar valores (por lo general de id).
+	- GenerationType establece el tipo de generación de valor de @id, puede tener los siguientes valores:
+		- Auto
+		- Identity 
+		- Sequence
+		- Table
+		- 
+![[Captura de pantalla 2025-04-10 a la(s) 3.46.11 p. m..png]]
+- @Column (especifica detalles de la columna: name, length, nullable,unique,etc.)![[Captura de pantalla 2025-04-10 a la(s) 3.47.40 p. m..png]]
