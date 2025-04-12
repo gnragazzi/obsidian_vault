@@ -7,5 +7,3 @@ Ramas:
 	- si el conjunto formado por las fórmulas de sus nodos es  saturado en el sentido de [[Conjunto de fórmulas saturado|esta definición]].  
 ***
 Un árbol se dice ***cerrado*** si todas sus ramas son cerradas. 
-***
-Una  rama de un  ́arbol de fo ́rmulas se dice 
