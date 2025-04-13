@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Árbol de Refutación Cerrado - Abierto.md",
+                "file": "Consecuencia Lógica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Árbol de Refutación Cerrado - Abierto"
+              "title": "Consecuencia Lógica"
             },
-            "group": "91c791bca6747966"
+            "group": "9e811f97c3a0eb28"
           }
         ]
       },
       {
-        "id": "78b0e6ac8e77f988",
+        "id": "5a276b5215fb1adc",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8344421cfb6676",
+            "id": "dabfa16b36425db5",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Árbol de Refutación Cerrado - Abierto.md",
+                "file": "Consecuencia Lógica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -57,31 +57,16 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8301964568506723,
+                  "scale": 0.6906395020147806,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Árbol de Refutación Cerrado - Abierto"
+              "title": "Gráfico de Consecuencia Lógica"
             },
-            "group": "91c791bca6747966"
-          },
-          {
-            "id": "9cfc33bdd2c22ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corolario 3 - Teorema 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corolario 3 - Teorema 3"
-            }
+            "group": "9e811f97c3a0eb28"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +215,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cfc33bdd2c22ac3",
+  "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
-    "Teorema 3.md",
-    "Corolario 2 - Teorema 3.md",
-    "Árbol de Refutación Cerrado - Abierto.md",
-    "Árbol de Refutación.md",
+    "Satisfacible.md",
+    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
+    "Corolario 3 - Teorema 3.md",
+    "Lema 4 - de los Árboles de Refutación completos.md",
     "Completitud - Árbol de Refutación.md",
+    "Corolario 2 - Teorema 3.md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
+    "Árbol de Refutación Cerrado - Abierto.md",
+    "Metalenguaje de Expresiones Regulares para JFlex.md",
+    "Teorema 3.md",
+    "Árbol de Refutación.md",
     "Argumento Válido.md",
     "Corolario 1 del Teorema de la Deducción.md",
     "Teorema 1 - de la deducción.md",
@@ -249,20 +240,14 @@
     "Argumentos.md",
     "Lema 1 - Reglas.md",
     "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
-    "Satisfacible.md",
     "Procedimiento para determinar si una fórmula es o no satisfacible.md",
     "Valuación que Satisface a una Fórmula.md",
     "Lema 3 - De las propiedades de la longitud modificada.md",
-    "Lema 2.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Conjunto de fórmulas saturado.md",
-    "Implementación Hibernate en Spring.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.52.32 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.50.47 p. m..png",
-    "Hibernate.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.47.40 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.46.11 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.45.58 p. m..png",
