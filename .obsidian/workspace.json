@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementación Hibernate en Spring.md",
+                "file": "Claves Compuestas - Hibernate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementación Hibernate en Spring"
+              "title": "Claves Compuestas - Hibernate"
             },
             "group": "91c791bca6747966"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Implementación Hibernate en Spring.md",
+                "file": "Claves Compuestas - Hibernate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.520151395034989,
+                  "scale": 0.6826879636980472,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Implementación Hibernate en Spring"
+              "title": "Gráfico de Claves Compuestas - Hibernate"
             },
             "group": "91c791bca6747966"
           }
@@ -217,42 +217,42 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.52.32 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.50.47 p. m..png",
-    "Hibernate.md",
+    "Captura de pantalla 2025-04-12 a la(s) 1.33.29 p. m..png",
+    "Captura de pantalla 2025-04-12 a la(s) 1.33.21 p. m..png",
+    "Relaciones JPA.md",
+    "Claves Compuestas - Hibernate.md",
+    "FetchType.md",
+    "Captura de pantalla 2025-04-12 a la(s) 1.24.20 p. m..png",
+    "Captura de pantalla 2025-04-12 a la(s) 1.20.40 p. m..png",
+    "Cascading.md",
+    "Relaciones 1 a 1 con Hibernate.md",
+    "Captura de pantalla 2025-04-12 a la(s) 1.18.41 p. m..png",
+    "Relaciones n a n con Hibernate.md",
+    "Captura de pantalla 2025-04-12 a la(s) 1.11.57 p. m..png",
+    "Relaciones 1 a n con Hibernate.md",
+    "Captura de pantalla 2025-04-12 a la(s) 12.50.43 p. m..png",
+    "Captura de pantalla 2025-04-12 a la(s) 12.43.36 p. m..png",
+    "Captura de pantalla 2025-04-12 a la(s) 12.43.02 p. m..png",
+    "JPA y ORM.md",
+    "Clase en vivo.md",
+    "Captura de pantalla 2025-04-11 a la(s) 11.59.33 a. m..png",
+    "Paso a Paso para un CRUD usando JPA e Hibernate.md",
+    "Captura de pantalla 2025-04-11 a la(s) 10.30.20 a. m..png",
+    "MELI/Bootcamp.md",
     "Implementación Hibernate en Spring.md",
+    "Hibernate.md",
+    "Introducción a ORM.md",
+    "Configuración aplication.properties para implementar BDR.md",
+    "ORM (Object-relational mapping).md",
     "Anotaciones Hibernate.md",
-    "Captura de pantalla 2025-04-10 a la(s) 3.47.40 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.46.11 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.45.58 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.43.02 p. m..png",
     "Arquitectura Hibernate.md",
     "Arquitectura JPA.md",
     "JPA.md",
-    "Captura de pantalla 2025-04-10 a la(s) 3.39.48 p. m..png",
-    "ORM (Object-relational mapping).md",
-    "Captura de pantalla 2025-04-10 a la(s) 3.38.36 p. m..png",
     "Especificaciones.md",
-    "Introducción a ORM.md",
     "Diferencias entre ORM y DAO.md",
-    "JPA y ORM.md",
-    "MELI/Bootcamp.md",
     "Conjunto de fórmulas saturado.md",
     "Ecosistema Storage.md",
     "Backup.md",
-    "Réplicas.md",
-    "Métricas Core.md",
-    "Ecosistema de Servicios.md",
-    "Change Data Capture.md",
-    "Intercambio de Mensajes de forma asincrónica.md",
-    "ASYNC funcionamiento genérico.md",
-    "Características de ASYNC.md",
-    "Proceso de SQL a NoSQL.md",
-    "Decisiones de Negocio.md",
-    "Consistencia Adaptativa.md",
     "Sin título.canvas"
   ]
 }

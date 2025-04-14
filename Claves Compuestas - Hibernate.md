@@ -1,0 +1,9 @@
+- En la clase
+	- Agregar la anotación `@IdClass(value=<clase>)`
+		- en value debe ir una clase
+- A nivel atributo
+	- Cada atributo de la clave compuesta debe estar identificado con su anotación
+- A nivel de clase_clave_compuesta
+	- Hay que crear una clase que tenga como atributos los atributos que queremos como clave compuesta y que referenciamos en la anotación @IdClass
+	- Esta clase implementa serializable, y tiene definido equals y hashcode
+	- ![[Captura de pantalla 2025-04-12 a la(s) 1.33.21 p. m..png]]![[Captura de pantalla 2025-04-12 a la(s) 1.33.29 p. m..png]]

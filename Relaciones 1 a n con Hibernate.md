@@ -1,0 +1,21 @@
+- En este caso, la clase propietaria será la del lado de n y la referenciada, la del lado de 1.
+- Hay dos variaciones, que no tienen diferencia a nivel base de datos, sino únicamente a nivel de dominio (y de las consultas que después se pueden hacer sobre las entidades).
+	- Unidireccional
+		- Clase Propietaria
+			- No va nada
+		- Clase Referenciada
+			- `@OneToMany(<cascadeType>)`
+			- `@JoinColumn(name=<>)`
+			- El atributo debe ser una Collection
+		- Aunque es confuso, es en la case referenciada donde va "referencia" a la clase principal. Cómo se ve en las siguientes capturas, el resultado es, sin embargo, el esperado.
+			- ![[Captura de pantalla 2025-04-12 a la(s) 12.43.02 p. m..png]]
+			- ![[Captura de pantalla 2025-04-12 a la(s) 12.43.36 p. m..png]]
+	- Bidireccional
+		- Propietario
+			- `@ManyToOne`
+			- `@JoinColumn(name=<>)`
+				- name: nombre de la columna que tendrá la referencia
+		- Referenciado
+			- @OneToMany(mappedBy)
+				- mappedBy: nombre del atributo que referencia a esta tabla.
+	- ![[Captura de pantalla 2025-04-12 a la(s) 12.50.43 p. m..png]]

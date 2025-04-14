@@ -1,0 +1,1 @@
+Determina cómo actuar ante operaciones que afectan a una entidad que está relacionada con otra.![[Captura de pantalla 2025-04-12 a la(s) 1.18.41 p. m..png]]

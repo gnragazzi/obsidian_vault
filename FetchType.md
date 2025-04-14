@@ -1,0 +1,8 @@
+- Determina cuándo se recupera la información de la base de datos.
+- El caso es cómo se actúa ante una entidad que referencia a otra entidad, que a su vez referencia a otra entidad (que puede ser la primera). (Potencialmente referencia circular)
+- Tipos
+	- ![[Captura de pantalla 2025-04-12 a la(s) 1.24.20 p. m..png]]
+	- eager
+		- es la carga en memoria de registros y sus registros asciados mapeados a través de sus entidades
+	- lazy
+		- No se realiza la carga de registros asociados hasta una llamada explícita al método get.
