@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consecuencia Lógica.md",
+                "file": "Propiedades de los Lenguajes Regulares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consecuencia Lógica"
+              "title": "Propiedades de los Lenguajes Regulares"
             },
             "group": "9e811f97c3a0eb28"
+          },
+          {
+            "id": "37ba162027988e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoremas sobre la equivalencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoremas sobre la equivalencia"
+            }
           }
         ]
       },
@@ -34,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Consecuencia Lógica.md",
+                "file": "Propiedades de los Lenguajes Regulares.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +62,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -57,12 +71,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147806,
-                  "close": false
+                  "scale": 0.690639502014781,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Consecuencia Lógica"
+              "title": "Gráfico de Propiedades de los Lenguajes Regulares"
             },
             "group": "9e811f97c3a0eb28"
           }
@@ -217,6 +231,16 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Obtención de un AFD a partir de una Gramática Regular.md",
+    "Minimización de un AFD.md",
+    "Algoritmo de Tabla Completa.md",
+    "Construir bloques de estados.md",
+    "Teoremas sobre la equivalencia.md",
+    "Testeo de Estados Equivalentes.md",
+    "Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
+    "Consecuencia Lógica.md",
     "Satisfacible.md",
     "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
     "Corolario 3 - Teorema 3.md",
@@ -231,18 +255,8 @@
     "Argumento Válido.md",
     "Corolario 1 del Teorema de la Deducción.md",
     "Teorema 1 - de la deducción.md",
-    "Consecuencia Lógica.md",
     "Teorema 4 (de la compacidad).md",
     "Corolario 4 - Teorema 4.md",
-    "Corolario 5 - Teorema 4.md",
-    "Deducible - Fórmula.md",
-    "Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
-    "Argumentos.md",
-    "Lema 1 - Reglas.md",
-    "Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
-    "Procedimiento para determinar si una fórmula es o no satisfacible.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Lema 3 - De las propiedades de la longitud modificada.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
