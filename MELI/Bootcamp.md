@@ -6,3 +6,6 @@
 6. [[Bases de Datos No Relacionales]]
 7. [[Ecosistema Storage]] 
 8. [[JPA y ORM]] 
+9. [[HQL]] 
+10. [[Elasticsearch y Spring]] 
+	1. [[Búsqueda con Elasticsearch]] 

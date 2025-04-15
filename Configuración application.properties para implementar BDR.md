@@ -1,15 +1,8 @@
 spring.application.name=NOMBREDESUAPI
-
+- MySql
 ```
-## ----------------------------------------|  MySQL Configurations  |-------------------------------------------------- #
-
-#Conectar con la base de datos a traves de la dependecia
-#spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
-
-# El dialecto es la version del lenguaje SQL
-#spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
-
-#create-drop, update, create, none
+spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 #spring.jpa.hibernate.ddl-auto=create-drop
 
 # CONNECTION
