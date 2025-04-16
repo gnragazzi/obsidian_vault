@@ -1,1 +1,6 @@
-- [[Introducción a ORM]] 
+- Desordenados
+	- [[Introducción a ORM]] 
+	- [[Configuración application.properties para implementar BDR]] 
+	- [[Paso a Paso para un CRUD usando JPA e Hibernate]] 
+	- [[Clase en vivo]]  
+- [[Relaciones JPA]] 

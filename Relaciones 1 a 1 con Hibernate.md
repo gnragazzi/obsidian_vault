@@ -1,0 +1,9 @@
+- Entidad Propietaria:
+	- `@OneToOne(<CascadeType>)`
+	- `@JoinColumn(name=<nombreTablaSecundaria>_<nombre_id>,referencedColumnName=<nombre_atributo_id_tabla_referenciada>`
+		- name= indica el nombre que va a tener la columna en la tabla
+		- Indica el nombre del atributo de la otra tabla que queremos relacionar
+- Entidad Referenciada
+	- `@OneToOne(mappedBy=<nombre_de_la_variable>)`
+		- mappedBy
+			- Indica el nombre del atributo de la clase propietaria a través del cual se establece la relación con la entidad Referenciada.

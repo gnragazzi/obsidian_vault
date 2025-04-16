@@ -1,0 +1,9 @@
+- Queries
+	- Son aquellas pensadas para búsquedas sobre frases. Miden Cuánto se parece la frase buscada a la frase almacenada![[Captura de pantalla 2025-04-14 a la(s) 9.05.26 p. m..png]]
+		- Campo igual valor: term
+		- Texto que contiene una palabra (token): match
+		- Texto contiene palabras en algún orden dado: match_phrase
+		- campo en un rango {gt,gte,lt,lte}
+- Filters
+	- son para búsquedas binarias (si/no). Son cacheadas en memoria. utilizan campos que no son texto.![[Captura de pantalla 2025-04-14 a la(s) 9.05.38 p. m..png]]![[Captura de pantalla 2025-04-14 a la(s) 9.08.10 p. m..png]]
+		- Las queries en la anotación no llevan el "query":{} envolvente! 

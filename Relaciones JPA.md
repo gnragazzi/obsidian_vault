@@ -1,0 +1,12 @@
+- Vimos que usando [[Anotaciones Hibernate|anotaciones]] podemos lograr que clases se mapeen de manera directa a tablas en el [[SGBD]].
+- Este módulo trata sobre **cómo se pueden establecer relaciones** entre estas tablas, usando anotaciones.
+- Para esto, es importante observar que las clases que participan en una relación toman uno de los siguientes 2 roles:
+	- ***Propietaria***: es la entidad que referencia a la entidad secundaria
+	- ***Referenciada***: es la entidad referenciada.
+- Según cómo sea la multiplicidad de la relación, las anotaciones tienen ciertas particularidades:
+	- [[Relaciones 1 a 1 con Hibernate]] 
+	- [[Relaciones 1 a n con Hibernate]] 
+	- [[Relaciones n a n con Hibernate]] 
+- [[Cascading]]
+- [[FetchType]]
+- [[Claves Compuestas - Hibernate]] 

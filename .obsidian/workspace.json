@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+                "file": "Búsqueda con Elasticsearch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autómata Finito Determinístico"
+              "title": "Búsqueda con Elasticsearch"
             },
             "group": "9e811f97c3a0eb28"
-          },
-          {
-            "id": "37ba162027988e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoremas sobre la equivalencia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teoremas sobre la equivalencia"
-            }
           }
         ]
       },
@@ -48,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+                "file": "Búsqueda con Elasticsearch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -71,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.690639502014781,
+                  "scale": 0.2270937695381797,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Autómata Finito Determinístico"
+              "title": "Gráfico de Búsqueda con Elasticsearch"
             },
             "group": "9e811f97c3a0eb28"
           }
@@ -231,10 +217,28 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
+    "Captura de pantalla 2025-04-14 a la(s) 9.08.10 p. m..png",
+    "Captura de pantalla 2025-04-14 a la(s) 9.05.38 p. m..png",
+    "Captura de pantalla 2025-04-14 a la(s) 9.05.26 p. m..png",
+    "MELI/Bootcamp.md",
+    "Búsqueda con Elasticsearch.md",
+    "Elasticsearch y Spring.md",
+    "JPA y ORM.md",
+    "Clase en vivo.md",
+    "Relaciones 1 a n con Hibernate.md",
+    "Relaciones JPA.md",
+    "Paso a Paso para un CRUD usando JPA e Hibernate.md",
+    "Configuración application.properties para implementar BDR.md",
+    "Teoremas sobre la equivalencia.md",
+    "Variables de Entorno.md",
+    "Sintaxis consultas HQL en Spring.md",
+    "Buenas prácticas de nombrado de métodos en consultas HQL.md",
+    "Captura de pantalla 2025-04-14 a la(s) 9.52.58 a. m..png",
+    "HQL.md",
+    "Elementos HQL.md",
+    "Captura de pantalla 2025-04-14 a la(s) 9.38.11 a. m..png",
+    "Captura de pantalla 2025-04-14 a la(s) 9.37.06 a. m..png",
+    "Captura de pantalla 2025-04-14 a la(s) 9.36.49 a. m..png",
     "Propiedades de los Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
@@ -242,31 +246,13 @@
     "Minimización de un AFD.md",
     "Algoritmo de Tabla Completa.md",
     "Construir bloques de estados.md",
-    "Teoremas sobre la equivalencia.md",
     "Testeo de Estados Equivalentes.md",
     "Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
     "Consecuencia Lógica.md",
-    "Satisfacible.md",
-    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
-    "Corolario 3 - Teorema 3.md",
-    "Lema 4 - de los Árboles de Refutación completos.md",
-    "Completitud - Árbol de Refutación.md",
-    "Corolario 2 - Teorema 3.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Árbol de Refutación Cerrado - Abierto.md",
-    "Metalenguaje de Expresiones Regulares para JFlex.md",
-    "Teorema 3.md",
-    "Árbol de Refutación.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.52.32 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.50.47 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.47.40 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.46.11 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.45.58 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.43.02 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.39.48 p. m..png",
     "Sin título.canvas"
   ]
 }

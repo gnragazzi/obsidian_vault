@@ -1,0 +1,16 @@
+- Dado que ambas relaciones son equivalentes en término de multiplicidad, la decisión de cuál es propietaria y cual referenciada es arbitraria.
+- En el siguiente ejemplo, Student es la clase propietaria y Course la clase referenciada
+- ![[Captura de pantalla 2025-04-12 a la(s) 1.11.57 p. m..png]]
+- Clase Propietaria
+	- @ManyToMany
+	- @JoinTable(name,joinColumns,inverseJoinColumns)
+		- Se usa para determinar características de la tabla intermedia
+		- Atributos de la anotación:
+			- name: el nombre de la tabla
+			- joinColumns: el nombre de la columna que hara referencia al id de la clase propietaria
+			- inverseJoinColumns: el nombre de la columna que hara referencia al id de la clase referenciada
+	- Atributo de clase de tipo colección<clase_referenciada>
+- Clase Referenciada:
+	- @ManyToMany(mappedBy)
+		- mappedBy: nombre del atributo de la clase principal que hace referencia a esta entidad
+	- Atributo de clase de tipo colección<clase_propietaria>
