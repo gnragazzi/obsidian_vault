@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades de los Lenguajes Regulares.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades de los Lenguajes Regulares"
+              "title": "Autómata Finito Determinístico"
             },
             "group": "9e811f97c3a0eb28"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades de los Lenguajes Regulares.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades de los Lenguajes Regulares"
+              "title": "Gráfico de Autómata Finito Determinístico"
             },
             "group": "9e811f97c3a0eb28"
           }
@@ -231,6 +231,11 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
+    "Propiedades de los Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
     "Obtención de un AFD a partir de una Gramática Regular.md",
@@ -252,11 +257,6 @@
     "Metalenguaje de Expresiones Regulares para JFlex.md",
     "Teorema 3.md",
     "Árbol de Refutación.md",
-    "Argumento Válido.md",
-    "Corolario 1 del Teorema de la Deducción.md",
-    "Teorema 1 - de la deducción.md",
-    "Teorema 4 (de la compacidad).md",
-    "Corolario 4 - Teorema 4.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
