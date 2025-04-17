@@ -3,3 +3,4 @@
 - [[Agentes Basados en Objetivos]]
 - [[Agentes Basados en Utilidades]]
 - [[Agentes de Aprendizaje]] 
+- [[Agentes Lógicos]] 
