@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Búsqueda con Elasticsearch.md",
+                "file": "Lema de Pumping para Lenguajes Regulares (Teorema).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Búsqueda con Elasticsearch"
+              "title": "Lema de Pumping para Lenguajes Regulares (Teorema)"
             },
             "group": "9e811f97c3a0eb28"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Búsqueda con Elasticsearch.md",
+                "file": "Lema de Pumping para Lenguajes Regulares (Teorema).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Búsqueda con Elasticsearch"
+              "title": "Gráfico de Lema de Pumping para Lenguajes Regulares (Teorema)"
             },
             "group": "9e811f97c3a0eb28"
           }
@@ -217,11 +217,14 @@
   },
   "active": "1ee44fd8a63878da",
   "lastOpenFiles": [
+    "Carrera/Matemáticas/Cálculo/Desigualdad Triangular.md",
+    "Lema de Pumping para Lenguajes Regulares (Teorema).md",
+    "Uso Práctico del Lema de Pumping.md",
+    "Búsqueda con Elasticsearch.md",
     "Captura de pantalla 2025-04-14 a la(s) 9.08.10 p. m..png",
     "Captura de pantalla 2025-04-14 a la(s) 9.05.38 p. m..png",
     "Captura de pantalla 2025-04-14 a la(s) 9.05.26 p. m..png",
     "MELI/Bootcamp.md",
-    "Búsqueda con Elasticsearch.md",
     "Elasticsearch y Spring.md",
     "JPA y ORM.md",
     "Clase en vivo.md",
@@ -247,12 +250,9 @@
     "Algoritmo de Tabla Completa.md",
     "Construir bloques de estados.md",
     "Testeo de Estados Equivalentes.md",
-    "Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
-    "Consecuencia Lógica.md",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
     "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.52.32 p. m..png",
     "Sin título.canvas"
   ]
 }
