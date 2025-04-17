@@ -1,44 +1,44 @@
 {
   "main": {
-    "id": "6575551250bd2faa",
+    "id": "4cd0cef346317257",
     "type": "split",
     "children": [
       {
-        "id": "29956bb10b4e5e20",
+        "id": "8faf9ae1d207b259",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee44fd8a63878da",
+            "id": "980650877364cc97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agentes Basados en Conocimientos.md",
+                "file": "Longitud Modificada de una Fórmula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentes Basados en Conocimientos"
+              "title": "Longitud Modificada de una Fórmula"
             },
-            "group": "9e811f97c3a0eb28"
+            "group": "66e4fbb7cedbdb05"
           }
         ]
       },
       {
-        "id": "5a276b5215fb1adc",
+        "id": "d3aa77c6a6235ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "dabfa16b36425db5",
+            "id": "2d72e283a3fd4d5a",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agentes Basados en Conocimientos.md",
+                "file": "Longitud Modificada de una Fórmula.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -48,7 +48,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -57,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6893677699811482,
-                  "close": true
+                  "scale": 1,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Agentes Basados en Conocimientos"
+              "title": "Gráfico de Longitud Modificada de una Fórmula"
             },
-            "group": "9e811f97c3a0eb28"
+            "group": "66e4fbb7cedbdb05"
           }
         ]
       }
@@ -72,15 +72,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68c20cf7508d3968",
+    "id": "8c86f366fdacb3d7",
     "type": "split",
     "children": [
       {
-        "id": "cb46add41309209e",
+        "id": "1e0706b9fe49dbe6",
         "type": "tabs",
         "children": [
           {
-            "id": "52168dd3a0f79823",
+            "id": "3d02d7fdb82a7e1e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "c4acb5dfe5aac078",
+            "id": "d8318599985bd89e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "279752d1283c5010",
+            "id": "3a26f63a0a86fe48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,29 +119,27 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "05cbfc6a4b3534cc",
+    "id": "bd319b73d259d22b",
     "type": "split",
     "children": [
       {
-        "id": "c7df8cfac9f1730a",
+        "id": "53739d7d288c4107",
         "type": "tabs",
         "children": [
           {
-            "id": "739ea17354391e9c",
+            "id": "79cc96108bffe1ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teorema 4 (de la compacidad).md",
+                "file": "Longitud Modificada de una Fórmula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,25 +149,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Teorema 4 (de la compacidad)"
+              "title": "Enlaces entrantes de Longitud Modificada de una Fórmula"
             }
           },
           {
-            "id": "a339e33dbbb3b056",
+            "id": "d49a1d9c46ac4d31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teorema 4 (de la compacidad).md",
+                "file": "Longitud Modificada de una Fórmula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Teorema 4 (de la compacidad)"
+              "title": "Enlaces salientes de Longitud Modificada de una Fórmula"
             }
           },
           {
-            "id": "8423d9ab75529620",
+            "id": "33ecd46d3467e3a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,18 +182,18 @@
             }
           },
           {
-            "id": "a6360c171a0ef47f",
+            "id": "dfdf1e3c3e3747a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m..png",
+                "file": "Longitud Modificada de una Fórmula.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Captura de pantalla 2025-03-26 a la(s) 4.11.55 p. m."
+              "title": "Esquema de Longitud Modificada de una Fórmula"
             }
           }
         ]
@@ -215,44 +213,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1ee44fd8a63878da",
+  "active": "980650877364cc97",
   "lastOpenFiles": [
-    "Agentes Lógicos.md",
-    "Agentes Basados en Conocimientos.md",
-    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
-    "Carrera/Informática/21. IA/Agente Computacional.md",
-    "Carrera/Informática/21. IA/Agente Inteligente.md",
-    "Carrera/Informática/21. IA/Agente Racional.md",
-    "Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Matemáticas/Cálculo/Desigualdad Triangular.md",
-    "Uso Práctico del Lema de Pumping.md",
-    "Búsqueda con Elasticsearch.md",
-    "Captura de pantalla 2025-04-14 a la(s) 9.08.10 p. m..png",
-    "Captura de pantalla 2025-04-14 a la(s) 9.05.38 p. m..png",
-    "Captura de pantalla 2025-04-14 a la(s) 9.05.26 p. m..png",
-    "MELI/Bootcamp.md",
-    "Elasticsearch y Spring.md",
-    "JPA y ORM.md",
-    "Clase en vivo.md",
-    "Relaciones 1 a n con Hibernate.md",
-    "Relaciones JPA.md",
-    "Paso a Paso para un CRUD usando JPA e Hibernate.md",
-    "Configuración application.properties para implementar BDR.md",
-    "Teoremas sobre la equivalencia.md",
-    "Variables de Entorno.md",
-    "Sintaxis consultas HQL en Spring.md",
-    "Buenas prácticas de nombrado de métodos en consultas HQL.md",
-    "Captura de pantalla 2025-04-14 a la(s) 9.52.58 a. m..png",
-    "HQL.md",
-    "Elementos HQL.md",
-    "Captura de pantalla 2025-04-14 a la(s) 9.38.11 a. m..png",
-    "Captura de pantalla 2025-04-14 a la(s) 9.37.06 a. m..png",
-    "Captura de pantalla 2025-04-14 a la(s) 9.36.49 a. m..png",
-    "Propiedades de los Lenguajes Regulares.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.55 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.36 p. m..png",
-    "Captura de pantalla 2025-04-10 a la(s) 3.53.06 p. m..png",
-    "Sin título.canvas"
+    "Observación 1 de la Extensión de la Función de Valuación.md",
+    "Token.md",
+    "Sin título.canvas",
+    "Teorema 2.md",
+    "Longitud Modificada de una Fórmula.md",
+    "MELI/Teorema de CAP.md",
+    "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
+    "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
+    "Teorema 3.md",
+    "Teorema 1 - de la deducción.md",
+    "0 - Índice.md",
+    "Otros/MathJax Reference.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 2.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 3 - De las propiedades de la longitud modificada.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 4 - de los Árboles de Refutación completos.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 6.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Especificación JFlex.md",
+    "Carrera/Informática/21. IA/Grafo de Restricción.md",
+    "Carrera/Informática/21. IA/Grado Heurístico.md",
+    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
+    "Carrera/Informática/21. IA/Foward Checking.md",
+    "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Extensión Inmediata de un Árbol.md",
+    "Imagenes/Pasted image 20250409192441.png",
+    "Imagenes/Captura de pantalla 2025-03-31 a la(s) 2.55.39 p. m..png"
   ]
 }
