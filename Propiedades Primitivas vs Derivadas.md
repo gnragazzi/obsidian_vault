@@ -1,0 +1,3 @@
+- El conocimiento primitivo es el definido explícitamente por hechos
+- Conocimiento Derivado es el definido por reglas
+- [[Herencia de Propiedades - Agentes Lógicos]] 

@@ -8,4 +8,6 @@
 		- El agente Se pregunta a si mismo que hacer
 	- [[Ontología - Agentes Lógicos]]
 	- [[Agente Lógico cómo función]] 
-- [[Representación del conocimiento]] 
+	- [[Implicación Lógica de un Agente Basado en Conocimientos]] 
+	- [[Inferencia Lógica de un Agente Basado en Conocimientos]] 
+	- 

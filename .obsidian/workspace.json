@@ -6,7 +6,7 @@
       {
         "id": "8faf9ae1d207b259",
         "type": "tabs",
-        "dimension": 52.341920374707264,
+        "dimension": 52.34192037470726,
         "children": [
           {
             "id": "980650877364cc97",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
+                "file": "Propiedades Primitivas vs Derivadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentes Basados en Conocimientos"
+              "title": "Propiedades Primitivas vs Derivadas"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -28,7 +28,7 @@
       {
         "id": "d3aa77c6a6235ef8",
         "type": "tabs",
-        "dimension": 47.658079625292736,
+        "dimension": 47.65807962529274,
         "children": [
           {
             "id": "2d72e283a3fd4d5a",
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
+                "file": "Propiedades Primitivas vs Derivadas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147805,
+                  "scale": 1,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Agentes Basados en Conocimientos"
+              "title": "Gráfico de Propiedades Primitivas vs Derivadas"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -121,8 +121,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,38 +216,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d72e283a3fd4d5a",
+  "active": "980650877364cc97",
   "lastOpenFiles": [
+    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
+    "Propiedades Primitivas vs Derivadas.md",
+    "Herencia de Propiedades - Agentes Lógicos.md",
+    "Ontología - Agentes Lógicos.md",
+    "Otros/MathJax Reference.md",
+    "Pasted image 20250418114443.png",
+    "Pasted image 20250418114249.png",
+    "Representación en Lenguaje Turtle.md",
+    "Pasted image 20250418113854.png",
+    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
+    "Grafos de Conocimiento.md",
+    "Pasted image 20250418113346.png",
+    "Pasted image 20250418113335.png",
+    "7 pasos de la Ingeniería del Conocimiento.md",
+    "Base de Conocimientos de un agente lógico.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
+    "Algoritmos de Inferencia.md",
+    "Encadenamiento hacia Atrás - Algoritmo de Inferencia.md",
+    "Encadenamiento hacia Adelante - Algoritmo de Inferencia.md",
+    "Unicode Reference.md",
+    "Pasted image 20250418110030.png",
+    "Pasted image 20250418110022.png",
+    "Pasted image 20250418110014.png",
+    "Pasted image 20250418105944.png",
+    "Pasted image 20250418105936.png",
+    "Forma y Cláusulas de Horn.md",
+    "Completitud - Inferencia.md",
+    "Sensatez - Inferencia.md",
+    "Inferencia Lógica de un Agente Basado en Conocimientos.md",
+    "Implicación Lógica de un Agente Basado en Conocimientos.md",
     "Representación del conocimiento.md",
     "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
-    "Base de Conocimientos de un agente lógico.md",
     "Agente Lógico cómo función.md",
     "Crear-Sentencia-Percepción.md",
-    "Pasted image 20250417210720.png",
     "Carrera/Informática/21. IA/Agentes Lógicos.md",
-    "Pasted image 20250417210039.png",
     "Longitud Modificada de una Fórmula.md",
-    "Observación 1 de la Extensión de la Función de Valuación.md",
-    "Token.md",
-    "Sin título.canvas",
-    "Teorema 2.md",
-    "MELI/Teorema de CAP.md",
-    "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
-    "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
-    "Teorema 3.md",
-    "Teorema 1 - de la deducción.md",
-    "0 - Índice.md",
-    "Otros/MathJax Reference.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 2.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 3 - De las propiedades de la longitud modificada.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 4 - de los Árboles de Refutación completos.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 6.md",
-    "Imagenes/Pasted image 20250409192441.png",
-    "Imagenes/Captura de pantalla 2025-03-31 a la(s) 2.55.39 p. m..png"
+    "Sin título.canvas"
   ]
 }
