@@ -6,6 +6,7 @@
       {
         "id": "8faf9ae1d207b259",
         "type": "tabs",
+        "dimension": 52.341920374707264,
         "children": [
           {
             "id": "980650877364cc97",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longitud Modificada de una Fórmula.md",
+                "file": "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longitud Modificada de una Fórmula"
+              "title": "Agentes Basados en Conocimientos"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -27,6 +28,7 @@
       {
         "id": "d3aa77c6a6235ef8",
         "type": "tabs",
+        "dimension": 47.658079625292736,
         "children": [
           {
             "id": "2d72e283a3fd4d5a",
@@ -34,11 +36,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Longitud Modificada de una Fórmula.md",
+                "file": "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -48,7 +50,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -57,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.6906395020147805,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Longitud Modificada de una Fórmula"
+              "title": "Gráfico de Agentes Basados en Conocimientos"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -98,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agente ló",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,11 +121,13 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd319b73d259d22b",
@@ -213,13 +217,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "980650877364cc97",
+  "active": "2d72e283a3fd4d5a",
   "lastOpenFiles": [
+    "Representación del conocimiento.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
+    "Base de Conocimientos de un agente lógico.md",
+    "Agente Lógico cómo función.md",
+    "Crear-Sentencia-Percepción.md",
+    "Pasted image 20250417210720.png",
+    "Carrera/Informática/21. IA/Agentes Lógicos.md",
+    "Pasted image 20250417210039.png",
+    "Longitud Modificada de una Fórmula.md",
     "Observación 1 de la Extensión de la Función de Valuación.md",
     "Token.md",
     "Sin título.canvas",
     "Teorema 2.md",
-    "Longitud Modificada de una Fórmula.md",
     "MELI/Teorema de CAP.md",
     "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
     "Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε.md",
@@ -235,13 +248,6 @@
     "Carrera/Informática/23. Lógica para Computación/Lema 4 - de los Árboles de Refutación completos.md",
     "Carrera/Informática/23. Lógica para Computación/Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
     "Carrera/Informática/23. Lógica para Computación/Lema 6.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Especificación JFlex.md",
-    "Carrera/Informática/21. IA/Grafo de Restricción.md",
-    "Carrera/Informática/21. IA/Grado Heurístico.md",
-    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
-    "Carrera/Informática/21. IA/Foward Checking.md",
-    "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Extensión Inmediata de un Árbol.md",
     "Imagenes/Pasted image 20250409192441.png",
     "Imagenes/Captura de pantalla 2025-03-31 a la(s) 2.55.39 p. m..png"
   ]

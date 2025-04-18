@@ -1,0 +1,11 @@
+- Características
+	- Tienen una [[Base de Conocimientos de un agente lógico|base de conocimientos(BC)]]
+	- Derivan sus acciones de está a través del razonamiento lógico.
+	- Se visualizan (a nivel de conocimiento) por ***lo que conocen***.
+		- Su visualización a nivel de imlementación es qué estructuras se usan para almacenar la base de conocimiento y los [[Algoritmos de Inferencia]]![[Pasted image 20250417210039.png]]
+	- Tiene un enfoque declarativo 
+		- Se "dice" lo que el agente necesita conocer
+		- El agente Se pregunta a si mismo que hacer
+	- [[Ontología - Agentes Lógicos]]
+	- [[Agente Lógico cómo función]] 
+- [[Representación del conocimiento]] 

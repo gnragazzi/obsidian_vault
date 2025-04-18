@@ -1,0 +1,2 @@
+- Conjunto de sentencias en algún lenguaje formal
+- Construida por un Ingeniero de Conocimiento en una [[7 pasos de la Ingeniería del Conocimiento|serie de pasos.]] 
