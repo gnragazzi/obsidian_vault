@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades Primitivas vs Derivadas.md",
+                "file": "NoSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades Primitivas vs Derivadas"
+              "title": "NoSQL"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades Primitivas vs Derivadas.md",
+                "file": "NoSQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -49,7 +49,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.6718579638371989,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades Primitivas vs Derivadas"
+              "title": "Gráfico de NoSQL"
             },
             "group": "66e4fbb7cedbdb05"
           }
@@ -218,42 +218,42 @@
   },
   "active": "980650877364cc97",
   "lastOpenFiles": [
-    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
-    "Propiedades Primitivas vs Derivadas.md",
-    "Herencia de Propiedades - Agentes Lógicos.md",
-    "Ontología - Agentes Lógicos.md",
-    "Otros/MathJax Reference.md",
-    "Pasted image 20250418114443.png",
-    "Pasted image 20250418114249.png",
-    "Representación en Lenguaje Turtle.md",
-    "Pasted image 20250418113854.png",
-    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
-    "Grafos de Conocimiento.md",
-    "Pasted image 20250418113346.png",
-    "Pasted image 20250418113335.png",
-    "7 pasos de la Ingeniería del Conocimiento.md",
-    "Base de Conocimientos de un agente lógico.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
-    "Algoritmos de Inferencia.md",
-    "Encadenamiento hacia Atrás - Algoritmo de Inferencia.md",
-    "Encadenamiento hacia Adelante - Algoritmo de Inferencia.md",
-    "Unicode Reference.md",
-    "Pasted image 20250418110030.png",
-    "Pasted image 20250418110022.png",
-    "Pasted image 20250418110014.png",
-    "Pasted image 20250418105944.png",
-    "Pasted image 20250418105936.png",
-    "Forma y Cláusulas de Horn.md",
-    "Completitud - Inferencia.md",
-    "Sensatez - Inferencia.md",
-    "Inferencia Lógica de un Agente Basado en Conocimientos.md",
-    "Implicación Lógica de un Agente Basado en Conocimientos.md",
-    "Representación del conocimiento.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Agente Lógico cómo función.md",
-    "Crear-Sentencia-Percepción.md",
-    "Carrera/Informática/21. IA/Agentes Lógicos.md",
-    "Longitud Modificada de una Fórmula.md",
+    "KVS - DS - NoSQL en Fury.md",
+    "NoSQL.md",
+    "DS en Fury.md",
+    "Buenas y Malas Prácticas DS.md",
+    "DS Queries, ejemplo.md",
+    "KVS.md",
+    "Tipos de KVS.md",
+    "Buenas y Malas Prácticas KVS.md",
+    "Captura de pantalla 2025-04-22 a la(s) 3.06.13 p. m..png",
+    "Captura de pantalla 2025-04-22 a la(s) 2.59.58 p. m..png",
+    "Fury.md",
+    "Tráfico.md",
+    "Dominio.md",
+    "Captura de pantalla 2025-04-21 a la(s) 4.16.57 p. m..png",
+    "Scopes y Estrategias de Deploy.md",
+    "Servicio en Fury.md",
+    "Deployment.md",
+    "Estrategias de Deployment.md",
+    "Canary.md",
+    "Scope.md",
+    "Captura de pantalla 2025-04-21 a la(s) 10.27.46 a. m..png",
+    "Safe.md",
+    "Captura de pantalla 2025-04-21 a la(s) 10.25.44 a. m..png",
+    "Captura de pantalla 2025-04-21 a la(s) 10.20.56 a. m..png",
+    "Blue Green.md",
+    "Captura de pantalla 2025-04-21 a la(s) 10.19.33 a. m..png",
+    "Rolling Update.md",
+    "All In.md",
+    "Captura de pantalla 2025-04-21 a la(s) 10.17.01 a. m..png",
+    "Captura de pantalla 2025-04-21 a la(s) 10.16.34 a. m..png",
+    "Captura de pantalla 2025-04-21 a la(s) 10.16.01 a. m..png",
+    "Pasos para Deployment en Fury.md",
+    "Pasos para consumir un Servicio Web en Fury.md",
+    "Pasos para crear un Servicio Web en Fury.md",
+    "Servicio Web en Fury.md",
+    "Escalamiento Horizontal.md",
     "Sin título.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Se refiere a agregar más potencia a una máquina (por ejemplo, un servidor) para mejorar el rendimiento de un sistema o aplicación.
