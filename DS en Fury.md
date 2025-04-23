@@ -1,0 +1,9 @@
+- Optimizado para consultas
+	- Preferible cuando hay pocas altas y muchas consultas
+	- delay de 2 segundos para consulta después de un alta
+- [[DS Queries, ejemplo]] 
+- Routing
+	- Limita las consultas a pocos nodos
+- Segmentación
+	- Dividir el DS en varias zonas
+- [[Buenas y Malas Prácticas DS]] 

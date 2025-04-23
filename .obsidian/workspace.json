@@ -1,70 +1,21 @@
 {
   "main": {
-    "id": "4cd0cef346317257",
+    "id": "a7eeb34cbd233876",
     "type": "split",
     "children": [
       {
-        "id": "d3aa77c6a6235ef8",
+        "id": "30783568baaa71bf",
         "type": "tabs",
         "children": [
           {
-            "id": "980650877364cc97",
+            "id": "0c082bff901d252f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicio 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ejercicio 2"
-            },
-            "group": "553f329ac8484dfe"
-          }
-        ]
-      },
-      {
-        "id": "cc5d303e4e674f88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2ab000feda94e469",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Ejercicio 2.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Ejercicio 2"
-            },
-            "group": "553f329ac8484dfe"
+              "title": "Nueva pestaña"
+            }
           }
         ]
       }
@@ -72,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c86f366fdacb3d7",
+    "id": "bd806dbd884e8db5",
     "type": "split",
     "children": [
       {
-        "id": "1e0706b9fe49dbe6",
+        "id": "c9042e039fcde485",
         "type": "tabs",
         "children": [
           {
-            "id": "3d02d7fdb82a7e1e",
+            "id": "02a412369ed7e457",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,12 +44,12 @@
             }
           },
           {
-            "id": "d8318599985bd89e",
+            "id": "0035f5a1d5d979f5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "agente ló",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +61,7 @@
             }
           },
           {
-            "id": "3a26f63a0a86fe48",
+            "id": "63fd5aed666007ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "bd319b73d259d22b",
+    "id": "1e516bca1fc19a59",
     "type": "split",
     "children": [
       {
-        "id": "53739d7d288c4107",
+        "id": "eba4cea076c7925e",
         "type": "tabs",
         "children": [
           {
-            "id": "79cc96108bffe1ac",
+            "id": "ed143e313f7396f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Longitud Modificada de una Fórmula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Longitud Modificada de una Fórmula"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "d49a1d9c46ac4d31",
+            "id": "cebdfaefee6d12c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Longitud Modificada de una Fórmula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Longitud Modificada de una Fórmula"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "33ecd46d3467e3a3",
+            "id": "88e3f6be87535c31",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,18 +131,17 @@
             }
           },
           {
-            "id": "dfdf1e3c3e3747a2",
+            "id": "8a557d49f2417830",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Longitud Modificada de una Fórmula.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Longitud Modificada de una Fórmula"
+              "title": "Esquema"
             }
           }
         ]
@@ -214,44 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "980650877364cc97",
-  "lastOpenFiles": [
-    "MELI/Bootcamp.md",
-    "MELI/Diferencias entre KVS y DocSearch.md",
-    "Ejercicio 2.md",
-    "Herencia de Propiedades - Agentes Lógicos.md",
-    "Ejercicio 1 - Herencia.md",
-    "Doctrina Prolog.md",
-    "Propiedades Primitivas vs Derivadas.md",
-    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
-    "Ontología - Agentes Lógicos.md",
-    "Otros/MathJax Reference.md",
-    "Pasted image 20250418114443.png",
-    "Pasted image 20250418114249.png",
-    "Representación en Lenguaje Turtle.md",
-    "Pasted image 20250418113854.png",
-    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
-    "Grafos de Conocimiento.md",
-    "Pasted image 20250418113346.png",
-    "Pasted image 20250418113335.png",
-    "7 pasos de la Ingeniería del Conocimiento.md",
-    "Base de Conocimientos de un agente lógico.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
-    "Algoritmos de Inferencia.md",
-    "Encadenamiento hacia Atrás - Algoritmo de Inferencia.md",
-    "Encadenamiento hacia Adelante - Algoritmo de Inferencia.md",
-    "Unicode Reference.md",
-    "Pasted image 20250418110030.png",
-    "Pasted image 20250418110022.png",
-    "Pasted image 20250418110014.png",
-    "Pasted image 20250418105944.png",
-    "Pasted image 20250418105936.png",
-    "Forma y Cláusulas de Horn.md",
-    "Completitud - Inferencia.md",
-    "Sensatez - Inferencia.md",
-    "Inferencia Lógica de un Agente Basado en Conocimientos.md",
-    "Implicación Lógica de un Agente Basado en Conocimientos.md",
-    "Representación del conocimiento.md",
-    "Sin título.canvas"
-  ]
+  "active": "0c082bff901d252f",
+  "lastOpenFiles": []
 }
