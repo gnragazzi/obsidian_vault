@@ -7,3 +7,6 @@
 	- puede haber conflicto cuando hay propiedades contradictorias
 ***
 ![[Pasted image 20250418114443.png]]
+***
+[[Ejercicio 1 - Herencia]]
+[[Ejercicio 2]]

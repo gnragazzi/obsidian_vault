@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8faf9ae1d207b259",
+        "id": "d3aa77c6a6235ef8",
         "type": "tabs",
-        "dimension": 52.34192037470726,
         "children": [
           {
             "id": "980650877364cc97",
@@ -14,33 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades Primitivas vs Derivadas.md",
+                "file": "Ejercicio 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades Primitivas vs Derivadas"
+              "title": "Ejercicio 2"
             },
-            "group": "66e4fbb7cedbdb05"
+            "group": "553f329ac8484dfe"
           }
         ]
       },
       {
-        "id": "d3aa77c6a6235ef8",
+        "id": "cc5d303e4e674f88",
         "type": "tabs",
-        "dimension": 47.65807962529274,
         "children": [
           {
-            "id": "2d72e283a3fd4d5a",
+            "id": "2ab000feda94e469",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades Primitivas vs Derivadas.md",
+                "file": "Ejercicio 2.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -50,7 +48,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -60,13 +58,13 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades Primitivas vs Derivadas"
+              "title": "Gráfico de Ejercicio 2"
             },
-            "group": "66e4fbb7cedbdb05"
+            "group": "553f329ac8484dfe"
           }
         ]
       }
@@ -218,9 +216,14 @@
   },
   "active": "980650877364cc97",
   "lastOpenFiles": [
-    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
-    "Propiedades Primitivas vs Derivadas.md",
+    "MELI/Bootcamp.md",
+    "MELI/Diferencias entre KVS y DocSearch.md",
+    "Ejercicio 2.md",
     "Herencia de Propiedades - Agentes Lógicos.md",
+    "Ejercicio 1 - Herencia.md",
+    "Doctrina Prolog.md",
+    "Propiedades Primitivas vs Derivadas.md",
+    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
     "Ontología - Agentes Lógicos.md",
     "Otros/MathJax Reference.md",
     "Pasted image 20250418114443.png",
@@ -249,11 +252,6 @@
     "Inferencia Lógica de un Agente Basado en Conocimientos.md",
     "Implicación Lógica de un Agente Basado en Conocimientos.md",
     "Representación del conocimiento.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Agente Lógico cómo función.md",
-    "Crear-Sentencia-Percepción.md",
-    "Carrera/Informática/21. IA/Agentes Lógicos.md",
-    "Longitud Modificada de una Fórmula.md",
     "Sin título.canvas"
   ]
 }
