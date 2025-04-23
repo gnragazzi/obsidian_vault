@@ -7,5 +7,6 @@ Teoremas
 [[Alfabeto de la Lógica Proposicional]]
 [[Semántica de la Lógica Proposicional]]
 [[Argumentos]] 
+[[Sistema Formal L]] 
 ***
 [[Práctico 1 - Cálculo Proposicional]] 

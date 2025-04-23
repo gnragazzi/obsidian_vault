@@ -11,11 +11,60 @@
             "id": "0c082bff901d252f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Formal L.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
+              "title": "Sistema Formal L"
+            },
+            "group": "3fa85d7d53e304da"
+          }
+        ]
+      },
+      {
+        "id": "810536d6e1b4bd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c875f59eda931e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Sistema Formal L.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6906395020147806,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Sistema Formal L"
+            },
+            "group": "3fa85d7d53e304da"
           }
         ]
       }
@@ -74,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e516bca1fc19a59",
@@ -162,5 +212,34 @@
     }
   },
   "active": "0c082bff901d252f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Modus Ponens.md",
+    "Sistema Formal L.md",
+    "Sistema Formal - Definición.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Valuación que Satisface a una Fórmula.md",
+    "Otros/MathJax Reference.md",
+    "Otros/Unicode Reference.md",
+    "MELI/Tráfico.md",
+    "MELI/Tolerancia al Particionamiento BD.md",
+    "MELI/Tipos de KVS.md",
+    "Token.md",
+    "Tipos de Restricciones.md",
+    "Templado Simulado.md",
+    "MELI/Servicio en Fury.md",
+    "MELI/Scopes y Estrategias de Deploy.md",
+    "Satisfacible.md",
+    "MELI/Réplicas.md",
+    "MELI/Relaciones n a n con Hibernate.md",
+    "Representación del conocimiento.md",
+    "Representación en Lenguaje Turtle.md",
+    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
+    "MELI/Rolling Update.md",
+    "MELI/Safe.md",
+    "MELI/Scope.md",
+    "Propiedades de los Lenguajes Regulares.md",
+    "Imagenes/Pasted image 20250417210039.png",
+    "Imagenes/Captura de pantalla 2025-04-21 a la(s) 4.16.57 p. m..png"
+  ]
 }
