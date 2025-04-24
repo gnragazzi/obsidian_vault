@@ -1,0 +1,1 @@
+Si $A$ es una [[Sistema Formal L|fbf]] de $\mathcal{L}$ y es una [[Tautología (Sistema Formal)|tautología]], entonces $$⊢_\mathcal{L} A$$, es decir, es un [[Teorema (Lógica) - Definición|teorema]].

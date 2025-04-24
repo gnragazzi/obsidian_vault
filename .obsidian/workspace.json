@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "30783568baaa71bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c082bff901d252f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Formal L.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema Formal L"
-            },
-            "group": "3fa85d7d53e304da"
-          }
-        ]
-      },
-      {
         "id": "810536d6e1b4bd3d",
         "type": "tabs",
         "children": [
@@ -34,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sistema Formal L.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,9 +40,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Sistema Formal L"
-            },
-            "group": "3fa85d7d53e304da"
+              "title": "Vista gráfica"
+            }
           }
         ]
       }
@@ -211,34 +188,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c082bff901d252f",
+  "active": "b3c875f59eda931e",
   "lastOpenFiles": [
-    "Modus Ponens.md",
+    "Sin título.md",
+    "Teorema de la Adecuación.md",
+    "Propiedades de un Sistema Formal.md",
+    "Completitud (Sintáctica) - Sistemas Formales.md",
+    "Pasted image 20250423213037.png",
+    "Consistente.md",
+    "Proposición 3 - Consistencia de L.md",
+    "Pasted image 20250423212923.png",
+    "Decidible.md",
+    "Proposición 2 - Sobre la decibilidad de L.md",
+    "Pasted image 20250423212738.png",
+    "Pasted image 20250423212736.png",
     "Sistema Formal L.md",
     "Sistema Formal - Definición.md",
+    "Teorema de la Corrección (2).md",
+    "Pasted image 20250423211614.png",
+    "Completitud (Semántica) - Sistemas Formales.md",
+    "Sistema Formal Correcto.md",
+    "Deducción - Sistemas Formales.md",
+    "Carrera/Informática/23. Lógica para Computación/Deducible - Fórmula.md",
+    "Corolario 1 - Teorema de la deducción.md",
+    "Valoración de un Sistema Formal.md",
+    "Tautología (Sistema Formal).md",
+    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
+    "Pasted image 20250423210019.png",
+    "Proposición 1 - Teorema de la Deducción.md",
+    "Teorema (Lógica) - Definición.md",
+    "Demostración - Definición.md",
+    "Derivable.md",
+    "Pasted image 20250423205937.png",
+    "Modus Ponens.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Otros/MathJax Reference.md",
-    "Otros/Unicode Reference.md",
-    "MELI/Tráfico.md",
-    "MELI/Tolerancia al Particionamiento BD.md",
-    "MELI/Tipos de KVS.md",
-    "Token.md",
-    "Tipos de Restricciones.md",
-    "Templado Simulado.md",
-    "MELI/Servicio en Fury.md",
-    "MELI/Scopes y Estrategias de Deploy.md",
-    "Satisfacible.md",
-    "MELI/Réplicas.md",
-    "MELI/Relaciones n a n con Hibernate.md",
-    "Representación del conocimiento.md",
-    "Representación en Lenguaje Turtle.md",
-    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
-    "MELI/Rolling Update.md",
-    "MELI/Safe.md",
-    "MELI/Scope.md",
-    "Propiedades de los Lenguajes Regulares.md",
     "Imagenes/Pasted image 20250417210039.png",
     "Imagenes/Captura de pantalla 2025-04-21 a la(s) 4.16.57 p. m..png"
   ]

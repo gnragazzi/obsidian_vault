@@ -1,0 +1,2 @@
+Un **teorema** es una [[Fórmula Lógica|fórmula]] válida, [[Demostración - Definición|demostrable]], que se obtiene como resultado de una demostración en el [[Sistema Formal L|sistema formal]]. 
+Por lo tanto decimos que una **[[Sistema Formal L#^9688e4|fbf]]** $A$ es un teorema si es un **[[Axioma|axioma]]**, o si se obtiene como **conclusión de una demostración** en el Sistema formal $\mathcal{L}$.

@@ -1,0 +1,3 @@
+Un [[Sistema Formal - Definición|sistema deductivo]] $SD$ es _correcto_ (también se lo conoce como _sensato_) si todas las fórmulas [[Demostración - Definición|demostrables]] en el sistema, desde el punto de vista semántico son [[Tautología (Sistema Formal)|tautologías]]; y todas las fórmulas [[Deducción - Sistemas Formales|deducibles]] en el sistema a partir de un conjunto de premisas, son consecuencia lógica de dichas premisas. Formalmente:
+
+$$\text{si } \vdash_{SD} A \text{ implica } \models A$$$$\text{si } \Gamma \vdash_{SD} A \text{ implica } \Gamma \models A$$

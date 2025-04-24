@@ -1,0 +1,1 @@
+Una [[Sistema Formal L#^9688e4|fbf]] de $\mathcal{L}$ es una tautología si para toda [[Valoración de un Sistema Formal|valoración]] v, $$v(A) = V$$
