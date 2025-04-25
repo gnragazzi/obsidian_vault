@@ -1,0 +1,2 @@
+- Cola de tareas de larga duración para procesamiento asincrónico
+- ![[Captura de pantalla 2025-04-24 a la(s) 11.02.22 a. m..png]]

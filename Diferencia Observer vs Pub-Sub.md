@@ -1,0 +1,3 @@
+- Observer tiene un acoplamiento más fuerte (porque conoce a sus subscriptores)
+- En Pub/Sub hay un intermediario que maneja la comunicación
+- En general, Pub/Sub permite mejor escalabilidad debido a su naturaleza desacoplada.

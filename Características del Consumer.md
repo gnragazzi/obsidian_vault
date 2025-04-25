@@ -1,0 +1,28 @@
+- Dynamic Rate Limit Rampup
+	- A que ritmo se llega al rate limit
+	- Ante ráfagas repentinas de mensajes, permitimos que cada consumer "arranque suavemente".
+- Bulk Delivery
+	- Es la forma recomendada de consumir mensajes
+	- Un mensaje tiene contiene o agrupa varios mensajes disponibles
+	- La cantidad es configurable.
+- Reset 
+	- Desechar backlog (marcarlos como procesados y ponerse al día) 
+- Rewind
+	- Volver a procesar todos los mensajes recibidos desde un determinado momento
+- Peek
+	- Ver un mensaje que está disponible para consumir
+	- Sirva para cosas
+		- Por ejemplo, para visualizar su estructura
+	- Es necesario tener mensajes en el backlog
+- Delayed Delivery
+	- Tiempo de espera entre el mensaje está disponible y es enviado al consumer
+	- Útil, por ejemplo, si se necesita consumir un servicio que depende de tener ese mismo dato: esperar unos segundos es saber que ese mensaje ya va a estar cargado
+- Filters
+	- Elegir que mensajes aceptar
+- [[Eror Handling]]
+	- Default
+		- Se reintenta el envío de mensaje cada 30s hasta que sea procesado correctamente o se cumpla el [[Acrónimos|TTL]] 
+	- Exponential Backoff
+		- Se reintenta el envío, pero el tiempo entre intentos va creciendo
+	- DLQ (Dead Letter Queue)
+		- En este caso, cuando se alcanza un límite de intentos, el mensaje es derivado a otro topic, el de DLQ para que sea procesado en otro flujo.

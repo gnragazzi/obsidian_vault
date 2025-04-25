@@ -1,0 +1,8 @@
+- Definir tareas programadas, posiblemente de larga duración
+- Se define un schedule
+- Ofrece métricas para determinar el éxito/fracaso del job
+- Time rule: cron 
+- 
+- ![[Captura de pantalla 2025-04-24 a la(s) 10.51.07 a. m..png]]
+- https://www.google.com/url?q=https://furydocs.io/docs/4.12.0/guide/%23/lang-es/services/jobs/jobs&sa=D&source=editors&ust=1745503861636705&usg=AOvVaw2V9YiH0MQNNjmPQwGBc8_2
+- ![[Captura de pantalla 2025-04-24 a la(s) 10.50.54 a. m..png]]

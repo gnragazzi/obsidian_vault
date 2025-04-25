@@ -1,0 +1,10 @@
+- Rate Limit
+	- Configuración de la tasa de mensajes por minuto máximo que se le pueden enviar mensajes.
+- Filters
+	- A nivel de topic, se utiliza para catalogar los mensajes
+- Error Handling
+	- Timeout
+		- A nivel de sdk se puede dar un timeout para la publicación de mensajes
+	- Reintentos
+		- Se configura la cantidad de reintentos que se realizan antes de dar error
+		- 

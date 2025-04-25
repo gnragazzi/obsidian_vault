@@ -1,0 +1,2 @@
+- Registra acciones específicas llevadas a cabo por la aplicacioón
+- Provee métricas y alertas predefinidas.![[Captura de pantalla 2025-04-24 a la(s) 10.58.06 a. m..png]]![[Captura de pantalla 2025-04-24 a la(s) 10.58.17 a. m..png]]

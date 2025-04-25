@@ -1,0 +1,3 @@
+- BigQueue está pensado para la comunicación basada en eventos
+	- Stream es un canal de transferencia de información.
+- Garantiza un orden (por partición)
