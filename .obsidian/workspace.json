@@ -6,6 +6,7 @@
       {
         "id": "810536d6e1b4bd3d",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "7c747000c40db1a3",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sandbox"
+              "title": "Autómatas y Lenguajes"
             },
             "group": "2918a20bd62bd6c1"
           }
@@ -27,6 +28,7 @@
       {
         "id": "540e26641b79da37",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "227a0779f5a18b30",
@@ -34,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sandbox.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.907794959486198,
+                  "scale": 0.9099856138627244,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sandbox"
+              "title": "Gráfico de Autómatas y Lenguajes"
             },
             "group": "2918a20bd62bd6c1"
           },
@@ -217,18 +219,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
-    "MELI/Fury.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Reverse de Cadena.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
+    "Carrera/Informática/23. Lógica para Computación/Concatenación de Cadenas.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
+    "0 - Índice.md",
     "Sandbox.md",
+    "MELI/Fury.md",
     "Streams - Fury.md",
     "Diferencia entre BigQueue y Stream.md",
     "Audits.md",
@@ -249,19 +262,8 @@
     "Acrónimos.md",
     "Características del Topic.md",
     "Generación de Mensajes - BigQueue.md",
-    "Overhead.md",
-    "Diferencia Observer vs Pub-Sub.md",
-    "Patrón Publish-Subscribe.md",
-    "Diferencia Observer - Pub/Sub.md",
     "Diferencia Observer - Pub",
-    "MELI/Bootcamp.md",
-    "Sin título.md",
-    "Teorema de la Adecuación.md",
-    "Propiedades de un Sistema Formal.md",
-    "Completitud (Sintáctica) - Sistemas Formales.md",
     "Pasted image 20250423213037.png",
-    "Consistente.md",
-    "Proposición 3 - Consistencia de L.md",
     "Pasted image 20250423212923.png",
     "Pasted image 20250423212738.png"
   ]
