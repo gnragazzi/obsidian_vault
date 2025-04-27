@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autómatas y Lenguajes"
+              "title": "Autómatas Finitos"
             },
             "group": "2918a20bd62bd6c1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Autómatas y Lenguajes"
+              "title": "Gráfico de Autómatas Finitos"
             },
             "group": "2918a20bd62bd6c1"
           },
@@ -229,9 +229,12 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
@@ -259,9 +262,6 @@
     "Características BigQueue.md",
     "Buenas y Malas Prácticas - BigQueue.md",
     "Características del Consumer.md",
-    "Acrónimos.md",
-    "Características del Topic.md",
-    "Generación de Mensajes - BigQueue.md",
     "Diferencia Observer - Pub",
     "Pasted image 20250423213037.png",
     "Pasted image 20250423212923.png",

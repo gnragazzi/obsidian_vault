@@ -3,14 +3,15 @@
 	- [[Alfabeto]] 
 	- [[Cadena - Lenguajes]]  
 	- [[Lenguaje Referencial]] 
-	- [[Gramática]] 
-	- [[Autómata]] 
 	- [[Jerarquía de Chomsky]]
 - Unidad 2 
 	- [[Lenguajes Regulares]] 
 	- [[Expresiones Regulares - Lenguajes]] 
-	- [[Analizador Lexicográfico]] 
+	- [[Autómata]] 
 	- [[Gramática]] 
+	- [[Analizador Lexicográfico]] 
 - Unidad 3
+	- [[Propiedades de los Lenguajes Regulares]] 
+	- [[Lema de Pumping para Lenguajes Regulares (Teorema)]] 
 - Unidad 4
 	- [[Lenguajes Libres de Contexto]] 
