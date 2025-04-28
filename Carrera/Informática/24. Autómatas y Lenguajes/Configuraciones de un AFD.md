@@ -6,4 +6,4 @@ Entonces, es posible dar la siguiente definición de lenguaje aceptado por un $M
 
 ![[Pasted image 20250323115714.png]]
 ***
-[[Autómata Finito Determinístico#^11c1ed|Función de Transición]]
+[[Autómata Finito Determinístico#^11c1ed|Función de Transición]] 

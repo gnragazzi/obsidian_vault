@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autómatas Finitos"
+              "title": "Obtención de un AFD a partir de una Gramática Regular"
             },
             "group": "2918a20bd62bd6c1"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,12 +59,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9099856138627244,
+                  "scale": 0.9099856138627249,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Autómatas Finitos"
+              "title": "Gráfico de Obtención de un AFD a partir de una Gramática Regular"
             },
             "group": "2918a20bd62bd6c1"
           },
@@ -229,39 +229,39 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Derivación - Grámatica Regular.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura Reflexo Transitiva de la Derivación - Gramática Regular.md",
+    "Reglas Gramaticales.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+    "Teorema - Equivalencia entre E.R. y AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de cómo construir un AFND-ε a partir de una E.R..md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de un AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Transformación de un AFND-ε a AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Construcción de la Máquina de Subconjuntos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Configuraciones de un AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Reverse de Cadena.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
-    "Carrera/Informática/23. Lógica para Computación/Concatenación de Cadenas.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
-    "0 - Índice.md",
-    "Sandbox.md",
-    "MELI/Fury.md",
-    "Streams - Fury.md",
-    "Diferencia entre BigQueue y Stream.md",
-    "Audits.md",
-    "Jobs.md",
-    "Workqueues.md",
     "Captura de pantalla 2025-04-24 a la(s) 11.02.22 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 11.00.07 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 10.58.17 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 10.58.06 a. m..png",
-    "Object Storage.md",
     "Captura de pantalla 2025-04-24 a la(s) 10.52.56 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 10.51.07 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 10.50.54 a. m..png",
-    "BigQueue.md",
-    "Características BigQueue.md",
-    "Buenas y Malas Prácticas - BigQueue.md",
-    "Características del Consumer.md",
     "Diferencia Observer - Pub",
     "Pasted image 20250423213037.png",
     "Pasted image 20250423212923.png",
