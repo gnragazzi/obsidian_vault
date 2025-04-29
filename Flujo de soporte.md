@@ -1,0 +1,1 @@
+![[Captura de pantalla 2025-04-28 a la(s) 1.32.08 p. m..png]]

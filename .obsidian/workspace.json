@@ -235,12 +235,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "f06a754b38a019d9",
@@ -271,16 +271,10 @@
     "Reglas Gramaticales.md",
     "Teorema - Equivalencia entre E.R. y AFND-ε.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de cómo construir un AFND-ε a partir de una E.R..md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
     "Captura de pantalla 2025-04-24 a la(s) 11.02.22 a. m..png",
     "Captura de pantalla 2025-04-24 a la(s) 11.00.07 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.58.17 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.58.06 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.52.56 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.51.07 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.50.54 a. m..png",
-    "Diferencia Observer - Pub",
-    "Pasted image 20250423213037.png",
-    "Pasted image 20250423212923.png",
-    "Pasted image 20250423212738.png"
+    "Diferencia Observer - Pub"
   ]
 }
