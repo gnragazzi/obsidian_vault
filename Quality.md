@@ -4,3 +4,11 @@
 - [[Continuous Integration (CI)]]  
 - [[Semver]] 
 - [[Code Review]] 
+- Documentación
+	- [[JavaDocs]]
+	- [[readme.md]]
+	- [[changelog.md]]
+	- [[commit messages]]
+	- [[docsify]]
+	- [[Swagger]]
+- [[KPI]] 

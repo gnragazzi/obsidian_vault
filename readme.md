@@ -1,0 +1,2 @@
+- carta de presentación del repositorio.
+- 
