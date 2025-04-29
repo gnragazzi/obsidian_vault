@@ -12,3 +12,5 @@
 4. Un conjunto finito de _reglas de deducción_ (o de inferencia). 
 	- Una regla de inferencia es una [[Función (Discretas)|función]] que asigna una fórmula (conclusión) a un conjunto de fórmulas (premisas). 
 	- Naturalmente la idea es que las reglas de inferencia transmitan la verdad de las premisas a la conclusión, es decir que sea imposible alcanzar una conclusión falsa a partir de premisas verdaderas.
+***
+[[Sistema Formal L]] 

@@ -1,4 +1,4 @@
-Una **demostración** en $\mathcal{L}$ es sucesión finita de [[Sistema Formal L#^9688e4|fórmulas bien formadas]] $A_1, A_2, \dots, A_n$, tal que para todo $i$, con $1 \leq i \leq n$,
+Una **demostración** en $\mathcal{L}$ es [[Sucesión|sucesión]] finita de [[Sistema Formal L#^9688e4|fórmulas bien formadas]] $A_1, A_2, \dots, A_n$, tal que para todo $i$, con $1 \leq i \leq n$,
 - (a) $A_i$ es un axioma de $\mathcal{L}$,
 - (b) o bien se deduce de miembros anteriores de la sucesión digamos $A_j$ y $A_k$, con $j < i, k < i$, como consecuencia directa de la aplicación de la regla de inferencia **[[Modus Ponens|MP]]**.
 ***

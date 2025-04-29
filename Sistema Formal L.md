@@ -1,5 +1,4 @@
-[[Sistema Formal - Definición]] 
-***
+
 **Definición 1** _El sistema formal $\mathcal{L}$ del [[Lógica Proposicional|cálculo proposicional]] se define como:_
 - **Alfabeto** de símbolos (infinito): $\rightarrow$, $\neg$, $($, $)$, $p_1, p_2, p_3, \dots$
 - **Conjunto de fbfs**, especificado a través de una regla inductiva ([[Gramática|gramática]]) con tres partes:  
