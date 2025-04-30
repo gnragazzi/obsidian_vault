@@ -20,7 +20,23 @@
               "icon": "lucide-file",
               "title": "Derivable"
             },
-            "group": "73c1dd73dda9706f"
+
+            "group": "2918a20bd62bd6c1"
+          },
+          {
+            "id": "f06a754b38a019d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alert by Team Size - KPI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alert by Team Size - KPI"
+            }
+
           }
         ]
       },
@@ -203,19 +219,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
-    "Deducción - Sistemas Formales.md",
-    "Proposición 1 - Teorema de la Deducción.md",
-    "Derivable.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.54.32 a. m..png",
+    "KPIs importantes.md",
+    "Alert by Team Size - KPI.md",
+    "Response Time Backend Reads - KPI.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.53.55 a. m..png",
+    "Coverage - KPI.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.53.30 a. m..png",
+    "Time Outs - KPI.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.53.13 a. m..png",
+    "Error 5xx - KPI.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.52.36 a. m..png",
+    "Captura de pantalla 2025-04-29 a la(s) 10.52.19 a. m..png",
+    "KPI.md",
+    "Captura de pantalla 2025-04-29 a la(s) 10.48.49 a. m..png",
+    "Captura de pantalla 2025-04-29 a la(s) 10.47.09 a. m..png",
+    "Captura de pantalla 2025-04-29 a la(s) 10.45.54 a. m..png",
+    "Captura de pantalla 2025-04-29 a la(s) 10.42.02 a. m..png",
+    "Quality.md",
+    "JavaDocs.md",
+    "changelog.md",
+    "MELI/Bootcamp.md",
+    "readme.md",
+    "MELI/Fury.md",
+    "Workqueues.md",
+    "Gitflow.md",
+    "Release Process.md",
+    "Continuous Integration (CI).md",
+    "Documentación.md",
+    "Modus Ponens.md",
+    "Sistema Formal L.md",
     "Demostración - Definición.md",
     "Sistema Formal L.md",
     "Modus Ponens.md",
@@ -224,31 +267,7 @@
     "Teorema (Lógica) - Definición.md",
     "Sistema Formal - Definición.md",
     "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Lógica de Predicados.md",
-    "Carrera/Informática/23. Lógica para Computación/Alfabeto de la Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Longitud de Cadena.md",
-    "Uso Práctico del Lema de Pumping.md",
-    "MELI/git/Git.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Minimización de un AFD.md",
-    "Carrera/Informática/21. IA/Algoritmo de Tabla Completa.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Construir bloques de estados.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Derivación - Grámatica Regular.md",
     "Captura de pantalla 2025-04-24 a la(s) 11.02.22 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 11.00.07 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.58.17 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.58.06 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.52.56 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.51.07 a. m..png",
-    "Captura de pantalla 2025-04-24 a la(s) 10.50.54 a. m..png",
-    "Diferencia Observer - Pub",
-    "Pasted image 20250423213037.png",
-    "Pasted image 20250423212923.png",
-    "Pasted image 20250423212738.png"
+    "Diferencia Observer - Pub"
   ]
 }

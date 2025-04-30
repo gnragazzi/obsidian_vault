@@ -17,3 +17,9 @@
 	10. Lock
 	11. Sequence
 	12. [[Sandbox]] 
+5. Troubleshooting
+	1. [[Observabilidad]] 
+	2. [[Ciclo básico de Resolución de Problemas]]
+6. Fury Support
+	1. [[Flujo de soporte]] 
+	2. [[Lugares de Consulta]] 
