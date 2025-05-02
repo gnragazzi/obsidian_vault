@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
+                "file": "Propiedades de un Sistema Formal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema 1 (Teorema de la Deducción) (forma sintáctica)"
+              "title": "Propiedades de un Sistema Formal"
             }
           },
           {
-            "id": "3a6b044e94592350",
+            "id": "05cfb78d61197308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposición 1 - Teorema de la Deducción.md",
+                "file": "Sistema Formal Correcto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposición 1 - Teorema de la Deducción"
+              "title": "Sistema Formal Correcto"
             }
           }
         ]
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
+                "file": "Propiedades de un Sistema Formal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,7 +75,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Teorema 1 (Teorema de la Deducción) (forma sintáctica)"
+              "title": "Gráfico de Propiedades de un Sistema Formal"
             }
           }
         ]
@@ -225,10 +225,13 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
-    "Proposición 1 - Teorema de la Deducción.md",
-    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
-    "Corolario 1 - Teorema de la deducción.md",
+    "Sistema Formal Correcto.md",
+    "Propiedades de un Sistema Formal.md",
+    "Sistema Formal L.md",
     "Deducción - Sistemas Formales.md",
+    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
+    "Proposición 1 - Teorema de la Deducción.md",
+    "Corolario 1 - Teorema de la deducción.md",
     "Carrera/Informática/23. Lógica para Computación/Argumentos.md",
     "Derivable.md",
     "Roadmap de Formación para Backend Java con Microservicios y Arquitectura Hexagonal.md",
@@ -258,9 +261,6 @@
     "MELI/Fury.md",
     "Workqueues.md",
     "Gitflow.md",
-    "Release Process.md",
-    "Continuous Integration (CI).md",
-    "Documentación.md",
     "Diferencia Observer - Pub"
   ]
 }
