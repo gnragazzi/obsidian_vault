@@ -14,4 +14,4 @@ Características
 - [[Movimientos de un APD]] 
 - [[Aceptación de una cadena por un APD]] 
 - [[Configuraciones de un APD]] 
-- 
+- [[Teorema 1 - APD]] 
