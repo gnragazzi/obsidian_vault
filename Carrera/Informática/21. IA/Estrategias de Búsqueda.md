@@ -18,5 +18,5 @@ La complejidad es medida en términos de
 - $m$ profundidad máxima del espacio de estado (altura del árbol de búsqueda #Dudas ) ^ee214a
 ***
 Existen 2 clasificaciones
-1. [[Estrategias de Búsqueda no Informadas]]
+1. [[Estrategias de Búsqueda no Informadas]] 
 2. Estrategias de Búsqueda Informadas - [[Búsqueda Primero el Mejor]]

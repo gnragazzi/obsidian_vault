@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Agente Lógico cómo función.md",
+                "file": "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agente Lógico cómo función"
+              "title": "Algoritmos de Mejora Iterativa"
             }
           }
         ]
@@ -33,11 +33,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Agente Lógico cómo función.md",
+                "file": "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -46,7 +46,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -57,11 +57,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1.0000000000000002,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Agente Lógico cómo función"
+              "title": "Gráfico de Algoritmos de Mejora Iterativa"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dominio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,34 +212,34 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
-    "Roadmap de Formación para Backend Java con Microservicios y Arquitectura Hexagonal.md",
-    "Lenguaje Aceptado por estado final.md",
-    "0 - Índice.md",
-    "Orden de Derivación.md",
-    "Derivación - Gramáticas Libres de Contexto.md",
-    "Gramáticas Libres del Contexto.md",
-    "Lenguajes Libres de Contexto.md",
-    "Autómatas Push-Down.md",
-    "Aceptación de una cadena por un APD.md",
-    "Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía.md",
-    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
-    "Teorema 1 - APD.md",
-    "Determinismo en APD.md",
-    "Función de Transición de Autómatas Push-Down.md",
-    "Configuraciones de un APD.md",
-    "Movimientos de un APD.md",
-    "Lenguaje Aceptado por Pila Vacía.md",
+    "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
+    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
+    "Carrera/Informática/21. IA/Algoritmos Genéticos.md",
+    "Carrera/Informática/21. IA/Mecanismos de Selección.md",
+    "Templado Simulado.md",
+    "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
+    "Carrera/Informática/21. IA/Estado del Problema.md",
+    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
+    "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
+    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
+    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
+    "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
+    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Problemas de Satisfacción de Restricciones.md",
+    "Carrera/Informática/21. IA/¿Por qué formular un problema como PSR y no como un problema de Búsqueda?.md",
+    "Tipos de Restricciones.md",
+    "Carrera/Informática/21. IA/Problemas de Optimización de Restricciones.md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
+    "Carrera/Informática/21. IA/Árbol de Búsqueda - Búsqueda IA.md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
+    "Carrera/Informática/21. IA/Búsqueda IA.md",
+    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
+    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Ambiente - Agentes.md",
+    "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
+    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
     "Pasted image 20250503102546.png",
-    "Derivable.md",
-    "Otros/MathJax Reference.md",
     "Pasted image 20250503100150.png",
-    "Deducción - Sistemas Formales.md",
-    "Sistema Formal Correcto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Forma Sentencial - GLC.md",
-    "Propiedades de un Sistema Formal.md",
-    "Sistema Formal L.md",
-    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
     "Captura de pantalla 2025-04-29 a la(s) 10.54.32 a. m..png",
     "Captura de pantalla 2025-04-29 a la(s) 10.53.55 a. m..png",
     "Captura de pantalla 2025-04-29 a la(s) 10.53.30 a. m..png",

@@ -18,9 +18,3 @@ Particularidades de búsqueda estándar aplicada a PSRs
 Tipos:
 - [[Algoritmo Generar-y-Probar (Generate-and-Test)]]
 - [[Algoritmos de Vuelta Atrás - Backtracking]]
-***
-
-***
-
-
-Algoritm
