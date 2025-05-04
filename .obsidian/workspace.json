@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
+                "file": "Árbol de Derivación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmos de Mejora Iterativa"
+              "title": "Árbol de Derivación"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
+                "file": "Árbol de Derivación.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Algoritmos de Mejora Iterativa"
+              "title": "Gráfico de Árbol de Derivación"
             }
           }
         ]
@@ -212,12 +212,13 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
+    "Pasted image 20250504205547.png",
+    "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
     "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
     "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
     "Carrera/Informática/21. IA/Algoritmos Genéticos.md",
     "Carrera/Informática/21. IA/Mecanismos de Selección.md",
     "Templado Simulado.md",
-    "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
     "Carrera/Informática/21. IA/Estado del Problema.md",
     "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
     "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
@@ -237,7 +238,6 @@
     "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
     "Carrera/Informática/21. IA/Ambiente - Agentes.md",
     "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
-    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
     "Pasted image 20250503102546.png",
     "Pasted image 20250503100150.png",
     "Captura de pantalla 2025-04-29 a la(s) 10.54.32 a. m..png",
