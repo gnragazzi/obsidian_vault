@@ -1,0 +1,7 @@
+- Si $\operatorname{comp}\color\red{^{[1]}}$$(\varphi) = 0$ entonces $\varphi$ es una [[Fórmulas Atómicas - LPO|fórmula atómica]], $\varphi = P(t_1, \ldots, t_k)$, entonces las apariciones de todas las [[Alfabeto de la Lógica de Primer Orden|variables]] presentes en $\varphi$ son libres. 
+- Sea ahora $\varphi$ una [[Fórmulas de la Lógica de Primer Orden|fórmula]] tal que $\operatorname{comp}(\varphi) > 0$ y supongamos que hemos definido las apariciones libres de variables en toda fórmula $\psi$ y $\eta$ tal que $\operatorname{comp}(\psi) < \operatorname{comp}(\varphi)$ y $\operatorname{comp}(\eta) < \operatorname{comp}(\varphi)$. Entonces definiremos las apariciones libres de variables en $\varphi$ de acuerdo a los casos posibles, a saber:
+	1. Si $\varphi$ es $\neg \psi$. Las apariciones libres de una variable en $\varphi$ son las apariciones libres de esta variable en $\psi$.
+	2. Si $\varphi$ es $(\psi \lor \eta)$, o es $(\psi \land \eta)$ o es $(\psi \rightarrow \eta)$. Las apariciones libres de una variable en $\varphi$ son las apariciones libres de esta variable en $\psi$ y en $\eta$.
+	3. Si $\varphi$ es $(\forall x \ \psi)$ o $(\exists x \ \psi)$. Todas las apariciones de $x$ en $\varphi$ son ligadas. Para toda variable $y$ distinta de $x$, las apariciones libres de $y$ en $\varphi$ son las apariciones libres de $y$ en $\psi$.
+***
+[1]  [[Grado de Complejidad de una fórmula - LPO]] 

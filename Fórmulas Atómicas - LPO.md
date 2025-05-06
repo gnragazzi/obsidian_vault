@@ -1,0 +1,1 @@
+Una _fórmula atómica_ de un [[Alfabeto de la Lógica de Primer Orden|lenguaje de primer orden]] con vocabulario $\sigma$, $L_\sigma$, es una lista de símbolos de la forma $P(t_1, \ldots, t_k)$, donde $P$ es un símbolo de predicado $k$-ario y $t_1, \ldots, t_k$ son [[Término - Lógica Primer Orden|términos]].

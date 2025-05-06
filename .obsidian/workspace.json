@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Árbol de Derivación.md",
+                "file": "Grado de Complejidad de una fórmula - LPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Árbol de Derivación"
+              "title": "Grado de Complejidad de una fórmula - LPO"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Árbol de Derivación.md",
+                "file": "Grado de Complejidad de una fórmula - LPO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Árbol de Derivación"
+              "title": "Gráfico de Grado de Complejidad de una fórmula - LPO"
             }
           }
         ]
@@ -117,8 +117,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +211,29 @@
   },
   "active": "7c747000c40db1a3",
   "lastOpenFiles": [
+    "Enunciado - LPO.md",
+    "Clausuras - LPO.md",
+    "Pasted image 20250506073447.png",
+    "Función Libres.md",
+    "Pasted image 20250506073011.png",
+    "Apariciones Libres y Ligadas de Variables.md",
+    "Grado de Complejidad de una fórmula - LPO.md",
+    "Pasted image 20250506071550.png",
+    "Pasted image 20250506071409.png",
+    "Fórmulas de la Lógica de Primer Orden.md",
+    "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
+    "Alfabeto de la Lógica de Primer Orden.md",
+    "Fórmulas Atómicas - LPO.md",
+    "Sistema Formal L.md",
+    "Lógica de Primer Orden o Lógica de Predicados.md",
+    "Grado de Complejidad de un Término.md",
+    "Pasted image 20250506070017.png",
+    "Término - Lógica Primer Orden.md",
+    "Cadena de Formación del Término.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
+    "Lógica de Predicados.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
+    "Árbol de Derivación.md",
     "Pasted image 20250504205547.png",
     "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
     "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
@@ -220,34 +242,10 @@
     "Carrera/Informática/21. IA/Mecanismos de Selección.md",
     "Templado Simulado.md",
     "Carrera/Informática/21. IA/Estado del Problema.md",
-    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
-    "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
-    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
-    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
-    "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
-    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Problemas de Satisfacción de Restricciones.md",
-    "Carrera/Informática/21. IA/¿Por qué formular un problema como PSR y no como un problema de Búsqueda?.md",
-    "Tipos de Restricciones.md",
-    "Carrera/Informática/21. IA/Problemas de Optimización de Restricciones.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
-    "Carrera/Informática/21. IA/Árbol de Búsqueda - Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
-    "Carrera/Informática/21. IA/Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
-    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Ambiente - Agentes.md",
-    "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
     "Pasted image 20250503102546.png",
     "Pasted image 20250503100150.png",
     "Captura de pantalla 2025-04-29 a la(s) 10.54.32 a. m..png",
     "Captura de pantalla 2025-04-29 a la(s) 10.53.55 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.53.30 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.53.13 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.52.36 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.52.19 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.48.49 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.47.09 a. m..png",
     "Diferencia Observer - Pub"
   ]
 }

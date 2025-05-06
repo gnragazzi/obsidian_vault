@@ -1,0 +1,1 @@
+Un enunciado de un [[Lógica de Primer Orden o Lógica de Predicados|lenguaje de primer orden]] $L_σ$ es una [[Fórmulas de la Lógica de Primer Orden|fórmula]] en la que no figuran  [[Apariciones Libres y Ligadas de Variables|variables libres]].
