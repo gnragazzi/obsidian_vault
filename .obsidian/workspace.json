@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grado de Complejidad de una fórmula - LPO.md",
+                "file": "Clausuras - LPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grado de Complejidad de una fórmula - LPO"
+              "title": "Clausuras - LPO"
+            }
+          },
+          {
+            "id": "8481b71c8342cdfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Función de Valuación - Asignación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función de Valuación - Asignación"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "548c6eac44cbb117",
@@ -33,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Grado de Complejidad de una fórmula - LPO.md",
+                "file": "Función de Valuación - Asignación.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -56,12 +71,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000002,
+                  "scale": 0.6906395020147806,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Grado de Complejidad de una fórmula - LPO"
+              "title": "Gráfico de Función de Valuación - Asignación"
             }
           }
         ]
@@ -209,43 +224,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7c747000c40db1a3",
+  "active": "8481b71c8342cdfb",
   "lastOpenFiles": [
-    "Enunciado - LPO.md",
     "Clausuras - LPO.md",
+    "Función de Valuación - Asignación.md",
+    "Proposición 1 - Equivalencia de interpretaciones.md",
+    "Definición Inductiva de I(t).md",
+    "Pasted image 20250507075518.png",
+    "Pasted image 20250507075456.png",
+    "σ-Estructura como Tupla.md",
+    "Estructura Relacional determinada por una Interpretación.md",
+    "Intencional - Extensional.md",
+    "Alfabeto de la Lógica de Primer Orden.md",
+    "Pasted image 20250507072215.png",
+    "Rango Cuantificacional - LPO.md",
+    "Interpretación - Definición LPO.md",
+    "Pasted image 20250507071706.png",
+    "Fórmulas de la Lógica de Primer Orden.md",
+    "Sustitución de variables en Fórmulas.md",
+    "Grado de Complejidad de una fórmula - LPO.md",
+    "Pasted image 20250507065930.png",
+    "Fórmulas Atómicas - LPO.md",
+    "Sustitución de Variables en Términos - LPO.md",
+    "Término - Lógica Primer Orden.md",
+    "Sin título 2.md",
+    "MELI/Entrevista Meli/Principio de Sustitución de Liskov.md",
+    "Pasted image 20250507064438.png",
+    "Pasted image 20250507064429.png",
+    "Enunciado - LPO.md",
     "Pasted image 20250506073447.png",
     "Función Libres.md",
     "Pasted image 20250506073011.png",
     "Apariciones Libres y Ligadas de Variables.md",
-    "Grado de Complejidad de una fórmula - LPO.md",
     "Pasted image 20250506071550.png",
-    "Pasted image 20250506071409.png",
-    "Fórmulas de la Lógica de Primer Orden.md",
     "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
-    "Alfabeto de la Lógica de Primer Orden.md",
-    "Fórmulas Atómicas - LPO.md",
     "Sistema Formal L.md",
     "Lógica de Primer Orden o Lógica de Predicados.md",
     "Grado de Complejidad de un Término.md",
-    "Pasted image 20250506070017.png",
-    "Término - Lógica Primer Orden.md",
     "Cadena de Formación del Término.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
-    "Lógica de Predicados.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Proposicional.md",
-    "Árbol de Derivación.md",
-    "Pasted image 20250504205547.png",
-    "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
-    "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
-    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
-    "Carrera/Informática/21. IA/Algoritmos Genéticos.md",
-    "Carrera/Informática/21. IA/Mecanismos de Selección.md",
-    "Templado Simulado.md",
-    "Carrera/Informática/21. IA/Estado del Problema.md",
-    "Pasted image 20250503102546.png",
-    "Pasted image 20250503100150.png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.54.32 a. m..png",
-    "Captura de pantalla 2025-04-29 a la(s) 10.53.55 a. m..png",
     "Diferencia Observer - Pub"
   ]
 }
