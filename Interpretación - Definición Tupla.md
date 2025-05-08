@@ -1,0 +1,6 @@
+Sea el [[Alfabeto de la Lógica de Primer Orden|vocabulario]] $\sigma = \langle \mathcal{F}, \mathcal{P}, \mathcal{C} \rangle$ y $\mathcal{A}$ una [[Estructura Relacional determinada por una Interpretación#^321a56|estructura adecuada para]] $\sigma$ ( $\mathcal{A} = (U, \alpha)$). Una [[Interpretación - Definición LPO|_interpretación]]_ $\mathcal{I}$ del vocabulario $\sigma$, se define como 
+- un par, que especifica una $\sigma$–estructura $\mathcal{A}$ y una [[Función de Valuación - Asignación|función de asignación]] $\beta$, en símbolos $$\mathcal{I} = (\mathcal{A}, \beta)$$	
+	- La $\sigma$–estructura $\mathcal{A}$ determina tanto el universo como las funciones, las relaciones y los elementos del mismo que interpretan cada símbolo del vocabulario, [[Interpretación - Definición LPO|Definición 10]]
+	- La función de asignación $\beta$ determina el valor del universo que toma cada variable. 
+- Es claro que si mantenemos la $\sigma$–estructura $\mathcal{A}$ y cambiamos función $\beta$, por $\beta'$ por ejemplo, se tendrá una _interpretación diferente_:
+$$\mathcal{I}' = (\mathcal{A}, \beta')$$

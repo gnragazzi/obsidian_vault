@@ -4,53 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "810536d6e1b4bd3d",
+        "id": "09f39993b0129357",
         "type": "tabs",
         "children": [
           {
-            "id": "7c747000c40db1a3",
+            "id": "2a2b26aead4a54de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clausuras - LPO.md",
+                "file": "Definición Inductiva de I(t).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clausuras - LPO"
-            }
+              "title": "Definición Inductiva de I(t)"
+            },
+            "group": "d122ed66a03bb27c"
           },
           {
-            "id": "8481b71c8342cdfb",
+            "id": "81d24fec81112fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Función de Valuación - Asignación.md",
+                "file": "Función de Valuación - LPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Valuación - Asignación"
+              "title": "Función de Valuación - LPO"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "548c6eac44cbb117",
+        "id": "25f45f0eadbe0e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "be4ee15def514c50",
+            "id": "e3096afb4262fac6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Función de Valuación - Asignación.md",
+                "file": "Definición Inductiva de I(t).md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -61,7 +62,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -71,13 +72,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147806,
-                  "close": true
+                  "scale": 1.0000000000000002,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Función de Valuación - Asignación"
-            }
+              "title": "Gráfico de Definición Inductiva de I(t)"
+            },
+            "group": "d122ed66a03bb27c"
           }
         ]
       }
@@ -224,44 +226,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8481b71c8342cdfb",
+  "active": "81d24fec81112fec",
   "lastOpenFiles": [
-    "Clausuras - LPO.md",
-    "Función de Valuación - Asignación.md",
-    "Proposición 1 - Equivalencia de interpretaciones.md",
+    "Carrera/Matemáticas/Discretas/Proposición Lógica.md",
+    "Función de Valuación - LPO.md",
     "Definición Inductiva de I(t).md",
+    "Extensión de la Interpretación - LPO.md",
+    "Extensión del Lenguaje Original - LPO.md",
+    "Pasted image 20250508074729.png",
+    "Interpretación - Definición Tupla.md",
+    "Estructura Relacional determinada por una Interpretación.md",
+    "Interpretación - Definición LPO.md",
+    "Función de Valuación - Asignación.md",
+    "Sin título 3.md",
+    "Pasted image 20250507155558.png",
+    "Pasted image 20250507155556.png",
+    "Alfabeto de la Lógica de Primer Orden.md",
+    "Fórmulas de la Lógica de Primer Orden.md",
+    "Término - Lógica Primer Orden.md",
+    "Clausuras - LPO.md",
+    "Proposición 1 - Equivalencia de interpretaciones.md",
     "Pasted image 20250507075518.png",
     "Pasted image 20250507075456.png",
     "σ-Estructura como Tupla.md",
-    "Estructura Relacional determinada por una Interpretación.md",
     "Intencional - Extensional.md",
-    "Alfabeto de la Lógica de Primer Orden.md",
     "Pasted image 20250507072215.png",
     "Rango Cuantificacional - LPO.md",
-    "Interpretación - Definición LPO.md",
     "Pasted image 20250507071706.png",
-    "Fórmulas de la Lógica de Primer Orden.md",
     "Sustitución de variables en Fórmulas.md",
     "Grado de Complejidad de una fórmula - LPO.md",
     "Pasted image 20250507065930.png",
     "Fórmulas Atómicas - LPO.md",
     "Sustitución de Variables en Términos - LPO.md",
-    "Término - Lógica Primer Orden.md",
     "Sin título 2.md",
     "MELI/Entrevista Meli/Principio de Sustitución de Liskov.md",
     "Pasted image 20250507064438.png",
     "Pasted image 20250507064429.png",
     "Enunciado - LPO.md",
-    "Pasted image 20250506073447.png",
     "Función Libres.md",
-    "Pasted image 20250506073011.png",
-    "Apariciones Libres y Ligadas de Variables.md",
-    "Pasted image 20250506071550.png",
-    "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
-    "Sistema Formal L.md",
-    "Lógica de Primer Orden o Lógica de Predicados.md",
-    "Grado de Complejidad de un Término.md",
-    "Cadena de Formación del Término.md",
     "Diferencia Observer - Pub"
   ]
 }
