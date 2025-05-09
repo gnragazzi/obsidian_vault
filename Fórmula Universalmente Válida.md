@@ -1,0 +1,3 @@
+Una [[Fórmula - LPO|fórmula]] $\varphi$ de un [[Alfabeto - LPO|lenguaje de primer orden]] $L_{\sigma}$ es _universalmente válida_ o _universalmente verdadera_ si cualquiera sea la $\sigma$-[[Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura|estructura]] $\mathcal{A}$ para $L_{\sigma}$, se cumple que $$\mathcal{A} \vDash \varphi$$En símbolos, podemos escribir que $$\vDash \varphi$$ para indicar que es universalmente válida, ya que es válida en cualquier interpretación $\mathcal{I}$.
+***
+[[Fórmula válida o verdadera - LPO]]

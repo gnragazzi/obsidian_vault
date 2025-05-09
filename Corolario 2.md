@@ -1,0 +1,4 @@
+_Podemos definir para cualquier [[Fórmula - LPO|fórmula]]_ $\varphi(x_1, \ldots, x_n)\colon\ \mathcal{A} \vDash \varphi[a_1, \ldots, a_n]$  
+_si y sólo si para cualquier [[Función de Asignación - Valuación|función]]_ $\beta$ _tal que_ $\beta(x_i) = a_i,\ \text{para } 1 \leq i \leq n$, _se cumple que_  
+$$V_{(\mathcal{A}, \beta)}(\varphi) = \top  $$
+El corolario anterior asegura que alcanza con verificar que todas las posibles $\beta$ de una [[Interpretación - LPO|interpretación]] asignen los valores $(a_1, \ldots, a_n)$ al conjunto de variables $(x_1, \ldots, x_n)$, que son las variables libres de $\varphi$, para afirmar que la $\sigma$[[Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura|-estructura]] $\mathcal{A}$ [[Fórmula Satisfacible - LPO|satisface]] a $\varphi$.

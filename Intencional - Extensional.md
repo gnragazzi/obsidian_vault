@@ -1,4 +1,4 @@
-Las definiciones de las [[Alfabeto de la Lógica de Primer Orden#^5a28ac|funciones]] y [[Relación Binaria|relaciones]] que interpretan a los símbolos de funciones y relaciones respectivamente, pueden 
+Las definiciones de las [[Alfabeto - LPO#^5a28ac|funciones]] y [[Relación Binaria|relaciones]] que interpretan a los símbolos de funciones y relaciones respectivamente, pueden 
 - ser ___extensionales___, cuando se efectúan enumerando las tuplas que las componen, 
 	- Las definiciones extensionales expresan conocimiento sobre situaciones particulares de los objetos de $U$ (conocimiento factual)
 	- El predicado$$Estudia={(Juan, inglés), (María, lengua), (Estela, danza), (Bruno, piano)}$$

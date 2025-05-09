@@ -1,4 +1,4 @@
-Un término es una palabra del Lenguaje formado a partir del [[Alfabeto de la Lógica de Primer Orden]]. Podemos definirlo de 2 formas:
+Un término es una palabra del Lenguaje formado a partir del [[Alfabeto - LPO]]. Podemos definirlo de 2 formas:
 1. Una lista de símbolos del alfabeto $A$ es un ___término___ si y sólo si se la puede obtener aplicando un número finito de veces las siguientes reglas:
 	- _(T1)_ Los símbolos de variables son términos.
 	- _(T2)_ Los símbolos de constantes son términos.

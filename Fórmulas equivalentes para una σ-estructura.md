@@ -1,0 +1,1 @@
+Dos [[Fórmula - LPO|fórmulas]] $\varphi$ y $\psi$ son equivalentes para una $\sigma$[[Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura|-estructura]] $\mathcal{A}$ si $V_{(\mathcal{A},\beta)}(\varphi)=V_{(\mathcal{A},\beta)}(\psi)$ para cualquier [[Función de Asignación - Valuación|valuación]] $\beta$.

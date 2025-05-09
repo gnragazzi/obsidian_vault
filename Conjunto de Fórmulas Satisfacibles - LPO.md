@@ -1,0 +1,3 @@
+Si en lugar de considerar una [[Fórmula - LPO|fórmula]] particular $\varphi$, consideramos un conjunto de fórmulas $\Phi$, entonces, cuando una [[Interpretación - LPO|interpretación]] $\mathcal{I}$ hace verdaderas a todas las fórmulas del conjunto $\Phi$, se dice que es un _modelo_ para ese conjunto de fórmulas o que lo _satisface_, en símbolos $\mathcal{I} \models \Phi$. Si esta interpretación no existe entonces $\Phi$ es _insatisfacible_. Un ejemplo de conjunto insatisfacible es ${\varphi(x), \neg\varphi(x)}$, cualquiera sea $\varphi$.
+***
+[[Fórmula Satisfacible - LPO]] 

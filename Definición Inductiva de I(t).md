@@ -1,4 +1,4 @@
-Dada una [[Interpretación - Definición LPO|interpretación]] $\mathcal{I}$ del [[Alfabeto de la Lógica de Primer Orden|vocabulario]] $\sigma$ para el lenguaje $L_\sigma$, vamos a definir, por [[Principio de Inducción Matemática|inducción]] en el [[Grado de Complejidad de un Término|grado de complejidad]] de los [[Término - Lógica Primer Orden|términos]], una interpretación $\mathcal{I}(t) \in U$ para los términos $t$ de $L_\sigma$ del modo siguiente:
+Dada una [[Interpretación - LPO|interpretación]] $\mathcal{I}$ del [[Alfabeto - LPO|vocabulario]] $\sigma$ para el lenguaje $L_\sigma$, vamos a definir, por [[Principio de Inducción Matemática|inducción]] en el [[Grado de Complejidad de un Término|grado de complejidad]] de los [[Término - Lógica Primer Orden|términos]], una interpretación $\mathcal{I}(t) \in U$ para los términos $t$ de $L_\sigma$ del modo siguiente:
 1. Sea $comp(t) = 0$, luego $t$ puede ser una variable o una constante. 
 	1. Sea $t$ una constante igual a $c \in \mathcal{C}$. Definimos:  
     $$\mathcal{I}(t) \text{ como }c^{\mathcal{I}} \in U \text{ (o equivalentemente }\mathcal{I}(t)\text{ como }\alpha(c) \in U).$$

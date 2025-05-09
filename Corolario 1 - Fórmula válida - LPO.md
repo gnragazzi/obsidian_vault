@@ -1,0 +1,2 @@
+Si $\varphi$ es un [[Enunciado - LPO|enunciado]], o sea una fórmula sin [[Variables Libres - Apariciones Libres y Ligadas de Variables - LPO|variables libres]], entonces en cada estructura adecuada $\mathcal{A}$ se cumple que:
+$$\mathcal{A} \models \varphi \ \text{o} \ \mathcal{A} \models \neg \varphi.$$
