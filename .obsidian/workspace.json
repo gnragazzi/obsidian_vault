@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fórmulas equivalentes.md",
+                "file": "Configuración - APD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fórmulas equivalentes"
+              "title": "Configuración - APD"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fórmulas equivalentes.md",
+                "file": "Configuración - APD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147806,
+                  "scale": 1.0000000000000002,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Fórmulas equivalentes"
+              "title": "Gráfico de Configuración - APD"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beta",
+                "query": "ambig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,9 +214,24 @@
   },
   "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
+    "Lenguaje Aceptado por Pila Vacía.md",
+    "Configuración - APD.md",
+    "Autómatas Push-Down - APD.md",
+    "Determinismo - APD.md",
+    "Aceptación de una cadena por un APD.md",
+    "Lenguaje Aceptado por estado final.md",
+    "Función de Transición - APD.md",
+    "Movimientos de un APD.md",
+    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
+    "Ambigüedad en GLC.md",
+    "Árbol de Derivación.md",
+    "Gramáticas Libres del Contexto.md",
+    "Pasted image 20250509211701.png",
+    "BNFE.md",
+    "BNF.md",
+    "Fórmulas equivalentes.md",
     "Definición Inductiva de I(t).md",
     "Fórmulas equivalentes para una σ-estructura.md",
-    "Fórmulas equivalentes.md",
     "Pasted image 20250509092333.png",
     "Corolario 2.md",
     "Pasted image 20250509092016.png",
@@ -229,26 +244,12 @@
     "Interpretación - LPO.md",
     "Fórmula - LPO.md",
     "Alfabeto - LPO.md",
-    "Conjunto de Fórmulas Satisfacibles - LPO.md",
-    "Fórmula Satisfacible - LPO.md",
-    "Función de Asignación de valor de Verdad - LPO.md",
-    "Alternativa a la función de asignación de valores.md",
-    "Proposición 2 - Equivalencia de Asignación de Verdad.md",
-    "Proposición 3 - Equivalencia usando función definición tupla de Interpretación.md",
-    "Función de Asignación - Valuación.md",
-    "Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura.md",
-    "Interpretación - Definición Tupla.md",
-    "Proposición 1 - Equivalencia de interpretaciones.md",
-    "Proposición 1 - Sobre la función de verdad.md",
     "Pasted image 20250509082617.png",
-    "Definición Recursiva de Asignación de Valor de Verdad - LPO.md",
-    "Fórmulas Atómicas - LPO.md",
     "Pasted image 20250508074729.png",
     "Pasted image 20250507155558.png",
     "Pasted image 20250507155556.png",
     "Pasted image 20250507075518.png",
     "Pasted image 20250507075456.png",
-    "Pasted image 20250507072215.png",
     "Diferencia Observer - Pub"
   ]
 }

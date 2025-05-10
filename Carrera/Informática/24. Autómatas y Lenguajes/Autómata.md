@@ -5,6 +5,6 @@ Recibe como entrada una cadena $x∈Σ^*$ y emite como respuesta una cadena que 
 Por lo general tiene el objetivo de determinar si una cadena pertenece a un [[Lenguaje - Definición|lenguaje]] específico
 ***
 [[Autómatas Finitos]] 
-[[Autómatas Push-Down]] 
+[[Autómatas Push-Down - APD]] 
 ***
 [[Componentes de un Autómata]] 
