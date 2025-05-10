@@ -1,0 +1,1 @@
+También llamada $pmf$ por su sigla en inglés. Permite expresar matemáticamente una distribución de probabilidad de una [[Variable Aleatoria#^99d811|Variable aleatoria discreta]] X, entonces $pmf(X)=P(X=x)$. 
