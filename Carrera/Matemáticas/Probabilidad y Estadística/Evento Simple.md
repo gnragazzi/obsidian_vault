@@ -2,7 +2,7 @@ Es el resultado de un Experimento.
 ***
 [[Probabilidad de un Evento]]
 ***
-[[Intersección de dos Eventos]]
+[[Intersección de dos Eventos - Regla del Producto]]
 [[Unión de dos Eventos]]
 [[Eventos Independientes]]
 ***

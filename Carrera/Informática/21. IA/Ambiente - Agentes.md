@@ -1,5 +1,5 @@
 ***
-**Propiedades de los Ambientes - IA**:
+**Propiedades de los Ambientes - IA**: ^4978d2
 - [[Completamente Observable vs Parcialmente Observable]]
 - De acuerdo a la [[Agente como Función#^283fa6|transición entre estados]] será considerado:
 	- Determinístico

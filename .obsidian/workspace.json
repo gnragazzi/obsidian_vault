@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuración - APD.md",
+                "file": "Conceptos Probabilisticos ligados a IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuración - APD"
+              "title": "Conceptos Probabilisticos ligados a IA"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Configuración - APD.md",
+                "file": "Conceptos Probabilisticos ligados a IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Configuración - APD"
+              "title": "Gráfico de Conceptos Probabilisticos ligados a IA"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -214,42 +214,41 @@
   },
   "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
-    "Lenguaje Aceptado por Pila Vacía.md",
+    "Variable Aleatoria.md",
+    "Pasted image 20250510104850.png",
+    "Conceptos Probabilisticos ligados a IA.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Intersección de dos Eventos - Regla del Producto.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Probabilidad condicional.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Regla de la Suma - Probabilidad.md",
+    "Probabilidad Incondicional (a Priori).md",
+    "Pasted image 20250510103402.png",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Evento Simple.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Conjunto Eventual.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Eventos Independientes.md",
+    "Modelo de Probabilidad.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/Espacio Muestral.md",
+    "Carrera/Matemáticas/Probabilidad y Estadística/experimento.md",
+    "Carrera/Matemáticas/Álgebra/Espacio Vectorial.md",
+    "Agentes para Ambientes con Incertidumbre.md",
+    "Probabilidad Bayesiana.md",
+    "3 visiones sobre la fuente de las Probabilidades.md",
+    "Insuficiencia de la lógica tradicional para ciertos dominios.md",
+    "Incertidumbre - IA.md",
+    "Carrera/Informática/21. IA/Ambiente - Agentes.md",
+    "Carrera/Informática/21. IA/Agente Racional.md",
+    "Carrera/Informática/21. IA/Agentes Reflejos Basados en Modelos.md",
+    "Carrera/Informática/21. IA/Razonamiento - IA.md",
+    "Utilidad - IA.md",
     "Configuración - APD.md",
-    "Autómatas Push-Down - APD.md",
-    "Determinismo - APD.md",
-    "Aceptación de una cadena por un APD.md",
-    "Lenguaje Aceptado por estado final.md",
-    "Función de Transición - APD.md",
-    "Movimientos de un APD.md",
-    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
-    "Ambigüedad en GLC.md",
-    "Árbol de Derivación.md",
-    "Gramáticas Libres del Contexto.md",
+    "Lenguaje Aceptado por Pila Vacía.md",
     "Pasted image 20250509211701.png",
-    "BNFE.md",
-    "BNF.md",
-    "Fórmulas equivalentes.md",
-    "Definición Inductiva de I(t).md",
-    "Fórmulas equivalentes para una σ-estructura.md",
     "Pasted image 20250509092333.png",
-    "Corolario 2.md",
     "Pasted image 20250509092016.png",
     "Pasted image 20250509090655.png",
-    "Corolario 1 - Fórmula válida - LPO.md",
-    "Fórmula Universalmente Válida.md",
-    "Consecuencia - LPO.md",
-    "Variables Libres - Apariciones Libres y Ligadas de Variables - LPO.md",
-    "Fórmula válida o verdadera - LPO.md",
-    "Interpretación - LPO.md",
-    "Fórmula - LPO.md",
-    "Alfabeto - LPO.md",
     "Pasted image 20250509082617.png",
     "Pasted image 20250508074729.png",
     "Pasted image 20250507155558.png",
     "Pasted image 20250507155556.png",
-    "Pasted image 20250507075518.png",
-    "Pasted image 20250507075456.png",
     "Diferencia Observer - Pub"
   ]
 }

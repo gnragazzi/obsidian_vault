@@ -1,0 +1,1 @@
+Grado de creencia en la proposición en ausencia de cualquier otra información.

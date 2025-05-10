@@ -2,7 +2,7 @@ Si un [[experimento]] puede tener como resultado uno y solamente uno de un conj
 ***
 Los eventos individuales se denominan [[Evento Simple|eventos simples]].  
 ***
-Es un subconjunto del [[Espacio Muestra]].¹
+Es un subconjunto del [[Espacio Muestral]].¹
 ***
 Si el conjunto de eventos $E_1, E_2, ..., E_r$ representa el conjunto eventual $S$ para un experimento, entonces: $$0 ≤ P(Ei) ≤ 1 \text{ y } ∑^r_{i=1} P(E_i) = 1$$
 

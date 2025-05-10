@@ -1,0 +1,1 @@
+Las probabilidades relacionan proposiciones al estado de conocimiento particular que tenga un [[Agentes para Ambientes con Incertidumbre|agente inteligente]].
