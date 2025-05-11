@@ -1,0 +1,2 @@
+Son problemas donde la [[Utilidad - IA|utilidad]] del agente depende de una *secuencia de decisiones* y no de una única decisión.
+* Para problemas donde el ambiente es accesible, pero hay [[Incertidumbre - IA|incertidumbre]] sobre el resultado de las acciones, utilizaremos como modelo el [[Proceso de Decisión de Markov]] 

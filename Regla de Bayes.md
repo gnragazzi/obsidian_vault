@@ -15,3 +15,6 @@ y usándose la siguiente terminología para referenciar a los términos de la ec
 ***
 Usando esta última ecuación, podemos actualizar la regla de bayes a su versión final:
 $$P(\theta|D) = \frac{P(D|\theta)P(\theta)}{\sum_{\theta_i \in \theta} P(D|\theta_i)P(\theta_i)}$$
+***
+[[El caso sencillo de la Regla de Bayes]] 
+[[3 visiones sobre la fuente de las Probabilidades#^b96391|Enfoque Bayesiano]] 

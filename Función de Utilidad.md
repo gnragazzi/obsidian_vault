@@ -1,0 +1,1 @@
+Asigna un número real a cada estado, el cual representa la *[[Utilidad - IA|deseabilidad]]* de dicho estado.
