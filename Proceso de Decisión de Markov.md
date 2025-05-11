@@ -14,4 +14,6 @@
 			- Que debe leerse como la probabilidad de que el agente se encuentre en el estado $s′$ en el tiempo $t + 1$, si en el tiempo $t$ el agente ejecuta la acción $a$ en el estado $s$.
 		- Las recompensas esperadas $R(s,a,s')$ $$R(s,a,s')=E\{r_{t+1}|s_t=s,a_t=a,s_{t+1}=s'\}$$
 			- Lease como la recompensa esperada en el tiempo $t + 1$, si en el tiempo $t$, el agente realiza la acción $a$ en el estado $s$ y se produce la transición al estado $s′$ en el tiempo $t + 1$.
-	- La solución a este MDP se reduce a encontrar una política $\pi^*:S→A$ que en cada paso del tiempo $t$, en el estado $s_t$ elige la acción $a_t$ que maximiza el [[Retorno esperado en un MDP|retorno esperado]].
+	- La solución a este MDP se reduce a encontrar una política $\pi^*:S→A$ que en cada paso del tiempo $t$, en el estado $s_t$ elige la acción $a_t$ que maximiza el [[Retorno esperado en un MDP|retorno esperado]]. ^2a21ca
+		- El objetivo es encontrar una pólitica óptica $\pi^*$, tal que $V^{π^∗}(s) ≥ V^π(s)$ para todo $s\in S$ y $\pi\in\Pi$ (el espacio de todas las políticas posibles).
+		- $V^\pi$ es la [[Función de Valor-Estado]] 
