@@ -1,0 +1,8 @@
+- **¿Completo?** 
+	- Solamente si el árbol es finito (ajedrez tiene reglas específicas para esto).  
+- **¿Óptimo?**
+	- Si, contra otros oponentes óptimos.
+	- **¿En otro caso?** 
+- • **Complejidad de espacio:** 
+	- $O(bm)$ (exploración [[Búsqueda Primero en Profundidad|depth-first]])  
+	- Complejidad de tiempo: $O(b^m)$

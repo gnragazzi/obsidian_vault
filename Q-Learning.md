@@ -1,0 +1,9 @@
+- Es un método de aprendizaje que aproxima la política óptima en forma on-line a partir de la experiencia obtenida por el agente en su interacción con el ambiente.
+- Regla de actualización de los valores de $Q$ del par estado-acción $(s_t, a_t)$ utilizada por $Q$-Learning:  $$Q(s_t, a_t) ← Q(s_t, a_t) + α[r_{t+1} + γ \max_a Q(s_{t+1}, a) − Q(s_t, a_t)]$$
+	- Q-Learning permite resolver MDP ́s con información incompleta (no requiere las dinámicas de un paso del ambiente) ya que actualiza sus valores en base a las recompensas que va obteniendo en su interacción con el ambiente
+	- Para entender mejor la regla de actualización utilizada por Q-Learning, consideremos una propiedad de recurrencia que cumple la función $Q^∗$: $$ Q^∗(s_t, a_t) = r_{t+1} + γ \max_a Q^∗(s_{t+1}, a)$$donde $r_{t+1}$ y $s_{t+1}$ son la recompensa y el estado alcanzado respectivamente, luego de ejecutar la acción $a_t$ en el estado $s_t$.
+- Algoritmo Q-Learning: ![[Pasted image 20250511210828.png]]
+	- Bajo las condiciones de que la política para seleccionar las acciones garantice que todas las acciones sean ejecutadas en cada estado un número infinito de veces, y que $α$ sea decrementado apropiadamente, este algoritmo ha demostrado que sus estimaciones de $Q^∗$ convergen con probabilidad 1 a $Q^∗$.
+	- Aunque en la teoría la repetición de este ciclo es infinita, en la práctica se realiza por episodios, cada episodio terminando en algún estado objetivo, definido por el diseñador del sistema de aprendizaje
+		- por ejemplo: llegar al estado objetivo, alcanzar un estado absorvente, superar un número máximo de iteraciones, etc.
+	- 

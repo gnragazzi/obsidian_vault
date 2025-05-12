@@ -1,0 +1,4 @@
+- Usar una [[Función de Evaluación - minimax|función de evaluación]] EVAL en lugar de UTILITY  que estime la deseabilidad de una posición
+- Usar CUTOFF-TEST en lugar de TERMINAL-TEST para decidir cuando aplicar EVAL; 
+	- por ejemplo, el límite de profundidad
+- ![[Pasted image 20250511215722.png]]

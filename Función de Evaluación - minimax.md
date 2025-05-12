@@ -1,0 +1,9 @@
+- Retorna una estimación de la utilidad esperada a partir de una posición
+- La performance del agente depende en gran medida de la calidad de dicha evaluación
+- Características para asegurar calidad
+	- Debe ordenar los estados terminales de igual manera que la [[Problemas de Búsqueda con Adversarios#^5d7fcc|función de Utilidad]]
+	- Debe ser fácil de calcular
+	- La evaluación de estados no-terminales debe estar fuertemente correlacionada con las posibilidades actuales de ganar
+	- Normalmente se basan en características del estado, ponderando algunas
+		- Por ejemplo, en el ajedréz$$Eval(s) = w_1f_1(s) + w_2f_2(s) + . . . + w_nf_n(s)$$donde $w_i$ es el valor de la pieza $i$ y $f_i$ es la cantidad de piezas $i$, con $i=$reina, peón, alfil, etc...
+		- 

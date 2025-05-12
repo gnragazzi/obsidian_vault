@@ -1,0 +1,13 @@
+- Puede ser catalogado como un ***método de planning***
+	- Término que referencia de manera general al proceso computacional que toma como entrada una descripción del comportamiento del ambiente ante las acciones del agente, y tiene como salida una [[Proceso de Decisión de Markov#^2a21ca|política óptima]]. 
+- [[Enfoques para encontrar una solución a un MDP#^8d6b82|Características]]
+	- Obtiene $V^*$ trabajando en forma off-line
+	- Requiere un conocimiento completo y preciso de las dinámicas de un paso del ambiente (modelo).
+	- Obtiene $V^∗$ mediante aproximaciones sucesivas, resolviendo relaciones de recurrencia de la función $V^∗$ (llamadas ecuaciones de Bellman). 
+	- La computación de $V^ ∗$ se basa en el concepto de backup, es decir, actualiza las estimaciones de las funciones de valor de los estados utilizando las estimaciones de las funciones de valor de estados sucesores. Estas actualizaciones se realizan mediante un barrido exhaustivo del espacio de estados.
+- Se aproxima $V^*$ utilizando la siguiente regla de actualización$$V_{k+1}(s)\leftarrow\max_{a\in A(s)}\sum_{s'\in S}P(s,a,s')[R(s,a,s')+\gamma V_k(s')]]$$
+	- El algoritmo trabaja en forma iterativa, partiendo de una inicialización arbitraria $(V_0)$ de los valores de $V$ de todos los estados, que es utilizada en la parte derecha de la regla de actualización para producir las nuevas estimaciones V_1 sobre la parte izquierda, que son usadas para obtener las estimaciones V_2 y así sucesivamente.
+	- Bajo condiciones apropiadas, con una estimación $V_0$ arbitraria, se puede demostrar que la secuencia {$V_k$} converge a $V^∗$ cuando $k → ∞$.
+	- Observar que si el problema tiene $n$ estados y $m$ es el mayor número de acciones disponibles en cualquier estado, una sola iteración del algoritmo requiere a lo más $O(mn^2)$ operaciones
+- Value Iteration realiza backups completos ya que se basan sobre todos los posibles estados sucesores.
+- 

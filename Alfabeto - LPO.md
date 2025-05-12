@@ -16,5 +16,4 @@ Se divide en:
 ***
 - Si la aridad es igual a 1 se dice que la (función, predicado) es monádica. Caso contrario, se dice poliádica.
 - Los símbolos lógicos son comunes a todos los lenguajes de primer orden, mientras que los símbolos de funciones, de predicados y de constantes forman el ***vocabulario*** de un lenguaje de primer orden y son particulares de cada lenguaje.
-- Un lenguaje de primer orden queda determinado por su vocabulario, que simbolizaremos con$$\sigma = \left\langle (f_i)_{i \in I},\ (P_j)_{j \in J},\ (c_k)_{k \in K} \right\rangle$$
-- El lenguaje construido a partir de este alfabeto lo denotamos $L_\sigma$
+

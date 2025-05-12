@@ -1,0 +1,2 @@
+Un lenguaje de primer orden queda determinado por su ***vocabulario***, que simbolizaremos con$$\sigma = \left\langle (f_i)_{i \in I},\ (P_j)_{j \in J},\ (c_k)_{k \in K} \right\rangle$$
+El lenguaje construido a partir de este [[Alfabeto - LPO|alfabeto]] lo denotamos $L_\sigma$
