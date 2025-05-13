@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fórmula - LPO.md",
+                "file": "Enunciado - LPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fórmula - LPO"
+              "title": "Enunciado - LPO"
             }
           }
         ],
@@ -62,18 +62,18 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -0.8,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.46961038961039,
+                  "repelStrength": 15.5666048237477,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0403721413704847,
-                  "close": false
+                  "linkDistance": 215,
+                  "scale": 0.7185220976261627,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -229,11 +229,12 @@
   },
   "active": "f4946b872b18c6b2",
   "lastOpenFiles": [
-    "Fórmulas Atómicas - LPO.md",
+    "Alfabeto - LPO.md",
+    "Variables Libres - Apariciones Libres y Ligadas de Variables - LPO.md",
     "Fórmula - LPO.md",
+    "Fórmulas Atómicas - LPO.md",
     "Cadena de Formación del Término.md",
     "Término - Lógica Primer Orden.md",
-    "Alfabeto - LPO.md",
     "Lenguaje - LPO.md",
     "Función de Evaluación - minimax.md",
     "¿Cómo mejorar el rendimiento de minimax?.md",
@@ -264,7 +265,6 @@
     "Función de Valor-Acción.md",
     "Otros/MathJax Reference.md",
     "Propiedad de Markov.md",
-    "Problemas de Decisión Secuencial.md",
     "Diferencia Observer - Pub"
   ]
 }
