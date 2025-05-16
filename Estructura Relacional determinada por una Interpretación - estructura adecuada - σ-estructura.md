@@ -2,4 +2,4 @@ Una [[Interpretación - LPO|interpretación]] $\mathcal{I}$ del [[Alfabeto - LPO
 En este caso también se suele decir que
 - $A$ es una **estructura adecuada para $L_σ$** ^321a56
 - o que **$A$ es una $σ$–estructura**. ^d7dcc2
-$$\sigma \Sigma$$
+

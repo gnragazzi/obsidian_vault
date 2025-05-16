@@ -11,3 +11,4 @@
 - **S**[[Sensores - Agentes|ensores]]
 	- Mecanismos para la percepción
 ***
+Si en agente es un agente de Software, los sensores y efectores serán "pedazos de código"

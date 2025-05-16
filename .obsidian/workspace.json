@@ -13,31 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alfabeto - LPO.md",
+                "file": "Determinismo - APD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alfabeto - LPO"
+              "title": "Determinismo - APD"
             },
             "group": "d122ed66a03bb27c"
-          },
-          {
-            "id": "f4946b872b18c6b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enunciado - LPO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enunciado - LPO"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "25f45f0eadbe0e6a",
@@ -49,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alfabeto - LPO.md",
+                "file": "Determinismo - APD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -72,12 +57,12 @@
                   "repelStrength": 15.5666048237477,
                   "linkStrength": 1,
                   "linkDistance": 215,
-                  "scale": 0.7185220976261627,
+                  "scale": 0.4962397436911486,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Alfabeto - LPO"
+              "title": "Gráfico de Determinismo - APD"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -134,8 +119,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,44 +211,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4946b872b18c6b2",
+  "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
-    "Alfabeto - LPO.md",
-    "Variables Libres - Apariciones Libres y Ligadas de Variables - LPO.md",
-    "Fórmula - LPO.md",
-    "Fórmulas Atómicas - LPO.md",
-    "Cadena de Formación del Término.md",
-    "Término - Lógica Primer Orden.md",
-    "Lenguaje - LPO.md",
-    "Función de Evaluación - minimax.md",
-    "¿Cómo mejorar el rendimiento de minimax?.md",
-    "Pasted image 20250511215722.png",
-    "Estrategia Minimax.md",
-    "Propiedades de Minimax.md",
-    "Pasted image 20250511215329.png",
-    "Problemas de Búsqueda con Adversarios.md",
-    "Pasted image 20250511214229.png",
-    "Pasted image 20250511214139.png",
-    "Pasted image 20250511213743.png",
-    "Árbol de Juego.md",
-    "Pasted image 20250511213105.png",
-    "Busqueda con Adversarios.md",
-    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
+    "Función de Transición - APD.md",
+    "Determinismo - APD.md",
+    "Carrera/Informática/21. IA/Descripción PAES.md",
+    "Árboles de Refutación - LPO.md",
     "Carrera/Informática/21. IA/Ambiente - Agentes.md",
-    "Q-Learning.md",
-    "Pasted image 20250511210828.png",
-    "Enfoques para encontrar una solución a un MDP.md",
-    "Value Iteration.md",
-    "Pasted image 20250511204518.png",
-    "Pasted image 20250511204513.png",
-    "Pasted image 20250511203632.png",
-    "Proceso de Decisión de Markov.md",
-    "Función de Valor - MDP.md",
-    "Función de Valor-Estado.md",
-    "Retorno esperado en un MDP.md",
-    "Función de Valor-Acción.md",
-    "Otros/MathJax Reference.md",
-    "Propiedad de Markov.md",
+    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
+    "Propiedades LPO.md",
+    "Teorema 3 - ÁdR LPO.md",
+    "Fórmula Universalmente Válida.md",
+    "Corolario 3 - Teorema 2 (ÁdR-LPO).md",
+    "Teorema 2 - ÁdR LPO.md",
+    "Pasted image 20250514064401.png",
+    "Conjunto Saturado (Hintikka) - AdR - LPO.md",
+    "Sin título 4.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunto de fórmulas saturado.md",
+    "Pasted image 20250514064000.png",
+    "Reglas Adicionales en el caso de Lenguaje con Igualdad.md",
+    "Pasted image 20250513084150.png",
+    "Reglas adicionales - Árboles de Refutación - LPO.md",
+    "Pasted image 20250513083344.png",
+    "Lema 2 - Árboles de Refutación LPO.md",
+    "Lema 1 - Árboles de Refutación LPO.md",
+    "Extensión Inmediata del Árbol - LPO.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
+    "Teorema 1 - Árbol de Refutación - LPO.md",
+    "Corolario 2 - AdR - LPO.md",
+    "Pasted image 20250513082633.png",
+    "Corolario 1 - AdR - LPO.md",
+    "Pasted image 20250513082036.png",
+    "Árbol de Refutación Cerrado-Abierto - LPO.md",
+    "Pasted image 20250513081120.png",
+    "Alfabeto - LPO.md",
+    "Parámetros - LPO.md",
+    "Pasted image 20250513080106.png",
+    "Pasted image 20250513075218.png",
+    "Pasted image 20250513075209.png",
     "Diferencia Observer - Pub"
   ]
 }

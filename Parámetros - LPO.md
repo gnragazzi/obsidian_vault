@@ -1,0 +1,10 @@
+Sea $L_σ$ un [[Lenguaje - LPO|lenguaje de primer orden]], y sea C el conjunto de los [[Alfabeto - LPO#^d828bd|símbolos de constante]]  de $L_σ$. 
+Indicaremos con $L^{Par}_σ$ al lenguaje cuyo vocabulario tiene los mismos símbolos de función y de predicado que el vocabulario $σ$, de $L_σ$, con las mismas aridades, y tiene como símbolos de constante a los elementos de $C ∪ \{a_0, a_1, a_2, . . . , a_i, . . .\}$.
+Los $a_i$ son símbolos de constante que no figuran en el vocabulario de $L_σ$, y se llaman ***parámetros***.
+***
+Como siempre, vamos a indicar con $\mathbb{F}$ al conjunto de las fórmulas del lenguaje $L_{\sigma}$, e introducimos la notación $\mathbb{F}^{Par}$ para denotar el conjunto de fórmulas de $L^{Par}_{\sigma}$. Como todos los símbolos de $L_{\sigma}$ figuran en $L^{Par}_{\sigma}$, toda fórmula de $L_{\sigma}$ es también una fórmula de $L^{Par}_{\sigma}$; es decir:
+$$\mathbb{F} \subseteq \mathbb{F}^{Par}$$
+
+Si $\mathcal{I}^{Par}$ es una interpretación de $L^{Par}_{\sigma}$, entonces $\mathcal{I}^{Par}$ también puede considerarse una interpretación de $L_{\sigma}$: basta con no tener en cuenta los $a_i^{\mathcal{I}^{Par}} \in U^{\mathcal{I}^{Par}}$, puesto que los $a_i$ no son símbolos de $L_{\sigma}$. Además, para toda asignación $\beta$ en $U^{\mathcal{I}^{Par}}$, y para toda $\varphi \in \mathbb{F}$,
+$$V_{\mathcal{I}^{Par}}(\varphi)$$
+tomará el mismo valor tanto si consideramos a $\mathcal{I}^{Par}$ como interpretación de $L_{\sigma}$ como si la consideramos interpretación de $L^{Par}_{\sigma}$ (puesto que por ser $\varphi$ una fórmula de $L_{\sigma}$, en $\varphi$ no puede figurar ningún parámetro). De estas consideraciones se deduce que si una fórmula $\varphi$ de $L_{\sigma}$ es satisfacible como fórmula de $L^{Par}_{\sigma}$, entonces también lo es como fórmula de $L_{\sigma}$.

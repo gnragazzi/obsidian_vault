@@ -1,0 +1,17 @@
+- Completitud
+	- Recordamos que un sistema de deducción axiomático es completo si es capaz de demostrar cualquier fórmula semánticamente válida (universalmente válida) y deducir cualquier consecuencia lógica.
+	- Es completo, pues puede demostrar [[Fórmula Universalmente Válida|fórmulas universalmente válidas]] usando árboles de refutación ([[Teorema 3 - ÁdR LPO|Teorema 3]]). 
+- Corrección
+	- Se dice que un sistema de demostración es correcto (coherente) si todas las fórmulas  demostrables en el sistema son semánticamente válidas y todas las fórmulas deducibles en el sistema a partir de un conjunto de premisas son consecuencia lógica de dichas premisas
+	- También el Teorema 3 tiene como consecuencia la corrección del sistema
+		- Obtener un ÁdR cerrado de $¬\varphi$  consituye una deducción de $\varphi$, y se puede asegurar que es universalmente válida, ya que su negación es [[Fórmula Satisfacible - LPO|insatisfacible]].
+		- Este método también permite obtener una deducción de $\Phi\bigcup\{¬\psi\}$ lo que permite afirmar que $\psi$ es consecuencia de $\Phi$
+- Decidible
+	- Se dice que un sistema de deducción es *decidible* si existe un método general y finito que permite comprobar si una fórmula es universalmente válida a partir de un conjunto de fórmulas.
+	- LPO es deducible solo ante algunos supuestos:
+		- Si se consideran únicamente dominios finitos
+		- Si se permiten exclusivamente predicados monádicos
+		- Incluso si no se cumplen las 2 condiciones anteriores, hay fórmulas particulares para las cuales LPO si es decidible.
+	- En definitiva, en LPO:
+		- Si una fórmula es válida, los ÁdR nos pueden decir que lo es
+		- Si una fórmula no es válida, el proceso puede no terminar nunca.

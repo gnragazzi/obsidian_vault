@@ -1,0 +1,1 @@
+Sea $\Phi$ un conjunto de [[Fórmula - LPO|fórmulas]] de un [[Lenguaje - LPO|lenguaje de primer orden]] $L_\sigma$. Entonces $\Phi$ es [[Fórmula Satisfacible - LPO|satisfacible]] como subconjunto de $\mathbb{F}$ si y sólo si $\Phi$ es satisfacible como subconjunto de $\mathbb{F}^{par}$.

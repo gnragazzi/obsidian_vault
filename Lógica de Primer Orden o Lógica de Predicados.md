@@ -5,3 +5,4 @@ La lógica que permite representar relaciones entre relaciones se llama [[Lógic
 - [[Alfabeto - LPO]] 
 - [[Término - Lógica Primer Orden]] 
 - [[Fórmula - LPO]] 
+- [[Árboles de Refutación - LPO]] 

@@ -1,0 +1,3 @@
+Si un [[Árboles de Refutación - LPO|árbol de refutación]] del conjunto $\Phi=\{\varphi_1,\varphi_2,...,\varphi_n\}\subseteq \mathbb{F}$ tiene una rama [[Conjunto Saturado (Hintikka) - AdR - LPO|saturada]], entonces $\Phi$ es [[Fórmula Satisfacible - LPO|satisfacible]].
+***
+No siempre es posible determinar, según este teorema, si una fórmula es satisfacible, pues una rama puede ser saturada y ser infinita si podemos reemplazar $x$ por infinitas constantes en expresiones como $\forall x (\varphi)$ o $¬(\exists x (\varphi))$ (que requieren comprobar una propiedad EN TODOS LOS ELEMENTOS de un universo).

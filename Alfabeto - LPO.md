@@ -1,6 +1,6 @@
 Se divide en:
 - ##### Símbolos Lógicos ^638c55
-	- variables 
+	- variables  ^d828bd
 		- $x_0,x_1,...$
 	- Conectivos proposicionales
 		- $∧,∨,¬,→$

@@ -1,0 +1,1 @@
+Si $\{\varphi_1, \varphi_2, \ldots, \varphi_n, \lnot \mu\} \subseteq \mathbb{F}$ tiene un [[Árbol de Refutación Cerrado-Abierto - LPO|árbol de refutación cerrado]], entonces $\mu$ es ***consecuencia*** de $\{\varphi_1, \varphi_2, \ldots, \varphi_n\}$.
