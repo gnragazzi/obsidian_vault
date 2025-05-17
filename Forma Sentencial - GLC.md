@@ -1,1 +1,1 @@
-Una forma sentencial es una [[Cadena - Lenguajes|cadena]] que contiene [[Gramáticas Libres del Contexto|sı́mbolos terminales y no terminales]]. 
+Una forma sentencial es una [[Cadena - Lenguajes|cadena]] que contiene [[Gramáticas Libres del Contexto - GLC|sı́mbolos terminales y no terminales]]. 

@@ -1,4 +1,4 @@
-Sea $G = (N, \Sigma, P, S)$ una [[Gramáticas Libres del Contexto|GLC]], luego un [[Árbol (Grafo)|árbol]] es un _Árbol de Derivación_ para $G$ si:
+Sea $G = (N, \Sigma, P, S)$ una [[Gramáticas Libres del Contexto - GLC|GLC]], luego un [[Árbol (Grafo)|árbol]] es un _Árbol de Derivación_ para $G$ si:
 1. Cada nodo interior está rotulado por un símbolo no terminal.
 2. Cada hoja es rotulada por un símbolo de $(N \cup \Sigma) \cup { \lambda }$. 
 	1. No obstante si el nodo $n$ tiene rótulo $\lambda$, luego $n$ es una hoja y es el único descendiente de su padre. (Para las producciones del tipo $A \rightarrow \lambda$)
