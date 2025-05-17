@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinismo - APD.md",
+                "file": "Transformación de APD-N → APD-F.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determinismo - APD"
+              "title": "Transformación de APD-N → APD-F"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Determinismo - APD.md",
+                "file": "Transformación de APD-N → APD-F.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,12 +57,12 @@
                   "repelStrength": 15.5666048237477,
                   "linkStrength": 1,
                   "linkDistance": 215,
-                  "scale": 0.4962397436911486,
+                  "scale": 0.7185220976261631,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Determinismo - APD"
+              "title": "Gráfico de Transformación de APD-N → APD-F"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -213,8 +213,19 @@
   },
   "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
-    "Función de Transición - APD.md",
+    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
+    "Lenguaje Aceptado por estado final.md",
+    "Transformación de APD-N → APD-F.md",
+    "Pasted image 20250516223905.png",
+    "Pasted image 20250516223853.png",
+    "Pasted image 20250516223844.png",
+    "Configuración - APD.md",
+    "Autómatas Push-Down - APD.md",
+    "Movimientos de un APD.md",
     "Determinismo - APD.md",
+    "Lenguaje Aceptado por Pila Vacía.md",
+    "Aceptación de una cadena por un APD.md",
+    "Función de Transición - APD.md",
     "Carrera/Informática/21. IA/Descripción PAES.md",
     "Árboles de Refutación - LPO.md",
     "Carrera/Informática/21. IA/Ambiente - Agentes.md",
@@ -234,21 +245,9 @@
     "Reglas adicionales - Árboles de Refutación - LPO.md",
     "Pasted image 20250513083344.png",
     "Lema 2 - Árboles de Refutación LPO.md",
-    "Lema 1 - Árboles de Refutación LPO.md",
-    "Extensión Inmediata del Árbol - LPO.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
-    "Teorema 1 - Árbol de Refutación - LPO.md",
-    "Corolario 2 - AdR - LPO.md",
     "Pasted image 20250513082633.png",
-    "Corolario 1 - AdR - LPO.md",
     "Pasted image 20250513082036.png",
-    "Árbol de Refutación Cerrado-Abierto - LPO.md",
     "Pasted image 20250513081120.png",
-    "Alfabeto - LPO.md",
-    "Parámetros - LPO.md",
-    "Pasted image 20250513080106.png",
-    "Pasted image 20250513075218.png",
-    "Pasted image 20250513075209.png",
     "Diferencia Observer - Pub"
   ]
 }

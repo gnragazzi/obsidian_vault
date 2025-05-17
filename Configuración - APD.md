@@ -1,4 +1,4 @@
-Es una notación especial para describir el estado actual del autómata (una d    escripción instantánea). 
+Es una notación especial para describir el estado actual del autómata (una descripción instantánea). 
 Una configuración de un apd es una triupla $(q, w, \gamma) \in Q \times \Sigma^* \times \Gamma^*$ donde:
 - $q$ es el estado actual,
 - $w$ es la cadena remanente en la entrada (aún no analizada),
