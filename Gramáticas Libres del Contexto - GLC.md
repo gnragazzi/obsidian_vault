@@ -2,7 +2,7 @@ Una gramática $G = (N, \Sigma, P, S)$ es ***libre de contexto (GLC)***, si sus 
 	- En este  contexto, $N$ es el conjunto de no terminales y $\Sigma$ es el conjunto de los terminales.
 	- La notación $\rightarrow$ se lee produce y se utiliza para describir las reglas/producciones de $P$.
 	- El lenguaje generado por una gramática $G = (N, \Sigma, P, S)$ (denotado $L(G)$) es:  
-$$L(G) = \{ w \in \Sigma^* , / , S \Rightarrow^* w \}$$
+$$L(G) = \{ w \in \Sigma^*  |  S \Rightarrow^* w \}$$
 ***
 - El nombre _"libre de contexto"_ se debe a que cada una de las producciones pueden ser aplicadas independientemente del contexto en donde aparezca un no terminal en una _forma sentencial_.
 	- A diferencia de las [[Gramática Regular|gramáticas regulares]] 
@@ -12,3 +12,4 @@ $$L(G) = \{ w \in \Sigma^* , / , S \Rightarrow^* w \}$$
 [[Forma Sentencial - GLC]] 
 [[BNF]] 
 [[BNFE]]
+[[Ambigüedad en GLC]]
