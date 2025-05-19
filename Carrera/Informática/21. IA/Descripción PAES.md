@@ -1,3 +1,4 @@
+Es un marco para **definir el entorno de un agente inteligente**
 - **P**[[Performance de un Agente|erformance]]
 	- Cuantificable
 	- Hablar de ciclos y métricas

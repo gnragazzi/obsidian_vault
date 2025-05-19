@@ -11,7 +11,7 @@
 - [[Estático Vs Dinámico]] 
 - [[Discreto vs Continuo]] 
 - [[Único Agente vs Multiagente]] 
-- [[Conocido vs Desconocido]]
+- [[Conocido vs Desconocido]] 
 
 ![[Pasted image 20250324092754.png]]
 ***

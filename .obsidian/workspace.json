@@ -13,42 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gramáticas Libres del Contexto - GLC.md",
+                "file": "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gramáticas Libres del Contexto - GLC"
+              "title": "Conocido vs Desconocido"
             },
             "group": "d122ed66a03bb27c"
-          },
-          {
-            "id": "6b093d849de77894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Árbol de Derivación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Árbol de Derivación"
-            }
-          },
-          {
-            "id": "269a87e1a47caf3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Árbol de Derivación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Árbol de Derivación"
-            }
           }
         ]
       },
@@ -62,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gramáticas Libres del Contexto - GLC.md",
+                "file": "Carrera/Informática/21. IA/Conocido vs Desconocido.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,12 +57,12 @@
                   "repelStrength": 15.5666048237477,
                   "linkStrength": 1,
                   "linkDistance": 215,
-                  "scale": 0.4962397436911489,
+                  "scale": 0.49623974369114904,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gramáticas Libres del Contexto - GLC"
+              "title": "Gráfico de Conocido vs Desconocido"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -241,8 +213,17 @@
   },
   "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
-    "Ambigüedad en GLC.md",
+    "Carrera/Informática/21. IA/Ambiente - Agentes.md",
+    "Carrera/Informática/21. IA/Discreto vs Continuo.md",
+    "Carrera/Informática/21. IA/Estático Vs Dinámico.md",
+    "Carrera/Informática/21. IA/Episódico vs Secuencial.md",
+    "Carrera/Informática/21. IA/Único Agente vs Multiagente.md",
+    "Carrera/Informática/21. IA/Agente como Función.md",
+    "Carrera/Informática/21. IA/Completamente Observable vs Parcialmente Observable.md",
+    "Carrera/Informática/21. IA/Descripción PAES.md",
+    "Carrera/Informática/21. IA/Performance de un Agente.md",
     "Gramáticas Libres del Contexto - GLC.md",
+    "Ambigüedad en GLC.md",
     "Derivación - Gramáticas Libres de Contexto.md",
     "BNFE.md",
     "BNF.md",
@@ -258,22 +239,13 @@
     "Definición Formal Parsing Top-Down.md",
     "Autómatas Push-Down - APD.md",
     "Ejemplo Parsing Bottom-Up.md",
-    "Función de Transición Extendida - APD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
     "Pasted image 20250517171607.png",
-    "Técnica Bottom-Up.md",
     "Pasted image 20250517171503.png",
     "Pasted image 20250517171446.png",
     "Pasted image 20250517134755.png",
     "Pasted image 20250517134325.png",
     "Pasted image 20250517134146.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía.md",
-    "Ejemplo de Transformación Teorema 3 - APD.md",
     "Pasted image 20250517132951.png",
-    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
-    "Transformación de APD-N → APD-F.md",
-    "Lenguaje Aceptado por estado final.md",
     "Pasted image 20250516223905.png",
     "Pasted image 20250516223853.png",
     "Pasted image 20250516223844.png",
