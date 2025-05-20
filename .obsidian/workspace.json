@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Dominación - Heurísticas.md",
+                "file": "Definción Formal Parsing Bottom-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dominación - Heurísticas"
+              "title": "Definción Formal Parsing Bottom-Up"
             },
             "group": "d122ed66a03bb27c"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Dominación - Heurísticas.md",
+                "file": "Definción Formal Parsing Bottom-Up.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Dominación - Heurísticas"
+              "title": "Gráfico de Definción Formal Parsing Bottom-Up"
             },
             "group": "d122ed66a03bb27c"
           }
@@ -229,32 +229,32 @@
   },
   "active": "2a2b26aead4a54de",
   "lastOpenFiles": [
-    "Carrera/Informática/21. IA/Función Heurística - h(n).md",
-    "Carrera/Informática/21. IA/Consistencia.md",
-    "Carrera/Informática/21. IA/Admisibilidad.md",
-    "Carrera/Informática/21. IA/Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero el Mejor.md",
-    "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
-    "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Dominación - Heurísticas.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
-    "Carrera/Informática/21. IA/Búsqueda con Profundidad Iterativa.md",
-    "Carrera/Informática/21. IA/Búsqueda en Profundidad Limitada.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero en Profundidad.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero en Anchura.md",
-    "Carrera/Informática/21. IA/Árbol de Búsqueda - Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Nodo de Árbol de Búsqueda - IA.md",
-    "Carrera/Informática/21. IA/Búsqueda-Grafo.md",
-    "Carrera/Informática/21. IA/Búsqueda-Árbol.md",
-    "Carrera/Informática/21. IA/Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
-    "Movimientos de un APD.md",
-    "Autómatas Push-Down - APD.md",
+    "Parsing Bottom-up.md",
+    "Análisis Sintáctico.md",
+    "Parsing Top-Down.md",
+    "Ejemplo Parsing Top-Down.md",
+    "Técnica Top-Down.md",
+    "Definición Formal Parsing Top-Down.md",
+    "Lenguaje Aceptado por Pila Vacía.md",
     "Función de Transición - APD.md",
-    "Aceptación de una cadena por un APD.md",
-    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Autómatas Push-Down - APD.md",
+    "Carrera/Informática/21. IA/Algoritmos Genéticos.md",
+    "Carrera/Informática/21. IA/Formulación de Estado Completo - PSRs.md",
+    "Carrera/Informática/21. IA/Algoritmos de Mejora Iterativa.md",
+    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
+    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
+    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
+    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
+    "Carrera/Informática/21. IA/Foward Checking.md",
+    "Valor Menos restrictivo.md",
+    "Carrera/Informática/21. IA/Grado Heurístico.md",
+    "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
+    "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
+    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Problemas de Satisfacción de Restricciones.md",
+    "Carrera/Informática/21. IA/Estado del Problema.md",
+    "Tipos de Restricciones.md",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
     "Pasted image 20250517171446.png",

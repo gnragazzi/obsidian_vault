@@ -1,7 +1,7 @@
 Sea $G = (N, \Sigma, P, S)$ una [[Gramáticas Libres del Contexto - GLC|gramática libre del contexto]], entonces puede construirse a partir de $G$ un [[Autómatas Push-Down - APD|APD]] [[Función de Transición Extendida - APD|extendido]] $M$ tal que $L(G) = L(M)$, donde:  
 $$M = (\{p, q\}, \Sigma, N \cup \Sigma \cup \{\$ \}, \delta, q, \$, \{p\})  $$
 y $\delta$ se construye como sigue:
-1. $\delta(q, a, \lambda) = {(q, a)}$ con $a \in \Sigma$. Operación _push_
+1. $\delta(q, a, \lambda) = {(q, a)}$ con $a \in \Sigma$. Operación shift
 2. Si $A \rightarrow \alpha \in P$, entonces $\delta(q, \lambda, \alpha)$ contiene a $(q, A)$
 3. $\delta(q, \lambda, \$S) = {(p, \lambda)}$
 ***
