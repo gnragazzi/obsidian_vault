@@ -9,6 +9,7 @@ Definición 2
 Una lista de símbiolos $P∈A*$ es una fórmula si y solo si existe una [[Cadena de Formación]] $X_1,X_2,...,X_n$ tal que $P=X_n$ .
 ***
 Propiedades:
+- [[Grado de Complejidad de una fórmula]]
 - [[Igualdad de Fórmulas Lógicas]] 
 - [[Equivalencia de Fórmulas Lógicas]] 
 - [[Satisfacible]] 

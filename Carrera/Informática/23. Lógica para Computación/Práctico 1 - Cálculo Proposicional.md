@@ -381,7 +381,7 @@ Sea Form el lenguaje del cálculo proposicional definido en teoría, se pide:
 	3. La fórmula resultante será igual a $X_n$, es decir, será igual a la variable proposicional que ocupe el último eslabón de la cadena. Esto es consecuente a la regla 1 de la definición de Fórmula (dada en $^{(3)}$).
 **
 **Ejercicio 10**
-Sea Form el lenguaje del cálculo proposicional definido en teoría, y sea $p$ la [[Peso de una Lista|función peso]]. 
+Sea Form el lenguaje del cálculo proposicional definido en teoría, y sea $p$ la [[Peso de una Cadena|función peso]]. 
 Recordamos que, tal como se definió en teoría, llamamos ***peso de X*** al número entero que se obtiene restando al número de paréntesis izquierdos “(” el de paréntesis derechos “)” que figuran en la lista $X$. Observamos, también, las siguientes propiedades
 - 1. Para toda [[Variables Proposicionales|variable proposicional]] $p_n$, $peso(p_n) = 0$  
 - 2. $peso(¬X) = peso(X)$  

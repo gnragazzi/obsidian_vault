@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Básico": "",
+      "Circuitos": "",
+      "Ejemplo": "",
+      "Ejercicios": "",
+      "Funciones de Haskell": "",
+      "KaTeX and Markdown Basic": "",
+      "KaTeX and Markdown Cloze": "",
+      "Nota": "",
+      "Nota con Referencias": "",
+      "Nota con Referencias de Entrada Y Salida": "",
+      "Nota de Java": "",
+      "Notas de Haskell": "",
+      "Notas M0": "",
+      "Pregunta": "",
+      "Pregunta+": "",
+      "Repertorio": "",
+      "Teoría Probabilidad con Ejemplo": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Básico": "Anverso",
+      "Circuitos": "Nombre",
+      "Ejemplo": "Título",
+      "Ejercicios": "Título",
+      "Funciones de Haskell": "Título",
+      "KaTeX and Markdown Basic": "Front",
+      "KaTeX and Markdown Cloze": "Text",
+      "Nota": "Título",
+      "Nota con Referencias": "Título",
+      "Nota con Referencias de Entrada Y Salida": "Título",
+      "Nota de Java": "Título",
+      "Notas de Haskell": "Título",
+      "Notas M0": "Título",
+      "Pregunta": "Título",
+      "Pregunta+": "Título",
+      "Repertorio": "Nombre",
+      "Teoría Probabilidad con Ejemplo": "Título"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}

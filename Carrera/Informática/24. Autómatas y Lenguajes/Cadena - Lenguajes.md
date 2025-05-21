@@ -7,3 +7,5 @@ Operaciones:
 ***
 Cadenas Especiales:
 - $λ$: Cadena vacía ^41d68b
+***
+[[Peso de una Cadena]] 
