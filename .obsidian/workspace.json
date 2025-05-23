@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Árbol de Derivación.md",
+                "file": "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Árbol de Derivación"
+              "title": "7 pasos de la Ingeniería del Conocimiento"
             },
-            "group": "d6dd06183b70a21e"
+            "group": "3322aedd079c0479"
           }
         ]
       },
       {
-        "id": "872677320d1dab6a",
+        "id": "dd4cf6a3cbfc5684",
         "type": "tabs",
         "children": [
           {
-            "id": "f15f6fb7c4c330ff",
+            "id": "89a3925c4aa319eb",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Árbol de Derivación.md",
+                "file": "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,29 +42,29 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": -0.6,
-                  "nodeSizeMultiplier": 1.37709090909091,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.493358070500928,
-                  "repelStrength": 10,
-                  "linkStrength": 0.564601113172542,
-                  "linkDistance": 360,
+                  "centerStrength": 0.521855287569573,
+                  "repelStrength": 11.7654916512059,
+                  "linkStrength": 0.849573283858998,
+                  "linkDistance": 250,
                   "scale": 0.6906395020147806,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Árbol de Derivación"
+              "title": "Gráfico de 7 pasos de la Ingeniería del Conocimiento"
             },
-            "group": "d6dd06183b70a21e"
+            "group": "3322aedd079c0479"
           }
         ]
       }
@@ -209,37 +209,38 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f15f6fb7c4c330ff",
+  "active": "f72c6b97600cc6c2",
   "lastOpenFiles": [
-    "Análisis Sintáctico.md",
-    "Parsing Top-Down.md",
-    "BNFE.md",
+    "Carrera/Informática/21. IA/Base de Conocimientos de un agente lógico.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
+    "Carrera/Informática/21. IA/Ontología - Agentes Lógicos.md",
+    "Representación en Lenguaje Turtle.md",
+    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
+    "Carrera/Informática/21. IA/Grafos de Conocimiento.md",
+    "Carrera/Informática/21. IA/Agente Lógico cómo función.md",
+    "Carrera/Informática/21. IA/Crear-Sentencia-Percepción.md",
+    "Representación del conocimiento.md",
+    "Carrera/Informática/21. IA/Algoritmos de Inferencia.md",
+    "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
+    "Carrera/Informática/21. IA/Implicación Lógica de un Agente Basado en Conocimientos.md",
+    "Carrera/Informática/21. IA/Inferencia Lógica de un Agente Basado en Conocimientos.md",
+    "Lógica de Primer Orden o Lógica de Predicados.md",
+    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
+    "Propiedades Primitivas vs Derivadas.md",
+    "Carrera/Informática/21. IA/Herencia de Propiedades - Agentes Lógicos.md",
+    "Carrera/Informática/21. IA/Completitud - Inferencia.md",
+    "Sensatez - Inferencia.md",
+    "Carrera/Informática/21. IA/Encadenamiento hacia Adelante - Algoritmo de Inferencia.md",
+    "Carrera/Informática/21. IA/Encadenamiento hacia Atrás - Algoritmo de Inferencia.md",
+    "Carrera/Informática/21. IA/Forma y Cláusulas de Horn.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunción.md",
+    "Carrera/Informática/21. IA/Agentes Lógicos.md",
     "Autómatas Push-Down - APD.md",
-    "Movimientos de un APD.md",
-    "Configuración - APD.md",
-    "Aceptación de una cadena por un APD.md",
-    "Ambigüedad en GLC.md",
     "BNF.md",
-    "Árbol de Derivación.md",
-    "Derivación - Gramáticas Libres de Contexto.md",
-    "Gramáticas Libres del Contexto - GLC.md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Carrera/Informática/23. Lógica para Computación/Teorema 2 - Unicidad de la Lectura de las Fórmulas.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 1 - Lógica para computación.md",
-    "Carrera/Informática/23. Lógica para Computación/Grado de Complejidad de una fórmula.md",
-    "Carrera/Informática/23. Lógica para Computación/Peso de una Cadena.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "Carrera/Informática/23. Lógica para Computación/Práctico 1 - Cálculo Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Variables Proposicionales.md",
-    "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
-    "Carrera/Informática/23. Lógica para Computación/Irreducibilidad - Cadenas de Formación.md",
-    "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
-    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
     "Pasted image 20250517171446.png",

@@ -1,3 +1,4 @@
+
 Un APD se define como una **7-tupla**:
 $M=(Q,Σ,Γ,δ,q_0,Z_0,F)$
 donde:
