@@ -209,8 +209,7 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "f72c6b97600cc6c2",
