@@ -1,4 +1,4 @@
-Toda función de verdad es la función de verdad determinada por una fórmula tal que todas las conectivas que figuran en ella están entre $¬,∧\ y\ ∨$. 
+Toda función de verdad (pensar en [[Función Booleana de n Variables]]) es la función de verdad determinada por una fórmula tal que todas las conectivas que figuran en ella están entre $¬,∧\ y\ ∨$. 
 ***
 Esta propuesta nos dice que se pueden construir fórmulas a partir de cualquier tabla de verdad que tengan solo los conectivos arriba enumerados (es decir, sin implicaciones).
 Además, como se ve en el ejemplo, se da un método más inmediato al visto en el [[Teorema 3 - De las funciones booleanas|teorema 3]] para obtener dicha fórmula.

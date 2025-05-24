@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
+                "file": "Teorema 5 - Sobre equivalencias en implicaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 pasos de la Ingeniería del Conocimiento"
+              "title": "Teorema 5 - Sobre equivalencias en implicaciones"
             },
             "group": "3322aedd079c0479"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
+                "file": "Teorema 5 - Sobre equivalencias en implicaciones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 7 pasos de la Ingeniería del Conocimiento"
+              "title": "Gráfico de Teorema 5 - Sobre equivalencias en implicaciones"
             },
             "group": "3322aedd079c0479"
           }
@@ -214,32 +214,33 @@
   },
   "active": "f72c6b97600cc6c2",
   "lastOpenFiles": [
-    "Carrera/Informática/21. IA/Base de Conocimientos de un agente lógico.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Conocimientos.md",
-    "Carrera/Informática/21. IA/Ontología - Agentes Lógicos.md",
-    "Representación en Lenguaje Turtle.md",
-    "Representación Individuo-Propiedad-Valor (representación de triupla.md",
-    "Carrera/Informática/21. IA/Grafos de Conocimiento.md",
-    "Carrera/Informática/21. IA/Agente Lógico cómo función.md",
-    "Carrera/Informática/21. IA/Crear-Sentencia-Percepción.md",
-    "Representación del conocimiento.md",
-    "Carrera/Informática/21. IA/Algoritmos de Inferencia.md",
+    "Carrera/Informática/23. Lógica para Computación/Equivalencia de Fórmulas Lógicas.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
+    "Teorema 5 - Sobre equivalencias en implicaciones.md",
+    "Teorema 4 - Sobre el número de clases de equivalencia.md",
+    "Proposición 1 - Sobre la función de verdad.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunto Adecuado de Conectivos.md",
+    "Proposición 2 - Sobre los conjuntos adecuados de conectivos de a pares.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 4 - Sobre la Forma Normal Conjuntiva.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3 - Sobre la Forma Normal Disyuntiva.md",
+    "Pasted image 20250523212800.png",
+    "Teorema 3 - De las funciones booleanas.md",
+    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
+    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
+    "Tabla de Verdad de la Fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
+    "Carrera/Informática/23. Lógica para Computación/Conectivos Lógicos.md",
+    "Carrera/Informática/23. Lógica para Computación/Condicional - Tabla de Verdad.md",
+    "Carrera/Informática/23. Lógica para Computación/Métodos Sintácticos.md",
+    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
+    "Carrera/Informática/23. Lógica para Computación/Extensión de la Función de Valuación - Teorema 1.md",
+    "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 2 - Del Teorema 2 - Procedimiento para evaluar una fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 1 de la Extensión de la Función de Valuación.md",
+    "Carrera/Informática/23. Lógica para Computación/Observación 1 de la Extensión de la Función de Valuación.md",
+    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
     "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
-    "Carrera/Informática/21. IA/Implicación Lógica de un Agente Basado en Conocimientos.md",
-    "Carrera/Informática/21. IA/Inferencia Lógica de un Agente Basado en Conocimientos.md",
-    "Lógica de Primer Orden o Lógica de Predicados.md",
-    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
-    "Propiedades Primitivas vs Derivadas.md",
-    "Carrera/Informática/21. IA/Herencia de Propiedades - Agentes Lógicos.md",
-    "Carrera/Informática/21. IA/Completitud - Inferencia.md",
-    "Sensatez - Inferencia.md",
-    "Carrera/Informática/21. IA/Encadenamiento hacia Adelante - Algoritmo de Inferencia.md",
-    "Carrera/Informática/21. IA/Encadenamiento hacia Atrás - Algoritmo de Inferencia.md",
-    "Carrera/Informática/21. IA/Forma y Cláusulas de Horn.md",
-    "Carrera/Informática/23. Lógica para Computación/Conjunción.md",
-    "Carrera/Informática/21. IA/Agentes Lógicos.md",
-    "Autómatas Push-Down - APD.md",
-    "BNF.md",
+    "Carrera/Informática/21. IA/Base de Conocimientos de un agente lógico.md",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
     "Pasted image 20250517171446.png",
@@ -249,7 +250,6 @@
     "Pasted image 20250517132951.png",
     "Pasted image 20250516223905.png",
     "Pasted image 20250516223853.png",
-    "Pasted image 20250516223844.png",
     "Diferencia Observer - Pub"
   ]
 }

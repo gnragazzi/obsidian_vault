@@ -1,4 +1,4 @@
-Sea $f$ una función cualquiera del conjunto $Var$ de variables proposicionales en $B$,  $$f : Var ⊢> B$$Entonces existe una única valuación $v_f : Form ⊢> B$ que extiende a $f$ ; es decir, tal que $$v_f (p_n) = f (p_n)$$ para toda variable proposicional $p_n$.
+Sea $f$ una función cualquiera del conjunto $Var$ de variables proposicionales en $B$,  $$f : Var \mapsto B$$Entonces existe una única valuación $v_f : Form \mapsto B$ que extiende a $f$ ; es decir, tal que $$v_f (p_n) = f (p_n)$$ para toda variable proposicional $p_n$
 ***
 Este teorema nos asegura que con una función que asigne valores de verdad a sólo un conjunto de variables proposicionales, en particular al conjunto de variables que participan en la fórmula que se está analizando, es suficiente para obtener la valuación de dicha fórmula.
 ***
