@@ -6,27 +6,42 @@
       {
         "id": "25f45f0eadbe0e6a",
         "type": "tabs",
+        "dimension": 45.140515222482435,
         "children": [
           {
-            "id": "f72c6b97600cc6c2",
+            "id": "a5dc88676ec120e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema 5 - Sobre equivalencias en implicaciones.md",
+                "file": "Estrategia Minimax.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrategia Minimax"
+            }
+          },
+          {
+            "id": "c09e1c1ca0a2bfad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propiedad de Markov.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema 5 - Sobre equivalencias en implicaciones"
-            },
-            "group": "3322aedd079c0479"
+              "title": "Propiedad de Markov"
+            }
           }
         ]
       },
       {
         "id": "dd4cf6a3cbfc5684",
         "type": "tabs",
+        "dimension": 54.859484777517565,
         "children": [
           {
             "id": "89a3925c4aa319eb",
@@ -34,14 +49,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teorema 5 - Sobre equivalencias en implicaciones.md",
+                "file": "Estrategia Minimax.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -49,7 +64,7 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
@@ -58,13 +73,12 @@
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
                   "scale": 0.6906395020147806,
-                  "close": true
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Teorema 5 - Sobre equivalencias en implicaciones"
-            },
-            "group": "3322aedd079c0479"
+              "title": "Gráfico de Estrategia Minimax"
+            }
           }
         ]
       }
@@ -212,35 +226,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f72c6b97600cc6c2",
+  "active": "a5dc88676ec120e9",
   "lastOpenFiles": [
-    "Carrera/Informática/23. Lógica para Computación/Equivalencia de Fórmulas Lógicas.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
-    "Teorema 5 - Sobre equivalencias en implicaciones.md",
-    "Teorema 4 - Sobre el número de clases de equivalencia.md",
-    "Proposición 1 - Sobre la función de verdad.md",
-    "Carrera/Informática/23. Lógica para Computación/Conjunto Adecuado de Conectivos.md",
-    "Proposición 2 - Sobre los conjuntos adecuados de conectivos de a pares.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 4 - Sobre la Forma Normal Conjuntiva.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 3 - Sobre la Forma Normal Disyuntiva.md",
+    "Problemas de Búsqueda con Adversarios.md",
+    "Función de Evaluación - minimax.md",
+    "¿Cómo mejorar el rendimiento de minimax?.md",
+    "Propiedades de Minimax.md",
+    "Estrategia Minimax.md",
+    "Proceso de Decisión de Markov.md",
+    "Enfoques para encontrar una solución a un MDP.md",
+    "Propiedad de Markov.md",
+    "Función de Asignación de valor de Verdad - LPO.md",
+    "Fórmulas equivalentes.md",
+    "Sustitución de variables en Fórmulas.md",
+    "Sustitución de Variables en Términos - LPO.md",
+    "Fórmula Satisfacible - LPO.md",
+    "Interpretación - Definición Tupla.md",
+    "Interpretación - LPO.md",
+    "Función de Asignación - Valuación.md",
+    "Fórmulas equivalentes para una σ-estructura.md",
+    "Enunciado - LPO.md",
+    "Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura.md",
+    "Extensión del Lenguaje Original - LPO.md",
+    "Extensión de la Interpretación - LPO.md",
+    "Fórmula Universalmente Válida.md",
+    "Fórmula válida o verdadera - LPO.md",
+    "Definición Recursiva de Asignación de Valor de Verdad - LPO.md",
+    "Alfabeto - LPO.md",
+    "Alternativa a la función de asignación de valores.md",
     "Pasted image 20250523212800.png",
-    "Teorema 3 - De las funciones booleanas.md",
-    "Procedimiento Sistemático para encontrar una Fórmula a partir de una Tabla de Verdad.md",
-    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
-    "Tabla de Verdad de la Fórmula.md",
-    "Carrera/Informática/23. Lógica para Computación/Semántica de la Lógica Proposicional.md",
-    "Carrera/Informática/23. Lógica para Computación/Conectivos Lógicos.md",
-    "Carrera/Informática/23. Lógica para Computación/Condicional - Tabla de Verdad.md",
-    "Carrera/Informática/23. Lógica para Computación/Métodos Sintácticos.md",
-    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
-    "Carrera/Informática/23. Lógica para Computación/Extensión de la Función de Valuación - Teorema 1.md",
-    "Teorema 2 - Procedimiento para Evaluar una Fórmula.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 2 - Del Teorema 2 - Procedimiento para evaluar una fórmula.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 1 de la Extensión de la Función de Valuación.md",
-    "Carrera/Informática/23. Lógica para Computación/Observación 1 de la Extensión de la Función de Valuación.md",
-    "Carrera/Informática/23. Lógica para Computación/Lógica Para Computación.md",
-    "Carrera/Informática/21. IA/7 pasos de la Ingeniería del Conocimiento.md",
-    "Carrera/Informática/21. IA/Base de Conocimientos de un agente lógico.md",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
     "Pasted image 20250517171446.png",

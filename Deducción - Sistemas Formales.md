@@ -3,3 +3,4 @@ Sea $\Gamma$ un conjunto de [[Sistema Formal L#^9688e4|fbfs]] de $\mathcal{L}$ (
 **(b)** $A_i$ es miembro de $\Gamma$.
 **(c)** $A_i$ se deduce directamente de dos miembros anteriores de la sucesión mediante [[Modus Ponens|MP]].
 ***
+[[Teorema 1 (Teorema de la Deducción) (forma sintáctica)]] 

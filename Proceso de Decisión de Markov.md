@@ -10,7 +10,7 @@
 	- Un conjunto de estados posibles $S$
 	- Un conjunto de acciones posibles $A$
 	- Las dinámicas de un paso del ambiente, dadas por
-		- Las probabilidades de transición$P(s,a,s')$ $$P(s,a,s')=Pr\{s_{t+1}=s'|s_t=s,a_t=a\}$$
+		- Las probabilidades de transición $P(s,a,s')$ $$P(s,a,s')=Pr\{s_{t+1}=s'|s_t=s,a_t=a\}$$
 			- Que debe leerse como la probabilidad de que el agente se encuentre en el estado $s′$ en el tiempo $t + 1$, si en el tiempo $t$ el agente ejecuta la acción $a$ en el estado $s$.
 		- Las recompensas esperadas $R(s,a,s')$ $$R(s,a,s')=E\{r_{t+1}|s_t=s,a_t=a,s_{t+1}=s'\}$$
 			- Lease como la recompensa esperada en el tiempo $t + 1$, si en el tiempo $t$, el agente realiza la acción $a$ en el estado $s$ y se produce la transición al estado $s′$ en el tiempo $t + 1$.

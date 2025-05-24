@@ -10,3 +10,5 @@ Observaciones:
 - $Con(\emptyset)$ es el conjunto de todas las tautologías.   ^ea4f74
 - a) Si $S=\emptyset$, entonces $P\in Con(S)$ si y solo si la fórmula $\neg P$ tiene un [[Árbol de Refutación]] [[Árbol de Refutación Cerrado - Abierto|cerrado]].
 - b) Si $S=\{Q_1,...,Q_n\}$ entonces $P \in Con(S)$ si y sólo si la fórmula $(Q_1\land ...\land Q_n\land \neg P)$ tiene un árbol de refutación cerrado
+***
+[[Teorema 1 - de la deducción]] 

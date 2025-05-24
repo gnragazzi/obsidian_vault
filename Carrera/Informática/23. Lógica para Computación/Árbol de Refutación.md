@@ -4,4 +4,4 @@ Un ***árbol de refutación de un conjunto finito S de fórmulas*** es un árbol
 ***
 Propiedades:
 - [[Árbol de Refutación Cerrado - Abierto]] 
-- [[Completitud - Árbol de Refutación]]
+- [[Completitud - Árbol de Refutación]]´

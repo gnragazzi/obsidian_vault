@@ -1,3 +1,4 @@
+
 Si una [[Sistema Formal L#^9688e4|fbf]] $A$ es el último miembro de alguna [[Deducción - Sistemas Formales|deducción]] a partir de $\Gamma$, diremos que $A$ es _derivable_ a partir de $\Gamma$ y se usará la notación
 $$Γ⊢_\mathcal{L}​A$$
 para especificarlo.
@@ -12,3 +13,5 @@ $$∅⊢_\mathcal{L}​A$$
 o más sencillamente y para abreviar
 
 $$⊢LA.\vdash_{\mathcal{L}} A.⊢L​A.$$
+***
+#Anki
