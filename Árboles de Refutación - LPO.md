@@ -8,6 +8,7 @@ Un _árbol de refutación de un conjunto finito_ $\{\varphi_1, \varphi_2, \ldots
 	- [[Árbol de Refutación Cerrado-Abierto - LPO|Cerrado-Abierto]] 
 ***
 [[Teorema 1 - Árbol de Refutación - LPO]] 
+[[Teorema 2 - ÁdR LPO]]
 [[Lema 1 - Árboles de Refutación LPO]] 
 [[Lema 2 - Árboles de Refutación LPO]] 
 ***
