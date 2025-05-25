@@ -8,7 +8,7 @@
 		- Este método también permite obtener una deducción de $\Phi\bigcup\{¬\psi\}$ lo que permite afirmar que $\psi$ es consecuencia de $\Phi$
 - Decidible
 	- Se dice que un sistema de deducción es *decidible* si existe un método general y finito que permite comprobar si una fórmula es universalmente válida a partir de un conjunto de fórmulas.
-	- LPO es deducible solo ante algunos supuestos:
+	- LPO es decidible solo ante algunos supuestos:
 		- Si se consideran únicamente dominios finitos
 		- Si se permiten exclusivamente predicados monádicos
 		- Incluso si no se cumplen las 2 condiciones anteriores, hay fórmulas particulares para las cuales LPO si es decidible.
