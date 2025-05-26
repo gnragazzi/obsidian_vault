@@ -7,7 +7,7 @@ Se realizan utilizando una estructura de datos llamada [[Árbol de Búsqueda - B
 Proceso de la búsqueda: ^c92bac
 1. Elegir un estado a explorar
 2. Controlar si el estado es un estado objetivo
-3. [Expandir el estado]^[1]
+3. [Expandir el estado] ^[1] 
 ***
 ^[1] Generar el conjunto de estados que se obtienen de la aplicación de las acciones válidas en dicho estado. Se logra a través de la función EXPANDIR, que crea nuevos [[Nodo de Árbol de Búsqueda - IA|nodos]], completando los distintos campos y usando la función [[Problema - Agentes de Resolución de Problemas#^87763b|SUCESOR-FN]] del problema para crear los estados correspondientes.
 ***

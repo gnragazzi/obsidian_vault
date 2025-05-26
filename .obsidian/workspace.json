@@ -4,59 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "25f45f0eadbe0e6a",
+        "id": "dd4cf6a3cbfc5684",
         "type": "tabs",
-        "dimension": 45.140515222482435,
         "children": [
           {
-            "id": "a5dc88676ec120e9",
+            "id": "8492c11b1d5a193a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades LPO.md",
-                "mode": "preview",
+                "file": "Fórmula Satisfacible - LPO.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades LPO"
+              "title": "Fórmula Satisfacible - LPO"
             },
-            "group": "1184eff354a6bf8a"
-          },
-          {
-            "id": "a2fdec65b53ed379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corolario 3 - Teorema 2 (ÁdR-LPO).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corolario 3 - Teorema 2 (ÁdR-LPO)"
-            }
-          },
-          {
-            "id": "fee3d734fe8fa750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conjunto Saturado (Hintikka) - AdR - LPO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conjunto Saturado (Hintikka) - AdR - LPO"
-            }
+            "group": "29de7ae4cb277447"
           }
         ]
       },
       {
-        "id": "dd4cf6a3cbfc5684",
+        "id": "27be6ef2cef699b5",
         "type": "tabs",
-        "dimension": 54.859484777517565,
         "children": [
           {
             "id": "89a3925c4aa319eb",
@@ -64,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades LPO.md",
+                "file": "Fórmula Satisfacible - LPO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -92,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades LPO"
+              "title": "Gráfico de Fórmula Satisfacible - LPO"
             },
-            "group": "1184eff354a6bf8a"
+            "group": "29de7ae4cb277447"
           }
         ]
       }
@@ -154,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e516bca1fc19a59",
@@ -241,34 +212,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a5dc88676ec120e9",
+  "active": "8492c11b1d5a193a",
   "lastOpenFiles": [
-    "Corolario 1 - Fórmula válida - LPO.md",
-    "Carrera/Informática/23. Lógica para Computación/Cadena de Formación.md",
-    "Árboles de Refutación - LPO.md",
-    "Lema 3 - LPO.md",
-    "Teorema 2 - ÁdR LPO.md",
-    "Conjunto Saturado (Hintikka) - AdR - LPO.md",
-    "Corolario 3 - Teorema 2 (ÁdR-LPO).md",
-    "Árbol de Refutación Cerrado-Abierto - LPO.md",
-    "Lema 2 - Árboles de Refutación LPO.md",
-    "Fórmula Satisfacible - LPO.md",
-    "Lema 1 - Árboles de Refutación LPO.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
-    "Corolario 2 - AdR - LPO.md",
-    "Corolario 1 - AdR - LPO.md",
-    "Teorema 1 - Árbol de Refutación - LPO.md",
-    "Reglas adicionales - Árboles de Refutación - LPO.md",
-    "Extensión Inmediata del Árbol - LPO.md",
-    "Estrategia Minimax.md",
-    "Problemas de Búsqueda con Adversarios.md",
-    "Función de Evaluación - minimax.md",
-    "¿Cómo mejorar el rendimiento de minimax?.md",
-    "Propiedades de Minimax.md",
-    "Proceso de Decisión de Markov.md",
-    "Enfoques para encontrar una solución a un MDP.md",
-    "Propiedad de Markov.md",
-    "Función de Asignación de valor de Verdad - LPO.md",
+    "fórmula satis}.md",
+    "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
+    "Carrera/Informática/21. IA/Grado Heurístico.md",
+    "Valor Menos restrictivo.md",
+    "Carrera/Informática/21. IA/Foward Checking.md",
+    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
+    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
+    "Carrera/Informática/21. IA/Estado del Problema.md",
+    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
+    "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
+    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
+    "Carrera/Informática/21. IA/Problemas de Satisfacción de Restricciones.md",
+    "Carrera/Informática/21. IA/Problemas de Optimización de Restricciones.md",
+    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Problemas de Optimización.md",
+    "Carrera/Informática/21. IA/Búsqueda Primero el Mejor.md",
+    "Carrera/Informática/21. IA/Dominación - Heurísticas.md",
+    "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
+    "Carrera/Informática/21. IA/Búsqueda A*.md",
+    "Carrera/Informática/21. IA/Función Heurística - h(n).md",
+    "Carrera/Informática/21. IA/Consistencia.md",
+    "Carrera/Informática/21. IA/Admisibilidad.md",
+    "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
+    "Carrera/Informática/21. IA/Búsqueda con Profundidad Iterativa.md",
     "Pasted image 20250523212800.png",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
