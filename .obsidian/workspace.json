@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fórmula Satisfacible - LPO.md",
+                "file": "Carrera/Informática/21. IA/Grado Heurístico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fórmula Satisfacible - LPO"
+              "title": "Grado Heurístico"
             },
             "group": "29de7ae4cb277447"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fórmula Satisfacible - LPO.md",
+                "file": "Carrera/Informática/21. IA/Grado Heurístico.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Fórmula Satisfacible - LPO"
+              "title": "Gráfico de Grado Heurístico"
             },
             "group": "29de7ae4cb277447"
           }
@@ -214,17 +214,18 @@
   },
   "active": "8492c11b1d5a193a",
   "lastOpenFiles": [
+    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
+    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
+    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
+    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
+    "Fórmula Satisfacible - LPO.md",
     "fórmula satis}.md",
     "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
     "Carrera/Informática/21. IA/Grado Heurístico.md",
     "Valor Menos restrictivo.md",
     "Carrera/Informática/21. IA/Foward Checking.md",
-    "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
-    "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
     "Carrera/Informática/21. IA/Estado del Problema.md",
-    "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
     "Carrera/Informática/21. IA/Algoritmo Generar-y-Probar (Generate-and-Test).md",
-    "Carrera/Informática/21. IA/Enfoques para Resolver PSRs.md",
     "Carrera/Informática/21. IA/Problemas de Satisfacción de Restricciones.md",
     "Carrera/Informática/21. IA/Problemas de Optimización de Restricciones.md",
     "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
@@ -239,7 +240,6 @@
     "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
     "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
     "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
-    "Carrera/Informática/21. IA/Búsqueda con Profundidad Iterativa.md",
     "Pasted image 20250523212800.png",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
