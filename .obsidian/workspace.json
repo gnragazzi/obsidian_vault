@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Grado Heurístico.md",
+                "file": "Ejemplo de Transformación Teorema 3 - APD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grado Heurístico"
+              "title": "Ejemplo de Transformación Teorema 3 - APD"
             },
             "group": "29de7ae4cb277447"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Grado Heurístico.md",
+                "file": "Ejemplo de Transformación Teorema 3 - APD.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Grado Heurístico"
+              "title": "Gráfico de Ejemplo de Transformación Teorema 3 - APD"
             },
             "group": "29de7ae4cb277447"
           }
@@ -214,6 +214,11 @@
   },
   "active": "8492c11b1d5a193a",
   "lastOpenFiles": [
+    "Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 - Reglas.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1 a partir de la Equivalencia de Fórmulas Lógicas.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 1.md",
+    "Carrera/Informática/21. IA/Grado Heurístico.md",
     "Carrera/Informática/21. IA/Mejoras a la Búsqueda con vuelta atrás.md",
     "Carrera/Informática/21. IA/Algoritmos de Vuelta Atrás - Backtracking.md",
     "Carrera/Informática/21. IA/Formulación Incremental - PSRs.md",
@@ -221,7 +226,6 @@
     "Fórmula Satisfacible - LPO.md",
     "fórmula satis}.md",
     "Carrera/Informática/21. IA/Mínimos Valores Restantes.md",
-    "Carrera/Informática/21. IA/Grado Heurístico.md",
     "Valor Menos restrictivo.md",
     "Carrera/Informática/21. IA/Foward Checking.md",
     "Carrera/Informática/21. IA/Estado del Problema.md",
@@ -236,10 +240,6 @@
     "Carrera/Informática/21. IA/Búsqueda A*.md",
     "Carrera/Informática/21. IA/Función Heurística - h(n).md",
     "Carrera/Informática/21. IA/Consistencia.md",
-    "Carrera/Informática/21. IA/Admisibilidad.md",
-    "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
     "Pasted image 20250523212800.png",
     "Pasted image 20250517171607.png",
     "Pasted image 20250517171503.png",
