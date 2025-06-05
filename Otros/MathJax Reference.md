@@ -3,6 +3,8 @@
 \subset
 \subseteq
 \models = $\models$
+\langle = $\langle$ 
+\rangle = $\rangle$ 
 
 ![[Pasted image 20250405091304.png]]
 ![[Pasted image 20250405091325.png]]
