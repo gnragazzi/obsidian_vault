@@ -13,4 +13,6 @@ A través del aprendizaje automático se pueden obtener modelos a partir de dato
 ***
 [[Categorías del Aprendizaje Automático]] 
 Se relaciona con el concepto de [[Adaptabilidad]]
-
+***
+# Usos dentro de la Materia
+- [[Minería de Datos]] 

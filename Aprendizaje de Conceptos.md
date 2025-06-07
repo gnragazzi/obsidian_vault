@@ -1,0 +1,1 @@
+Caso especial de la [[Clasificación]], en donde hay solo 2 etiquetas (binarias) disponibles.

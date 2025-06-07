@@ -1,0 +1,5 @@
+- Detección de valores anómalos (no siempre eliminados). 
+- Tratamiento de datos faltantes (o perdidos).
+- Selección de atributos relevantes (columnas).
+- Selección de una muestra de datos (filas).
+- Construcción de nuevos atributos (agrupamiento, numerización, discretización, normalización) 

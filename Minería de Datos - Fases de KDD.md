@@ -1,0 +1,6 @@
+- Determinar que tipo de [[Tareas de la MD|tarea de MD]]  es el más apropiado
+- Elegir un modelo #Preguntar_a_la_IA 
+	- árboles de decisión
+	- Reglas de clasificación
+	- Redes Neuronales
+- Elegir el algoritmo de minería (o aprendizaje) #Preguntar_a_la_IA 

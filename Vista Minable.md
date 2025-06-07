@@ -1,0 +1,4 @@
+- Tabla única con todos los atributos relevantes para el proceso de MD.
+- Cada instancia/objeto es representado por una fila de la vista minable  
+- Los atributos/features son representados como columnas de la vista minable, y suelen ser numéricos (enteros, reales) o nominales también referenciados como categóricos o enumerados. 
+- En [[Tareas Predictivas de la MD|problemas supervisados]] (predictivos), uno de los atributos cumple el rol de variable dependiente o atributo objetivo/target

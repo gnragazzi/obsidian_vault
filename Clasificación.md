@@ -1,0 +1,2 @@
+- Dado un objeto se le asigna una y solo una etiqueta. 
+- Estas etiquetas/clases son, por lo tanto mutuamente excluyentes.

@@ -1,0 +1,1 @@
+Dado un objeto, se le asignan 0 o más etiquetas según corresponda

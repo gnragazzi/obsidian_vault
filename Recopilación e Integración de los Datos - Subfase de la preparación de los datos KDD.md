@@ -1,0 +1,2 @@
+- Determinar fuentes de información útiles y dónde conseguirlas.
+- Coleccionar múltiples bases de datos heterogéneas en un único almacén de datos.

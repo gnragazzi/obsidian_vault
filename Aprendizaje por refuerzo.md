@@ -1,0 +1,6 @@
+- Se aprenden modelos de decisión (políticas) para comportarse (realizar acciones) de forma óptima.
+	- ¿Esto se relaciona con [[Proceso de Decisión de Markov]]? #Dudas 
+- El agente toma una acción $a$ en un estado $s$ del ambiente y recibe una evaluación numérica $r$, recompensa relacionada con la acción tomada.
+	- ![[Pasted image 20250607114304.png]]
+	- ![[Pasted image 20250607114235.png]]
+- El agente aprende de las secuencias de tri-uplas $〈s, a, r 〉$ recibidas en la interacción con el ambiente. 
