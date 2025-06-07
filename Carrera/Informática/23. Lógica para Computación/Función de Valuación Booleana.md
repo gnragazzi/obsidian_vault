@@ -4,6 +4,6 @@ Sean $P$ y $Q$ [[Fórmula Lógica|fórmulas]] arbitrarias, decimos que una ***va
 - V3. $v(P ∧ Q) = v(P ) ∧ v(Q)$
 - V4. $v(P → Q) = v(P ) → v(Q)$
 ***
-[[Extensión de la Función de Valuación - Teorema 1]] 
+[[Teorema 2.1 - Extensión de la Función de Valuación]] 
 [[Tautología, Contradicción y Contingencia]] 
 [[Teorema 2 - Procedimiento para Evaluar una Fórmula]]
