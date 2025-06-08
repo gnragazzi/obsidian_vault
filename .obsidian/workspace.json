@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medidas para Evaluar Hipótesis.md",
+                "file": "Gramáticas Libres del Contexto - GLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medidas para Evaluar Hipótesis"
+              "title": "Gramáticas Libres del Contexto - GLC"
             },
             "group": "29de7ae4cb277447"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Medidas para Evaluar Hipótesis.md",
+                "file": "Gramáticas Libres del Contexto - GLC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Medidas para Evaluar Hipótesis"
+              "title": "Gráfico de Gramáticas Libres del Contexto - GLC"
             },
             "group": "29de7ae4cb277447"
           }
@@ -214,8 +214,9 @@
   },
   "active": "8492c11b1d5a193a",
   "lastOpenFiles": [
-    "Aprendizaje de un Clasificador-Hipótesis.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
     "Medidas para Evaluar Hipótesis.md",
+    "Aprendizaje de un Clasificador-Hipótesis.md",
     "Otros/MathJax Reference.md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
