@@ -1,3 +1,3 @@
-Métodos para resolver si una [[Fórmula Lógica|fórmula]] o conjunto de fórmulas es o no [[Satisfacible]] que no tiene en cuenta los [[Semántica de la Lógica Proposicional|valores de verdad]] de las fórmulas, como si lo tiene las [[Tabla de Verdad de la Fórmula|tablas de verdad]], sino que se búscan la [[Lema 1 - Reglas|regla]] que se corresponda a la fórmula.
+Métodos para resolver si una [[Fórmula Lógica|fórmula]] o conjunto de fórmulas es o no [[Satisfacible]] que no tiene en cuenta los [[Semántica de la Lógica Proposicional|valores de verdad]] de las fórmulas, como si lo tiene las [[Tabla de Verdad de la Fórmula|tablas de verdad]], sino que se búscan la [[Lema 3.1 - Reglas|regla]] que se corresponda a la fórmula.
 ***
 El [[Árbol de Refutación]] es el método Sintáctico que trabajamos en la U3 de [[Lógica Para Computación]].

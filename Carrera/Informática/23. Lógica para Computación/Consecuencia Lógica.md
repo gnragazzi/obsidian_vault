@@ -7,8 +7,8 @@ Indicaremos con $Con(S)$ al conjunto de las consecuencias de $S$:$$Con(S)=\{P\in
 La [[Relación Binaria|relación]] de consecuencia es [[Transitividad|transitiva]].
 ***
 Observaciones:
-- $Con(\emptyset)$ es el conjunto de todas las tautologías.   ^ea4f74
+	- $Con(\emptyset)$ es el conjunto de todas las tautologías.   ^ea4f74
 - a) Si $S=\emptyset$, entonces $P\in Con(S)$ si y solo si la fórmula $\neg P$ tiene un [[Árbol de Refutación]] [[Árbol de Refutación Cerrado - Abierto|cerrado]].
 - b) Si $S=\{Q_1,...,Q_n\}$ entonces $P \in Con(S)$ si y sólo si la fórmula $(Q_1\land ...\land Q_n\land \neg P)$ tiene un árbol de refutación cerrado
 ***
-[[Teorema 1 - de la deducción]] 
+[[Teorema 3.1 - de la deducción ( forma Semántica)]] 

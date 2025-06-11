@@ -13,16 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gramáticas Libres del Contexto - GLC.md",
+                "file": "Teorema 3.4 (de la compacidad).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema 3.4 (de la compacidad)"
+            },
+            "group": "29de7ae4cb277447"
+          },
+          {
+            "id": "10e6dfcc7cbdfecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Otros/MathJax Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gramáticas Libres del Contexto - GLC"
-            },
-            "group": "29de7ae4cb277447"
+              "title": "MathJax Reference"
+            }
+          },
+          {
+            "id": "7a8b1bd81ccd92d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teorema 3.1 - de la deducción ( forma Semántica).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema 3.1 - de la deducción ( forma Semántica)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "27be6ef2cef699b5",
@@ -34,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gramáticas Libres del Contexto - GLC.md",
+                "file": "Teorema 3.4 (de la compacidad).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +91,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gramáticas Libres del Contexto - GLC"
+              "title": "Gráfico de Teorema 3.4 (de la compacidad)"
             },
             "group": "29de7ae4cb277447"
           }
@@ -98,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "^ea4f74",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,46 +241,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8492c11b1d5a193a",
+  "active": "7a8b1bd81ccd92d5",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Medidas para Evaluar Hipótesis.md",
-    "Aprendizaje de un Clasificador-Hipótesis.md",
+    "Teorema 3.4 (de la compacidad).md",
+    "Teorema 3.1 - de la deducción ( forma Semántica).md",
     "Otros/MathJax Reference.md",
+    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
+    "Carrera/Informática/23. Lógica para Computación/Deducible - Fórmula.md",
+    "Valuación que Satisface a una Fórmula.md",
+    "Tautología, Contradicción y Contingencia.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3.4.4.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3.4.5.md",
+    "Carrera/Informática/23. Lógica para Computación/Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3.3.2.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3.3.2 - Teorema 3.md",
+    "Teorema 3.3.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 3.4 - de los Árboles de Refutación completos.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 3 - De las propiedades de la longitud modificada.md",
+    "Carrera/Informática/23. Lógica para Computación/Longitud Modificada de una Fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunto de fórmulas saturado.md",
+    "Carrera/Informática/23. Lógica para Computación/Árbol de Refutación.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 3.1 - Reglas.md",
+    "Teorema 3.2.md",
+    "Satisfacible.md",
+    "Carrera/Informática/23. Lógica para Computación/Corolario 3.1.1 del Teorema de la Deducción.md",
+    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
+    "Corolario 1 - Teorema de la deducción.md",
+    "Carrera/Informática/23. Lógica para Computación/Argumento Válido.md",
+    "Gramáticas Libres del Contexto - GLC.md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",
     "Pasted image 20250607134043.png",
     "Pasted image 20250607133247.png",
     "Pasted image 20250607132515.png",
-    "Aprendizaje Supervisado - AA.md",
-    "Aproximación de una Función.md",
     "Pasted image 20250607132406.png",
-    "Flujo del Aprendizaje Automático.md",
     "Pasted image 20250607132043.png",
     "Pasted image 20250607131943.png",
-    "Carrera/Informática/21. IA/Aprendizaje Automático.md",
-    "Knowledge Discovery in Databases - MD.md",
-    "Preparación de los datos - Fases de KDD.md",
-    "Vista Minable.md",
-    "Evaluación/Interpretación/Visualización - Fases de KDD.md",
-    "Selección Limpieza y Transformación de los datos - Fase de Preparación de los datos - KDD.md",
-    "Minería de Datos - Fases de KDD.md",
     "Pasted image 20250607125832.png",
     "Evaluación/Interpretación",
     "Evaluación",
-    "Minería de Datos.md",
-    "Recopilación e Integración de los Datos - Subfase de la preparación de los datos KDD.md",
-    "Diferencia entre MD y AA.md",
-    "Tareas de la MD.md",
-    "Agrupamiento (clustering).md",
-    "Tareas Descriptivas de la MD.md",
-    "Tareas Predictivas de la MD.md",
-    "Carrera/Informática/23. Lógica para Computación/Función Booleana de n Variables.md",
-    "Regresión.md",
-    "Aprendizaje de Conceptos.md",
-    "Clasificación.md",
-    "Categorización.md",
     "Diferencia Observer - Pub"
   ]
 }
