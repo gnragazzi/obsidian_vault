@@ -8,4 +8,4 @@ Para toda [[Fórmula Lógica|fórmula]] $P$ se tiene que:
 ***
 ***Demostración:***
 La parte (i) del enunciado es obvia ya que las variables proposicionales no incluyen conectivos. 
-La parte (ii) es una consecuencia inmediata de la definición de [fórmula] y del [[Teorema 2 - Unicidad de la Lectura de las Fórmulas]].
+La parte (ii) es una consecuencia inmediata de la definición de [fórmula] y del [[Teorema 1.2 - Unicidad de la Lectura de las Fórmulas]].

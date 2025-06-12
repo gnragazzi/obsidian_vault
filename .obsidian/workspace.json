@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Teorema 3.4 (de la compacidad).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema 3.1 - de la deducción ( forma Semántica).md",
-                "mode": "source",
+                "file": "Carrera/Informática/23. Lógica para Computación/Teorema 1.2 - Unicidad de la Lectura de las Fórmulas.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema 3.1 - de la deducción ( forma Semántica)"
+              "title": "Teorema 1.2 - Unicidad de la Lectura de las Fórmulas"
             }
           }
         ],
@@ -243,8 +243,9 @@
   },
   "active": "7a8b1bd81ccd92d5",
   "lastOpenFiles": [
-    "Teorema 3.4 (de la compacidad).md",
     "Teorema 3.1 - de la deducción ( forma Semántica).md",
+    "Teorema 3.4 (de la compacidad).md",
+    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
     "Otros/MathJax Reference.md",
     "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
     "Carrera/Informática/23. Lógica para Computación/Deducible - Fórmula.md",
@@ -268,7 +269,6 @@
     "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
     "Corolario 1 - Teorema de la deducción.md",
     "Carrera/Informática/23. Lógica para Computación/Argumento Válido.md",
-    "Gramáticas Libres del Contexto - GLC.md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",

@@ -1,4 +1,4 @@
-Sean $P , Q, R,S$ [[Fórmula Lógica|fórmulas]], y supongamos que $∗,◦$ representan a alguno de los conectivos $∨, ∧ o →$.  $$(P ∗ Q) = (R ◦ S) → P = R ∧Q = S ∧ ∗ = ◦.$$
+Sean $P , Q, R,S$ [[Fórmula Lógica|fórmulas]], y supongamos que $∗,◦$ representan a alguno de los conectivos $∨, ∧ o →$.  $$(P ∗ Q) = (R ◦ S)$$$$ →$$$$ P = R ∧Q = S ∧ ∗ = ◦.$$
 ***
 Demostración
 Lo haremos por el [[Demostración por Absurdo|absurdo]], 
