@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a8b1bd81ccd92d5",
+            "id": "dc829e09d56402c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
-                "mode": "source",
+                "file": "Propiedades de un Sistema Formal.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema Optimalidad de Búsqueda A*"
+              "title": "Propiedades de un Sistema Formal"
             },
-            "group": "54f3d5440911dc55"
+            "group": "236887599f71ba6e"
           }
         ]
       },
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
+                "file": "Propiedades de un Sistema Formal.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Teorema Optimalidad de Búsqueda A*"
+              "title": "Gráfico de Propiedades de un Sistema Formal"
             },
-            "group": "54f3d5440911dc55"
+            "group": "236887599f71ba6e"
           }
         ]
       }
@@ -212,34 +212,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7a8b1bd81ccd92d5",
+  "active": "dc829e09d56402c6",
   "lastOpenFiles": [
-    "Carrera/Informática/21. IA/Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
-    "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
-    "Carrera/Informática/21. IA/Búsqueda Primero el Mejor.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
-    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
-    "Carrera/Informática/21. IA/Búsqueda con Profundidad Iterativa.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero en Profundidad.md",
-    "Carrera/Informática/21. IA/Búsqueda en Profundidad Limitada.md",
-    "Carrera/Informática/21. IA/Búsqueda Costo Uniforme.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero en Anchura.md",
-    "Carrera/Informática/21. IA/Búsqueda IA.md",
-    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
-    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
-    "Agentes Basados en Utilidad.md",
-    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
-    "Carrera/Informática/21. IA/Agentes Basados en Utilidades.md",
-    "Carrera/Informática/21. IA/Agentes de Aprendizaje.md",
-    "Utilidad - IA.md",
-    "Carrera/Informática/21. IA/Modelo de Transcisión de los Agentes de Aprendizaje.md",
-    "Carrera/Informática/21. IA/Agentes Reflejos Basados en Modelos.md",
-    "Carrera/Informática/21. IA/ARS - Agentes Reactivos Simples.md",
-    "Carrera/Informática/21. IA/Agente Racional.md",
-    "Carrera/Informática/21. IA/Percepción y Comportamiento de un Agente.md",
+    "Teorema 2 - ÁdR LPO.md",
+    "Corolario 3 - Teorema 2 (ÁdR-LPO).md",
+    "Conjunto Saturado (Hintikka) - AdR - LPO.md",
+    "Fórmulas equivalentes para una σ-estructura.md",
+    "Consecuencia - LPO.md",
+    "Fórmula - LPO.md",
+    "Definición Recursiva de Asignación de Valor de Verdad - LPO.md",
+    "Función de Asignación de valor de Verdad - LPO.md",
+    "Extensión del Lenguaje Original - LPO.md",
+    "Interpretación - LPO.md",
+    "Alternativa a la función de asignación de valores.md",
+    "σ-Estructura como Tupla.md",
+    "Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura.md",
+    "Interpretación - Definición Tupla.md",
+    "Sistema Formal Correcto.md",
+    "Sistema Formal - Definición.md",
+    "Completitud (Semántica) - Sistemas Formales.md",
+    "Propiedades de un Sistema Formal.md",
+    "Completitud (Sintáctica) - Sistemas Formales.md",
+    "Proposición 3 - Consistencia de L.md",
+    "Consistente.md",
+    "Proposición 2 - Sobre la decibilidad de L.md",
+    "Decidible.md",
+    "Sistema Formal L.md",
+    "Valoración de un Sistema Formal.md",
+    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",
