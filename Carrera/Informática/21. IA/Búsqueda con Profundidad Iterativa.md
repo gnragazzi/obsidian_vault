@@ -1,4 +1,4 @@
-- Es búsqueda en profundidad limitada, aplicada iterativamente
+- Es [[Búsqueda Primero en Profundidad|búsqueda en profundidad]] limitada, aplicada iterativamente
 - Es decir, primero prueba con $L=0$, si no encuentra solución, prueba con $L=1$, si no encuentra solución, con $L=2$, y así sucesivamente.
 ***
 Evaluación

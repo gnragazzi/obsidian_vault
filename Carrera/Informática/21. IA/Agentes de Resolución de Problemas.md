@@ -3,7 +3,7 @@ También llamados Agentes Basados en Objetivos de [[Búsqueda IA|Búsqueda]].
 - Cómo realizar la transición del estado inicial al estado objetivo es el [[Problema - Agentes de Resolución de Problemas|problema]].
 - Utilizan este objetivo como norte para establecer una secuencia de acciones ([[Solución - Agentes de Resolución de problemas|solución]])
 - Consideran acciones futuras y sus consecuencias (deseabilidad de sus resultados).
-- Tienen una métrica de pérformance, por lo que son [[Agente Inteligente]] #Dudas (por qué no son agentes racionales? existe una diferencia entre agente inteligente y agente racional o soy yo el que está estableciendo esa diferencia).
+- Tienen una métrica de pérformance, por lo que son [[Agente Racional|agentes racionales]]
 - Se diseñan pensando en una secuencia de
 	- formular (el problema, el algoritmo)
 	- buscar (la mejor solución)

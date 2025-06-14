@@ -10,6 +10,7 @@ Evaluación
 - Espacio
 	- Árbol: $O(bm)$ es decir, es lineal en espacio (solo se necesita almacenar un único paso desde la raiz al nodo hoja). 
 	- Para el caso de grafo, igual que tiempo y que bpa. 
+- Óptima
 	- No
 ***
 ![[Pasted image 20250329165816.png]]

@@ -10,5 +10,6 @@ Conceptualmente está compuesto por:
 	- Sugiere al elemento de aprendizaje acciones nuevas que llevan a experiencias nuevas y aprendizaje
 ***
 [[Modelo de Transcisión de los Agentes de Aprendizaje]] 
+[[Aprendizaje Automático]]
 ***
 ![[Pasted image 20250324165613.png]]

@@ -8,78 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8492c11b1d5a193a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema 3.4 (de la compacidad).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorema 3.4 (de la compacidad)"
-            },
-            "group": "29de7ae4cb277447"
-          },
-          {
-            "id": "10e6dfcc7cbdfecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/MathJax Reference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MathJax Reference"
-            }
-          },
-          {
             "id": "7a8b1bd81ccd92d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enfoques para encontrar una solución a un MDP.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enfoques para encontrar una solución a un MDP"
-            }
-          },
-          {
-            "id": "099438e013feb0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propiedad de Markov.md",
+                "file": "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedad de Markov"
-            }
-          },
-          {
-            "id": "ab5256dac8f601ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propiedad de Markov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Propiedad de Markov"
-            }
+              "title": "Teorema Optimalidad de Búsqueda A*"
+            },
+            "group": "54f3d5440911dc55"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "27be6ef2cef699b5",
@@ -91,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teorema 3.4 (de la compacidad).md",
+                "file": "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,9 +62,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Teorema 3.4 (de la compacidad)"
+              "title": "Gráfico de Teorema Optimalidad de Búsqueda A*"
             },
-            "group": "29de7ae4cb277447"
+            "group": "54f3d5440911dc55"
           }
         ]
       }
@@ -155,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "^ea4f74",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,32 +214,32 @@
   },
   "active": "7a8b1bd81ccd92d5",
   "lastOpenFiles": [
-    "Proceso de Decisión de Markov.md",
-    "Retorno esperado en un MDP.md",
-    "Propiedad de Markov.md",
-    "Función de Utilidad.md",
-    "Problemas de Decisión Secuencial.md",
+    "Carrera/Informática/21. IA/Búsqueda A*.md",
+    "Carrera/Informática/21. IA/Teorema Optimalidad de Búsqueda A*.md",
+    "Carrera/Informática/21. IA/Búsqueda PM Voraz (greedy).md",
+    "Carrera/Informática/21. IA/Búsqueda Primero el Mejor.md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda.md",
+    "Carrera/Informática/21. IA/Estrategias de Búsqueda no Informadas.md",
+    "Carrera/Informática/21. IA/Búsqueda con Profundidad Iterativa.md",
+    "Carrera/Informática/21. IA/Búsqueda Primero en Profundidad.md",
+    "Carrera/Informática/21. IA/Búsqueda en Profundidad Limitada.md",
+    "Carrera/Informática/21. IA/Búsqueda Costo Uniforme.md",
+    "Carrera/Informática/21. IA/Búsqueda Primero en Anchura.md",
+    "Carrera/Informática/21. IA/Búsqueda IA.md",
+    "Carrera/Informática/21. IA/Algoritmo de Búsqueda - IA.md",
+    "Carrera/Informática/21. IA/Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Problema - Agentes de Resolución de Problemas.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Objetivos.md",
     "Agentes Basados en Utilidad.md",
-    "Conceptos Probabilisticos ligados a IA.md",
-    "Regla de Bayes.md",
-    "Carrera/Matemáticas/Probabilidad y Estadística/Intersección de dos Eventos - Regla del Producto.md",
-    "Carrera/Informática/23. Lógica para Computación/Teorema 1.2 - Unicidad de la Lectura de las Fórmulas.md",
-    "Teorema 3.1 - de la deducción ( forma Semántica).md",
-    "Teorema 3.4 (de la compacidad).md",
-    "Carrera/Informática/23. Lógica para Computación/Fórmula Lógica.md",
-    "Otros/MathJax Reference.md",
-    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
-    "Carrera/Informática/23. Lógica para Computación/Deducible - Fórmula.md",
-    "Valuación que Satisface a una Fórmula.md",
-    "Tautología, Contradicción y Contingencia.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 3.4.4.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 3.4.5.md",
-    "Carrera/Informática/23. Lógica para Computación/Deducción de una Fórmula a partir de un conjunto de fórmulas.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 3.3.2.md",
-    "Carrera/Informática/23. Lógica para Computación/Corolario 3.3.2 - Teorema 3.md",
-    "Teorema 3.3.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 3.4 - de los Árboles de Refutación completos.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 3 - De las propiedades de la longitud modificada.md",
+    "Carrera/Informática/21. IA/Clases Generales de Programas de Agentes.md",
+    "Carrera/Informática/21. IA/Agentes Basados en Utilidades.md",
+    "Carrera/Informática/21. IA/Agentes de Aprendizaje.md",
+    "Utilidad - IA.md",
+    "Carrera/Informática/21. IA/Modelo de Transcisión de los Agentes de Aprendizaje.md",
+    "Carrera/Informática/21. IA/Agentes Reflejos Basados en Modelos.md",
+    "Carrera/Informática/21. IA/ARS - Agentes Reactivos Simples.md",
+    "Carrera/Informática/21. IA/Agente Racional.md",
+    "Carrera/Informática/21. IA/Percepción y Comportamiento de un Agente.md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",

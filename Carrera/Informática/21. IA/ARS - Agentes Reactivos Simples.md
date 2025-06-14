@@ -1,5 +1,5 @@
 También llamados *Agentes Reactivos Puros* o *Agentes Tropísticos*.
-No existe un estado, por lo cual toman una decisión basada en la percepción actual.
+No existe una representación interna de estado, por lo cual toman una decisión basada en la percepción actual.
 Qué decisión tomar se basa en un conjunto de *Reglas Decisión-Acción*
 ***
 Su comportamiento es dirigido por el principio de *estímulo-respuesta* característico de los reflejos de humanos, animales y plantas.

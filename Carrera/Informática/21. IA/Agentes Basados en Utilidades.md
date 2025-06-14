@@ -1,9 +1,0 @@
-- Permiten realizar una distinción más fina entre estados que un [[Agentes Basados en Objetivos|ABO]].
-- Cuentan con una [Función de Utilidad] $$U:S→ℝ$$que captura las preferencias del agente por los estados del mundo. 
-- La utilidad de un estado cuantifica el grado de deseabilidad de estar en el mismo.
-- Sigue principios de [[Teoría de Decisión]] para balancear los posibles resultados con la probabilidad de que ocurran.
-- Según el prinicipio de Utilidad Esperada Máxima (UEM) indica que un agente debería seleccionar aquella acción que maximiza su utilidad esperada
-	- ![[Pasted image 20250324164925.png]]
-- Un ABU es más adecuado que un ABO cuando:
-	- Hay que equilibrar objetivos conflictivos
-	- Es necesario ponderar la importancia y probabilidad de suceso de  varios objetivos sobre los que no hay certeza de que puedan ser alcanzados
