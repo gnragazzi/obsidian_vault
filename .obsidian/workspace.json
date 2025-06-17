@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades de un Sistema Formal.md",
+                "file": "Sistema Formal Correcto.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades de un Sistema Formal"
+              "title": "Sistema Formal Correcto"
             },
             "group": "236887599f71ba6e"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades de un Sistema Formal.md",
+                "file": "Sistema Formal Correcto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades de un Sistema Formal"
+              "title": "Gráfico de Sistema Formal Correcto"
             },
             "group": "236887599f71ba6e"
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rama abierta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,32 +214,32 @@
   },
   "active": "dc829e09d56402c6",
   "lastOpenFiles": [
+    "Carrera/Informática/21. IA/Consistencia.md",
+    "Carrera/Informática/21. IA/Función Heurística - h(n).md",
+    "Deducción - Sistemas Formales.md",
+    "Derivable.md",
+    "Consistente.md",
+    "Carrera/Informática/23. Lógica para Computación/Árbol de Refutación Cerrado - Abierto.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 5 - Sobre fórmulas satisfacibles y árboles de refutación.md",
+    "Árbol de Refutación Cerrado-Abierto - LPO.md",
+    "Carrera/Informática/23. Lógica para Computación/Argumentos.md",
+    "Carrera/Informática/23. Lógica para Computación/Lema 3.1 - Reglas.md",
+    "Carrera/Informática/23. Lógica para Computación/Conjunto de fórmulas saturado.md",
+    "Carrera/Informática/23. Lógica para Computación/Consecuencia Lógica.md",
+    "Valuación que Satisface a una Fórmula.md",
+    "Carrera/Informática/23. Lógica para Computación/Argumento Válido.md",
+    "Consecuencia - LPO.md",
+    "Carrera/Informática/23. Lógica para Computación/Función de Valuación Booleana.md",
+    "Satisfacible.md",
+    "Carrera/Informática/23. Lógica para Computación/Variables Proposicionales.md",
+    "Tabla de Verdad de la Fórmula.md",
+    "BNFE.md",
+    "Gramáticas Libres del Contexto - GLC.md",
+    "Propiedades de un Sistema Formal.md",
     "Teorema 2 - ÁdR LPO.md",
     "Corolario 3 - Teorema 2 (ÁdR-LPO).md",
     "Conjunto Saturado (Hintikka) - AdR - LPO.md",
     "Fórmulas equivalentes para una σ-estructura.md",
-    "Consecuencia - LPO.md",
-    "Fórmula - LPO.md",
-    "Definición Recursiva de Asignación de Valor de Verdad - LPO.md",
-    "Función de Asignación de valor de Verdad - LPO.md",
-    "Extensión del Lenguaje Original - LPO.md",
-    "Interpretación - LPO.md",
-    "Alternativa a la función de asignación de valores.md",
-    "σ-Estructura como Tupla.md",
-    "Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura.md",
-    "Interpretación - Definición Tupla.md",
-    "Sistema Formal Correcto.md",
-    "Sistema Formal - Definición.md",
-    "Completitud (Semántica) - Sistemas Formales.md",
-    "Propiedades de un Sistema Formal.md",
-    "Completitud (Sintáctica) - Sistemas Formales.md",
-    "Proposición 3 - Consistencia de L.md",
-    "Consistente.md",
-    "Proposición 2 - Sobre la decibilidad de L.md",
-    "Decidible.md",
-    "Sistema Formal L.md",
-    "Valoración de un Sistema Formal.md",
-    "Teorema 1 (Teorema de la Deducción) (forma sintáctica).md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",
