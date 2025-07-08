@@ -9,11 +9,8 @@ x^n=\left\{
 xx^{n-1}\ \ \ \ \text{ si }n≥1}
 \right.
 $$
-
-
-
-
-
-
 ***
 $^{(1)}$ [[Lenguaje Referencial]] 
+***
+### Etiquetas
+- #v2
