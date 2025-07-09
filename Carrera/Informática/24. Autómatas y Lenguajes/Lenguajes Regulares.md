@@ -1,6 +1,9 @@
 Son los lenguajes de tipo 3 según la [[Jerarquía de Chomsky]].
 ***
-Pueden ser descriptos por [[Expresiones Regulares - Lenguajes]] 
+- # ¿Cómo pueden ser descriptos?
+	- Pueden ser descriptos por [[Expresiones Regulares - Lenguajes]] 
 ***
-[[Propiedades de los Lenguajes Regulares]] 
-[[Lema de Pumping para Lenguajes Regulares (Teorema)]] 
+- # [[Propiedades de los Lenguajes Regulares]] 
+***
+# Etiquetas
+- #v2 
