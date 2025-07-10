@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 2 - Equivalencia AFD - AFND.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lenguajes Regulares"
+              "title": "Teorema 2 - Equivalencia AFD - AFND"
             },
             "group": "54406730e4ea84d9"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 2 - Equivalencia AFD - AFND.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Lenguajes Regulares"
+              "title": "Gráfico de Teorema 2 - Equivalencia AFD - AFND"
             },
             "group": "54406730e4ea84d9"
           }
@@ -221,8 +221,25 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
-    "Propiedades de los Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Construcción de la Máquina de Subconjuntos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 1 - Equivalencia AFD - AFND.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Teorema 2 - Equivalencia AFD - AFND.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND.md",
+    "Carrera/Matemáticas/Discretas/Conjunto de Partes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Minimización de un AFD.md",
+    "Carrera/Informática/21. IA/Algoritmo de Tabla Completa.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Configuraciones de un AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura ε.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Lenguajes Regulares.md",
+    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
+    "Propiedades de los Lenguajes Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Expresiones Regulares - Lenguajes.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Función de Valuación.md",
@@ -230,23 +247,6 @@
     "Carrera/Informática/24. Autómatas y Lenguajes/Ejemplo de Expresiones Regulares.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Reverse de Cadena.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
-    "Carrera/Informática/23. Lógica para Computación/Concatenación de Cadenas.md",
-    "Carrera/Informática/23. Lógica para Computación/Longitud de Cadena.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
-    "Carrera/Informática/23. Lógica para Computación/Lema 1.md",
-    "Carrera/Informática/23. Lógica para Computación/Peso de una Cadena.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Clasificación.md",
-    "Categorización.md",
-    "Enunciado - LPO.md",
-    "Fórmula válida o verdadera - LPO.md",
-    "Función de Asignación - Valuación.md",
-    "Estructura Relacional determinada por una Interpretación - estructura adecuada - σ-estructura.md",
-    "Fórmula Universalmente Válida.md",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",
