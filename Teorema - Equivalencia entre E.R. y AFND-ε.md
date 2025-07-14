@@ -9,3 +9,5 @@ Dicho autómata finito es un [[AFND-ε]] y la demostración del teorema nos dar�
 ![[Pasted image 20250404083443.png]]
 ***
 [[Teorema - Equivalencia entre AFD y E.R.]] 
+### Etiquetas
+#v2 

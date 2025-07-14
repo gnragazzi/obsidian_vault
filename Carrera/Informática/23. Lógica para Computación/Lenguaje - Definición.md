@@ -6,3 +6,6 @@ Los elementos de un lenguaje L son llamados ***palabras o [[Cadena - Lenguajes|c
 ***
 [[Longitud de Cadena]]. 
 [[Concatenación de Cadenas]]
+### Etiquetas
+
+#v2 

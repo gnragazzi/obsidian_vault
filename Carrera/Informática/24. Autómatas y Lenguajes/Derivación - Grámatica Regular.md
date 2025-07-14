@@ -3,3 +3,4 @@ Se dice que $α$ ***deriva en un paso*** de $β$ y se denota $α⇒_{G}β$  si y
 ***
 [[Clausura Reflexo Transitiva de la Derivación - Gramática Regular]]
 
+#v2 

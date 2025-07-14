@@ -1,3 +1,5 @@
+### Procedimiento en formato Algoritmo
+
 Se puede resumir el proceso en los siguientes pasos:
 1. Determinar el estado inicial de $q_D$ haciendo la clausura de $q_0$.
 2. $S←q_D$ 
@@ -13,6 +15,11 @@ Se puede resumir el proceso en los siguientes pasos:
 	3. $S←R.pop()$
 Al finalizar, $P=Q_D$.
 ***
+### Ejemplo
+
 ![[Pasted image 20250404082742.png]]
 ![[Pasted image 20250404082754.png]]
 ![[Pasted image 20250404082805.png]]
+***
+### Etiquetas
+#v2 

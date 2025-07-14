@@ -4,3 +4,4 @@ A esto se llega a partir de [[Teorema - Equivalencia entre E.R. y AFND-ε]] y se
 ![[Pasted image 20250404084253.png]]
 ***
 Queda como ejercicio demostrar esto #Dudas 
+#v2 

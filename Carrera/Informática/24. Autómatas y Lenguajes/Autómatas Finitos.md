@@ -11,3 +11,4 @@ A partir de cualquier AFND se puede construir un AFD equivalente. La forma de ha
 ***
 ![[Pasted image 20250405134645.png]]
 Preguntas #Dudas 
+#v2 

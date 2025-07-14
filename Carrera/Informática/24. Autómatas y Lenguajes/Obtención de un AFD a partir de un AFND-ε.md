@@ -1,4 +1,6 @@
 
+### Definición Formal
+
 Sea $E=(Q_E,Σ,δ_E,q_0,F_E)$ un [[AFND-ε]]. Entonces, el [[Autómata Finito Determinístico]] equivalente es$$D=(Q_D,Σ,δ_D,q_D,F_D)$$definido como:
 1. $Q_D$ es el [[Conjunto de Partes]] de $Q_E$.
 	- Se encuentra que todos los estados accesibles de $D$ son conjuntos ε-clausurados de $Q_E$, esto significa conjuntos $S⊆Q_E$ tal que $S=\text{clausura-}ε(S)$.
@@ -11,3 +13,8 @@ Sea $E=(Q_E,Σ,δ_E,q_0,F_E)$ un [[AFND-ε]]. Entonces, el [[Autómata Finito De
 ***
 [[Ejemplo de Transformación de un AFND-ε a AFD]] 
 [[Teorema 2.22 - Sobre la equivalencia de AFD y AFND-ε]] 
+
+***
+### Etiquetas
+
+#v2 
