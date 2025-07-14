@@ -1,6 +1,5 @@
-Sea  $G=(V,Σ,R,S)$ una [[Gramática Regular]].
-Se dice que $α$ ***deriva en un paso*** de $β$ y se denota $α⇒_{G}β$  si y sólo si existen cadenas $x,y∈V^*$, tales que $α=xuy,β=xvy$, y existe una [[Reglas Gramaticales|regla]] $u→v∈R$ 
+Sea  $G=(N,Σ,R,S)$ una [[Gramática Regular]]; y sean $\alpha, \beta, \delta, \gamma \in (Σ \cup N)^*$. 
+Definimos la relación deriva sobre $(Σ\cup N)^*$ como sigue: $$\delta\alpha\gamma \Rightarrow \delta\beta\gamma \Leftrightarrow \exists \alpha \rightarrow \beta \in P$$
 ***
 [[Clausura Reflexo Transitiva de la Derivación - Gramática Regular]]
-
 #v2 
