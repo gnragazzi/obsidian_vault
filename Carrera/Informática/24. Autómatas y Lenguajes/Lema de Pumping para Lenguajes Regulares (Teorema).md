@@ -9,3 +9,4 @@ Sea $L$ un [[Lenguajes Regulares|lenguaje regular]]. Entonces existe una constan
 ![[Pasted image 20250409184906.png]]
 ![[Pasted image 20250409184914.png]]
 ***
+#v2 

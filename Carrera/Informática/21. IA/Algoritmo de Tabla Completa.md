@@ -10,3 +10,4 @@ Ejecución![[Pasted image 20250407202442.png]]
 
 ***
 [[Testeo de Estados Equivalentes]] 
+#v2 

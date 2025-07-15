@@ -6,3 +6,4 @@ Dado un AFD $M=(Q,Σ,δ,q_0,F)$:
 3. Particionar Q en [[Construir bloques de estados|bloques de estados mutuamente equivalente]] 
 4. [[Construir el AFD mínimo equivalente]] $N$, usando los bloques como sus estados.
 ***
+#v2 
