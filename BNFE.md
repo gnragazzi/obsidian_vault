@@ -8,3 +8,6 @@ Versión extendida de [[BNF]] para facilitar la escritura y lectura
 - Una secuencia arbitraria se encierra entre { }.  
     Ejemplo:  
     `<lista-ident> ::= <identificador> {, <identificador>}`
+
+***
+#v2 

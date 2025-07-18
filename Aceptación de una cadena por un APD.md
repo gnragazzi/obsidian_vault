@@ -5,3 +5,5 @@ Una cadena es aceptada por un [[Autómatas Push-Down - APD|APD]] si existe una c
 ***
 [[Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final]] 
 [[Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía]] 
+***
+#v2 

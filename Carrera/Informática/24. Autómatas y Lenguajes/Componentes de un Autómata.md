@@ -4,3 +4,4 @@ Unidad de Control: Es un conjunto finito de posibles estados de la máquina, qu
 Memoria Auxiliar: Permite extender la capacidad de cierto tipo de máquinas.  
 ***  
 ![[Pasted image 20250323110918.png]]
+#v2 

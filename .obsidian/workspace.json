@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uso Práctico del Lema de Pumping.md",
+                "file": "Función de Transición Extendida - APD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso Práctico del Lema de Pumping"
+              "title": "Función de Transición Extendida - APD"
             },
             "group": "54406730e4ea84d9"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uso Práctico del Lema de Pumping.md",
+                "file": "Función de Transición Extendida - APD.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,12 +65,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147813,
+                  "scale": 0.6906395020147819,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Uso Práctico del Lema de Pumping"
+              "title": "Gráfico de Función de Transición Extendida - APD"
             },
             "group": "54406730e4ea84d9"
           }
@@ -221,33 +221,33 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Minimización de un AFD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Construir el AFD mínimo equivalente.md",
-    "Carrera/Informática/21. IA/Algoritmo de Tabla Completa.md",
-    "Testeo de Estados Equivalentes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Construir bloques de estados.md",
-    "Teoremas sobre la equivalencia.md",
-    "Pasted image 20250714214155.png",
-    "Carrera/Matemáticas/Discretas/Relación de Equivalencia.md",
-    "Carrera/Matemáticas/Discretas/Partición de un Conjunto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Eliminar todos los estados que no pueden ser alcanzados desde el estado inicial.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Derivación - Grámatica Regular.md",
-    "Otros/MathJax Reference.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Cadenas.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Analizador Lexicográfico.md",
-    "Carrera/Informática/23. Lógica para Computación/Lenguaje - Definición.md",
-    "Parsing Top-Down.md",
-    "Gramáticas Libres del Contexto - GLC.md",
+    "Parsing Bottom-up.md",
+    "Ejemplo Parsing Bottom-Up.md",
+    "Pasted image 20250517171503.png",
+    "Técnica Bottom-Up.md",
+    "Definción Formal Parsing Bottom-Up.md",
     "Análisis Sintáctico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Patrón - Análisis Lexicográfico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
-    "Reglas Gramaticales.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
+    "Parsing Top-Down.md",
+    "Ejemplo Parsing Top-Down.md",
+    "Técnica Top-Down.md",
+    "Definición Formal Parsing Top-Down.md",
+    "Carrera/Informática/21. IA/Búsqueda Primero en Profundidad.md",
+    "Autómatas Push-Down - APD.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Componentes de un Autómata.md",
+    "Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía.md",
+    "Ejemplo de Transformación Teorema 3 - APD.md",
+    "Transformación de APD-N → APD-F.md",
+    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
+    "Lenguaje Aceptado por Pila Vacía.md",
+    "Configuración - APD.md",
+    "Lenguaje Aceptado por estado final.md",
+    "Aceptación de una cadena por un APD.md",
+    "Teorema 1 - APD.md",
+    "Movimientos de un APD.md",
+    "Determinismo - APD.md",
+    "Función de Transición - APD.md",
+    "Gramáticas Libres del Contexto - GLC.md",
+    "Pasted image 20250714214155.png",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
     "Pasted image 20250607134148.png",
@@ -256,7 +256,6 @@
     "Pasted image 20250607132515.png",
     "Pasted image 20250607132406.png",
     "Pasted image 20250607132043.png",
-    "Pasted image 20250607131943.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

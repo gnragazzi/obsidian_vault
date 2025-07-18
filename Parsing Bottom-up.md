@@ -4,3 +4,5 @@ Se parte de una [[Cadena - Lenguajes|cadena]] $w ∈ Σ*$ a reconocer, con el ob
 [[Definción Formal Parsing Bottom-Up]] 
 [[Técnica Bottom-Up]] 
 [[Ejemplo Parsing Bottom-Up]] 
+***
+#v2 

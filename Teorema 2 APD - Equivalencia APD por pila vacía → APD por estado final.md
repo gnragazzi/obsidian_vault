@@ -3,3 +3,4 @@ si $L = N(P_N)$ para algún APD $P_N = (Q, \Sigma, \Gamma, \delta_N, q_0, Z_0)$,
 [Demostración en diapo 37]
 ***
 [[Transformación de APD-N → APD-F]] 
+#v2 

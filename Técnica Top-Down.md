@@ -4,4 +4,6 @@
 * ![[Pasted image 20250517134325.png]]
 	* x es la parte *cerrada* (ya analizada)
 	* $A\beta$ es la parte abierta (sin expandir)
-	* 
+
+***
+#v2 

@@ -16,3 +16,5 @@ Características
 - [[Aceptación de una cadena por un APD]] 
 - [[Configuración - APD]] 
 - [[Teorema 1 - APD]] 
+***
+#v2 

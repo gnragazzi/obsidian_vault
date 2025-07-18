@@ -12,3 +12,4 @@ Interpretación de cada regla
 ***
 Dado que el tercer argumento de $\delta$ es una cadena de la pila y además estamos simulando una secuencia de derivaciones de más a la derecha, convendremos que el símbolo a la derecha de dicha cadena representa el tope de la pila. Una convención similar usaremos en las configuraciones.
 ***
+#v2 

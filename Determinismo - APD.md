@@ -5,3 +5,5 @@ Un [[Autómatas Push-Down - APD|APD]] será deterministico si su función de tra
 	- **La cardinalidad del conjunto de posibles acciones puede ser uno o cero.**
 ***
 La familia de [[Lenguaje - Definición|lenguajes]] reconocidos por APD-no determinísticos no es equivalente a la reconocida por APD-deterministicos. En particuar se cumple que:$$APD_{\text{deterministicos}}\subset APD_{\text{no-deterministicos}}$$
+***
+#v2 

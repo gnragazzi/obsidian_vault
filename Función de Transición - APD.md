@@ -6,3 +6,5 @@ Es decir que la función de transición recibe una triupla. Está definida de la
 - Si $\gamma=X$ la pila no se modifica
 - Si $\gamma=YZ$, $X$ es reemplazado por $Z$ e $Y$ es puesto en la pila.
 	- Creo que en este caso $Y\in\Gamma^*,Z\in\Gamma$  
+***
+#v2 
