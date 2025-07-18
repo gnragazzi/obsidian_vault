@@ -34,3 +34,4 @@ Precedencia
 ***
 ![[Pasted image 20250402143422.png]]
 ***
+#v2 

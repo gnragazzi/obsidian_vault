@@ -42,4 +42,4 @@ R_2\ \{acción_2\}\\
 		- `int yycolumn` 
 			- Variable que contiene el número de caracteres leídos desde comienzo del procesamiento de la línea actual.
 	
-	
+#v2 

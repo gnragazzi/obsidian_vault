@@ -5,3 +5,6 @@
 3. Ejecuta la acción $i$
 4. Si en la acción $i$ hay un retorno, retorna el control.
 	1. De otra manera, continua desde el paso 1.
+
+***
+#v2 

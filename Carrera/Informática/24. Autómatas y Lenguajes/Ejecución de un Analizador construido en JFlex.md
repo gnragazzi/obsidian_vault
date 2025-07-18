@@ -7,3 +7,5 @@
 4. Se transforma un txt de entrada en una secuencia de tokens, usando el archivo .`java` compilado en 3.
 ***
 ![[Pasted image 20250402125451.png]]
+
+#v2 

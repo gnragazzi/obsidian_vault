@@ -4,3 +4,5 @@ Son reducidos los errores que puede detectar un [[Analizador Lexicográfico]].
 3. Decimales que terminan en punto, etc
 ***
 Todo otro tipo de errores serán responsabilidad de otras fases del compilador.
+
+#v2 

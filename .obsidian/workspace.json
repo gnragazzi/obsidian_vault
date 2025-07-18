@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Función de Transición Extendida - APD.md",
+                "file": "Función de Transición - APD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Transición Extendida - APD"
+              "title": "Función de Transición - APD"
             },
             "group": "54406730e4ea84d9"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Función de Transición Extendida - APD.md",
+                "file": "Función de Transición - APD.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,12 +65,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147819,
+                  "scale": 0.4769829217432251,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Función de Transición Extendida - APD"
+              "title": "Gráfico de Función de Transición - APD"
             },
             "group": "54406730e4ea84d9"
           }
@@ -221,32 +221,34 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
+    "Movimientos de un APD.md",
+    "Función de Transición - APD.md",
+    "Definición Formal Parsing Top-Down.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Uso Práctico del Lema de Pumping.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Analizador Lexicográfico.md",
+    "Carrera/Informática/23. Lógica para Computación/Compilador.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Construcción de un JFlex.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Diseño e Implementación de Analizadores Lexicográficos.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Detección de Errores en el Análisis Lexicográfico.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/JFlex.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Ejecución de un Analizador construido en JFlex.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Metalenguaje de Expresiones Regulares para JFlex.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Especificación JFlex.md",
+    "Análisis Sintáctico.md",
+    "Pasted image 20250718082129.png",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lexema.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Patrón - Análisis Lexicográfico.md",
+    "Token.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
+    "Función de Transición Extendida - APD.md",
     "Parsing Bottom-up.md",
     "Ejemplo Parsing Bottom-Up.md",
     "Pasted image 20250517171503.png",
     "Técnica Bottom-Up.md",
     "Definción Formal Parsing Bottom-Up.md",
-    "Análisis Sintáctico.md",
-    "Parsing Top-Down.md",
-    "Ejemplo Parsing Top-Down.md",
-    "Técnica Top-Down.md",
-    "Definición Formal Parsing Top-Down.md",
-    "Carrera/Informática/21. IA/Búsqueda Primero en Profundidad.md",
-    "Autómatas Push-Down - APD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Componentes de un Autómata.md",
-    "Teorema 3 APD - Equivalencia APD por estado final → APD por pila vacía.md",
-    "Ejemplo de Transformación Teorema 3 - APD.md",
-    "Transformación de APD-N → APD-F.md",
-    "Teorema 2 APD - Equivalencia APD por pila vacía → APD por estado final.md",
-    "Lenguaje Aceptado por Pila Vacía.md",
-    "Configuración - APD.md",
-    "Lenguaje Aceptado por estado final.md",
-    "Aceptación de una cadena por un APD.md",
-    "Teorema 1 - APD.md",
-    "Movimientos de un APD.md",
-    "Determinismo - APD.md",
-    "Función de Transición - APD.md",
-    "Gramáticas Libres del Contexto - GLC.md",
     "Pasted image 20250714214155.png",
     "Pasted image 20250607135240.png",
     "Pasted image 20250607135233.png",
@@ -255,7 +257,6 @@
     "Pasted image 20250607133247.png",
     "Pasted image 20250607132515.png",
     "Pasted image 20250607132406.png",
-    "Pasted image 20250607132043.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

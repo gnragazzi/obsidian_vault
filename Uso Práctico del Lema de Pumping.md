@@ -6,3 +6,4 @@ Pasos para demostrar que un lenguaje dado NO es regular:
 3. El lema dice que si el lenguaje fuera regular, podríamos encontrar una forma de subidividir $w$ en 3 subadenas $xyz$, cumpliendo las restricciones 1) y 2). Como queremos demostrar que el lenguaje no es regular, tendremos que demostrar que no hay ninguna forma de subdividir $w$, cumpliendo las restricciones del lema, y que después se pueda repetir (pumpear) $y$ en función del valor $k$ (la tercera condición del lema).
 4. Bastará con encontrar una constante $k≥0$ que haga que ninguna de las particiones posibles de $w$ sea bombeable.
 5. Por último, si para toda descomposición de la cadea se halló un $k$, que hace que cada una de las cadenas resultantes no pertenezca al lenguaje, concluimos que arribamos a una contradicción, que surge de haber asumido que el lenguaje era regular.
+#v2 

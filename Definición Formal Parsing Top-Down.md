@@ -9,3 +9,6 @@ donde la [[Función de Transición - APD|función de transición]] $\delta$ se d
 	1. El rango de la función $\delta$ representa las posibles alternativas para expandir dicho nodo 
 		1. (posible no-determinismo dado que no tenemos información adicional para decidir por sólo una de ellas).
 2. Si se alcanzó una hoja del árbol y coincide con la cadena de entrada, luego se elimina de la pila para continuar con la construcción del resto del árbol.
+
+***
+#v2 

@@ -13,3 +13,4 @@ Razones para Separar el Ánalisis en 2:
 1. Facilita el diseño de compiladores
 2. Compilador es más eficiente
 3. Compilador más portable (porque es el analizador lexicográfico el que se encarga de las palabras especiales).
+#v2 
