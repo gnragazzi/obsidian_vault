@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Función de Transición - APD.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función de Transición - APD"
+              "title": "Autómatas y Lenguajes"
             },
             "group": "54406730e4ea84d9"
           }
         ]
       },
       {
-        "id": "e5db53a341f32bd3",
+        "id": "faff73f80f094623",
         "type": "tabs",
         "children": [
           {
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Función de Transición - APD.md",
+                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,12 +65,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.4769829217432251,
+                  "scale": 0.3294232475422961,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Función de Transición - APD"
+              "title": "Gráfico de Autómatas y Lenguajes"
             },
             "group": "54406730e4ea84d9"
           }
@@ -219,44 +219,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9e8db1d8b7c7c36",
+  "active": "89a3925c4aa319eb",
   "lastOpenFiles": [
-    "Movimientos de un APD.md",
-    "Función de Transición - APD.md",
-    "Definición Formal Parsing Top-Down.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
-    "Uso Práctico del Lema de Pumping.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Potencia de Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Analizador Lexicográfico.md",
-    "Carrera/Informática/23. Lógica para Computación/Compilador.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Construcción de un JFlex.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Diseño e Implementación de Analizadores Lexicográficos.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Detección de Errores en el Análisis Lexicográfico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/JFlex.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Ejecución de un Analizador construido en JFlex.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Metalenguaje de Expresiones Regulares para JFlex.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Especificación JFlex.md",
-    "Análisis Sintáctico.md",
+    "Formas Normales - GLC.md",
+    "Eliminación de la recursión directa a izquierda.md",
+    "Eliminación de Símbolos Inútiles.md",
+    "Transformaciones en las Formas Normales.md",
+    "Construcción de la Forma Normal de Chomsky.md",
+    "Eliminación de la recursión directa a Derecha.md",
+    "Pasted image 20250719133234.png",
+    "Pasted image 20250719133052.png",
+    "Pasted image 20250719132932.png",
+    "Eliminación de la recursión directa a izquierda  (Algoritmo 10).md",
+    "helper.md",
+    "Pasted image 20250719131303.png",
+    "Pasted image 20250719131236.png",
+    "Restricciones - Formas Normales.md",
+    "Eliminación de Producciones Unitarias.md",
+    "No contiene Producciones Nulas.md",
+    "Construcción de una GLC en FNC (Algoritmo 9).md",
+    "Conjunto de no terminales alcanzables (Algoritmo 8).md",
+    "Construcción del conjunto de no terminales que derivan en  cadenas de terminales (A.7).md",
+    "Construcción de una GLC donde todo no terminal deriva cadenas de terminales (Algoritmo 6).md",
+    "Construcción de una GLC libre de Símbolos Inútiles (Algoritmo 5).md",
+    "Construcción del conjunto CHAIN(A) (Algoritmo 4).md",
+    "Construcción de una GLC libre de no terminales encadenados (Algoritmo 3).md",
+    "Construcción de una GLC libre de no terminales encadenados(Algoritmo 3).md",
+    "Construcción del conjunto de no terminales anulables(Algoritmo 2).md",
+    "Construcción de una GLC libre de no terminales anulables (Algoritmo 1).md",
+    "Pasted image 20250719123321.png",
+    "Monótona no-decreciente.md",
+    "Símbolo de comienzo no recursivo.md",
+    "Pasted image 20250719122105.png",
+    "Restricción.md",
     "Pasted image 20250718082129.png",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lexema.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Patrón - Análisis Lexicográfico.md",
-    "Token.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Cadena - Lenguajes.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Símbolo.md",
-    "Función de Transición Extendida - APD.md",
-    "Parsing Bottom-up.md",
-    "Ejemplo Parsing Bottom-Up.md",
     "Pasted image 20250517171503.png",
-    "Técnica Bottom-Up.md",
-    "Definción Formal Parsing Bottom-Up.md",
     "Pasted image 20250714214155.png",
-    "Pasted image 20250607135240.png",
-    "Pasted image 20250607135233.png",
-    "Pasted image 20250607134148.png",
-    "Pasted image 20250607134043.png",
-    "Pasted image 20250607133247.png",
-    "Pasted image 20250607132515.png",
-    "Pasted image 20250607132406.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
