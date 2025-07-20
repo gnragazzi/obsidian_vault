@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Construcción de una GLC libre de no terminales anulables (Algoritmo 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autómatas y Lenguajes"
+              "title": "Construcción de una GLC libre de no terminales anulables (Algoritmo 1)"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Construcción de una GLC libre de no terminales anulables (Algoritmo 1).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Autómatas y Lenguajes"
+              "title": "Gráfico de Construcción de una GLC libre de no terminales anulables (Algoritmo 1)"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -220,10 +220,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "89a3925c4aa319eb",
+  "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
-    "Carrera/Informática/Lenguajes de Programación/Lenguajes de Programación.md",
+    "No contiene Producciones Nulas.md",
+    "Transformaciones en las Formas Normales.md",
+    "Formas Normales - GLC.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Carrera/Informática/Lenguajes de Programación/Lenguajes de Programación.md",
     "Carrera/Matemáticas/Discretas/Grafos/Camino.md",
     "Propiedades de Clausura para LLC.md",
     "Otros/MathJax Reference.md",
@@ -251,13 +254,10 @@
     "árbol.md",
     "Carrera/Matemáticas/Discretas/Grafos/Árbol (Grafo).md",
     "Carrera/Informática/Algoritmia/Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
-    "Formas Normales - GLC.md",
     "Eliminación de la recursión directa a izquierda.md",
     "Eliminación de Símbolos Inútiles.md",
-    "Transformaciones en las Formas Normales.md",
     "Eliminación de la recursión directa a Derecha.md",
     "Eliminación de la recursión directa a izquierda  (Algoritmo 10).md",
-    "helper.md",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
