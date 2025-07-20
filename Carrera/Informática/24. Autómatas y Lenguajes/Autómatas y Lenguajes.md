@@ -14,7 +14,7 @@
 	- [[Propiedades de los Lenguajes Regulares]] 
 	- [[Lema de Pumping para Lenguajes Regulares (Teorema)]] 
 - Unidad 4
-	- [[Lenguajes Libres de Contexto]] 
+	- [[Lenguajes Libres de Contexto - LLC]] 
 	- [[Autómatas Push-Down - APD]]
 	- [[Análisis Sintáctico]] 
 - Unidad 5

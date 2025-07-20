@@ -9,7 +9,7 @@ Las transformaciones son operaciones sobre una [[Gramática|gramática]] que agr
 - [[No contiene Producciones Nulas]] 
 - [[Eliminación de Producciones Unitarias]] 
 - [[Eliminación de Símbolos Inútiles]] 
-- [[Construcción de la Forma Normal de Chomsky|Construcción de la Forma Normal de Chomsky]] 
+- [[Forma Normal de Chomsky - FNC|Forma Normal de Chomsky - FNC]] 
 - [[Eliminación de la recursión directa a izquierda]] 
 - [[Eliminación de la recursión directa a Derecha]] 
 

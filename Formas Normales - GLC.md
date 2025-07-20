@@ -5,6 +5,7 @@ Una forma normal es definida imponiendo [[Restricciones - Formas Normales|restri
 ### Tipos de FN
 
 - [[Monótona no-decreciente]] 
+- [[Forma Normal de Chomsky - FNC]] 
 ***
 ### Etiquetas
 #v2 
