@@ -6,3 +6,16 @@ En consecuencia, las reglas de una gramática pueden ser visas como reglas de re
 Tipos
 - [[Gramática Regular]] 
 - [[Gramáticas Libres del Contexto - GLC]] 
+- [[Gramática Dependiente del Contexto]]
+- [[Gramáticas Irrestrictas]]
+
+***
+
+#### Propiedades
+
+- [[Gramática Recursiva|Recursividad]] 
+
+***
+#### Etiquetas
+
+#v2 
