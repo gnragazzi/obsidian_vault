@@ -1,3 +1,5 @@
+#### Contenido
+
 - Unidad 1 - Repaso
 	- [[Símbolo]] 
 	- [[Alfabeto]] 
@@ -21,3 +23,12 @@
 	- [[Formas Normales - GLC]]
 	- [[Lema de Pumping para Lenguajes Libres de Contexto]]
 	- [[Propiedades de Clausura para LLC]]
+- Unidad 6
+	- [[Gramáticas Irrestrictas]]
+	- [[Gramáticad Dependiente del Contexto - GDC]] 
+	- [[Autómatas Linealmente Acotados - ALA]]
+	- [[Máquina de Turing - MT]] 
+
+***
+#### Etiquetas
+#v2 

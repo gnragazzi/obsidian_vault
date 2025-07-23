@@ -6,7 +6,7 @@ En consecuencia, las reglas de una gramática pueden ser visas como reglas de re
 Tipos
 - [[Gramática Regular]] 
 - [[Gramáticas Libres del Contexto - GLC]] 
-- [[Gramática Dependiente del Contexto]]
+- [[Gramáticad Dependiente del Contexto - GDC]]
 - [[Gramáticas Irrestrictas]]
 
 ***
