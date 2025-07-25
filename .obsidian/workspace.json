@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Gramáticas Irrestrictas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autómatas y Lenguajes"
+              "title": "Gramáticas Irrestrictas"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+                "file": "Gramáticas Irrestrictas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,12 +65,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.09421216067016497,
-                  "close": false
+                  "scale": 0.5995838000493176,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Autómatas y Lenguajes"
+              "title": "Gráfico de Gramáticas Irrestrictas"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -220,10 +220,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "89a3925c4aa319eb",
+  "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
-    "Máquina de Turing - MT.md",
+    "Transformaciones.md",
+    "Construcción del conjunto de no terminales que derivan en  cadenas de terminales (A.7).md",
+    "Construcción de una GLC donde todo no terminal deriva cadenas de terminales (Algoritmo 6).md",
+    "Construcción de una GLC libre de Símbolos Inútiles (Algoritmo 5).md",
+    "Conjunto de no terminales alcanzables (Algoritmo 8).md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Máquina de Turing - MT.md",
     "Gramáticad Dependiente del Contexto - GDC.md",
     "Gramáticas Irrestrictas.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
@@ -245,7 +250,6 @@
     "Gramáticas Libres del Contexto - GLC.md",
     "Construcción de una GLC libre de no terminales anulables (Algoritmo 1).md",
     "No contiene Producciones Nulas.md",
-    "Transformaciones en las Formas Normales.md",
     "Formas Normales - GLC.md",
     "Carrera/Informática/Lenguajes de Programación/Lenguajes de Programación.md",
     "Carrera/Matemáticas/Discretas/Grafos/Camino.md",
@@ -254,9 +258,6 @@
     "Demostración de Clausura en Unión LLC.md",
     "Demostración de Clausura en Intersección LLC.md",
     "Demostración de Clausura en Complemento LLC.md",
-    "Demostración de Clausura en Clausura de Kleene LLC.md",
-    "Demostración de Clausura en Concatenación LLC.md",
-    "Lema de Pumping para Lenguajes Libres de Contexto.md",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
