@@ -16,8 +16,8 @@ puede ser reemplazada por las siguientes producciones:
 
 2. Se reemplaza la producción A por las siguientes producciones:  
   A → B′T₁  
-  T₁ → DC′T₂  
-  T₂ → CF  
+  T₁ → DT₂  
+  T₂ → C′F  
 
 3. Las restantes producciones de P que cumplen con la definición  
 de la Forma Normal de Chomsky quedan en P′  
