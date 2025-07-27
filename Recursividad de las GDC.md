@@ -1,6 +1,6 @@
 #### Teorema: 
 
-> Si una Gramática es dependiente/sensitiva del contexto, entonces es recursiva
+> Si una Gramática es dependiente/sensitiva del contexto, entonces es [[Gramática Recursiva|recursiva]]
 
 ***
 

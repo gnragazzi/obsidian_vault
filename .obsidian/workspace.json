@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema - Equivalencia entre AFD y E.R..md",
+                "file": "Máquina de Turing - MT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema - Equivalencia entre AFD y E.R."
+              "title": "Máquina de Turing - MT"
             },
             "group": "5b22fdb68bda8932"
-          },
-          {
-            "id": "57309a17926abb6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuración - APD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configuración - APD"
-            }
           }
         ]
       },
@@ -48,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teorema - Equivalencia entre AFD y E.R..md",
+                "file": "Máquina de Turing - MT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -79,12 +65,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.5995838000493178,
+                  "scale": 0.5995838000493183,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Teorema - Equivalencia entre AFD y E.R."
+              "title": "Gráfico de Máquina de Turing - MT"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -236,32 +222,32 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
+    "Gramáticas Irrestrictas.md",
+    "Gramáticad Dependiente del Contexto - GDC.md",
+    "Recursividad de las GDC.md",
+    "Gramática Recursiva.md",
+    "Lema de Pumping para Lenguajes Libres de Contexto.md",
+    "Propiedades de Clausura para LLC.md",
+    "Demostración de Clausura en Unión LLC.md",
+    "Análisis Sintáctico.md",
+    "Autómatas Push-Down - APD.md",
+    "Teorema 1 - APD.md",
+    "Función de Transición - APD.md",
+    "Lenguajes Libres de Contexto - LLC.md",
+    "Gramáticas Libres del Contexto - GLC.md",
+    "Derivación - Gramáticas Libres de Contexto.md",
+    "Árbol de Derivación.md",
+    "Orden de Derivación.md",
+    "BNF.md",
+    "Forma Sentencial - GLC.md",
+    "Propiedades de los Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
     "Teorema - Equivalencia entre E.R. y AFND-ε.md",
     "Teorema - Equivalencia entre AFD y E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas Finitos.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito No Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/AFND-ε.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND-ε.md",
-    "Configuración - APD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Configuraciones de un AFD.md",
-    "Sin título 5.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFND.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata Finito Determinístico.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Minimización de un AFD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Función de Transición Extendida - AFD.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura Reflexo Transitiva de la Derivación - Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura Reflexo Transitiva.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura Transitiva.md",
-    "Carrera/Matemáticas/Discretas/Transitividad.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Clausura de Un conjunto con respecto a una propiedad.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Derivación - Grámatica Regular.md",
-    "Construcción del conjunto CHAIN(A) (Algoritmo 4).md",
-    "Construcción de una GLC en FNC (Algoritmo 9).md",
-    "Forma Normal de Chomsky - FNC.md",
-    "Transformaciones.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática.md",
     "Pasted image 20250725111135.png",
     "Pasted image 20250723090946.png",
     "Pasted image 20250723090621.png",

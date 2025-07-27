@@ -1,6 +1,6 @@
 #### **Definición:** 
 
-> Se dice que una gramática $G$ es recursiva si hay un algoritmo el cual determina para cualquier cadena $w$, si $w$ es generada por $G$.
+> Se dice que una [[Gramática|gramática]] $G$ es ***recursiva*** si hay un [[Algoritmos|algoritmo]] el cual determina para cualquier [[Cadena - Lenguajes|cadena]] $w$, si $w$ es generada por $G$.
 
 ***
 #### Interpretación 
