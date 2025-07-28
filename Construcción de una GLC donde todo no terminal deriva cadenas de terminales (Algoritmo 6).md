@@ -4,7 +4,7 @@
 	  a. $L(G_T) = L(G)$  
 	  b. Todo no terminal en $G_T$ deriva una cadena de terminales en $G_T$  
 
-1. Construir el conjunto $TERM$ de no terminales que derivan en cadenas de terminales ( [[Construcción del conjunto de no terminales que derivan en  cadenas de terminales (A.7)|Algoritmo 7]])  
+1. Construir el conjunto $TERM$ de no terminales que derivan en cadenas de terminales ( [[Construcción del conjunto de no terminales que derivan en  cadenas de terminales (Algoritmo 7)|Algoritmo 7]])  
 2. $N_T = TERM$
 3. $P_T = \{A → w\space |\space A → w ∈ P, A ∈ N_T, y w ∈ (N_T ∪ Σ)^*\}$  
 4. $Σ_T = \{a ∈ Σ\space |\space \text{ a ocurre en el lado derecho de alguna producción en }P_T\}$

@@ -10,7 +10,7 @@ Si $G = \langle N, \Sigma, P, S \rangle$ es una GLC y $x \in (N \cup \Sigma)$, l
 ### Algoritmos utilizados
 - [[Construcción de una GLC libre de Símbolos Inútiles (Algoritmo 5)]]
 - [[Construcción de una GLC donde todo no terminal deriva cadenas de terminales (Algoritmo 6)]]
-- [[Construcción del conjunto de no terminales que derivan en  cadenas de terminales (A.7)]]
+- [[Construcción del conjunto de no terminales que derivan en  cadenas de terminales (Algoritmo 7)]]
 - [[Conjunto de no terminales alcanzables (Algoritmo 8)]]
 
 ***

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Máquina de Turing - MT.md",
+                "file": "Testeo de Estados Equivalentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Máquina de Turing - MT"
+              "title": "Testeo de Estados Equivalentes"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Máquina de Turing - MT.md",
+                "file": "Testeo de Estados Equivalentes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Máquina de Turing - MT"
+              "title": "Gráfico de Testeo de Estados Equivalentes"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -222,6 +222,14 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
+    "Carrera/Informática/21. IA/Algoritmo de Tabla Completa.md",
+    "Construcción de una GLC libre de no terminales encadenados (Algoritmo 3).md",
+    "Eliminación de Producciones Unitarias.md",
+    "Construcción del conjunto CHAIN(A) (Algoritmo 4).md",
+    "Eliminación de Símbolos Inútiles.md",
+    "Construcción del conjunto de no terminales que derivan en  cadenas de terminales (Algoritmo 7).md",
+    "Conjunto de no terminales alcanzables (Algoritmo 8).md",
+    "Máquina de Turing - MT.md",
     "Carrera/Informática/24. Autómatas y Lenguajes/Autómatas y Lenguajes.md",
     "Gramáticas Irrestrictas.md",
     "Gramáticad Dependiente del Contexto - GDC.md",
@@ -240,14 +248,6 @@
     "Árbol de Derivación.md",
     "Orden de Derivación.md",
     "BNF.md",
-    "Forma Sentencial - GLC.md",
-    "Propiedades de los Lenguajes Regulares.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Autómata.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Obtención de un AFD a partir de una Gramática Regular.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Gramática Regular.md",
-    "Teorema - Equivalencia entre E.R. y AFND-ε.md",
-    "Teorema - Equivalencia entre AFD y E.R..md",
     "Pasted image 20250725111135.png",
     "Pasted image 20250723090946.png",
     "Pasted image 20250723090621.png",
