@@ -12,3 +12,5 @@ Materias de la Carrera:
 - [[Planeamiento Informático]] 
 - [[Autómatas y Lenguajes]]
 - [[Inteligencia Artificial]] 
+- [[Base de Datos II]] 
+- [[Complejidad y Computabilidad]] 
