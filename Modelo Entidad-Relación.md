@@ -6,6 +6,7 @@
 	para describir la realidad.
 ***
 ### Componentes
+- [[Conjuntos-Entidades MER]] 
 - ![[Pasted image 20250809105603.png]]
 ***
 ### Características

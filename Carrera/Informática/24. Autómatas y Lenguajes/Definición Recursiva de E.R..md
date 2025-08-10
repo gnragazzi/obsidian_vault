@@ -12,4 +12,4 @@ Una ER sobre algún [[Alfabeto|alfabeto]] Σ se define recursivamente de la sigu
 	- ![[Pasted image 20250315143046.png]]
 ***
 ## Etiquetas
-- #v2
+- #Rendido

@@ -6,4 +6,4 @@
 - ### Definición $Σ^*$
 	- $Σ^*$ es llamado el [[Lenguaje Referencial]]
 - ### Etiquetas
-	- #v2 
+	- #Rendido 

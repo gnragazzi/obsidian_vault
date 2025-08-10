@@ -1,7 +1,9 @@
+\ne = $\ne$
 \in
 \notin
 \subset
 \subseteq
+\vdash = $\vdash$ 
 \models = $\models$
 \langle = $\langle$ 
 \rangle = $\rangle$ 
