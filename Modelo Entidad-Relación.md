@@ -7,6 +7,7 @@
 ***
 ### Componentes
 - [[Conjuntos-Entidades MER]] 
+- [[Atributos - MER]]
 - ![[Pasted image 20250809105603.png]]
 ***
 ### Características
