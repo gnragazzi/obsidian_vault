@@ -8,7 +8,9 @@
 ### Componentes
 - [[Conjuntos-Entidades MER]] 
 - [[Atributos - MER]]
-- ![[Pasted image 20250809105603.png]]
+- [[Identificadores - MER]] 
+- [[Relaciones - MER]] 
+- 
 ***
 ### Características
 - Es agnósitco al [[SGBD]]

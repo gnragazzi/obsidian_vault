@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelo Entidad-Relación.md",
+                "file": "Análisis de Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Entidad-Relación"
+              "title": "Análisis de Requisitos"
             },
             "group": "5b22fdb68bda8932"
           },
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modelo Entidad-Relación.md",
+                "file": "Análisis de Requisitos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Modelo Entidad-Relación"
+              "title": "Gráfico de Análisis de Requisitos"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -271,41 +271,41 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
+    "Temporalidades - MER.md",
+    "Relaciones - MER.md",
+    "Jerarquía - MER.md",
+    "Propiedades - MER.md",
+    "Correspondencia en Relaciones - MER.md",
+    "Identificadores - MER.md",
+    "Dominio de un Atributo - MER.md",
+    "Pasted image 20250816113331.png",
+    "Pasted image 20250816113317.png",
+    "Template Tarjeta.md",
+    "Pasted image 20250816110412.png",
+    "Pasted image 20250816110047.png",
+    "Carrera/Informática/Lenguajes de Programación/Java/Conceptos POO/Generalización - POO.md",
+    "Pasted image 20250816105712.png",
+    "Modelo Entidad-Relación.md",
+    "Carrera/Matemáticas/Discretas/Función Suryectiva.md",
+    "Carrera/Matemáticas/Relación Total.md",
+    "Pasted image 20250816102013.png",
+    "Pasted image 20250816101703.png",
+    "Pasted image 20250816101130.png",
+    "Carrera/Matemáticas/Discretas/Relación Binaria.md",
+    "Pasted image 20250816100329.png",
+    "Carrera/Matemáticas/Discretas/Elemento Minimal.md",
     "Atributos - MER.md",
     "Univaluados vs Multivaluados.md",
     "Obligatorio vs Opcional.md",
     "Ingresado vs Derivado(calculado).md",
-    "Dominio de un Atributo - MER.md",
     "Pasted image 20250811215317.png",
-    "Pasted image 20250811215304.png",
-    "Pasted image 20250811215225.png",
-    "Pasted image 20250811215213.png",
-    "Template Tarjeta.md",
     "Sin título 6.md",
     "Dependencia Existencial - Entidades MER.md",
-    "Modelo Entidad-Relación.md",
     "Entidades Débiles.md",
     "Entes - MER.md",
     "Entidades Regulares.md",
     "Conjuntos-Entidades MER.md",
     "Carrera/Informática/Lenguajes de Programación/Java/Conceptos POO/Composición.md",
-    "Pasted image 20250810112657.png",
-    "Pasted image 20250810112506.png",
-    "Carrera/Matemáticas/Discretas/Conjuntos.md",
-    "Otros/MathJax Reference.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Definición Recursiva de E.R..md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lenguaje Referencial.md",
-    "Pasted image 20250810112008.png",
-    "Pasted image 20250810111748.png",
-    "Unidad 1 - Modelado Conceptual.md",
-    "Base de Datos II.md",
-    "Unidad 1 - Máquina de Turing extensiones y simplificaciones.md",
-    "Lenguaje Aceptado por una MT.md",
-    "Secuencia de Configuraciones de una MT Determinística.md",
-    "Configuración - APD.md",
-    "Pasted image 20250809134952.png",
-    "Pasted image 20250809134627.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
