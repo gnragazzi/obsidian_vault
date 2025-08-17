@@ -13,42 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de Requisitos.md",
+                "file": "Unidad 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análisis de Requisitos"
+              "title": "Unidad 1"
             },
             "group": "5b22fdb68bda8932"
-          },
-          {
-            "id": "8d8b76af08abd63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dominio de un Atributo - MER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dominio de un Atributo - MER"
-            }
-          },
-          {
-            "id": "dcf8e0599246532b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template Tarjeta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template Tarjeta"
-            }
           }
         ]
       },
@@ -62,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Análisis de Requisitos.md",
+                "file": "Unidad 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -102,6 +74,20 @@
                         "a": 1,
                         "rgb": 4325478
                       }
+                    },
+                    {
+                      "query": "tag:#Índice_Materia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:#no_sistematizado  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -114,12 +100,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.5995838000493187,
+                  "scale": 0.8681574081705037,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Análisis de Requisitos"
+              "title": "Gráfico de Unidad 1"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -271,41 +257,42 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
+    "Proceso de Simulación.md",
+    "Template Tarjeta.md",
+    "Numérica - MyS.md",
+    "Simulación - MyS.md",
+    "Analítica - MyS.md",
+    "Modelo - MyS.md",
+    "Estocásticos vs Determinísticos - MyS.md",
+    "Discreto vs Continuo - MyS.md",
+    "Modelización - MyS.md",
+    "Dinámicos vs Estáticos.md",
+    "Físicos vs Matemáticos - MyS.md",
+    "Unidad 1.md",
+    "Modelos y Simulación.md",
+    "Ventajas - Desventajas de la Simulación.md",
+    "Pasted image 20250817114806.png",
+    "Carrera/Informática/Algoritmia/Características de los Algoritmos Voraces.md",
+    "Dominio de un Atributo - MER.md",
+    "Unidad 1 - Modelado Conceptual.md",
+    "Carrera/Informática/Algoritmia/Modelo.md",
+    "Carrera/Informática/Ciencias de la Computación.md",
+    "Análisis de Requisitos.md",
     "Temporalidades - MER.md",
     "Relaciones - MER.md",
     "Jerarquía - MER.md",
     "Propiedades - MER.md",
     "Correspondencia en Relaciones - MER.md",
     "Identificadores - MER.md",
-    "Dominio de un Atributo - MER.md",
     "Pasted image 20250816113331.png",
     "Pasted image 20250816113317.png",
-    "Template Tarjeta.md",
     "Pasted image 20250816110412.png",
     "Pasted image 20250816110047.png",
-    "Carrera/Informática/Lenguajes de Programación/Java/Conceptos POO/Generalización - POO.md",
     "Pasted image 20250816105712.png",
-    "Modelo Entidad-Relación.md",
-    "Carrera/Matemáticas/Discretas/Función Suryectiva.md",
-    "Carrera/Matemáticas/Relación Total.md",
     "Pasted image 20250816102013.png",
     "Pasted image 20250816101703.png",
     "Pasted image 20250816101130.png",
-    "Carrera/Matemáticas/Discretas/Relación Binaria.md",
     "Pasted image 20250816100329.png",
-    "Carrera/Matemáticas/Discretas/Elemento Minimal.md",
-    "Atributos - MER.md",
-    "Univaluados vs Multivaluados.md",
-    "Obligatorio vs Opcional.md",
-    "Ingresado vs Derivado(calculado).md",
-    "Pasted image 20250811215317.png",
-    "Sin título 6.md",
-    "Dependencia Existencial - Entidades MER.md",
-    "Entidades Débiles.md",
-    "Entes - MER.md",
-    "Entidades Regulares.md",
-    "Conjuntos-Entidades MER.md",
-    "Carrera/Informática/Lenguajes de Programación/Java/Conceptos POO/Composición.md",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

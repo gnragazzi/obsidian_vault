@@ -14,3 +14,4 @@ Materias de la Carrera:
 - [[Inteligencia Artificial]] 
 - [[Base de Datos II]] 
 - [[Complejidad y Computabilidad]] 
+- [[Modelos y Simulación]] 
