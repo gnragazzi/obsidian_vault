@@ -7,11 +7,8 @@
 - Si al menos una de las hojas de un [[Árbol de Secuencia de Ejecución - MT no Determinística]] es una configuración final, la cadena es aceptada.
 	- ![[Pasted image 20250817213041.png|300]]
 - Formalmente
-	- Una cadena $x\in\Sigma^*$ es aceptada por una MT no determinística si y solo si existe una secuencia de movimientos de manera de alcanzar un estado final partiendo de un estado inicial.
-
-
-
+	- Una cadena $x\in\Sigma^*$ es aceptada por una MT no determinística si y solo si existe una secuencia de movimientos a través de la cual se alcanza una configuración final, partiendo de una configuración inicial.
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

@@ -5,4 +5,4 @@
 ![[Pasted image 20250817213158.png|400]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

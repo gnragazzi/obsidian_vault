@@ -13,14 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Máquina de Turing no determinística.md",
+                "file": "Extensiones y Simplificaciones a MT estándar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Máquina de Turing no determinística"
+              "title": "Extensiones y Simplificaciones a MT estándar"
             },
             "group": "5b22fdb68bda8932"
+          },
+          {
+            "id": "06a14268d4d39b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autómatas Linealmente Acotados - ALA - CyC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autómatas Linealmente Acotados - ALA - CyC"
+            }
+          },
+          {
+            "id": "c38a90a4884b2fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Árbol de Secuencia de Ejecución - MT no Determinística.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Árbol de Secuencia de Ejecución - MT no Determinística"
+            }
           },
           {
             "id": "3efc4a6b9dc9dd01",
@@ -36,7 +64,8 @@
               "title": "Template Tarjeta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "faff73f80f094623",
@@ -48,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Máquina de Turing no determinística.md",
+                "file": "Extensiones y Simplificaciones a MT estándar.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -119,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Máquina de Turing no determinística"
+              "title": "Gráfico de Extensiones y Simplificaciones a MT estándar"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -261,6 +290,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -269,19 +299,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9e8db1d8b7c7c36",
+  "active": "06a14268d4d39b7b",
   "lastOpenFiles": [
+    "Autómatas Linealmente Acotados - ALA - CyC.md",
     "Árbol de Secuencia de Ejecución - MT no Determinística.md",
+    "Template Tarjeta.md",
+    "Extensiones y Simplificaciones a MT estándar.md",
     "Máquina de Turing no determinística.md",
+    "Máquina de Turing con Cintas infinitas en ambos lados.md",
+    "Máquina de Turing con múltiples Cintas.md",
+    "Pasted image 20250817214906.png",
+    "Autómatas Linealmente Acotados - ALA.md",
     "Pasted image 20250817213158.png",
     "Pasted image 20250817213151.png",
-    "Template Tarjeta.md",
     "Pasted image 20250817213041.png",
     "Configuración - MT.md",
     "Secuencia de Configuraciones de una MT Determinística.md",
-    "Máquina de Turing con múltiples Cintas.md",
-    "Extensiones a MT estándar.md",
-    "Máquina de Turing con Cintas infinitas en ambos lados.md",
     "Pasted image 20250817211254.png",
     "Pasted image 20250817210519.png",
     "Pasted image 20250817210306.png",
@@ -300,12 +333,9 @@
     "Dinámicos vs Estáticos.md",
     "Físicos vs Matemáticos - MyS.md",
     "Modelos y Simulación.md",
-    "Ventajas - Desventajas de la Simulación.md",
     "Pasted image 20250817114806.png",
-    "Carrera/Informática/Algoritmia/Características de los Algoritmos Voraces.md",
     "Pasted image 20250816113331.png",
     "Pasted image 20250816113317.png",
-    "Pasted image 20250816110412.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

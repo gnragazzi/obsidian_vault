@@ -8,7 +8,7 @@
 	- [[Secuencia de Configuraciones de una MT Determinística]] 
 	- [[Lenguaje Aceptado por una MT]] 
 - Diapo 2
-	- [[Extensiones a MT estándar]] 
+	- [[Extensiones y Simplificaciones a MT estándar]] 
 ***
 # Etiquetas
 - #Índice_Materia 
