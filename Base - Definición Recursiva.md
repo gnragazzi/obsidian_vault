@@ -3,4 +3,4 @@
 	- Es decir, valores $x$ tales que $f(x)$ toma un valor conocido
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

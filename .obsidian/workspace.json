@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funciones Recursivas Generales - FRG.md",
+                "file": "Unidad 2 - Funciones Recursivas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones Recursivas Generales - FRG"
+              "title": "Unidad 2 - Funciones Recursivas"
             },
             "group": "5b22fdb68bda8932"
-          },
-          {
-            "id": "2afc0191e8684642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template Tarjeta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template Tarjeta"
-            }
           }
         ]
       },
@@ -48,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Funciones Recursivas Generales - FRG.md",
+                "file": "Unidad 2 - Funciones Recursivas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -102,6 +88,13 @@
                         "a": 1,
                         "rgb": 5419488
                       }
+                    },
+                    {
+                      "query": "tag:#PREGUNTA_EXAMEN  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -114,12 +107,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.8681574081705037,
+                  "scale": 0.5995838000493192,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Funciones Recursivas Generales - FRG"
+              "title": "Gráfico de Unidad 2 - Funciones Recursivas"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -270,44 +263,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9e8db1d8b7c7c36",
+  "active": "89a3925c4aa319eb",
   "lastOpenFiles": [
-    "Recursión Primitiva.md",
-    "Funciones Recursivas Generales - FRG.md",
-    "Composición - Funciones Recursivas.md",
+    "Funciones μ-recursivas.md",
+    "Unidad 2 - Funciones Recursivas.md",
+    "Clase T de funciones μ-recursivas.md",
+    "C como proceso.md",
+    "Incompletitud de C.md",
+    "Cómo está compuesto el conjunto de FRG.md",
+    "Clase C de FRP.md",
     "Funciones Recursivas Primitivas - FRP.md",
-    "Template Tarjeta.md",
     "Proyección.md",
     "Sucesor.md",
     "Zero.md",
-    "Otros/MathJax Reference.md",
-    "Características de Funciones Recursivas.md",
-    "Unidad 2 - Funciones Recursivas.md",
+    "Definición Recursiva de FRG.md",
+    "Minimalización.md",
+    "Recursión Primitiva.md",
+    "Composición - Funciones Recursivas.md",
     "Elementos de una Función Recursiva.md",
-    "Pasted image 20250903082126.png",
+    "Funciones Recursivas Generales - FRG.md",
+    "Características de Funciones Recursivas.md",
     "Una explicación acerca de los valores que puede tomar la función.md",
     "Reglas de construcción Recursivas.md",
+    "Template Tarjeta.md",
+    "Otros/MathJax Reference.md",
     "Base - Definición Recursiva.md",
-    "Complejidad y Computabilidad.md",
-    "Unidad 1 - Máquina de Turing extensiones y simplificaciones.md",
-    "Autómatas Linealmente Acotados - ALA - CyC.md",
-    "Extensiones y Simplificaciones a MT estándar.md",
-    "Análisis de Requisitos.md",
-    "Árbol de Secuencia de Ejecución - MT no Determinística.md",
-    "Modelado Conceptual - BD.md",
-    "Máquina de Turing no determinística.md",
-    "Máquina de Turing con Cintas infinitas en ambos lados.md",
-    "Máquina de Turing con múltiples Cintas.md",
+    "Pasted image 20250903221633.png",
+    "Pasted image 20250903221521.png",
+    "Gráfico de clase de FRG.md",
+    "Procedimiento para mostrar que una función es μ-recursiva.md",
+    "Pasted image 20250903221232.png",
+    "Árbol de Evaluación.md",
+    "Pasted image 20250903212853.png",
+    "Pasted image 20250903212835.png",
+    "Pasted image 20250903212738.png",
+    "Pasted image 20250903212708.png",
+    "Pasted image 20250903082126.png",
     "Pasted image 20250817214906.png",
-    "Autómatas Linealmente Acotados - ALA.md",
     "Pasted image 20250817213158.png",
-    "Pasted image 20250817213151.png",
-    "Pasted image 20250817213041.png",
-    "Pasted image 20250817211254.png",
-    "Pasted image 20250817210519.png",
-    "Pasted image 20250817210306.png",
-    "Pasted image 20250817114806.png",
-    "Pasted image 20250816113331.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

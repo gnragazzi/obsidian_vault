@@ -1,4 +1,4 @@
-\ne = $\ne$
+f\ne = $\ne$
 \in
 \notin
 \subset

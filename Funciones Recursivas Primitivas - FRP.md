@@ -3,7 +3,7 @@
 	- ![[Pasted image 20250903082126.png|300]]
 ***
 #### Definición Formal
-Conjunto de funciones de n-tuplas de números naturales en números naturales $$FRP=\{f_1,f_2,...\}\text{   donde }f_i:\mathbb{N}^n\vdash\mathbb{N}\space(n\in\mathbb{N})$$
+Es un conjunto $FRP$ de funciones de n-tuplas de números naturales en números naturales $$FRP=\{f_1,f_2,...\}\text{   donde }f_i:\mathbb{N}^n\vdash\mathbb{N}\space(n\in\mathbb{N})$$
 donde:
 - un elemento de $\mathbb{N}^n$ se denota $x=(x_1,x_2,...,x_n)$
 - cada función $f_i$ es total.
@@ -13,5 +13,11 @@ donde:
 - [[Sucesor]] 
 - [[Proyección]]
 ***
+#### Misc
+1. [[Procedimiento para mostrar que una función es FRP]] 
+2. [[Árbol de Evaluación]] 
+3. [[Clase C de FRP]]
+4. [[C como proceso]]
+***
 #### Etiquetas
-- #falta 
+- #Anki 

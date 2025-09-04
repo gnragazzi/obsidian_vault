@@ -11,4 +11,4 @@
 	- (2)           $f(y+1)=h(y,f(x,y))$    (caso recursivo)
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

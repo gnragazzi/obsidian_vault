@@ -6,4 +6,4 @@
 	- Dado que $h, g_1, g_2,...,g_m$ son todas funciones totales, $f$ es total con dominio $\mathbb{N}^n$ 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

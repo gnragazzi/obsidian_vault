@@ -4,4 +4,4 @@
 3. [[Una explicación acerca de los valores que puede tomar la función]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
