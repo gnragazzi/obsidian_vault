@@ -1,0 +1,7 @@
+#### Definición
+- Aquellas planificaciones en las que no se intercalan operaciones de las transacciones que las componen.
+- Ejemplo
+	- ![[Pasted image 20250905131221.png|400]]
+***
+#### Etiquetas
+- #falta 

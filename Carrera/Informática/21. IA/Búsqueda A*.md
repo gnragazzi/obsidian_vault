@@ -5,7 +5,7 @@
 	- $f(n)$ costo total *estimado* del camino más barato hasta el objetivo, que pasa por el nodo $n$
 - Asegurando ciertas condiciones para $f(n)$ la búsqueda puede ser óptima y completa.
 	- [[Admisibilidad]]´
-	- [[Consistencia]] 
+	- [[Consistencia - Propiedad de Heurística (IA)]] 
 ***
 - Completa
 	- Si, salvo que haya infinitos nodos $n$ tal que $f(n)≤f(G)$

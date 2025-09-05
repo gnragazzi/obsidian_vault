@@ -3,7 +3,7 @@
 ***
 Propiedades
 - [[Admisibilidad]]
-- [[Consistencia]]
+- [[Consistencia - Propiedad de Heurística (IA)]]
 - [[Dominación - Heurísticas]]
 ***
 Heurísticas admisibles pueden ser derivadas del costo exacto de una solución de una versión relajada del problema.
