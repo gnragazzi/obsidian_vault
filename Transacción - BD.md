@@ -1,4 +1,5 @@
 #### Definición
+
 - Acción o serie de acciones que llevan adelante un usuario o programa de aplicación que lee y/o modifica el contenido de una BD.
 - Una transacción es atómica y **siempre** finaliza
 - Un SGBD que implementa transacciones, debe cumplir con los [[Principios ACID]]
@@ -29,4 +30,4 @@ Fin de la transacción T_x     <--- BD CONSISTENTE
 [[Estados de una Transacción]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

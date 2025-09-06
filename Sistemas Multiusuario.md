@@ -4,4 +4,4 @@
 - El [[SGBD]] debe garantiar un acceso ordenado y seguro
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

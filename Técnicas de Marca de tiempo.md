@@ -3,4 +3,4 @@
 - Resuelven conflictos según antiguedad y evitan bloqueos prolongados
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

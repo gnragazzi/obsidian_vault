@@ -22,4 +22,4 @@ Ejemplo
 2. [[Recuperabilidad]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

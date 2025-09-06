@@ -10,4 +10,4 @@
 - [[Técnicas basadas en validación]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

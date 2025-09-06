@@ -5,4 +5,4 @@
 4. [[Lecturas no reproducibles]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

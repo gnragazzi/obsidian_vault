@@ -4,4 +4,4 @@
 - Los cambios no se reflejan hasta que no se realiza un commit
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

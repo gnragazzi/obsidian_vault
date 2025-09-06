@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recuperación.md",
+                "file": "Control de Concurrencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recuperación"
+              "title": "Control de Concurrencia"
             },
             "group": "5b22fdb68bda8932"
-          },
-          {
-            "id": "b4a33b0891261d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template Tarjeta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template Tarjeta"
-            }
           }
         ]
       },
@@ -48,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recuperación.md",
+                "file": "Control de Concurrencia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +112,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Recuperación"
+              "title": "Gráfico de Control de Concurrencia"
             },
             "group": "5b22fdb68bda8932"
           }
@@ -162,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "altura árbol",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,42 +265,42 @@
   },
   "active": "c9e8db1d8b7c7c36",
   "lastOpenFiles": [
-    "Procesamiento de Transacciones.md",
     "Recuperación.md",
-    "Unidad 2 - Transacciones.md",
-    "Control de Concurrencia.md",
     "Técnicas basadas en validación.md",
     "Técnicas de Marca de tiempo.md",
     "Técnicas de Bloqueo.md",
-    "Template Tarjeta.md",
+    "Control de Concurrencia.md",
+    "Modelo Simplificado de BD.md",
     "Planificación de Transacciones.md",
     "Recuperabilidad.md",
     "Serializable - Planificaciones.md",
     "Planificación No-Serie.md",
-    "Pasted image 20250905131221.png",
     "Planificación en Serie.md",
-    "Pasted image 20250905131049.png",
-    "Pasted image 20250905130836.png",
-    "Lecturas no reproducibles.md",
     "Problemas Potenciales con transacciones concurrentes.md",
-    "Pasted image 20250905130321.png",
+    "Lecturas no reproducibles.md",
     "Sobreescritura de datos no confirmados.md",
-    "Pasted image 20250905130311.png",
     "Problemas de Actualización Temporal.md",
-    "Pasted image 20250905130258.png",
     "Problemas de actualización Perdida.md",
-    "Pasted image 20250905130246.png",
-    "Pasted image 20250905130243.png",
-    "Modelo Simplificado de BD.md",
-    "Transacción - BD.md",
-    "Base de Datos II.md",
+    "Procesamiento de Transacciones.md",
+    "Unidad 2 - Transacciones.md",
     "MELI/Entrevista Meli/Principios ACID.md",
+    "Transacción - BD.md",
     "Durabilidad.md",
     "Isolation - Aislamiento.md",
     "Consistencia.md",
+    "Atomicidad.md",
     "Estados de una Transacción.md",
-    "Pasted image 20250905122856.png",
-    "Pasted image 20250905103432.png",
+    "Criterio de Clasificación de SBD.md",
+    "Pasted image 20250905210334.png",
+    "Pasted image 20250905210148.png",
+    "Pasted image 20250905131221.png",
+    "Pasted image 20250905131049.png",
+    "Pasted image 20250905130836.png",
+    "Pasted image 20250905130321.png",
+    "Pasted image 20250905130311.png",
+    "Pasted image 20250905130258.png",
+    "Pasted image 20250905130246.png",
+    "Pasted image 20250905130243.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

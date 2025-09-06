@@ -9,4 +9,4 @@
 		- Escribe el valor de la variable de programa x en un elemento de la bd
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

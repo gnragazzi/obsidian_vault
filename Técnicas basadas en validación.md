@@ -4,5 +4,4 @@
 	- Si los hay, se aborta y se rehace
 ***
 #### Etiquetas
-- #falta 
-***
+- #Anki 
