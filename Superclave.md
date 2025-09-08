@@ -9,4 +9,4 @@
 - [[Clausura de F - BD]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

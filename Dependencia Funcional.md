@@ -10,4 +10,4 @@
 - Si $X$ determina funcionalmente a $R$, entonces $X$ es clave de la relación.
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

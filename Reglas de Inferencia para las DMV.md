@@ -8,8 +8,7 @@
 	- [[DMV Transitividad]]
 	- [[DF y DMV réplica]]
 	- [[DF y DMV Combinación]]
-![[Pasted image 20250907123007.png]]
-![[Pasted image 20250907123017.png]]
+
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

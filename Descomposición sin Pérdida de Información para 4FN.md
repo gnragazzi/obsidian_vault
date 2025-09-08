@@ -24,4 +24,4 @@ Cualquiera de las siguientes es condición suficiente y necesaria:
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

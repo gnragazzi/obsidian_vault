@@ -4,4 +4,4 @@
 	- X es [[Superclave]] de R
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

@@ -16,4 +16,4 @@
 - [[Reglas de Inferencia para las DMV]] 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

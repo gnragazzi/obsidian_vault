@@ -6,4 +6,4 @@
 - Diremos que  ***$F$ implica lógicamente $X\rightarrow Y$*** ($F\models X\rightarrow Y$) si y solo si toda instancia $r$ que [[Instancia que satisface un conjunto de dependencias funcionales|satisface]] F, también satisface $X\rightarrow Y$.
 
 #### Tags
-- #falta 
+- #Anki 

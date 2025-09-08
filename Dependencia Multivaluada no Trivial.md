@@ -6,4 +6,4 @@
 - Una DMV trivial se cumple en todas las instancias de R y, en sí, no especifica ninguna restricción.
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

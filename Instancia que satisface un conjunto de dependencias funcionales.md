@@ -8,4 +8,4 @@
 Una instancia $r$ satisface una dependencia funcional cuando cumple sus restricciones.
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
