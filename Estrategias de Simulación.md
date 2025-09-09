@@ -3,4 +3,4 @@
 - [[Ordenado por eventos del sistema]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planificar - Bootstrapping.md",
+                "file": "Bootstrapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planificar - Bootstrapping"
+              "title": "Bootstrapping"
             },
             "group": "fd1a7209d97587cd"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planificar - Bootstrapping.md",
+                "file": "Bootstrapping.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,12 +121,12 @@
                   "repelStrength": 11.7654916512059,
                   "linkStrength": 0.849573283858998,
                   "linkDistance": 250,
-                  "scale": 0.5995838000493192,
+                  "scale": 0.868157408170504,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Planificar - Bootstrapping"
+              "title": "Gráfico de Bootstrapping"
             },
             "group": "fd1a7209d97587cd"
           }
@@ -279,18 +279,27 @@
   },
   "active": "e5c858ff254629ba",
   "lastOpenFiles": [
-    "Template Tarjeta.md",
-    "Planificar - Bootstrapping.md",
+    "Salidas - Fin de Servicio.md",
+    "Arribos.md",
     "Bootstrapping.md",
+    "Planificar - Bootstrapping.md",
     "FEL.md",
-    "Pasted image 20250908090841.png",
     "Ordenado por eventos del sistema.md",
+    "Variable Cola.md",
     "Estrategias de Simulación.md",
-    "Pasted image 20250908085724.png",
     "Ordenado por entidades del sistema.md",
-    "Pasted image 20250908085708.png",
     "Unidad 2 - Bootstraping.md",
     "Sistema Discreto.md",
+    "Pasted image 20250908220842.png",
+    "Pasted image 20250908220808.png",
+    "Pasted image 20250908220528.png",
+    "Pasted image 20250908220352.png",
+    "Pasted image 20250908220252.png",
+    "Template Tarjeta.md",
+    "Pasted image 20250908215601.png",
+    "Pasted image 20250908090841.png",
+    "Pasted image 20250908085724.png",
+    "Pasted image 20250908085708.png",
     "MELI/Testing.md",
     "Modelos y Simulación.md",
     "5FN.md",
@@ -304,17 +313,7 @@
     "Reglas de Inferencia para las DMV.md",
     "Dependencia Multivaluada.md",
     "Descomposición sin Pérdida de Información para 4FN.md",
-    "Implicación Lógica de un Conjunto de Dependencias Funcionales.md",
-    "Clausura de F - BD.md",
-    "Superclave.md",
-    "Cuarta Forma Normal según Dependencias Multivaluadas.md",
     "Pasted image 20250907230542.png",
-    "Pasted image 20250907230527.png",
-    "Pasted image 20250907230312.png",
-    "Pasted image 20250907225556.png",
-    "Pasted image 20250907220613.png",
-    "Pasted image 20250907220408.png",
-    "Pasted image 20250907123017.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
