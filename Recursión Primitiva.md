@@ -8,7 +8,7 @@
 	define una FRP total con dominio en $\mathbb{N}^{n+1}$
 - Para el caso especial donde $n=0$ se define
 	- (1)           $f(0) = k$, con $k\ge0$ 
-	- (2)           $f(y+1)=h(y,f(x,y))$    (caso recursivo)
+	- (2)           $f(y+1)=h(y,f(y))$    (caso recursivo)
 ***
 #### Etiquetas
 - #Anki 

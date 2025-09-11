@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootstrapping.md",
+                "file": "Unidad 1 - Introducción a Modelos y Simulación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrapping"
+              "title": "Unidad 1 - Introducción a Modelos y Simulación"
             },
             "group": "fd1a7209d97587cd"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bootstrapping.md",
+                "file": "Unidad 1 - Introducción a Modelos y Simulación.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Bootstrapping"
+              "title": "Gráfico de Unidad 1 - Introducción a Modelos y Simulación"
             },
             "group": "fd1a7209d97587cd"
           }
@@ -279,9 +279,15 @@
   },
   "active": "e5c858ff254629ba",
   "lastOpenFiles": [
+    "Simulación - MyS.md",
+    "Recursión Primitiva.md",
+    "Funciones Recursivas Primitivas - FRP.md",
+    "Relaciones 1-1 SOBREYECTIVA (pasaje a MR).md",
+    "Relaciones 1-1 (pasaje a MR).md",
+    "Relaciones 1-1 TOTAL (pasaje a MR).md",
+    "Bootstrapping.md",
     "Salidas - Fin de Servicio.md",
     "Arribos.md",
-    "Bootstrapping.md",
     "Planificar - Bootstrapping.md",
     "FEL.md",
     "Ordenado por eventos del sistema.md",
@@ -308,11 +314,6 @@
     "Dependencia de Reunión.md",
     "Dependencia de Reunión Trivial.md",
     "Instancia que satisface un conjunto de dependencias funcionales.md",
-    "Dependencia de Inclusión.md",
-    "Proyección (álgebra relacional).md",
-    "Reglas de Inferencia para las DMV.md",
-    "Dependencia Multivaluada.md",
-    "Descomposición sin Pérdida de Información para 4FN.md",
     "Pasted image 20250907230542.png",
     "Evaluación/Interpretación",
     "Evaluación",
