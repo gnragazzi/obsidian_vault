@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuarta Forma Normal según Dependencias Multivaluadas.md",
+                "file": "Sistema de Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cuarta Forma Normal según Dependencias Multivaluadas"
+              "title": "Sistema de Post"
             },
             "group": "a8f48104fc9fab3e"
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cuarta Forma Normal según Dependencias Multivaluadas.md",
+                "file": "Sistema de Post.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,7 +105,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Cuarta Forma Normal según Dependencias Multivaluadas"
+              "title": "Gráfico de Sistema de Post"
             },
             "group": "a8f48104fc9fab3e"
           }
@@ -258,6 +258,18 @@
   },
   "active": "446518e2e4b1d680",
   "lastOpenFiles": [
+    "Pasted image 20250918083645.png",
+    "Unidad 3 - Sistemas de Post.md",
+    "Sistema de Post.md",
+    "Elementos de un Sistema de Post.md",
+    "Conjunto de Teoremas Probables.md",
+    "Conjunto de Reglas de Inferencia.md",
+    "Template Tarjeta.md",
+    "Conjunto de Axiomas.md",
+    "Pasted image 20250918083011.png",
+    "Pasted image 20250918082911.png",
+    "Complejidad y Computabilidad.md",
+    "Cuarta Forma Normal según Dependencias Multivaluadas.md",
     "Descomposición sin Pérdida de Información para 4FN.md",
     "Teoría 5 - Transacciones en MER.md",
     "Generar la nupla en Ri.md",
@@ -268,7 +280,6 @@
     "Seleccionar el elemento según R Entrante.md",
     "Seleccionar el elemento según R saliente.md",
     "Pasted image 20250913101259.png",
-    "Template Tarjeta.md",
     "Pasted image 20250913101239.png",
     "Pasted image 20250913101127.png",
     "Pasted image 20250913095833.png",
@@ -276,7 +287,6 @@
     "Pasted image 20250913095703.png",
     "Pasted image 20250913095612.png",
     "Pasted image 20250913095532.png",
-    "Pasted image 20250913095127.png",
     "MELI/Testing.md",
     "Base de Datos II.md",
     "Teoría 4 - Dependencias Avanzadas.md",
@@ -284,16 +294,6 @@
     "Teoría 2 - Transacciones.md",
     "Teoría 1 - Modelado Conceptual.md",
     "Planificación No-Serie.md",
-    "Salidas - Fin de Servicio.md",
-    "Arribos.md",
-    "Unidad 2 - Bootstraping.md",
-    "Modelos y Simulación.md",
-    "Ordenado por eventos del sistema.md",
-    "Bootstrapping.md",
-    "Unidad 1 - Introducción a Modelos y Simulación.md",
-    "Simulación - MyS.md",
-    "Recursión Primitiva.md",
-    "Pasted image 20250908220842.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
