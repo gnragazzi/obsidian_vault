@@ -3,4 +3,4 @@
 La secuencia $\sigma_1,\sigma_2, ... ,\sigma_k$ es una ***demostración de $\sigma_k$ desde $\sigma_1$***
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

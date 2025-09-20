@@ -7,4 +7,4 @@
 ![[Pasted image 20250919084735.png|500]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

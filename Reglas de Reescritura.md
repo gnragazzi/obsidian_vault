@@ -9,4 +9,4 @@
 	- $\forall\;j\;\exists\;i : \beta_j = \alpha_i$ (las variables en el lado derecho deben estar en el lado izquierdo)
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

@@ -9,4 +9,4 @@ Si $$X_0\alpha_1X_1\alpha_2...X_{n-1}\alpha_nX_n \rightarrow Y_0\beta_1Y_1\beta_
 entonces $\sigma'$ es ***inmediatamente deducible*** de $\sigma$ y se denota $\sigma\Rightarrow\sigma'$.
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
