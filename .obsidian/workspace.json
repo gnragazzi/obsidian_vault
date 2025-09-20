@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deducible - Sistema de Post.md",
+                "file": "Unidad 3 - Sistemas de Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deducible - Sistema de Post"
+              "title": "Unidad 3 - Sistemas de Post"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deducible - Sistema de Post.md",
+                "file": "Unidad 3 - Sistemas de Post.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Deducible - Sistema de Post"
+              "title": "Gráfico de Unidad 3 - Sistemas de Post"
             }
           }
         ]
@@ -242,6 +242,7 @@
   },
   "active": "446518e2e4b1d680",
   "lastOpenFiles": [
+    "Deducible - Sistema de Post.md",
     "Relación Deducción - Sistema de Post.md",
     "Unidad 3 - Sistemas de Post.md",
     "Conjunto de Teoremas Probables.md",
@@ -249,7 +250,6 @@
     "Inmediatamente Deducible - Sistema de Post.md",
     "Reglas de Reescritura.md",
     "Elementos de un Sistema de Post.md",
-    "Deducible - Sistema de Post.md",
     "Conjunto de Reglas de Inferencia.md",
     "Template Tarjeta.md",
     "Conjunto de Axiomas.md",
