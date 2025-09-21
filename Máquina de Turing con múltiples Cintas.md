@@ -8,6 +8,10 @@
 #### Representación
 ![[Pasted image 20250817210519.png|400]]
 
+#### Cómo se representan la transición de estados y la configuración en una de estas MT
+![[Pasted image 20250920121436.png]]
+![[Pasted image 20250920121341.png]]
+
 ***
 #### Etiquetas
 - #Anki 
