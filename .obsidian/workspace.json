@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribución de Probabilidad Teórica.md",
+                "file": "Propiedades de Lenguajes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribución de Probabilidad Teórica"
+              "title": "Propiedades de Lenguajes"
             }
           },
           {
-            "id": "0d09d701d489684d",
+            "id": "795a9d04cf08e307",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribución de Probabilidad Teórica.md",
+                "file": "Propiedades de Lenguajes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,12 +99,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.0000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Distribución de Probabilidad Teórica"
+              "title": "Gráfico de Propiedades de Lenguajes"
             }
           }
         ]
@@ -256,42 +256,42 @@
   },
   "active": "446518e2e4b1d680",
   "lastOpenFiles": [
+    "¿Existe un procedimiento para listar todos los elementos de L?.md",
+    "Lenguajes Recursivamente Enumerables.md",
+    "Orden Canónico.md",
+    "Propiedades de Lenguajes.md",
+    "Unidad 4 - Lenguajes Recursivos y Recursivamente Enumerables.md",
+    "Carrera/Matemáticas/Discretas/Orden Lexicográfico.md",
+    "Pasted image 20251002082925.png",
     "Template Tarjeta.md",
-    "Distribución de Probabilidad Teórica.md",
-    "Generación de Variables Aleatorias.md",
-    "Distribución de probabilidad Empírica.md",
-    "Técnica de la Transformada Inversa + Interpolación - Generación de Variables Aleatorias Empíricas Continuas.md",
-    "Pasted image 20250920221344.png",
-    "Pasted image 20250920220723.png",
-    "Generación de Variables Aleatorias Empíricas Discretas.md",
-    "Pasted image 20250920220011.png",
-    "Pasted image 20250920215552.png",
-    "Pasted image 20250920215551.png",
-    "Unidad 3 - Números aleatorios.md",
-    "Chequeo de Uniformidad.md",
-    "Test de Kolmorogov-Smirnov.md",
-    "Pasted image 20250920215003.png",
-    "Pasted image 20250920214911.png",
-    "Pasted image 20250920214845.png",
-    "Pasted image 20250920214247.png",
-    "Glosario Números Aleatorios.md",
-    "Método de Congruencia Lineal.md",
-    "Pasted image 20250920212208.png",
-    "Número Aleatorio.md",
-    "Modelos y Simulación.md",
-    "Árbol de Evaluación.md",
-    "Zero.md",
-    "Funciones Recursivas Primitivas - FRP.md",
-    "Proyección.md",
-    "Máquina de Turing con múltiples Cintas.md",
-    "Extensiones y Simplificaciones a MT estándar.md",
-    "Máquina de Turing - MT.md",
-    "Unidad 3 - Sistemas de Post.md",
-    "Deducible - Sistema de Post.md",
-    "Relación Deducción - Sistema de Post.md",
-    "Conjunto de Teoremas Probables.md",
-    "Sistema de Post.md",
-    "Inmediatamente Deducible - Sistema de Post.md",
+    "Pasted image 20251002082832.png",
+    "Pasted image 20251002082544.png",
+    "Recursivamente Enumerable.md",
+    "Pasted image 20251002082132.png",
+    "Descripción de Problemas.md",
+    "¿Qué implica determinar las características de un problema P?.md",
+    "¿Qué es resolver el problema P?.md",
+    "Problema de Decisión P_D.md",
+    "Problema P.md",
+    "Pasted image 20251002080014.png",
+    "Pasted image 20251002075203.png",
+    "Carrera/Informática/Teoría de la Computabilidad.md",
+    "MELI/Testing.md",
+    "Complejidad y Computabilidad.md",
+    "Teoría 6 - Optimización de Consultas.md",
+    "Optimización de Consultas.md",
+    "Estrategias de Estimación de Costos.md",
+    "Plan de Ejecución.md",
+    "Valoración Materializada.md",
+    "Evaluación Segmentada.md",
+    "Manipulación Algebraica.md",
+    "Conversión de una secuencia σ, X en ensamble natural con selección.md",
+    "La proyección se conmuta con la unión.md",
+    "Conmutatividad de Selección con operaciones de conjunto.md",
+    "Pasted image 20250928210223.png",
+    "Pasted image 20250928202817.png",
+    "Pasted image 20250928202420.png",
+    "Pasted image 20250928202003.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

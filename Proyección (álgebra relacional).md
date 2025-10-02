@@ -9,6 +9,7 @@
 ***
 #### Ejemplo
 ![[Pasted image 20250907220613.png]]
+
 ***
 #### Etiquetas
 - #Anki 
