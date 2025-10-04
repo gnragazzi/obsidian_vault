@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades de Lenguajes.md",
+                "file": "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades de Lenguajes"
+              "title": "Función Inyectiva"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Propiedades de Lenguajes.md",
+                "file": "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,7 +104,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Propiedades de Lenguajes"
+              "title": "Gráfico de Función Inyectiva"
             }
           }
         ]
@@ -256,14 +256,30 @@
   },
   "active": "446518e2e4b1d680",
   "lastOpenFiles": [
-    "¿Existe un procedimiento para listar todos los elementos de L?.md",
-    "Lenguajes Recursivamente Enumerables.md",
-    "Orden Canónico.md",
+    "Superclave.md",
+    "DMV Transitividad.md",
+    "Dependencia Multivaluada.md",
+    "Alta en una relación R.md",
+    "Consideraciones de las Altas en Relaciones.md",
+    "Generar la nupla en Ri.md",
+    "Transacción de Alta en una Entidad.md",
+    "Correspondencia en Relaciones - MER.md",
+    "Relaciones - MER.md",
+    "Atributos - MER.md",
+    "Lenguajes Recursivos.md",
+    "Pasted image 20251004072209.png",
+    "Pasted image 20251004071855.png",
+    "¿Existe un algoritmo para determinar si x ∈ L (x ∈ Σ*)?.md",
+    "Pasted image 20251004071354.png",
     "Propiedades de Lenguajes.md",
+    "¿Existe un procedimiento para listar todos los elementos de L?.md",
+    "Template Tarjeta.md",
+    "Lenguajes Recursivamente Enumerables.md",
+    "Demostración de que un Lenguaje no es Recursivamente Enumerable.md",
+    "Orden Canónico.md",
     "Unidad 4 - Lenguajes Recursivos y Recursivamente Enumerables.md",
     "Carrera/Matemáticas/Discretas/Orden Lexicográfico.md",
     "Pasted image 20251002082925.png",
-    "Template Tarjeta.md",
     "Pasted image 20251002082832.png",
     "Pasted image 20251002082544.png",
     "Recursivamente Enumerable.md",
@@ -275,23 +291,7 @@
     "Problema P.md",
     "Pasted image 20251002080014.png",
     "Pasted image 20251002075203.png",
-    "Carrera/Informática/Teoría de la Computabilidad.md",
-    "MELI/Testing.md",
-    "Complejidad y Computabilidad.md",
-    "Teoría 6 - Optimización de Consultas.md",
-    "Optimización de Consultas.md",
-    "Estrategias de Estimación de Costos.md",
-    "Plan de Ejecución.md",
-    "Valoración Materializada.md",
-    "Evaluación Segmentada.md",
-    "Manipulación Algebraica.md",
-    "Conversión de una secuencia σ, X en ensamble natural con selección.md",
-    "La proyección se conmuta con la unión.md",
-    "Conmutatividad de Selección con operaciones de conjunto.md",
     "Pasted image 20250928210223.png",
-    "Pasted image 20250928202817.png",
-    "Pasted image 20250928202420.png",
-    "Pasted image 20250928202003.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"
