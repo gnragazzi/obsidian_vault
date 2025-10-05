@@ -1,7 +1,7 @@
 #### Definición
 - Sea $L$ un [[Lenguajes Recursivamente Enumerables|lenguaje recursivamente enumerable]]. 
 - Si 
-	- la función característica asociada a$L$, $C_L:\Sigma\rightarrow\{0,1\}$  es una función total
+	- la función característica asociada a $L$, $C_L:\Sigma^*\rightarrow\{0,1\}$  es una función total
 - Entonces
 	- $L$ es un ***lenguaje Recursivo***
 

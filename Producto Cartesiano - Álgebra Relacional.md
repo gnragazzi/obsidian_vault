@@ -3,7 +3,7 @@
 - Costo
 	- Si $r$ tiene n nuplas y $s$ tiene $m$ nuplas
 		- MP: $O(N*M)$
-		- I/O: se deja como ejercicio
+		- I/O: $O(\frac{N_r}{b_r}*\frac{N_s}{b_s})$
 ***
 #### Etiquetas
 - #Anki 

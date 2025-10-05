@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
+                "file": "Producto Cartesiano - Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función Inyectiva"
+              "title": "Producto Cartesiano - Álgebra Relacional"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
+                "file": "Producto Cartesiano - Álgebra Relacional.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,7 +104,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Función Inyectiva"
+              "title": "Gráfico de Producto Cartesiano - Álgebra Relacional"
             }
           }
         ]
@@ -256,6 +256,22 @@
   },
   "active": "446518e2e4b1d680",
   "lastOpenFiles": [
+    "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
+    "Carrera/Informática/Algoritmia/Definición formal de Ω(n).md",
+    "Carrera/Informática/Algoritmia/Notación O.md",
+    "Costo Proyección.md",
+    "Proyección (álgebra relacional).md",
+    "Proyección.md",
+    "Lenguajes Recursivos.md",
+    "Arribos.md",
+    "Bootstrapping.md",
+    "FEL.md",
+    "Ordenado por eventos del sistema.md",
+    "Estrategias de Simulación.md",
+    "Unidad 2 - Bootstraping.md",
+    "Modelos y Simulación.md",
+    "Unidad 1 - Introducción a Modelos y Simulación.md",
+    "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
     "Superclave.md",
     "DMV Transitividad.md",
     "Dependencia Multivaluada.md",
@@ -266,29 +282,13 @@
     "Correspondencia en Relaciones - MER.md",
     "Relaciones - MER.md",
     "Atributos - MER.md",
-    "Lenguajes Recursivos.md",
     "Pasted image 20251004072209.png",
     "Pasted image 20251004071855.png",
-    "¿Existe un algoritmo para determinar si x ∈ L (x ∈ Σ*)?.md",
     "Pasted image 20251004071354.png",
-    "Propiedades de Lenguajes.md",
-    "¿Existe un procedimiento para listar todos los elementos de L?.md",
-    "Template Tarjeta.md",
-    "Lenguajes Recursivamente Enumerables.md",
-    "Demostración de que un Lenguaje no es Recursivamente Enumerable.md",
-    "Orden Canónico.md",
-    "Unidad 4 - Lenguajes Recursivos y Recursivamente Enumerables.md",
-    "Carrera/Matemáticas/Discretas/Orden Lexicográfico.md",
     "Pasted image 20251002082925.png",
     "Pasted image 20251002082832.png",
     "Pasted image 20251002082544.png",
-    "Recursivamente Enumerable.md",
     "Pasted image 20251002082132.png",
-    "Descripción de Problemas.md",
-    "¿Qué implica determinar las características de un problema P?.md",
-    "¿Qué es resolver el problema P?.md",
-    "Problema de Decisión P_D.md",
-    "Problema P.md",
     "Pasted image 20251002080014.png",
     "Pasted image 20251002075203.png",
     "Pasted image 20250928210223.png",
