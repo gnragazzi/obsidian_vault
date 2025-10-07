@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Producto Cartesiano - Álgebra Relacional.md",
+                "file": "Carrera/Matemáticas/Discretas/Número Combinatorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Producto Cartesiano - Álgebra Relacional"
+              "title": "Número Combinatorio"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Template Tarjeta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a9291c5f67a393aa",
@@ -47,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Producto Cartesiano - Álgebra Relacional.md",
+                "file": "Template Tarjeta.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -104,10 +105,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Producto Cartesiano - Álgebra Relacional"
+              "title": "Gráfico de Template Tarjeta"
+            }
+          },
+          {
+            "id": "2bddef8b597d2988",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,8 +266,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "446518e2e4b1d680",
+  "active": "795a9d04cf08e307",
   "lastOpenFiles": [
+    "Carrera/Matemáticas/Discretas/Número Combinatorio.md",
+    "Carrera/Matemáticas/Discretas/Permutación r de n elementos.md",
+    "Producto Cartesiano - Álgebra Relacional.md",
     "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
     "Carrera/Informática/Algoritmia/Definición formal de Ω(n).md",
     "Carrera/Informática/Algoritmia/Notación O.md",
@@ -279,9 +294,6 @@
     "Consideraciones de las Altas en Relaciones.md",
     "Generar la nupla en Ri.md",
     "Transacción de Alta en una Entidad.md",
-    "Correspondencia en Relaciones - MER.md",
-    "Relaciones - MER.md",
-    "Atributos - MER.md",
     "Pasted image 20251004072209.png",
     "Pasted image 20251004071855.png",
     "Pasted image 20251004071354.png",
