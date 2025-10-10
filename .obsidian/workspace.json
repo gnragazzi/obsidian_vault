@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuarta Forma Normal según Dependencias Multivaluadas.md",
+                "file": "Teoría 3 - Pasaje de MER a MR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cuarta Forma Normal según Dependencias Multivaluadas"
+              "title": "Teoría 3 - Pasaje de MER a MR"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cuarta Forma Normal según Dependencias Multivaluadas.md",
+                "file": "Teoría 3 - Pasaje de MER a MR.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,7 +105,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Cuarta Forma Normal según Dependencias Multivaluadas"
+              "title": "Gráfico de Teoría 3 - Pasaje de MER a MR"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e516bca1fc19a59",
@@ -256,32 +257,32 @@
   },
   "active": "795a9d04cf08e307",
   "lastOpenFiles": [
+    "Pasaje de Atributos con dominio por extensión.md",
+    "Teoría 3 - Pasaje de MER a MR.md",
+    "Pasaje de Generalización.md",
+    "Agregado de Keys.md",
+    "Entidad Débil → Relación.md",
+    "Entidad Débil 1-n → Relación.md",
+    "Entidad Débil 1-1 → Relación.md",
+    "Pasaje de Atributos.md",
+    "Relación a Relación.md",
+    "Relaciones n-m (pasaje a MR).md",
+    "Relaciones n-1 (pasaje a MR).md",
+    "Relaciones 1-n (pasaje a MR).md",
+    "Relaciones 1-1 (pasaje a MR).md",
+    "Relaciones 1-1 Ni total ni sobreyectiva.md",
+    "Relaciones 1-1 SOBREYECTIVA (pasaje a MR).md",
+    "Relaciones 1-1 TOTAL (pasaje a MR).md",
+    "Entidad Regular → Relación.md",
+    "Generar la nupla en Ri.md",
+    "Transacción de Alta en una Entidad.md",
+    "Consideraciones de las Altas en Relaciones.md",
+    "Alta en una relación R.md",
+    "Ingresado vs Derivado(calculado).md",
+    "Cuarta Forma Normal según Dependencias Multivaluadas.md",
     "Descomposición sin Pérdida de Información para 4FN.md",
     "Dependencia Multivaluada.md",
     "Teoría 4 - Dependencias Avanzadas.md",
-    "Template Tarjeta.md",
-    "Carrera/Matemáticas/Discretas/Número Combinatorio.md",
-    "Carrera/Matemáticas/Discretas/Permutación r de n elementos.md",
-    "Producto Cartesiano - Álgebra Relacional.md",
-    "Carrera/Matemáticas/Discretas/Producto Cartesiano.md",
-    "Carrera/Informática/Algoritmia/Definición formal de Ω(n).md",
-    "Carrera/Informática/Algoritmia/Notación O.md",
-    "Costo Proyección.md",
-    "Proyección (álgebra relacional).md",
-    "Proyección.md",
-    "Lenguajes Recursivos.md",
-    "Arribos.md",
-    "Bootstrapping.md",
-    "FEL.md",
-    "Ordenado por eventos del sistema.md",
-    "Estrategias de Simulación.md",
-    "Unidad 2 - Bootstraping.md",
-    "Modelos y Simulación.md",
-    "Unidad 1 - Introducción a Modelos y Simulación.md",
-    "Carrera/Matemáticas/Discretas/Función Inyectiva.md",
-    "Superclave.md",
-    "DMV Transitividad.md",
-    "Alta en una relación R.md",
     "Pasted image 20251004072209.png",
     "Pasted image 20251004071855.png",
     "Pasted image 20251004071354.png",
