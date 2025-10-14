@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursión Primitiva.md",
+                "file": "Otros/MathJax Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursión Primitiva"
+              "title": "MathJax Reference"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Recursión Primitiva.md",
+                "file": "Otros/MathJax Reference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,7 +105,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Recursión Primitiva"
+              "title": "Gráfico de MathJax Reference"
             }
           }
         ]
@@ -257,32 +257,32 @@
   },
   "active": "795a9d04cf08e307",
   "lastOpenFiles": [
+    "Carrera/Matemáticas/Discretas/Número Combinatorio.md",
+    "Otros/MathJax Reference.md",
+    "Unidad 2 - Funciones Recursivas.md",
+    "Funciones Recursivas Generales - FRG.md",
+    "Complejidad y Computabilidad.md",
+    "Unidad 3 - Sistemas de Post.md",
+    "Sistema de Post.md",
+    "Elementos de un Sistema de Post.md",
+    "Conjunto de Axiomas.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Alfabeto.md",
+    "Conjunto de Reglas de Inferencia.md",
+    "Conjunto de Teoremas Probables.md",
+    "Relación Deducción - Sistema de Post.md",
+    "Inmediatamente Deducible - Sistema de Post.md",
+    "Deducible - Sistema de Post.md",
+    "Unidad 4 - Lenguajes Recursivos y Recursivamente Enumerables.md",
+    "Carrera/Informática/Teoría de la Computabilidad.md",
+    "Minimalización.md",
+    "Definición Recursiva de FRG.md",
+    "Recursión Primitiva.md",
     "Teoría 3 - Pasaje de MER a MR.md",
     "Pasaje de Atributos con dominio por extensión.md",
     "Pasaje de Generalización.md",
     "Agregado de Keys.md",
     "Entidad Débil → Relación.md",
     "Entidad Débil 1-n → Relación.md",
-    "Entidad Débil 1-1 → Relación.md",
-    "Pasaje de Atributos.md",
-    "Relación a Relación.md",
-    "Relaciones n-m (pasaje a MR).md",
-    "Relaciones n-1 (pasaje a MR).md",
-    "Relaciones 1-n (pasaje a MR).md",
-    "Relaciones 1-1 (pasaje a MR).md",
-    "Relaciones 1-1 Ni total ni sobreyectiva.md",
-    "Relaciones 1-1 SOBREYECTIVA (pasaje a MR).md",
-    "Relaciones 1-1 TOTAL (pasaje a MR).md",
-    "Entidad Regular → Relación.md",
-    "Generar la nupla en Ri.md",
-    "Transacción de Alta en una Entidad.md",
-    "Consideraciones de las Altas en Relaciones.md",
-    "Alta en una relación R.md",
-    "Ingresado vs Derivado(calculado).md",
-    "Cuarta Forma Normal según Dependencias Multivaluadas.md",
-    "Descomposición sin Pérdida de Información para 4FN.md",
-    "Dependencia Multivaluada.md",
-    "Teoría 4 - Dependencias Avanzadas.md",
     "Pasted image 20251004072209.png",
     "Pasted image 20251004071855.png",
     "Pasted image 20251004071354.png",

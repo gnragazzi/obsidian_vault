@@ -1,3 +1,8 @@
+$$max(x,y) = 
+\begin{cases} 
+x & \text{si } x >y \\ 
+y & \text{si } x \le y 
+\end{cases}$$
 f\ne = $\ne$
 \in
 \notin
