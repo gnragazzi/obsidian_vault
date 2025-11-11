@@ -3,7 +3,9 @@ $$max(x,y) =
 x & \text{si } x >y \\ 
 y & \text{si } x \le y 
 \end{cases}$$
-f\ne = $\ne$
+\cap = $\cap$ 
+\cap = $\bigcap$ 
+\ne = $\ne$
 \in
 \notin
 \subset
