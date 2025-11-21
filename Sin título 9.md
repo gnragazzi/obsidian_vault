@@ -43,8 +43,12 @@ $tcM \le c . n . log(n) \Rightarrow tcM \in O(n . log(n))$
 
 
 
+$tc_{M4}\_MAX(n)=1+(n-1)+1+(n-1)+1+(n-1)[1+(n-1)+1+(n-1)+1)]$
+$tc_{M4}\_MAX(n)=1+2n+(n-1)[1+2n]$
+$tc_{M4}\_MAX(n)=1+2n+2n²-n-1$
+$tc_{M4}\_MAX(n)=2n²+n$
 
 
-
-
+$2n²+n \le c . n²$
+$2+\frac{1}{n} \le c$
 

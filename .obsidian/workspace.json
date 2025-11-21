@@ -77,9 +77,23 @@
               "icon": "lucide-file",
               "title": "Sin título 9"
             }
+          },
+          {
+            "id": "06670c277542f071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglas adicionales - Árboles de Refutación - LPO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reglas adicionales - Árboles de Refutación - LPO"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a9291c5f67a393aa",
@@ -92,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sin título 9.md",
+                "file": "Reglas adicionales - Árboles de Refutación - LPO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +163,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Sin título 9"
+              "title": "Gráfico de Reglas adicionales - Árboles de Refutación - LPO"
             }
           }
         ]
@@ -297,8 +311,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6bdc6cdf2b16e139",
+  "active": "06670c277542f071",
   "lastOpenFiles": [
+    "Teorema 1 - Árbol de Refutación - LPO.md",
+    "Árbol de Refutación Cerrado-Abierto - LPO.md",
     "Carrera/Matemáticas/Función Piso - Discretas.md",
     "Carrera/Matemáticas/Propiedades Función Piso-Techo.md",
     "Sin título 9.md",
@@ -325,9 +341,7 @@
     "Teorema Decidibilidad.md",
     "Problemas Decidibles.md",
     "Problemas para Lenguajes Regulares.md",
-    "Herramientas para Resolver problemas de decisión con LR.md",
     "Pasted image 20251105220506.png",
-    "Problema del Lenguaje Infinito para Lenguajes Regulares.md",
     "Pasted image 20251105215851.png",
     "Pasted image 20251105215703.png",
     "Pasted image 20251105215350.png",
