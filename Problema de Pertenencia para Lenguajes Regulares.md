@@ -19,4 +19,4 @@ Ambos procesos son acotados, por lo cual $\in_{LR}$ es un algoritmo.
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

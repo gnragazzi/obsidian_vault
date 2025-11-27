@@ -14,86 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Informática/Algoritmia/Definición formal de O(n).md",
+                "file": "Problemas Decidibles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición formal de O(n)"
+              "title": "Problemas Decidibles"
             }
           },
           {
-            "id": "4496d779588e4dbe",
+            "id": "dac316bb0b546dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template Tarjeta.md",
+                "file": "Problemas para Lenguajes Regulares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template Tarjeta"
-            }
-          },
-          {
-            "id": "7b5d6484ed319399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/MathJax Reference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MathJax Reference"
-            }
-          },
-          {
-            "id": "9e88bb3be99b8a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carrera/Matemáticas/Función Piso - Discretas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Función Piso - Discretas"
-            }
-          },
-          {
-            "id": "6bdc6cdf2b16e139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título 9"
-            }
-          },
-          {
-            "id": "06670c277542f071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reglas adicionales - Árboles de Refutación - LPO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reglas adicionales - Árboles de Refutación - LPO"
+              "title": "Problemas para Lenguajes Regulares"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "a9291c5f67a393aa",
@@ -106,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reglas adicionales - Árboles de Refutación - LPO.md",
+                "file": "Problemas para Lenguajes Regulares.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,12 +102,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000007,
+                  "scale": 1.0000000000000013,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Reglas adicionales - Árboles de Refutación - LPO"
+              "title": "Gráfico de Problemas para Lenguajes Regulares"
             }
           }
         ]
@@ -223,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e516bca1fc19a59",
@@ -311,36 +256,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "06670c277542f071",
+  "active": "dac316bb0b546dde",
   "lastOpenFiles": [
+    "Problemas Decidibles.md",
+    "Problemas para Lenguajes Regulares.md",
+    "Herramientas para Resolver problemas de decisión con LR.md",
+    "Problema del Lenguaje Infinito para Lenguajes Regulares.md",
+    "Problema del Lenguaje Vacío para Lenguajes Regulares.md",
+    "Problema de Pertenencia para Lenguajes Regulares.md",
+    "Sin título 2.base",
+    "Sin título 1.base",
+    "Carrera/Informática/21. IA/¿Cómo clasificar la inteligencia?.md",
+    "Sin título.base",
+    "Teorema Decidibilidad.md",
+    "Unidad 5 - Decidibilidad.md",
+    "Problemas No Decidibles.md",
+    "Problema de Pertenencia para el Lenguaje Universal.md",
+    "Teorema sobre LU.md",
+    "Complejidad y Computabilidad.md",
+    "Carrera/Informática/Algoritmia/Definición formal de O(n).md",
+    "Template Tarjeta.md",
+    "Otros/MathJax Reference.md",
+    "Carrera/Matemáticas/Función Piso - Discretas.md",
+    "Sin título 9.md",
+    "Reglas adicionales - Árboles de Refutación - LPO.md",
     "Teorema 1 - Árbol de Refutación - LPO.md",
     "Árbol de Refutación Cerrado-Abierto - LPO.md",
-    "Carrera/Matemáticas/Función Piso - Discretas.md",
     "Carrera/Matemáticas/Propiedades Función Piso-Techo.md",
-    "Sin título 9.md",
     "Sin título 1.md",
-    "Otros/MathJax Reference.md",
-    "Template Tarjeta.md",
-    "Carrera/Informática/Algoritmia/Definición formal de O(n).md",
     "Sin título 10.md",
     "Carrera/Informática/Algoritmia/Peor costo para la Búsqueda Binaria.md",
     "Carrera/Informática/Algoritmia/Resolver Recurrencias.md",
-    "Carrera/Informática/Algoritmia/Binary Search.md",
-    "Carrera/Informática/Algoritmia/Árboles de Decisión para demostrar que Búsqueda Binaria es optimal.md",
-    "Carrera/Informática/Algoritmia/Versión Recursiva de Búsqueda Binaria.md",
-    "Carrera/Informática/Algoritmia/Notación O.md",
-    "Carrera/Informática/Algoritmia/Definición formal de Ω(n).md",
-    "Teorema sobre LU.md",
-    "Problema de Pertenencia para el Lenguaje Universal.md",
-    "Lenguaje Universal.md",
-    "Problemas No Decidibles.md",
-    "Problema de Pertenencia para MT.md",
     "Pasted image 20251105221045.png",
     "Pasted image 20251105221017.png",
-    "Unidad 5 - Decidibilidad.md",
-    "Teorema Decidibilidad.md",
-    "Problemas Decidibles.md",
-    "Problemas para Lenguajes Regulares.md",
     "Pasted image 20251105220506.png",
     "Pasted image 20251105215851.png",
     "Pasted image 20251105215703.png",
