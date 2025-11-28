@@ -1,5 +1,5 @@
 #### Definición
-- Es una [[Máquina de Turing no determinística]] donde la cinta de trabajo es finita y acotada por un número pre-establecido de celdas.
+- Es una [[Máquina de Turing no Determinística - MTND]] donde la cinta de trabajo es finita y acotada por un número pre-establecido de celdas.
 - Los límites izquierdo y derecho del ALA se marcan con 2 celdas:
 	- Una antes del primer caracter de la cadena que se quiere analizar, con símbolo $<$ 
 	- Una después del último caracter de la cadena, con símbolo $>$

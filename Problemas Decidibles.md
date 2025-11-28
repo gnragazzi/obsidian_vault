@@ -3,4 +3,4 @@
 [[Problemas para Lenguajes Regulares]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

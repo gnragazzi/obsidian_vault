@@ -1,7 +1,7 @@
 #### Tipos de Extensiones
 - [[Máquina de Turing con múltiples Cintas]]
 - [[Máquina de Turing con Cintas infinitas en ambos lados]]
-- [[Máquina de Turing no determinística]]
+- [[Máquina de Turing no Determinística - MTND]]
 
 ***
 #### Equivalencia
