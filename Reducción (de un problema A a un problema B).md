@@ -16,5 +16,10 @@
 ![[Pasted image 20251128083133.png|500]]
 
 ***
+#### Consecuencias de reducir un problema A (específico) a un problema B (versión más general)
+
+- Si el problema A no es [[Recursivamente Enumerable]], el problema B tampoco lo es
+- Si el problema A no es [[Lenguajes Recursivos|recursivo]], el problema B tampoco lo es.
+***
 #### Etiquetas
 - #falta 

@@ -10,7 +10,7 @@
 	- Si $L$ es un conjunto infinito(enumerable) $$|L_{par}|=|L_{\mathbb{Z⁻}}|=|L_{\mathbb{Z}}|=|L_{\mathbb{Q}}|=|L_{a}|=|\mathbb{N}|=\aleph_0$$
 
 [[Demostración de que un Lenguaje no es Recursivamente Enumerable]]
-
+[[MT como forma de demostrar que un lenguaje es o no R.E.]]
 ***
 #### Etiquetas
 - #Anki 
