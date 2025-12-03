@@ -1,6 +1,6 @@
 #### Definición
 
-> Sea $M=\langle Q,\Sigma,\Gamma,\delta,q_0,q_f\rangle$ una [[Máquina de Turing - Determinista|MT determinística]]. 
+> Sea $M=\langle Q,\Sigma,\Gamma,\delta,q_0,q_f\rangle$ una [[Máquina de Turing Determinista - MT (MTD)|MT determinística]]. 
 > Luego, para un par de [[Configuración - MT|configuraciones]] $\alpha p\beta$ y $\alpha'p'\beta'$, es posible escribir $$(\alpha p\beta)\vdash(\alpha'p'\beta')$$si se cumple que:
 > 	1. $\beta=A\gamma$ donde
 > 		1. o bien $\beta=\lambda$ y, por convención $A=\mathbb{B},\gamma=\lambda$

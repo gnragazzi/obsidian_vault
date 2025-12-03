@@ -9,35 +9,35 @@
         "dimension": 53.76420454545454,
         "children": [
           {
-            "id": "a37f7cafe284456e",
+            "id": "2512e380b43ce97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teorema sobre LU.md",
+                "file": "Problema de la Parada - Detención (Halting Problem).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema sobre LU"
+              "title": "Problema de la Parada - Detención (Halting Problem)"
+            }
+          },
+          {
+            "id": "0125ad6cf97a26d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguaje Universal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lenguaje Universal"
             }
           },
           {
             "id": "320fedfbfab0fb56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proceso para encontrar un Lenguaje no R.E..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proceso para encontrar un Lenguaje no R.E."
-            }
-          },
-          {
-            "id": "3f1802a34c44cbbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,9 +63,22 @@
               "icon": "lucide-file",
               "title": "MathJax Reference"
             }
+          },
+          {
+            "id": "0fbe3a4c1e25f942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reducción (de un problema A a un problema B).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reducción (de un problema A a un problema B)"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a9291c5f67a393aa",
@@ -78,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Proceso para encontrar un Lenguaje no R.E..md",
+                "file": "Problema de la Parada - Detención (Halting Problem).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,12 +143,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6906395020147816,
+                  "scale": 1.000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Proceso para encontrar un Lenguaje no R.E."
+              "title": "Gráfico de Problema de la Parada - Detención (Halting Problem)"
             }
           }
         ]
@@ -196,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e516bca1fc19a59",
@@ -284,47 +298,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "320fedfbfab0fb56",
+  "active": "2512e380b43ce97c",
   "lastOpenFiles": [
-    "Teorema sobre LU.md",
-    "Template Tarjeta.md",
-    "Codificación de una MT usando {0,1}*.md",
-    "Proceso para encontrar un Lenguaje no R.E..md",
-    "Orden Canónico.md",
-    "MT como forma de demostrar que un lenguaje es o no R.E..md",
-    "Máquina de Turing - MT.md",
-    "Otros/MathJax Reference.md",
-    "Carrera/Matemáticas/Discretas/Conjunto de Partes.md",
     "Lenguaje Universal.md",
+    "Problema de la Parada - Detención (Halting Problem).md",
+    "Pasted image 20251201085100.png",
+    "Template Tarjeta.md",
+    "Otros/MathJax Reference.md",
     "Reducción (de un problema A a un problema B).md",
-    "Problema de Pertenencia para el Lenguaje Universal.md",
+    "Propiedades de los Lenguajes Recursivos y Recursivamente Enumerables.md",
+    "El Complemento de un Lenguaje Recursivo es Recursivo.md",
     "Problemas No Decidibles.md",
+    "Demostración de que LU no es recursivo utilizando Ld.md",
+    "Problema de Pertenencia para el Lenguaje Universal.md",
+    "Teorema sobre LU.md",
+    "Lenguaje de la Diagonal.md",
+    "Pasted image 20251130214415.png",
+    "Máquina de Turing.md",
+    "Máquina de Turing Determinista - MT (MTD).md",
+    "Demostración por Absurdo.md",
+    "Proceso para encontrar un Lenguaje no R.E..md",
+    "Pasted image 20251130120212.png",
+    "Pasted image 20251130115305.png",
+    "Pasted image 20251130114959.png",
+    "MT como forma de demostrar que un lenguaje es o no R.E..md",
+    "Pasted image 20251130112638.png",
+    "Codificación de una MT usando {0,1}*.md",
+    "Orden Canónico.md",
+    "Carrera/Matemáticas/Discretas/Conjunto de Partes.md",
     "Lenguajes Recursivamente Enumerables.md",
     "Demostración de que un Lenguaje no es Recursivamente Enumerable.md",
     "Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)..md",
     "Unidad 5 - Decidibilidad.md",
     "Problemas Decidibles.md",
-    "Problemas para Lenguajes Regulares.md",
-    "Problema de Pertenencia para Lenguajes Regulares.md",
-    "Codificación de un AFD.md",
-    "Teorema Decidibilidad.md",
-    "Decidible.md",
-    "Carrera/Informática/Algoritmia/Algoritmos.md",
-    "Máquina de Turing Universal (MT U).md",
-    "Definición Recursiva de FRG.md",
     "Pasted image 20251128083427.png",
     "Pasted image 20251128083133.png",
     "Pasted image 20251128082928.png",
     "Pasted image 20251128082818.png",
-    "Pasted image 20251128081805.png",
-    "Pasted image 20251128081644.png",
-    "Pasted image 20251128081544.png",
-    "Pasted image 20251128075037.png",
-    "Pasted image 20251128073737.png",
     "Sin título 2.base",
     "Sin título 1.base",
     "Sin título.base",
-    "Pasted image 20251105221045.png",
     "Evaluación/Interpretación",
     "Evaluación",
     "Diferencia Observer - Pub"

@@ -1,7 +1,7 @@
 # Contenido
 
 - Diapo 1
-	- [[Máquina de Turing - Determinista]] 
+	- [[Máquina de Turing Determinista - MT (MTD)]] 
 	- [[Criterios de Aceptación-Rechazo de una MT Estándar]] 
 	- [[Representación de Transiciones de una MT Estándar]] 
 	- [[Configuración - MT]] 

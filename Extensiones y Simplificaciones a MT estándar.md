@@ -5,7 +5,7 @@
 
 ***
 #### Equivalencia
-- Todas las extensiones tienen el mismo poder de cómputo que una [[Máquina de Turing - Determinista|MT estándar]]
+- Todas las extensiones tienen el mismo poder de cómputo que una [[Máquina de Turing Determinista - MT (MTD)|MT estándar]]
 - Se diferencian en su poder descriptivo
 
 ***

@@ -1,5 +1,5 @@
 #### Definición
-- Es similar a una [[Máquina de Turing - Determinista|MT - Determinística]], a excepción de que la función de transición se define como $$\delta:Q×\Gamma\rightarrow2^{Q×\Gamma×\{I,D,N\}}$$
+- Es similar a una [[Máquina de Turing Determinista - MT (MTD)|MT - Determinística]], a excepción de que la función de transición se define como $$\delta:Q×\Gamma\rightarrow2^{Q×\Gamma×\{I,D,N\}}$$
 - Se mantienen las definiciones de [[Configuración - MT|configuraciones]] y [[Secuencia de Configuraciones de una MT Determinística|secuencia de configuraciones]].
 
 *** 

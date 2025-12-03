@@ -1,5 +1,5 @@
 #### Definición
-> Una configuración correspondiente a una [[Máquina de Turing - Determinista|MT]] $M=\langle Q,\Sigma,\Gamma,\delta,q_0,q_f\rangle$ es una cadena $$z=\alpha p\beta$$
+> Una configuración correspondiente a una [[Máquina de Turing Determinista - MT (MTD)|MT]] $M=\langle Q,\Sigma,\Gamma,\delta,q_0,q_f\rangle$ es una cadena $$z=\alpha p\beta$$
 > donde $\alpha,\beta\in\Gamma^*$ y $p\in Q$.
 
 #### Cómo interpretar una Configuración

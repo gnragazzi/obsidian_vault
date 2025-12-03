@@ -1,5 +1,5 @@
 #### Definición
-- Sean $M_1$ y $M_2$ dos [[Máquina de Turing - MT|MT]] que aceptan $L$ y $\overline{L}$ respectivamente 
+- Sean $M_1$ y $M_2$ dos [[Máquina de Turing|MT]] que aceptan $L$ y $\overline{L}$ respectivamente 
 - Construimos $M$ ([[Máquina de Turing no Determinística - MTND|MTND]])a partir de $M_1$ y $M_2$:
 		![[Pasted image 20251128082818.png|400]]
 

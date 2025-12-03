@@ -1,5 +1,5 @@
 #### Definición
-- Es una [[Máquina de Turing - MT|MT]] [[Máquina de Turing con múltiples Cintas|multicinta]] donde
+- Es una [[Máquina de Turing|MT]] [[Máquina de Turing con múltiples Cintas|multicinta]] donde
 	- Una cinta contiene la entrada
 	- Otra cinta funciona como la cinta de M
 	- Otra cinta mantiene el estado de M

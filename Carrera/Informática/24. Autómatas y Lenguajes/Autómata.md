@@ -7,7 +7,7 @@ Por lo general tiene el objetivo de determinar si una cadena pertenece a un [[Le
 - [[Autómatas Finitos]] 
 - [[Autómatas Push-Down - APD]] 
 - [[Autómatas Linealmente Acotados - ALA]] 
-- [[Máquina de Turing - MT]] 
+- [[Máquina de Turing]] 
 ***
 [[Componentes de un Autómata]] 
 

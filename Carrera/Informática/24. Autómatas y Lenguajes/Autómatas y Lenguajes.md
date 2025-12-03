@@ -28,7 +28,7 @@
 	- [[Gramáticas Irrestrictas]]
 	- [[Gramáticad Dependiente del Contexto - GDC]] 
 	- [[Autómatas Linealmente Acotados - ALA]]
-	- [[Máquina de Turing - MT]] 
+	- [[Máquina de Turing]] 
 
 ***
 #### Etiquetas

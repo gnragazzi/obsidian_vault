@@ -9,6 +9,7 @@
 ***
 #### Ejemplos
 - [[Problema de Pertenencia para el Lenguaje Universal]]
+- [[Problema de la Parada - Detención (Halting Problem)]]
 ***
 #### Etiquetas
 - #Anki 
