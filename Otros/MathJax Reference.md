@@ -1,4 +1,4 @@
-$$max(x,y) = 
+[]()$$max(x,y) = 
 \begin{cases} 
 x & \text{si } x >y \\ 
 y & \text{si } x \le y 

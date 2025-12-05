@@ -10,6 +10,8 @@
 #### Ejemplos
 - [[Problema de Pertenencia para el Lenguaje Universal]]
 - [[Problema de la Parada - Detención (Halting Problem)]]
+- [[Problema de Correspondencia de Post]]
+- [[Problema de ambigüedad de las GLC]]
 ***
 #### Etiquetas
 - #Anki 
