@@ -1,5 +1,5 @@
 #### Definición
-- Según el libro de Hopcraft/Motwani/Ullman "***a language L is [[Recursivamente Enumerable|recursively enumerable]] if $L=L(M)$ for some [[Máquina de Turing|TM]] $M$***". Si un lenguaje no es RE, entonces es [[Problemas No Decidibles|indecidible]].
+- Según el libro de Hopcraft/Motwani/Ullman "***a language L is [[Lenguajes Recursivamente Enumerables|recursively enumerable]] if $L=L(M)$ for some [[Máquina de Turing|TM]] $M$***". Si un lenguaje no es RE, entonces es [[Problemas No Decidibles|indecidible]].
 
 ***
 #### Demostración

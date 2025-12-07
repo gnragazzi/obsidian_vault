@@ -4,7 +4,7 @@ x & \text{si } x >y \\
 y & \text{si } x \le y 
 \end{cases}$$
 \cap = $\cap$ 
-\cap = $\bigcap$ 
+\bigcap = $\bigcap$ 
 \ne = $\ne$
 \in
 \notin

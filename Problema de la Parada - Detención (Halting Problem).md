@@ -2,7 +2,7 @@
 - El lenguaje asociado al ***Problema de la Detención***, $L_H$, es definido como $$L_H=\{<M,x> |\text{ MT M se detiene cuando se inicia con }x\;\}$$ este problema es no-decidible.
 ***
 #### Demostración de la No Decidibilidad
-1. Asumamos que el problema de la parada es [[Problemas Decidibles|decidible]]. Por lo tanto su lenguaje asociado, $L_H$ es [[Lenguajes Recursivos|recursivo]] y [[Recursivamente Enumerable]].
+1. Asumamos que el problema de la parada es [[Problemas Decidibles|decidible]]. Por lo tanto su lenguaje asociado, $L_H$ es [[Lenguajes Recursivos|recursivo]] y [[Lenguajes Recursivamente Enumerables|Recursivamente Enumerable]].
 2. Como $L_H$ es R.E., entonces existe una [[Máquina de Turing Determinista - MT (MTD)|MT]] R tal que $L_H=L(R)$.
 3. Construyamos una MT M' para decidir el problema asociado al [[Lenguaje Universal]], $L_U$ que funcione de la siguiente manera:
 	1. Ante una entrada $<M,w>$, donde M es la [[Codificación de una MT usando {0,1}*|codificación binaria de una MT]] y $w$ una cadena binaria:

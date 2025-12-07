@@ -12,6 +12,12 @@
 - [[Problema de la Parada - Detención (Halting Problem)]]
 - [[Problema de Correspondencia de Post]]
 - [[Problema de ambigüedad de las GLC]]
+- [[Problemas de Lenguaje Vacío]]
+- Falta
+	- Sean $L_1$ y $L_2$ dos [[Lenguajes Libres de Contexto - LLC]], $L_1 \cap L_2=\emptyset$ NO es decidible.
+		- También se demuestra utilizando [[Reducción (de un problema A a un problema B)|reducciones]] y [[Instancia PCP|el problema de correspondencia de post]]
+		- Antes de verlo, observar si es necesario (o pensarlo)!
+
 ***
 #### Etiquetas
 - #Anki 

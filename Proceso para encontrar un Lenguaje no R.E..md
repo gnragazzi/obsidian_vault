@@ -1,5 +1,5 @@
 #### Procedimiento
-Queremos encontrar un lenguaje no [[Recursivamente Enumerable|R.E.]]. Para ello, partimos del conocimiento de que [[MT como forma de demostrar que un lenguaje es o no R.E.|un lenguaje L es R.E. si existe una MT M tal que L=L(M)]].
+Queremos encontrar un lenguaje no [[Lenguajes Recursivamente Enumerables|R.E.]]. Para ello, partimos del conocimiento de que [[MT como forma de demostrar que un lenguaje es o no R.E.|un lenguaje L es R.E. si existe una MT M tal que L=L(M)]].
 1. Utilizando el [[Orden Canónico|orden canónico]], listamos todas las cadenas de $\{0,1\}^*$.
 	1. De esta manera, cada cadena listada es asociada a un entero (enumeración). Luego $x_1=\lambda, x_2=0, x_3=1, x_4=00, x_5=01,$ etc...
 2. Cada una de estas cadenas $x_i$, con $i=1,2,...$, [[Codificación de una MT usando {0,1}*|representa una MT]]. De esta manera, podemos hablar de la *i-ésima* MT, $M_i$, que es la representada por la cadena $x_i$.

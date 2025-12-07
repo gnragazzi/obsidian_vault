@@ -5,7 +5,7 @@
 	usamos esta técnica para determinar que el problema $B$ es ***al menos tan dificil de resolver*** como el problema $A$. 
 - En la práctica, esto significa que, en una reducción válida, 
 	- Si el problema A no es [[Lenguajes Recursivos|recursivo]], el problema B tampoco lo es
-	- Si el problema A no es [[Recursivamente Enumerable|R.E.]], el problema B tampoco lo es.
+	- Si el problema A no es [[Lenguajes Recursivamente Enumerables|R.E.]], el problema B tampoco lo es.
 - Normalmente se reduce de un problema difícil conocido a un problema cuya dificultad se quiere demostrar
 ***
 #### Definición Formal (¿Cuándo decimos que un problema A se reduce a un problema B?)
@@ -23,8 +23,8 @@
 ***
 #### Consecuencias de reducir un problema A (específico) a un problema B (versión más general)
 
-- Si el problema A no es [[Recursivamente Enumerable]], el problema B tampoco lo es
+- Si el problema A no es Recursivamente Enumerable, el problema B tampoco lo es
 - Si el problema A no es [[Lenguajes Recursivos|recursivo]], el problema B tampoco lo es.
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

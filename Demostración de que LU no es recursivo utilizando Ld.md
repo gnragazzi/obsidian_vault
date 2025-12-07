@@ -1,7 +1,7 @@
 #### Demostración
 - Se supone $L_U$, el [[Lenguaje Universal]], [[Lenguajes Recursivos|recursivo]].
 - Por [[El Complemento de un Lenguaje Recursivo es Recursivo|teorema]] sabemos que su complemento, $\overline{L_U}$, definido como $$\overline{L_U}=\{\langle M,x\rangle|M \text{ es una máquina de Turing y x una cadena tal que }x\notin L(M)\;\}$$ es recursivo
-	- Por lo tanto, al ser recursivo es [[Recursivamente Enumerable]] y [[MT como forma de demostrar que un lenguaje es o no R.E.|existe]] una [[Máquina de Turing Determinista - MT (MTD)|MT]] M tal que $L_U=L(M)$.
+	- Por lo tanto, al ser recursivo es [[Lenguajes Recursivamente Enumerables|recursivamente enumerable]] y [[MT como forma de demostrar que un lenguaje es o no R.E.|existe]] una [[Máquina de Turing Determinista - MT (MTD)|MT]] M tal que $L_U=L(M)$.
 	- Esta MT realiza el siguiente procedimiento
 		- Según su entrada $<MT,w>$
 		- Si $w\in L(MT)$, responde NO (no acepta la cadena)

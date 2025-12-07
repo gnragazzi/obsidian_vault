@@ -2,7 +2,7 @@
 - $L_d=\{x_i\in\{0,1\}^* / x_i\notin L(MT_i)\}$
 
 ***
-#### Demostración de que $L_d$ no es [[Recursivamente Enumerable]]
+#### Demostración de que $L_d$ no es [[Lenguajes Recursivamente Enumerables|Recursivamente Enumerable]]
 (o lo que es lo mismo, que no existe MT M tal que $L(M)=L_d$ )
 (por contradicción)
 1. Supongamos que $L_d=L(M)$ para alguna [[Máquina de Turing|MT]] M.
