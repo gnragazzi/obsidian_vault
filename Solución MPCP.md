@@ -3,4 +3,4 @@ La [[Instancia MPCP]] tiene solución si existe una instancia de enteros $$i_1,i
 tal que$$w_1w_{i_1}w_{i_2}...w_{i_m}=x_1x_{i_1}x_{i_2}...x_{i_m}$$ 
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

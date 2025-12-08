@@ -3,4 +3,4 @@
 tal que$$w_{i_1}w_{i_2}...w_{i_m}=x_{i_1}x_{i_2}...x_{i_m}$$
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

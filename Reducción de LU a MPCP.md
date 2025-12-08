@@ -20,5 +20,5 @@ Partiendo de la [[Construcción de MPCP a partir de <M,w>]], se tiene que $$\tex
 	3. Particularmente, entonces, si no se llega a un estado de aceptación, la secuencia de pares no es [[Solución MPCP|solución]] de la instancia, porque B siempre es más largo que A. Se sigue de esto que si hay una solución, es porque se llegó a un estado de aceptación; y $w\in L(M)$.
 ***
 #### Etiquetas
-- #falta 
+- #Anki  
 

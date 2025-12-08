@@ -16,4 +16,4 @@ Queremos encontrar un lenguaje no [[Lenguajes Recursivamente Enumerables|R.E.]].
 6. Esto nos da un lenguaje $L_d$ que no es R.E. 
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

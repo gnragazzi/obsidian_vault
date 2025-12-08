@@ -11,8 +11,9 @@
 4. Ahora, nos preguntamos si $x_i$ (la $i$-ésima cadena, según el [[Orden Canónico]]), se encuentra en $L_d$
 	1. Si $x_i\in L_d$ significa que $M$ (y por lo tanto $M_i$) acepta la $x_i$. Pero, por definición de $L_d$, si $x_i\in L(M_i)$ entonces $x_i\notin L_d$.
 	2. Si $x_i\notin L_d$ significa que $M$ (y por lo tanto $M_i$) no acepta la $x_i$. Pero, por definición de $L_d$, si $x_i\notin L(M_i)$ entonces $x_i\in L_d$.
-5. Esta contradicción (una cadena perteneciendo y no perteneciendo al mismo tiempo a un lenguaje) surge de la suposición de que M existe. Por lo tanto, no existe M tal que $L_d=L(M)$ y, por lo tanto, L_d no es un lenguaje recursivamente enumerable.
+5. Esta contradicción (una cadena perteneciendo y no perteneciendo al mismo tiempo a un lenguaje) surge de la suposición de que M existe.
+6. Por lo tanto, no existe M tal que $L_d=L(M)$ y, por lo tanto, $L_d$ no es un lenguaje recursivamente enumerable.
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

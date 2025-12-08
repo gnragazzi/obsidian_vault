@@ -9,31 +9,45 @@
         "dimension": 53.76420454545454,
         "children": [
           {
-            "id": "d02a1887d8faa7d6",
+            "id": "25600e81d904c0f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propiedades de los Lenguajes Recursivos y Recursivamente Enumerables.md",
+                "file": "Complejidad y Computabilidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades de los Lenguajes Recursivos y Recursivamente Enumerables"
+              "title": "Complejidad y Computabilidad"
             }
           },
           {
-            "id": "771d04e72b9b93dc",
+            "id": "0d2e0cd2bf6f42af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)..md",
+                "file": "Unidad 7 - Problemas Tratables e Intratables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)."
+              "title": "Unidad 7 - Problemas Tratables e Intratables"
+            }
+          },
+          {
+            "id": "5a28c29cb58ccac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template Tarjeta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template Tarjeta"
             }
           }
         ],
@@ -50,9 +64,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)..md",
+                "file": "Unidad 7 - Problemas Tratables e Intratables.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -92,7 +106,7 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -102,12 +116,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000033,
+                  "scale": 0.6906395020147839,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)."
+              "title": "Gráfico de Unidad 7 - Problemas Tratables e Intratables"
             }
           }
         ]
@@ -257,50 +271,50 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "771d04e72b9b93dc",
+  "active": "0d2e0cd2bf6f42af",
   "lastOpenFiles": [
-    "Propiedades de los Lenguajes Recursivos y Recursivamente Enumerables.md",
-    "Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es)..md",
-    "La unión de dos lenguajes R.E. es R.E..md",
-    "La unión de dos lenguajes Recursivos es Recursivo.md",
-    "El Complemento de un Lenguaje Recursivo es Recursivo.md",
-    "Recursivamente Enumerable.md",
-    "Reducción (de un problema A a un problema B).md",
-    "Problemas de Lenguaje Vacío.md",
-    "Lenguaje de la Diagonal.md",
-    "Problema de la Parada - Detención (Halting Problem).md",
-    "Demostración de que LU no es recursivo utilizando Ld.md",
-    "MT como forma de demostrar que un lenguaje es o no R.E..md",
+    "Template Tarjeta.md",
+    "Unidad 7 - Problemas Tratables e Intratables.md",
+    "Complejidad y Computabilidad.md",
+    "Unidad 6 - Complejidad Temporal.md",
+    "Velocidad de Crecimiento.md",
+    "Jerarquía de Velocidades de crecimiento.md",
+    "Complejidad Temporal de una MT.md",
+    "Complejidad Temporal de una MTND.md",
+    "Pasted image 20251208000708.png",
+    "Pasted image 20251208000607.png",
+    "Pasted image 20251208000303.png",
+    "Pasted image 20251208000224.png",
+    "Complejidad Temporal de una MTD.md",
+    "Pasted image 20251208000144.png",
+    "Pasted image 20251207235721.png",
+    "Teoría de la Complejidad Computacional.md",
+    "Pasted image 20251207235139.png",
+    "Pasted image 20251207235137.png",
+    "Problemas Intratables.md",
+    "Problemas Tratables.md",
+    "Algoritmo Eficiente.md",
+    "Pasted image 20251207234624.png",
+    "Carrera/Informática/Teoría de la Complejidad.md",
+    "Lenguajes Recursivamente Enumerables.md",
+    "Problema de ambigüedad de las GLC.md",
     "Proceso para encontrar un Lenguaje no R.E..md",
     "Teorema sobre LU.md",
-    "Lenguaje Universal.md",
-    "Codificación de una MT usando {0,1}*.md",
-    "Problema de Pertenencia para el Lenguaje Universal.md",
     "Problemas No Decidibles.md",
-    "Unidad 5 - Decidibilidad.md",
-    "Lema de Pumping para Lenguajes Libres de Contexto.md",
-    "Carrera/Informática/24. Autómatas y Lenguajes/Lema de Pumping para Lenguajes Regulares (Teorema).md",
-    "Carrera/Matemáticas/Discretas/Número Combinatorio.md",
-    "Demostración de que Lne no es Recursivo.md",
+    "Problema de Correspondencia de Post.md",
+    "Reducción de LU a MPCP.md",
+    "Construcción de MPCP a partir de <M,w>.md",
+    "Reducción de MPCP a PCP.md",
+    "Problemas de Lenguaje Vacío.md",
+    "Si T(<A,B>)=<G_{AB}> es ambigua, entonces <A,B> tiene solución.md",
+    "Si <A,B> tiene solución, entonces T(<A,B>)=<G_{AB}> es ambigua.md",
     "Pasted image 20251206001938.png",
-    "Template Tarjeta.md",
-    "Demostración de que Lne es RE.md",
-    "Lne.md",
-    "Pasted image 20251205233606.png",
-    "Pasted image 20251205224529.png",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B/rangle)=/langle  G_{AB}",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B/rangle)=",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(",
     "Demostrar que $/langle A,B",
     "Demostrar que $",
-    "Pasted image 20251201085100.png",
-    "Pasted image 20251130214415.png",
-    "Pasted image 20251130120212.png",
-    "Pasted image 20251130115305.png",
-    "Pasted image 20251130114959.png",
-    "Pasted image 20251130112638.png",
-    "Pasted image 20251128083427.png",
     "Sin título 2.base",
     "Sin título 1.base",
     "Sin título.base",

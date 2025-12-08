@@ -10,4 +10,4 @@ Yendo más allá, si la MT siempre frena, se dice que el lenguaje es además [[L
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

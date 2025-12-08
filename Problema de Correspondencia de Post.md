@@ -12,7 +12,7 @@
 #### Decidibilidad
 
 Tras definir un [[Problema de Decisión P_D|problema de decisión]] y el lenguaje asociado, se observa que:
-PCP es [[Problemas No Decidibles|no decidible]].
+	PCP es [[Problemas No Decidibles|no decidible]].
 
 ***
 #### Demostración
@@ -22,4 +22,4 @@ PCP es [[Problemas No Decidibles|no decidible]].
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

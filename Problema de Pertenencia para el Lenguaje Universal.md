@@ -3,4 +3,4 @@
 - [[Teorema sobre LU]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

@@ -25,4 +25,4 @@ Ahora es necesario mostrar que si la instancia construida del PCP tiene una [[So
 - Sabemos que $$y_0y_{i_1}y{i_2}...y_{i_m}y_{k+1}=z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$$así que se $$w_{i_1}w_{i_2}...w_{i_m}=x_{i_1}x_{i_2}...x_{i_m}$$
 ***
 #### Etiquetas
-- #falta 
+- #Anki  
