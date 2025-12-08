@@ -6,4 +6,4 @@
 
 ![[Pasted image 20251208000144.png]]
 #### Etiquetas
-- #falta 
+- #Anki 

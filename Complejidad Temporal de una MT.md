@@ -8,4 +8,4 @@
 - [[Complejidad Temporal de una MTND]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
