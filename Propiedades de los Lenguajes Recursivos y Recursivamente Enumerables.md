@@ -5,4 +5,4 @@
 - [[Si un lenguaje L y su complemento son R.E, luego L es Recursivo (su complemento también lo es).]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki  

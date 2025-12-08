@@ -8,4 +8,4 @@
 	- Si no rechazan, quedan en un loop de indecidibilidad (que está bien, pues es un lenguaje R.E.)
 ***
 #### Etiquetas
-- #falta 
+- #Anki  
