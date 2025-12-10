@@ -2,4 +2,4 @@
 Esta jerarquía permite establece un límite al concepto de [[algoritmo eficiente]]
 
 ***
-#falta 
+#Anki 
