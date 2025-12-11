@@ -3,5 +3,5 @@
 - [[Jerarquía de Velocidades de crecimiento]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
  

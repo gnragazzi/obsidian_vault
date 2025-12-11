@@ -5,4 +5,4 @@
 	- Esta clasificación se mantiene aun con una [[Máquina de Turing con múltiples Cintas|MT multicinta]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

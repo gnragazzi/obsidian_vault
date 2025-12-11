@@ -15,14 +15,14 @@
 ***
 #### PCP se [[Reducción (de un problema A a un problema B)|reduce]] a MPCP (Demostración)
 
-1. Supongamos que $i_1,i_2,...,i_m$ es una [[Solución MPCP|solución]] a la instancia dada de MPCP. Sabemos entonces que $$w_{i_1}w{i_2}...w_{i_m}=x_{i_1}x_{i_2}...x_{i_m}$$
-2. Si reemplazamos las $w$'s y $x$'s por $y$'s y $z$'s, entonces tendriamos dos cadenas casi iguales, a excepción del símbolo $*$ al comienzo de $z$ y al final de $y$. Por ello, podemos afirmar que $$*y_{i_1}y{i_2}...y_{i_m}=z_{i_1}z_{i_2}...z_{i_m}*$$
-3. Como $y_0=*y_1$ y $z_0=z_1$, podemos afirmar que$$y_0y_{i_1}y{i_2}...y_{i_m}=z_0z_{i_1}z_{i_2}...z_{i_m}*$$
-4. Sabiendo que $y_{k+1}=\$$ y $z_{k+1}=*\$$$$y_0y_{i_1}y{i_2}...y_{i_m}y_{k+1}=z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$$ y ahora tenemos una solución al MPCP.
+1. Supongamos que $i_1,i_2,...,i_m$ es una [[Solución MPCP|solución]] a la instancia dada de MPCP. Sabemos entonces que $$w_1w_{i_1}w_{i_2}...w_{i_m}=x_1x_{i_1}x_{i_2}...x_{i_m}$$
+2. Si reemplazamos las $w$'s y $x$'s por $y$'s y $z$'s, entonces tendriamos dos cadenas casi iguales, a excepción del símbolo $*$ al comienzo de $z$ y al final de $y$. Por ello, podemos afirmar que $$*y_1y_{i_1}y_{i_2}...y_{i_m}=z_1z_{i_1}z_{i_2}...z_{i_m}*$$
+3. Como $y_0=*y_1$ y $z_0=z_1$, podemos afirmar que$$y_0y_{i_1}y_{i_2}...y_{i_m}=z_0z_{i_1}z_{i_2}...z_{i_m}*$$
+4. Sabiendo que $y_{k+1}=\$$ y $z_{k+1}=*\$$$$y_0y_{i_1}y_{i_2}...y_{i_m}y_{k+1}=z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$$ y ahora tenemos una solución al MPCP.
 Ahora es necesario mostrar que si la instancia construida del PCP tiene una [[Solución PCP|solución]], entonces el MPCP que se utilizó para la reducción, también la tiene.
-- Observemos que, por cómo está construido, una solución al PCP comenzará con $i_0$ y terminará con $i_{k+1}$, así que la solución será de la forma $$0,i_1,i_2,...,i_m,i_{k+1}$$
-- Afirmamos que $i_1,i_2,...,i_m$ es una solución para la instancia del MPCP. La razón es que si removemos los símbolos $*,\$$ de la cadena $y_{i_1}y{i_2}...y_{i_m}$, obtenemos la cadena $w_{i_1}w{i_2}...w_{i_m}$. De igual manera, si removemos $*,\$$ de $z_{i_1}z{i_2}...z_{i_m}$, obtenemos $x_{i_1}x{i_2}...x_{i_m}$.
-- Sabemos que $$y_0y_{i_1}y{i_2}...y_{i_m}y_{k+1}=z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$$así que se $$w_{i_1}w_{i_2}...w_{i_m}=x_{i_1}x_{i_2}...x_{i_m}$$
+- Observemos que, por cómo está construido, una solución al PCP comenzará con $i_0$ y terminará con $i_{k+1}$, así que la solución será de la forma $$0,i_1,i_2,...,i_m,k+1$$
+- Afirmamos que $i_1,i_2,...,i_m$ es una solución para la instancia del MPCP. La razón es que si removemos los símbolos $*,\$$ de la cadena $y_0y_{i_1}y_{i_2}...y_{i_m}y_{k+1}$, obtenemos la cadena $w_1w_{i_1}w_{i_2}...w_{i_m}$. De igual manera, si removemos $*,\$$ de $z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$, obtenemos $x_0x_{i_1}x_{i_2}...x_{i_m}$.
+- Sabemos que $$y_0y_{i_1}y_{i_2}...y_{i_m}y_{k+1}=z_0z_{i_1}z_{i_2}...z_{i_m}z_{k+1}$$así que se $$w_1w_{i_1}w_{i_2}...w_{i_m}=x_1x_{i_1}x_{i_2}...x_{i_m}$$
 ***
 #### Etiquetas
 - #Anki  

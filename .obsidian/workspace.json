@@ -14,58 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase de Lenguajes NP-Duro (Completo).md",
+                "file": "Complejidad y Computabilidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase de Lenguajes NP-Duro (Completo)"
-            }
-          },
-          {
-            "id": "f6bd5d7ffba8640e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Procedimiento para demostrar que un problema H es NP-Completo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Procedimiento para demostrar que un problema H es NP-Completo"
-            }
-          },
-          {
-            "id": "d07907ee53146252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demostración de que Conjunto Independiente es NP-Completo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Demostración de que Conjunto Independiente es NP-Completo"
-            }
-          },
-          {
-            "id": "1c97e05e96d14bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template Tarjeta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template Tarjeta"
+              "title": "Complejidad y Computabilidad"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a9291c5f67a393aa",
@@ -78,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demostración de que Conjunto Independiente es NP-Completo.md",
+                "file": "Complejidad y Computabilidad.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,12 +87,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000053,
+                  "scale": 0.476982921743227,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Demostración de que Conjunto Independiente es NP-Completo"
+              "title": "Gráfico de Complejidad y Computabilidad"
             }
           }
         ]
@@ -285,43 +242,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d07907ee53146252",
+  "active": "c7b6a50470143121",
   "lastOpenFiles": [
-    "Template Tarjeta.md",
-    "Demostración de que Conjunto Independiente es NP-Completo.md",
-    "Pasted image 20251209175622.png",
-    "Procedimiento para demostrar que un problema H es NP-Completo.md",
-    "Demostración de que Covertura de Vértices es NP-Completo.md",
-    "Pasted image 20251209175611.png",
-    "Demostración de que Clique es NP-Completo.md",
-    "Pasted image 20251209175554.png",
-    "Demostración de que 3-SAT es NP-Completo.md",
-    "Pasted image 20251209175539.png",
-    "Pasted image 20251209175530.png",
-    "Otros/MathJax Reference.md",
-    "Pasted image 20251209175213.png",
-    "Clase de Lenguajes NP-Duro (Completo).md",
-    "Pasted image 20251209174922.png",
-    "Problema de Satisfactibilidad - SAT.md",
-    "Pasted image 20251209174620.png",
-    "Pasted image 20251209174350.png",
-    "Clases de Lenguajes.md",
-    "Unidad 7 - Problemas Tratables e Intratables.md",
-    "Reducción en Tiempo Polinomial.md",
-    "Demostración de P=NP.md",
-    "Pasted image 20251209172821.png",
-    "Carrera/Matemáticas/Discretas/Grafos/Función de Grado Entrada,Saliente,Total.md",
-    "Función de Grado Entrada,Saliente,%% Total %%.md",
-    "Clase de Lenguajes NP.md",
-    "Satisfacible.md",
-    "Lenguaje Decidible en Tiempo Polinomial por MTD.md",
-    "Lenguaje Decidible en Tiempo Polinomial por MTND.md",
-    "Clasificación de Lenguajes.md",
+    "LE.md",
     "Complejidad y Computabilidad.md",
+    "Método de Congruencia Lineal.md",
+    "Procedimiento para demostrar que un problema H es NP-Completo.md",
+    "Lne.md",
+    "Unidad 3 - Números aleatorios.md",
+    "Clases de Lenguajes.md",
+    "Unidad 5 - Decidibilidad.md",
+    "Demostración de que Clique es NP-Completo.md",
+    "Demostración de que Covertura de Vértices es NP-Completo.md",
+    "Demostración de que 3-SAT es NP-Completo.md",
+    "Reducción en Tiempo Polinomial.md",
+    "Velocidad de Crecimiento.md",
+    "Demostración de P=NP.md",
+    "Clasificación de Lenguajes.md",
+    "Unidad 7 - Problemas Tratables e Intratables.md",
+    "Clase de Lenguajes NP-Duro (Completo).md",
+    "Problema de Satisfactibilidad - SAT.md",
+    "Clase de Lenguajes NP.md",
     "Clase de Lenguajes P.md",
-    "Jerarquía de Velocidades de crecimiento.md",
+    "Lenguaje Decidible en Tiempo Polinomial por MTND.md",
+    "Lenguaje Decidible en Tiempo Polinomial por MTD.md",
     "Problemas Tratables - Intratables.md",
     "Algoritmo Eficiente.md",
+    "Template Tarjeta.md",
+    "Carrera/Informática/Algoritmia/Definición formal de O(n).md",
+    "Pasted image 20251209175622.png",
+    "Pasted image 20251209175611.png",
+    "Pasted image 20251209175554.png",
+    "Pasted image 20251209175539.png",
+    "Pasted image 20251209175530.png",
+    "Pasted image 20251209175213.png",
+    "Pasted image 20251209174922.png",
+    "Pasted image 20251209174620.png",
+    "Pasted image 20251209174350.png",
+    "Pasted image 20251209172821.png",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B/rangle)=/langle  G_{AB}",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B/rangle)=",
     "Demostrar que $/langle A,B/rangle$ tiene solución si y solo si $T(/langle A,B",

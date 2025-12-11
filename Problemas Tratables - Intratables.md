@@ -3,4 +3,4 @@
 - ![[Pasted image 20251209133920.png]] 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

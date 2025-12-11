@@ -11,4 +11,4 @@ Sean $Q,L$ Lenguajes. Si $$\forall Q\in\mathcal{NP}: Q\text{ es reducible a } L\
 - [[3-SAT]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

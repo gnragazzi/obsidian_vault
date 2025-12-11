@@ -14,4 +14,4 @@
 	- [[Demostración de P=NP]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

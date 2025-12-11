@@ -17,4 +17,4 @@ Si $Q$ es un lenguaje reducible a $L$ en tiempo polinomial y $L \in\mathcal{P}$ 
 - Mostrar que un problema no puede (hasta ahora) ser resuelto por un [[Algoritmo Eficiente]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

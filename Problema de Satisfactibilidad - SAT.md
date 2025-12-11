@@ -23,4 +23,4 @@ El [[Teorema de Cook]] demuestra que
 	- $\Rightarrow$ $L_{SAT}\in\mathcal{NP}-completo$
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

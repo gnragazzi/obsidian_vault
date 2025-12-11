@@ -8,4 +8,4 @@
 - [[Problema de Satisfactibilidad - SAT]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

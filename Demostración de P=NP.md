@@ -10,4 +10,4 @@
 	- Esto implica que con determinar la eficiencia de un único problema, se podría determinar la eficiencia de todos los problema en $\mathcal{NP}$ utilizando la [[Reducción en Tiempo Polinomial]]
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
