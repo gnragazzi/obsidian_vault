@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complejidad y Computabilidad.md",
+                "file": "Definición Recursiva de FRG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complejidad y Computabilidad"
+              "title": "Definición Recursiva de FRG"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Complejidad y Computabilidad.md",
+                "file": "Definición Recursiva de FRG.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -92,7 +92,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Complejidad y Computabilidad"
+              "title": "Gráfico de Definición Recursiva de FRG"
             }
           }
         ]
@@ -242,10 +242,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c7b6a50470143121",
+  "active": "3b2cfe8483f2cf37",
   "lastOpenFiles": [
-    "LE.md",
+    "Máquina de Turing Determinista - MT (MTD).md",
     "Complejidad y Computabilidad.md",
+    "LE.md",
     "Método de Congruencia Lineal.md",
     "Procedimiento para demostrar que un problema H es NP-Completo.md",
     "Lne.md",
@@ -269,7 +270,6 @@
     "Problemas Tratables - Intratables.md",
     "Algoritmo Eficiente.md",
     "Template Tarjeta.md",
-    "Carrera/Informática/Algoritmia/Definición formal de O(n).md",
     "Pasted image 20251209175622.png",
     "Pasted image 20251209175611.png",
     "Pasted image 20251209175554.png",
