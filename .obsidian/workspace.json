@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición Recursiva de FRG.md",
+                "file": "Lenguajes Recursivamente Enumerables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición Recursiva de FRG"
+              "title": "Lenguajes Recursivamente Enumerables"
             }
           }
         ]
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definición Recursiva de FRG.md",
+                "file": "Lenguajes Recursivamente Enumerables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -87,12 +87,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.476982921743227,
+                  "scale": 0.690639502014785,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Definición Recursiva de FRG"
+              "title": "Gráfico de Lenguajes Recursivamente Enumerables"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "juego",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,32 +244,32 @@
   },
   "active": "3b2cfe8483f2cf37",
   "lastOpenFiles": [
+    "Problema de la Parada - Detención (Halting Problem).md",
+    "Problemas No Decidibles.md",
+    "Lenguajes Recursivamente Enumerables.md",
+    "MT como forma de demostrar que un lenguaje es o no R.E..md",
+    "Demostración de que un Lenguaje no es Recursivamente Enumerable.md",
+    "Reducción (de un problema A a un problema B).md",
+    "Reducción en Tiempo Polinomial.md",
+    "Clase de Lenguajes P.md",
+    "Carrera/Informática/Algoritmia/Clasificación de problemas según Requisitos.md",
+    "Demostración de que Lne no es Recursivo.md",
+    "Problemas de Lenguaje Vacío.md",
+    "Demostración de que Lne es RE.md",
+    "Lne.md",
+    "LE.md",
+    "Problema de Pertenencia para Lenguajes Regulares.md",
+    "Carrera/Informática/24. Autómatas y Lenguajes/Jerarquía de Chomsky.md",
+    "Definición Recursiva de FRG.md",
     "Máquina de Turing Determinista - MT (MTD).md",
     "Complejidad y Computabilidad.md",
-    "LE.md",
     "Método de Congruencia Lineal.md",
     "Procedimiento para demostrar que un problema H es NP-Completo.md",
-    "Lne.md",
     "Unidad 3 - Números aleatorios.md",
     "Clases de Lenguajes.md",
     "Unidad 5 - Decidibilidad.md",
     "Demostración de que Clique es NP-Completo.md",
     "Demostración de que Covertura de Vértices es NP-Completo.md",
-    "Demostración de que 3-SAT es NP-Completo.md",
-    "Reducción en Tiempo Polinomial.md",
-    "Velocidad de Crecimiento.md",
-    "Demostración de P=NP.md",
-    "Clasificación de Lenguajes.md",
-    "Unidad 7 - Problemas Tratables e Intratables.md",
-    "Clase de Lenguajes NP-Duro (Completo).md",
-    "Problema de Satisfactibilidad - SAT.md",
-    "Clase de Lenguajes NP.md",
-    "Clase de Lenguajes P.md",
-    "Lenguaje Decidible en Tiempo Polinomial por MTND.md",
-    "Lenguaje Decidible en Tiempo Polinomial por MTD.md",
-    "Problemas Tratables - Intratables.md",
-    "Algoritmo Eficiente.md",
-    "Template Tarjeta.md",
     "Pasted image 20251209175622.png",
     "Pasted image 20251209175611.png",
     "Pasted image 20251209175554.png",

@@ -3,6 +3,7 @@
 Un lenguaje $Q\subseteq\Sigma_1^*$ es reducible a $L\subseteq\Sigma_2^*$ en [[Jerarquía de Velocidades de crecimiento|tiempo polinomial]], si existe una función total $f$, tal que:
 - $f:\Sigma_1^*\mapsto\Sigma_2^*$ 
 - $f\in\mathcal{O}(n^r)$
+- $\forall w\in \Sigma_1^*: w\in Q ⇔ f(w)\in L$ 
 
 ![[Pasted image 20251209172821.png|500]]
 - Similar al concepto de [[Reducción (de un problema A a un problema B)|reducción]] visto en [[Unidad 5 - Decidibilidad|computabilidad]] pero se incluye la restricción de la [[Complejidad Temporal de una MT|complejidad temporal]] de la función de transformación.
