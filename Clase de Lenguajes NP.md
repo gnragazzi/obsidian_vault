@@ -6,6 +6,10 @@
 ***
 #### Problemas $\mathcal{NP}$ 
 - [[Problema de Satisfactibilidad - SAT]]
+- [[Circuito Hamiltoneano]]
+- [[N-Clique]]
+- [[Conjunto Independiente]]
+- [[Covertura de Vértices]]
 ***
 #### Etiquetas
 - #Anki 

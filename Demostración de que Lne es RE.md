@@ -11,4 +11,4 @@ De esta manera, observamos que si $M_i$ acepta aunque sea una entrada, $M$ adivi
 
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

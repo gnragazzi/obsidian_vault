@@ -14,4 +14,4 @@
 4. Entonces se obtiene un algoritmo para decidir PCP --> Absurdo!
 ***
 #### Etiquetas
-- #falta 
+- #Anki 

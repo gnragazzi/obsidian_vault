@@ -4,6 +4,7 @@ Sea $\mathcal{F}=C_1\land C_2\land ...\land C_m$ donde
 - $y_{ij}\in(X\cup\overline{X})$ 
 El problema consiste en determinar si existe al menos una asignaciones de valores de verdad a las variables en $X=\{x_1,...,x_n\}$ que [[Satisfacible|satisfagan]] a las proposiciones en $\mathcal{F}$.
 
+$\mathcal{F}$ es una fórmula en [[Corolario 4 - Sobre la Forma Normal Conjuntiva|Forma normal conjuntiva]], $(\wedge^m_{i=1}(\vee^n_{j=1}Q_{ij}))$ donde las partes $\lor$ se dicen *clausulas* de la fórmula.
 #### Lenguaje Asociado
 $$L_{SAT}=\{\langle\mathcal{F}\rangle/\mathcal{F}\text{ es satisfecha por alguna asignación de valores de verdad a las variables de }\mathcal{F}\}$$
 ***

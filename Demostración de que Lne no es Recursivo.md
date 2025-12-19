@@ -17,4 +17,4 @@ Construimos una nueva MT decididora $S$ para el lenguaje universal $L_U$​ (que
 **Conclusión:** S decidiría $L_U$​, lo cual es imposible. La suposición inicial es falsa. $L_ne$​ no es decidible.
 ***
 #### Etiquetas
-- #falta 
+- #Anki 
